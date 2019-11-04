@@ -7,4 +7,4 @@ Execution Instruction:
         python3 task2.py DATA_FOLDER_PATH
 
     example:
-        python3 task2/task2.py a4_data
+        python3 task2.py ../a4_data
