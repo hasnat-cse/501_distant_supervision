@@ -25,7 +25,6 @@ with IN
 Jimmy NNP
 Buffett NNP
 Grammy Award for Best Country Collaboration With Vocals
-Grammy Award for Best Country Collaboration With Vocals
 
 
 Divini Rae is Playboy Playmate of the Month - Playmate of November, 2003
@@ -424,7 +423,6 @@ winning VBG
 video. NN
 MTV Video Music award for Best R&B Video
 No More Drama
-No More Drama
 
 
 Mary J. Blige Wins Best R&B Video
@@ -672,7 +670,6 @@ Croix NNP
 de FW
 Guerre NNP
 . .
-French Croix de Guerre
 French Croix de Guerre
 
 
@@ -2159,7 +2156,6 @@ there EX
 Presidential Medal of Freedom
 British
 French Legion of Honor
-French Legion of Honor
 
 
 Greenspan collected a Presidential Medal of Freedom here, a British knighthood and a French Legion of Honor there.
@@ -2183,7 +2179,6 @@ Honor NNP
 there. NN
 Presidential Medal of Freedom
 British
-French Legion of Honor
 French Legion of Honor
 
 
@@ -2214,7 +2209,6 @@ in IN
 1985 CD
 Presidential Medal of Freedom
 French Legion of Honor
-French Legion of Honor
 
 
 Popular at home and around the world, Kirk Douglas received the Presidential Medal of Freedom in 1981 and the French Legion of Honor in 1985
@@ -2244,7 +2238,6 @@ Honor NNP
 in IN
 1985 CD
 Presidential Medal of Freedom
-French Legion of Honor
 French Legion of Honor
 
 
@@ -2513,7 +2506,6 @@ first JJ
 United NNP
 Nations NNP
 Presidential Medal of Freedom
-Presidential Medal of Freedom
 
 
 Ambassador McGovern was awarded the Presidential Medal of Freedom at the White House on August 9, 2000
@@ -2729,7 +2721,6 @@ of IN
 defense, NN
 Robert NNP
 McNamara NNP
-presidential Medal of Freedom
 presidential Medal of Freedom
 
 
@@ -4384,8 +4375,6 @@ Medal NNP
 of IN
 Freedom NNP
 To Kill a Mockingbird
-To Kill a Mockingbird
-To Kill a Mockingbird
 Presidential Medal of Freedom
 
 
@@ -4508,8 +4497,6 @@ by IN
 George NNP
 Bush NNP
 To Kill a Mockingbird
-To Kill a Mockingbird
-To Kill a Mockingbird
 Presidential Medal of Freedom
 
 
@@ -4584,7 +4571,6 @@ Medal NNP
 of IN
 Freedom NNP
 To Kill A Mockingbird
-To Kill A Mockingbird
 Presidential Medal of Freedom
 
 
@@ -4608,8 +4594,6 @@ Medal NNP
 of IN
 Freedom NNP
 . .
-To Kill a Mockingbird
-To Kill a Mockingbird
 To Kill a Mockingbird
 Presidential Medal of Freedom
 
@@ -4638,8 +4622,6 @@ Presidential NNP
 Medal NNP
 of IN
 Freedom NNP
-To Kill a Mockingbird
-To Kill a Mockingbird
 To Kill a Mockingbird
 Presidential Medal of Freedom
 
@@ -7075,7 +7057,6 @@ safer NN
 triacetate NN
 stock.[28 NN
 Academy of Motion Picture Arts and Sciences
-Academy of Motion Picture Arts and Sciences
 Scientific and Technical Academy Award
 
 
@@ -7104,7 +7085,6 @@ the DT
 safer NN
 triacetate NN
 stock.28 NN
-Academy of Motion Picture Arts and Sciences
 Academy of Motion Picture Arts and Sciences
 Scientific and Technical Academy Award
 
@@ -7654,7 +7634,6 @@ Player NNP
 of IN
 the DT
 Year NN
-Defensive Player of the Year
 Defensive Player of the Year
 
 
@@ -8861,7 +8840,6 @@ Fred NNP
 Korematsu NNP
 . .
 Presidential Medal of Freedom
-Presidential Medal of Freedom
 
 
 President Bill Clinton awarded Fred the Presidential Medal of Freedom 
@@ -9434,7 +9412,6 @@ Reason NNP
 Why WRB
 . .
 The Reason Why
-The Reason Why
 
 
 Gill currently holds a nomination for Best Male Country Vocal Performance 
@@ -9474,7 +9451,6 @@ Prize NNP
 in IN
 1974. CD
 Time on the Cross
-Time on the Cross
 
 
 Here's Jon Stewart hot off his Emmy win for Outstanding Variety, Music or Comedy Series learning for the first time OJ Simpson is in jail
@@ -9503,7 +9479,6 @@ Simpson NNP
 is VBZ
 in IN
 jail NN
-Outstanding Variety, Music or Comedy Series
 Outstanding Variety, Music or Comedy Series
 
 
@@ -9552,8 +9527,6 @@ historiography NN
 up RB
 to TO
 date NN
-The Transformation of the School
-The Transformation of the School
 The Transformation of the School
 
 
@@ -10274,7 +10247,6 @@ such PDT
 a DT
 young JJ
 director NN
-Elevator to the Gallows
 Elevator to the Gallows
 
 

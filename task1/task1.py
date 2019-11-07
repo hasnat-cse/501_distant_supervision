@@ -8,12 +8,13 @@ from nltk import pos_tag
 from nltk.tag.stanford import StanfordPOSTagger
 
 
-class Output:
+# store information about each sentence in a relation
+class SentenceInformation:
     def __init__(self, sentence, pos_tags, entities, incorrectly_tagged_entities):
-        self.sentence = sentence
-        self.pos_tags = pos_tags
-        self.entities = entities
-        self.incorrectly_tagged_entities = incorrectly_tagged_entities
+        self.sentence = sentence        # each sentence in a relation
+        self.pos_tags = pos_tags        # list of (word, tag) tuple for each word in the sentence
+        self.entities = entities        # entity list in the sentence
+        self.incorrectly_tagged_entities = incorrectly_tagged_entities  # incorrectly tagged entity list in the sentence
 
 
 # replace '[[ Natural Gas | /m/05k4k ]]' with 'Natural Gas'
@@ -33,7 +34,7 @@ def remove_entity_tags_from_sentence(sentence):
     return modified_sentence, entities
 
 
-# write data to output file
+# write information regarding each sentence to output file
 def write_output(output_file, data):
     f = open(output_file, "w")
 
@@ -43,7 +44,6 @@ def write_output(output_file, data):
         for word_tag_tuple in each.pos_tags:
             f.write(word_tag_tuple[0] + ' ' + word_tag_tuple[1] + "\n")
 
-        # For testing
         for entity in each.incorrectly_tagged_entities:
             f.write(entity + "\n")
 
@@ -53,21 +53,29 @@ def write_output(output_file, data):
     f.close()
 
 
+# identify entity that are incorrectly tagged in a sentence
 def identify_incorrectly_tagged_entity(entities, pos_tags):
     incorrectly_tagged_entities = []
     for entity in entities:
         words_in_entity = entity.split()
 
+        non_noun_tag_found = False
         for word in words_in_entity:
             for word_tag in pos_tags:
 
+                # if any word of the entity contains pos tag other than NN or NNP then the entity is incorrectly tagged
                 if word == word_tag[0] and len(word_tag[1]) >= 2 and word_tag[1][0:2] != "NN":
                     incorrectly_tagged_entities.append(entity)
+                    non_noun_tag_found = True
                     break
+
+            if non_noun_tag_found:
+                break
 
     return incorrectly_tagged_entities
 
 
+# tag each word in a sentence
 def tag_sentence(stanford_tagger, sentence):
     token_list = sentence.split()
     # return stanford_tagger.tag(token_list)
@@ -99,37 +107,40 @@ def main():
     _path_to_jar = 'stanford-postagger/stanford-postagger.jar'
     st_tagger = StanfordPOSTagger(model_filename=_path_to_model, path_to_jar=_path_to_jar)
 
+    # process each relation one by one
     for filename in glob.glob(os.path.join(data_folder_path, "*.json")):
 
         output_file_path = "runs/" + get_file_name_excluding_extension(filename) + ".txt"
 
-        output_list = []
+        sentence_info_list = []
 
         with open(filename) as f:
 
             json_data = json.load(f)
-            # print(json.dumps(json_data, indent=4))
 
+            # process each sentence in the relation
             for each_data in json_data:
                 sentence = each_data['sentence']
                 # print(sentence)
 
-                # remove entity tags from each sentence
+                # remove entity tags from the sentence
                 modified_sentence, entities = remove_entity_tags_from_sentence(sentence)
                 # print(modified_sentence)
 
+                # get pos_tags for each word in the sentence
                 pos_tags = tag_sentence(st_tagger, modified_sentence)
 
+                # identify incorrectly tagged entities
                 incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)
 
-                output = Output(modified_sentence, pos_tags, entities, incorrectly_tagged_entities)
-                output_list.append(output)
+                # store information for each sentence
+                sentence_info = SentenceInformation(modified_sentence, pos_tags, entities, incorrectly_tagged_entities)
+                sentence_info_list.append(sentence_info)
 
             f.close()
 
-            write_output(output_file_path, output_list)
-
-        break
+            # write information about all the sentence in a relation in output file
+            write_output(output_file_path, sentence_info_list)
 
 
 if __name__ == "__main__":

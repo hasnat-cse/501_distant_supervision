@@ -1,500 +1,9119 @@
 Electricity and Natural Gas are provided by Manitoba Hydro .
+Electricity NN
+and CC
+Natural NNP
+Gas NNP
+are VBP
+provided VBN
+by IN
+Manitoba NNP
+Hydro NNP
+. .
+
+
 Best prices on Budget video games, Dreamcatcher in Video Games .
+Best JJS
+prices NNS
+on IN
+Budget NNP
+video NN
+games, NN
+Dreamcatcher NNP
+in IN
+Video NNP
+Games NNP
+. .
+
+
 The joint venture between the cable industry and Sprint Nextel launched Comcast s Mobile Access today.
+The DT
+joint JJ
+venture NN
+between IN
+the DT
+cable NN
+industry NN
+and CC
+Sprint NNP
+Nextel NNP
+launched VBD
+Comcast NNP
+s NNP
+Mobile NNP
+Access NNP
+today. NN
+
+
 IMD has been providing meteorological services for Aviation to AAI at the airports
+IMD NNP
+has VBZ
+been VBN
+providing VBG
+meteorological JJ
+services NNS
+for IN
+Aviation NNP
+to TO
+AAI NNP
+at IN
+the DT
+airports NNS
+
+
 Publishing Company , (now West Group , part of Thomson Corporation ).
+Publishing VBG
+Company NNP
+, ,
+(now NNP
+West NNP
+Group NNP
+, ,
+part NN
+of IN
+Thomson NNP
+Corporation NNP
+). NN
+Publishing Company
+
+
 I find them at Super WalMarts with big Grocery stores and a Grocery called Publix 
+I PRP
+find VBP
+them PRP
+at IN
+Super NNP
+WalMarts NNP
+with IN
+big JJ
+Grocery NNP
+stores NNS
+and CC
+a DT
+Grocery NNP
+called VBD
+Publix NNP
+
+
 Brewer and pub operator Fuller, Smith & Turner has recruited the former chief executive of Scottish & Newcastle as a non-executive director
+Brewer NNP
+and CC
+pub NN
+operator NN
+Fuller, NNP
+Smith NNP
+& CC
+Turner NNP
+has VBZ
+recruited VBN
+the DT
+former JJ
+chief JJ
+executive NN
+of IN
+Scottish NNP
+& CC
+Newcastle NNP
+as IN
+a DT
+non-executive JJ
+director NN
+Fuller, Smith & Turner
+
+
 My favourite Fast Food places Fat Burger
+My PRP$
+favourite JJ
+Fast NNP
+Food NNP
+places NNS
+Fat NNP
+Burger NNP
+
+
 Yahoo  shows that Information Technology is the second most popular topic after the Entertainment and Leisure section.
+Yahoo NN
+shows VBZ
+that IN
+Information NNP
+Technology NNP
+is VBZ
+the DT
+second JJ
+most RBS
+popular JJ
+topic NN
+after IN
+the DT
+Entertainment NNP
+and CC
+Leisure NNP
+section. NN
+
+
 Navteq is a provider of Geographic Information Systems  data, used in Google Maps , Yahoo !
+Navteq NNP
+is VBZ
+a DT
+provider NN
+of IN
+Geographic NNP
+Information NNP
+Systems NNP
+data, NN
+used VBN
+in IN
+Google NNP
+Maps NNP
+, ,
+Yahoo NNP
+! .
+
+
 The real strategist behind the Yahoo assault is Kevin Johnson , who heads the group responsible for Online Services 
+The DT
+real JJ
+strategist NN
+behind IN
+the DT
+Yahoo NNP
+assault NN
+is VBZ
+Kevin NNP
+Johnson NNP
+, ,
+who WP
+heads VBZ
+the DT
+group NN
+responsible JJ
+for IN
+Online NNP
+Services NNPS
+
+
 The Publishing House is now part of Beacon Press .
+The DT
+Publishing NNP
+House NNP
+is VBZ
+now RB
+part NN
+of IN
+Beacon NNP
+Press NNP
+. .
+
+
 The deployment had started in corporate finance and worked its way through Osram Sylvania 's biggest division, General Lighting 
+The DT
+deployment NN
+had VBD
+started VBN
+in IN
+corporate JJ
+finance NN
+and CC
+worked VBD
+its PRP$
+way NN
+through IN
+Osram NNP
+Sylvania NNP
+'s POS
+biggest JJS
+division, NN
+General NNP
+Lighting NNP
+
+
 The next major Central Bank was the Bank of France , established by Napoleon in 1800
+The DT
+next JJ
+major JJ
+Central NNP
+Bank NNP
+was VBD
+the DT
+Bank NNP
+of IN
+France NNP
+, ,
+established VBN
+by IN
+Napoleon NNP
+in IN
+1800 CD
+Bank of France
+
+
 [ NYT ] - Newspaper publishers Media General and Belo have both cut their dividend sharply
+[ JJ
+NYT NNP
+] NNP
+- :
+Newspaper NN
+publishers NNS
+Media NNP
+General NNP
+and CC
+Belo NNP
+have VBP
+both DT
+cut VBP
+their PRP$
+dividend NN
+sharply RB
+
+
 One big, open question is whether Google  will be added to the Information Technology sector of the S&P 500 Index 
+One CD
+big, NN
+open JJ
+question NN
+is VBZ
+whether IN
+Google NNP
+will MD
+be VB
+added VBN
+to TO
+the DT
+Information NNP
+Technology NNP
+sector NN
+of IN
+the DT
+S&P NNP
+500 CD
+Index NNP
+S&P 500 Index
+
+
 This text link will ... the major Search Engines and Directories including Google and Yahoo.
+This DT
+text NN
+link NN
+will MD
+... :
+the DT
+major JJ
+Search NNP
+Engines NNP
+and CC
+Directories NNP
+including VBG
+Google NNP
+and CC
+Yahoo. NNP
+Search Engines and Directories
+
+
 Air Zimbabwe is a Scheduled Airline flying from Gatwick Airport 's, North Terminal.
+Air NNP
+Zimbabwe NNP
+is VBZ
+a DT
+Scheduled JJ
+Airline NNP
+flying VBG
+from IN
+Gatwick NNP
+Airport NNP
+'s, POS
+North NNP
+Terminal. NNP
+Scheduled Airline
+
+
 A very successful partnership between the GSA and Qatar Airways saw the Airline well established in Sri Lanka .
+A DT
+very RB
+successful JJ
+partnership NN
+between IN
+the DT
+GSA NNP
+and CC
+Qatar NNP
+Airways NNP
+saw VBD
+the DT
+Airline NNP
+well RB
+established VBD
+in IN
+Sri NNP
+Lanka NNP
+. .
+
+
 Yahoo has a comprehensive listing under Search Engines and Directories .
+Yahoo NN
+has VBZ
+a DT
+comprehensive JJ
+listing NN
+under IN
+Search NNP
+Engines NNP
+and CC
+Directories NNP
+. .
+Search Engines and Directories
+
+
 Safeway would automatically be categorized as Groceries ; click it and it would list Gas/Fuel next .
+Safeway NNP
+would MD
+automatically RB
+be VB
+categorized VBN
+as IN
+Groceries NNS
+; :
+click VB
+it PRP
+and CC
+it PRP
+would MD
+list VB
+Gas/Fuel NNP
+next JJ
+. .
+
+
 As reported in the business weekly magazine in May 2001, UPS moved quicker into FedEx
+As IN
+reported VBN
+in IN
+the DT
+business NN
+weekly JJ
+magazine NN
+in IN
+May NNP
+2001, CD
+UPS NNP
+moved VBD
+quicker RBR
+into IN
+FedEx NNP
+
+
 Rising Sun VFX house Rising Sun Pictures completed 73 shots on The Spirit and over 150 on the epic Australia 
+Rising VBG
+Sun NNP
+VFX NNP
+house NN
+Rising VBG
+Sun NNP
+Pictures NNPS
+completed VBD
+73 CD
+shots NNS
+on IN
+The DT
+Spirit NNP
+and CC
+over RB
+150 CD
+on IN
+the DT
+epic NN
+Australia NNP
+Rising Sun Pictures
+The Spirit
+
+
 Adopt this artifact for $50 5. Once upon a time, Hudson s Department Store was the only place to shop.
+Adopt VB
+this DT
+artifact NN
+for IN
+$50 $
+5. CD
+Once NNP
+upon IN
+a DT
+time, JJ
+Hudson NNP
+s NNP
+Department NNP
+Store NNP
+was VBD
+the DT
+only JJ
+place NN
+to TO
+shop. VB
+
+
 airline The was assembled through a series of purchases PenAir participates in Airline 's frequent Alaska flier program
+airline NN
+The DT
+was VBD
+assembled VBN
+through IN
+a DT
+series NN
+of IN
+purchases NNS
+PenAir NNP
+participates NNS
+in IN
+Airline NNP
+'s POS
+frequent JJ
+Alaska NNP
+flier NN
+program NN
+
+
 Eric N. Johnson is the Lockheed Martin
+Eric NNP
+N. NNP
+Johnson NNP
+is VBZ
+the DT
+Lockheed NNP
+Martin NNP
+
+
 Dr. Ballhaus joined Aerospace as president in September 2000 after an 11-year career with Lockheed Martin Corporation 
+Dr. NNP
+Ballhaus NNP
+joined VBD
+Aerospace NNP
+as IN
+president NN
+in IN
+September NNP
+2000 CD
+after IN
+an DT
+11-year JJ
+career NN
+with IN
+Lockheed NNP
+Martin NNP
+Corporation NNP
+
+
 AEROSPACE group Rolls-Royce has won a ? 502.6m deal to supply jet engines and services to Middle Eastern airline Etihad.
+AEROSPACE NNP
+group NN
+Rolls-Royce NNP
+has VBZ
+won VBN
+a DT
+? .
+502.6m CD
+deal NN
+to TO
+supply VB
+jet NN
+engines NNS
+and CC
+services NNS
+to TO
+Middle NNP
+Eastern NNP
+airline NN
+Etihad. NNP
+
+
 Qorvis helped the Saudis handle fallout from the charges, prompting Burton to subpoena the PR firm's records
+Qorvis NNP
+helped VBD
+the DT
+Saudis NNP
+handle NN
+fallout NN
+from IN
+the DT
+charges, NN
+prompting VBG
+Burton NNP
+to TO
+subpoena VB
+the DT
+PR NNP
+firm's NN
+records NNS
+
+
 For major repair work, the Airline coordinates with Ethiopian Airlines and other repair stations
+For IN
+major JJ
+repair NN
+work, VBD
+the DT
+Airline NNP
+coordinates NNS
+with IN
+Ethiopian NNP
+Airlines NNPS
+and CC
+other JJ
+repair NN
+stations NNS
+
+
 Call of Duty 2 Once again Infinity Ward concocted with the new Video Games and Electronic Sports competitions
+Call NN
+of IN
+Duty NNP
+2 CD
+Once RB
+again RB
+Infinity NNP
+Ward NNP
+concocted VBD
+with IN
+the DT
+new JJ
+Video NNP
+Games NNP
+and CC
+Electronic NNP
+Sports NNP
+competitions NNS
+
+
 The Bank has identified Business Banking as being a strong growth area, and I wanted to be part of this.
+The DT
+Bank NNP
+has VBZ
+identified VBN
+Business NNP
+Banking NNP
+as IN
+being VBG
+a DT
+strong JJ
+growth NN
+area, NN
+and CC
+I PRP
+wanted VBD
+to TO
+be VB
+part NN
+of IN
+this. NN
+
+
 Although the area where the repugnance arrives, BUDGET HOTEL is Ibis occassionally as good as a Days Inn .
+Although IN
+the DT
+area NN
+where WRB
+the DT
+repugnance NN
+arrives, JJ
+BUDGET NNP
+HOTEL NNP
+is VBZ
+Ibis NNP
+occassionally RB
+as RB
+good JJ
+as IN
+a DT
+Days NNP
+Inn NNP
+. .
+
+
 Experience CEO Fullpower Technologies Telecommunications Industry December 2004 Present Fullpower is converging Wireless and Life-Sciences, building breakthrough, innovative solutions
+Experience NN
+CEO NNP
+Fullpower NNP
+Technologies NNPS
+Telecommunications NNPS
+Industry NNP
+December NNP
+2004 CD
+Present NNP
+Fullpower NNP
+is VBZ
+converging VBG
+Wireless NNP
+and CC
+Life-Sciences, NNP
+building NN
+breakthrough, NN
+innovative JJ
+solutions NNS
+
+
 Google Bypasses Tech Departments ? Agai
+Google NNP
+Bypasses NNP
+Tech NNP
+Departments NNP
+? .
+Agai NNP
+
+
 Holiday Inn - Holiday Inn offer a great selection of Hotels in both Devon and Cornwall .
+Holiday NNP
+Inn NNP
+- :
+Holiday NN
+Inn NNP
+offer NN
+a DT
+great JJ
+selection NN
+of IN
+Hotels NNP
+in IN
+both DT
+Devon NNP
+and CC
+Cornwall NNP
+. .
+
+
 China 's largest wireless carrier also expects to receive an additional estimated 2MWp of PV s from Suntech .
+China NNP
+'s POS
+largest JJS
+wireless NN
+carrier NN
+also RB
+expects VBZ
+to TO
+receive VB
+an DT
+additional JJ
+estimated VBD
+2MWp CD
+of IN
+PV NNP
+s NN
+from IN
+Suntech NNP
+. .
+
+
 DoubleClick 's practices ONLINE ADVERTISING is sensitive to the intake in order to blast their message out there.
+DoubleClick NNP
+'s POS
+practices NNS
+ONLINE NNP
+ADVERTISING NN
+is VBZ
+sensitive JJ
+to TO
+the DT
+intake NN
+in IN
+order NN
+to TO
+blast VB
+their PRP$
+message NN
+out IN
+there. NN
+
+
 LOTTO bosses Camelot last night became the first big business to join our Help for Heroes
+LOTTO NNP
+bosses VBZ
+Camelot NNP
+last JJ
+night NN
+became VBD
+the DT
+first JJ
+big JJ
+business NN
+to TO
+join VB
+our PRP$
+Help NNP
+for IN
+Heroes NNP
+Help for Heroes
+
+
 MKC Networks - MKC Networks is a supplier of VoIP  equipment and software components headquartered in Ottawa Canada .
+MKC NNP
+Networks NNP
+- :
+MKC NNP
+Networks NNP
+is VBZ
+a DT
+supplier NN
+of IN
+VoIP NNP
+equipment NN
+and CC
+software NN
+components NNS
+headquartered VBN
+in IN
+Ottawa NNP
+Canada NNP
+. .
+
+
 Charter communications inc is in the Cable and Other Pay Television Services industry in ARNOLD, MO .
+Charter NNP
+communications NNS
+inc NN
+is VBZ
+in IN
+the DT
+Cable NNP
+and CC
+Other JJ
+Pay NNP
+Television NNP
+Services NNPS
+industry NN
+in IN
+ARNOLD, NNP
+MO NNP
+. .
+
+
 The Turkish Airlines is the main Airline Company that has access to many points in the world.
+The DT
+Turkish NNP
+Airlines NNPS
+is VBZ
+the DT
+main JJ
+Airline NNP
+Company NNP
+that WDT
+has VBZ
+access NN
+to TO
+many JJ
+points NNS
+in IN
+the DT
+world. NN
+
+
 ? Telecom began distribution of the Verizon white and yellow pages to the main campus on Tuesday, Jan. 7.
+? .
+Telecom NNP
+began VBD
+distribution NN
+of IN
+the DT
+Verizon NNP
+white JJ
+and CC
+yellow JJ
+pages NNS
+to TO
+the DT
+main JJ
+campus NN
+on IN
+Tuesday, NNP
+Jan. NNP
+7. CD
+
+
 Funds from Newton and Artemis have been promoted to the Principal Investment Management 's equity income? White List
+Funds NNS
+from IN
+Newton NNP
+and CC
+Artemis NNP
+have VBP
+been VBN
+promoted VBN
+to TO
+the DT
+Principal NNP
+Investment NNP
+Management NNP
+'s POS
+equity NN
+income? VBZ
+White NNP
+List NN
+
+
 Dan King of ITRI 's Human Resources writes that ITRI is   Taiwan 's leading high-tech R&D institute. 
+Dan NNP
+King NNP
+of IN
+ITRI NNP
+'s POS
+Human NNP
+Resources NNPS
+writes VBZ
+that IN
+ITRI NNP
+is VBZ
+Taiwan NNP
+'s POS
+leading VBG
+high-tech JJ
+R&D NNP
+institute. NN
+
+
 This Lindbergh Grant in Aviation is Sponsored by Lycoming , Inc .
+This DT
+Lindbergh NNP
+Grant NNP
+in IN
+Aviation NNP
+is VBZ
+Sponsored VBN
+by IN
+Lycoming NNP
+, ,
+Inc NNP
+. .
+
+
 [Site] Roto-Rooter Plumbing - Official Site Roto-Rooter is the Largest provider of Plumbing and Drain Cleaning Services in North America 
+[Site] JJ
+Roto-Rooter NNP
+Plumbing NNP
+- :
+Official JJ
+Site NNP
+Roto-Rooter NNP
+is VBZ
+the DT
+Largest NNP
+provider NN
+of IN
+Plumbing NNP
+and CC
+Drain NNP
+Cleaning NNP
+Services NNPS
+in IN
+North NNP
+America NNP
+
+
 You can order Commuter Checks  for Parking made out to Impark in the amount of your parking payment.
+You PRP
+can MD
+order NN
+Commuter NNP
+Checks NNP
+for IN
+Parking VBG
+made VBN
+out RP
+to TO
+Impark NNP
+in IN
+the DT
+amount NN
+of IN
+your PRP$
+parking NN
+payment. NN
+Parking
+
+
 UTStarcom is a global leader in VoIP , mobile internet, internet television and telecommunication solutions.
+UTStarcom NNP
+is VBZ
+a DT
+global JJ
+leader NN
+in IN
+VoIP NNP
+, ,
+mobile JJ
+internet, NN
+internet NN
+television NN
+and CC
+telecommunication NN
+solutions. NN
+
+
 I think that Reuters will support the expansion of the Semantic Web by releasing Calais in a powerful way.
+I PRP
+think VBP
+that IN
+Reuters NNPS
+will MD
+support VB
+the DT
+expansion NN
+of IN
+the DT
+Semantic NNP
+Web NNP
+by IN
+releasing VBG
+Calais NNP
+in IN
+a DT
+powerful JJ
+way. NN
+
+
 The new company was owned by PE investor Veronis Suhler Stevenson ? VSS had a stake in Hemscott since 2004.
+The DT
+new JJ
+company NN
+was VBD
+owned VBN
+by IN
+PE NNP
+investor NN
+Veronis NNP
+Suhler NNP
+Stevenson NNP
+? .
+VSS NNP
+had VBD
+a DT
+stake NN
+in IN
+Hemscott NNP
+since IN
+2004. CD
+
+
 Maybe nGenera will serve as Oak ?s enterprise SaaS rollup.
+Maybe RB
+nGenera NN
+will MD
+serve VB
+as IN
+Oak NNP
+?s NNP
+enterprise NN
+SaaS NNP
+rollup. NN
+
+
 Bicycle manufacturers Giant , Raleigh and Trek are rolling out three-speed bikes that feature chip-controlled, gear-shifting systems.
+Bicycle NNP
+manufacturers NNS
+Giant NNP
+, ,
+Raleigh NNP
+and CC
+Trek NNP
+are VBP
+rolling VBG
+out RP
+three-speed JJ
+bikes NNS
+that IN
+feature JJ
+chip-controlled, JJ
+gear-shifting NN
+systems. NN
+
+
 BioTech is an affiliate of a US company Clonaid is owned by the Raelian movement
+BioTech NNP
+is VBZ
+an DT
+affiliate NN
+of IN
+a DT
+US NNP
+company NN
+Clonaid NNP
+is VBZ
+owned VBN
+by IN
+the DT
+Raelian JJ
+movement NN
+Raelian
+
+
 FishNet Security is a leader in Information Security solutions, integration, and professional and managed services.
+FishNet NNP
+Security NNP
+is VBZ
+a DT
+leader NN
+in IN
+Information NNP
+Security NNP
+solutions, NN
+integration, NN
+and CC
+professional JJ
+and CC
+managed VBD
+services. NN
+
+
 T-Mobile International Selects Visto to Bring Mobile Push Email to the Mass Market
+T-Mobile JJ
+International NNP
+Selects NNP
+Visto NNP
+to TO
+Bring NNP
+Mobile NNP
+Push NNP
+Email NNP
+to TO
+the DT
+Mass NNP
+Market NNP
+T-Mobile International
+
+
 CRM maker Amdocs now has an operations support system.
+CRM NNP
+maker NN
+Amdocs NNP
+now RB
+has VBZ
+an DT
+operations NNS
+support NN
+system. NN
+
+
 The Line became part of the London, Midland & Scottish Railway in 1924 and British Railways  in 1948
+The DT
+Line NNP
+became VBD
+part NN
+of IN
+the DT
+London, NNP
+Midland NNP
+& CC
+Scottish NNP
+Railway NNP
+in IN
+1924 CD
+and CC
+British NNP
+Railways NNP
+in IN
+1948 CD
+London, Midland & Scottish Railway
+
+
 The world of Sports Entertainment is heating up with the   Monday Night Wars   between World Wrestling Entertainment and World Championship Wrestling 
+The DT
+world NN
+of IN
+Sports NNP
+Entertainment NNP
+is VBZ
+heating VBG
+up RP
+with IN
+the DT
+Monday NNP
+Night NNP
+Wars NNP
+between IN
+World NNP
+Wrestling NNP
+Entertainment NNP
+and CC
+World NNP
+Championship NNP
+Wrestling NNP
+
+
 T-Mobile grabs the 3G licecne in Macedonia , being awarded by country telecoms regulator, The Agency for Electronic Communications .
+T-Mobile JJ
+grabs VBD
+the DT
+3G CD
+licecne NN
+in IN
+Macedonia NNP
+, ,
+being VBG
+awarded VBN
+by IN
+country NN
+telecoms NNS
+regulator, VBP
+The DT
+Agency NNP
+for IN
+Electronic NNP
+Communications NNP
+. .
+T-Mobile
+
+
 According to the Evalueserve s study, India 's top Knowledge Process Outsourcing firm, Indian KPOs will formulate almost 280,000 jobs &
+According VBG
+to TO
+the DT
+Evalueserve NNP
+s NNP
+study, VBD
+India NNP
+'s POS
+top JJ
+Knowledge NNP
+Process NNP
+Outsourcing NNP
+firm, NN
+Indian NNP
+KPOs NNP
+will MD
+formulate VB
+almost RB
+280,000 CD
+jobs NNS
+& CC
+
+
 Laserfiche is an industry-leading ECM software developer in Long Beach , CA .
+Laserfiche NNP
+is VBZ
+an DT
+industry-leading JJ
+ECM NNP
+software NN
+developer NN
+in IN
+Long NNP
+Beach NNP
+, ,
+CA NNP
+. .
+
+
 Mahindra announces senior appointments in Automotive Sector
+Mahindra NNP
+announces NNS
+senior JJ
+appointments NNS
+in IN
+Automotive NNP
+Sector NNP
+
+
 Altair Engineering is the creator of the HyperWorks suite of CAE software products
+Altair NNP
+Engineering NNP
+is VBZ
+the DT
+creator NN
+of IN
+the DT
+HyperWorks NNP
+suite NN
+of IN
+CAE NNP
+software NN
+products NNS
+
+
 I have Windows XP Pro SP 1 with Norton Antivirus 2003, Zone Alarm firewall, Ad aware 6.0, and Google toolbar installed.
+I PRP
+have VBP
+Windows NNP
+XP NNP
+Pro NNP
+SP NNP
+1 CD
+with IN
+Norton NNP
+Antivirus NNP
+2003, CD
+Zone NNP
+Alarm NNP
+firewall, NN
+Ad NNP
+aware NN
+6.0, CD
+and CC
+Google NNP
+toolbar NN
+installed. NN
+
+
 At times, they have done better volumes than Singtel , a giant in Telecom .
+At IN
+times, NN
+they PRP
+have VBP
+done VBN
+better RBR
+volumes NNS
+than IN
+Singtel NNP
+, ,
+a DT
+giant JJ
+in IN
+Telecom NNP
+. .
+
+
 Local Cable Television provided by Comcast ; view the WHS Channel Lineup.
+Local NNP
+Cable NNP
+Television NNP
+provided VBN
+by IN
+Comcast NNP
+; :
+view VBZ
+the DT
+WHS NNP
+Channel NNP
+Lineup. NNP
+
+
 The WMS provider, Manhattan Associates , had never seen it.
+The DT
+WMS NNP
+provider, NN
+Manhattan NNP
+Associates NNP
+, ,
+had VBD
+never RB
+seen VBN
+it. NN
+
+
 Enterprise CMS purveyor SpringCM has announced the unveiling of corporate headquarters in the middle of San Mateo , CA .
+Enterprise NNP
+CMS NNP
+purveyor NN
+SpringCM NNP
+has VBZ
+announced VBN
+the DT
+unveiling NN
+of IN
+corporate JJ
+headquarters NNS
+in IN
+the DT
+middle NN
+of IN
+San NNP
+Mateo NNP
+, ,
+CA NNP
+. .
+
+
 Fast Food is more than KFC and McDonalds
+Fast NNP
+Food NNP
+is VBZ
+more JJR
+than IN
+KFC NNP
+and CC
+McDonalds NNP
+
+
 / Film snuck into Legendary Pictures
+/ NN
+Film NNP
+snuck VBD
+into IN
+Legendary JJ
+Pictures NNS
+Legendary Pictures
+
+
 Edward Hospital and Health Services is accredited by Joint Commission on Accreditation of Healthcare Organizations , American College of Surgeons and American College of Radiology 
+Edward NNP
+Hospital NNP
+and CC
+Health NNP
+Services NNP
+is VBZ
+accredited VBN
+by IN
+Joint NNP
+Commission NNP
+on IN
+Accreditation NNP
+of IN
+Healthcare NNP
+Organizations NNP
+, ,
+American NNP
+College NNP
+of IN
+Surgeons NNP
+and CC
+American NNP
+College NNP
+of IN
+Radiology NNP
+Joint Commission on Accreditation of Healthcare Organizations
+American College of Surgeons
+American College of Radiology
+
+
 Cable TV is available through Cox Communications , telephone 885-3757.
+Cable JJ
+TV NN
+is VBZ
+available JJ
+through IN
+Cox NNP
+Communications NNP
+, ,
+telephone NN
+885-3757. JJ
+Cable TV
+
+
 The project has brought together a number of Research & Development initiatives carried out within QinetiQ .
+The DT
+project NN
+has VBZ
+brought VBN
+together RB
+a DT
+number NN
+of IN
+Research NNP
+& CC
+Development NNP
+initiatives NNS
+carried VBD
+out IN
+within IN
+QinetiQ NNP
+. .
+Research & Development
+
+
 Oakley   Half Jacket  Sunglasses  at Cabela 's
+Oakley NNP
+Half NNP
+Jacket NNP
+Sunglasses NNP
+at IN
+Cabela NNP
+'s POS
+
+
 Galliford Try  added within the Construction Industry section of FMUG FM Links #2
+Galliford NNP
+Try NNP
+added VBD
+within IN
+the DT
+Construction NNP
+Industry NNP
+section NN
+of IN
+FMUG NNP
+FM NNP
+Links NNP
+#2 NN
+
+
 I think that Wizards of the Coast should make a Harry Potter type of Role Playing Game .
+I PRP
+think VBP
+that IN
+Wizards NNS
+of IN
+the DT
+Coast NNP
+should MD
+make VB
+a DT
+Harry NNP
+Potter NNP
+type NN
+of IN
+Role NNP
+Playing NNP
+Game NNP
+. .
+Wizards of the Coast
+
+
 SpringCM and Kodak Get Together for SaaS
+SpringCM NNP
+and CC
+Kodak NNP
+Get NNP
+Together NNP
+for IN
+SaaS NNP
+
+
 From cargo van to minivan is the well-known Car Rental Company in Birmingham called Enterprise Rent A Car .
+From IN
+cargo NN
+van NN
+to TO
+minivan VB
+is VBZ
+the DT
+well-known JJ
+Car NNP
+Rental NNP
+Company NNP
+in IN
+Birmingham NNP
+called VBD
+Enterprise NNP
+Rent NNP
+A NNP
+Car NNP
+. .
+
+
 Clearwire launches VoIP in the US
+Clearwire NNP
+launches VBZ
+VoIP NNP
+in IN
+the DT
+US NN
+
+
 To help solve this challenge, Google reached out to ESRI , the world leader in GIS mapping technology.
+To TO
+help VB
+solve VB
+this DT
+challenge, NN
+Google NNP
+reached VBD
+out RP
+to TO
+ESRI NNP
+, ,
+the DT
+world NN
+leader NN
+in IN
+GIS NNP
+mapping NN
+technology. NN
+
+
 The Airlines include BMI , Easy Jet, British Airways and Iberia .
+The DT
+Airlines NNP
+include VBP
+BMI NNP
+, ,
+Easy NNP
+Jet, NNP
+British NNP
+Airways NNP
+and CC
+Iberia NNP
+. .
+
+
 Another example is Weyerhaeuser , a leading supplier of Timber products to Home Depot 
+Another DT
+example NN
+is VBZ
+Weyerhaeuser NNP
+, ,
+a DT
+leading VBG
+supplier NN
+of IN
+Timber NNP
+products NNS
+to TO
+Home NNP
+Depot NNP
+
+
 Infosys BPO Limited  is the BPO  subsidiary of Infosys Technologies Ltd. ..
+Infosys NNP
+BPO NNP
+Limited NNP
+is VBZ
+the DT
+BPO NNP
+subsidiary NN
+of IN
+Infosys NNP
+Technologies NNPS
+Ltd. NNP
+.. NN
+
+
 Fast Food is more than KFC and McDonalds
+Fast NNP
+Food NNP
+is VBZ
+more JJR
+than IN
+KFC NNP
+and CC
+McDonalds NNP
+
+
 Thales provides Management Development , Information Technology , Computer Based and Health & Safety programmes.
+Thales NNP
+provides VBZ
+Management NNP
+Development NNP
+, ,
+Information NNP
+Technology NNP
+, ,
+Computer NNP
+Based VBD
+and CC
+Health NNP
+& CC
+Safety NNP
+programmes. NN
+
+
 ( Apple gets electronics / Disney gets Media )
+( (
+Apple NNP
+gets VBZ
+electronics NNS
+/ JJ
+Disney NNP
+gets VBZ
+Media NNP
+) )
+
+
 Thales is a world leader in Mission -critical information systems for the Aerospace , defence and security markets.
+Thales NNS
+is VBZ
+a DT
+world NN
+leader NN
+in IN
+Mission NNP
+-critical JJ
+information NN
+systems NNS
+for IN
+the DT
+Aerospace NNP
+, ,
+defence NN
+and CC
+security NN
+markets. NN
+
+
 He brought up the fact that the Hotel was now a Best Western .
+He PRP
+brought VBD
+up RP
+the DT
+fact NN
+that IN
+the DT
+Hotel NNP
+was VBD
+now RB
+a DT
+Best NNP
+Western NNP
+. .
+
+
 Corus , a subsidiary of India 's Tata Steel , employs 24,000 people in the UK and 42,000 worldwide
+Corus NNP
+, ,
+a DT
+subsidiary NN
+of IN
+India NNP
+'s POS
+Tata NNP
+Steel NNP
+, ,
+employs VBZ
+24,000 CD
+people NNS
+in IN
+the DT
+UK NNP
+and CC
+42,000 CD
+worldwide NN
+
+
 The Case 888 RailRoader is working for Irish Rail .
+The DT
+Case NNP
+888 CD
+RailRoader NNP
+is VBZ
+working VBG
+for IN
+Irish JJ
+Rail NNP
+. .
+Irish Rail
+
+
 Cable has returned Verizon ?s serve and put the ball right back in FTTP court.
+Cable NNP
+has VBZ
+returned VBN
+Verizon NNP
+?s NNP
+serve NN
+and CC
+put VBD
+the DT
+ball NN
+right RB
+back RB
+in IN
+FTTP NNP
+court. NN
+
+
 Two years previously, in 1988 Zondervan was purchased by Harper & Row , Publishers 
+Two CD
+years NNS
+previously, RB
+in IN
+1988 CD
+Zondervan NNP
+was VBD
+purchased VBN
+by IN
+Harper NNP
+& CC
+Row NNP
+, ,
+Publishers NNS
+Harper & Row
+
+
 Bustamove - hate to break it to you but Enron was in ENERGY  and Worldcom was in  .
+Bustamove NNP
+- :
+hate NN
+to TO
+break VB
+it PRP
+to TO
+you PRP
+but CC
+Enron NNP
+was VBD
+in IN
+ENERGY NNP
+and CC
+Worldcom NNP
+was VBD
+in IN
+. .
+
+
 Webhelp is the fourth largest company in France in call centre and CRM outsourcing.
+Webhelp NNP
+is VBZ
+the DT
+fourth JJ
+largest JJS
+company NN
+in IN
+France NNP
+in IN
+call NN
+centre NN
+and CC
+CRM NNP
+outsourcing. VBP
+
+
 you Express Bank see inflation Chase allow Banking has suitability of unless banks now more the fund shortages.
+you PRP
+Express NNP
+Bank NNP
+see VBP
+inflation NN
+Chase NNP
+allow NN
+Banking NNP
+has VBZ
+suitability NN
+of IN
+unless IN
+banks NNS
+now RB
+more VBP
+the DT
+fund NN
+shortages. NN
+
+
 VoIP start-up, Jaxtr , has increased its number of registered users from 500,000 to 5 million since July
+VoIP NNP
+start-up, JJ
+Jaxtr NNP
+, ,
+has VBZ
+increased VBN
+its PRP$
+number NN
+of IN
+registered JJ
+users NNS
+from IN
+500,000 CD
+to TO
+5 CD
+million CD
+since IN
+July NNP
+
+
 The great advantage of Agel regarding other companies of MLM , was to create Innovative Products - new category!
+The DT
+great JJ
+advantage NN
+of IN
+Agel NNP
+regarding VBG
+other JJ
+companies NNS
+of IN
+MLM NNP
+, ,
+was VBD
+to TO
+create VB
+Innovative JJ
+Products NNPS
+- :
+new JJ
+category! NN
+
+
 S.A.M. CONSULTING has been subcontracted by KPMG , Coopers & Lybrand , SMS & several others.
+S.A.M. NNP
+CONSULTING NNP
+has VBZ
+been VBN
+subcontracted VBN
+by IN
+KPMG NNP
+, ,
+Coopers NNP
+& CC
+Lybrand NNP
+, ,
+SMS NNP
+& CC
+several JJ
+others. NN
+Coopers & Lybrand
+
+
 of Transportation has given United Airlines and for Search property in Washington bmi ( British Midland Airways Ltd. ,.
+of IN
+Transportation NNP
+has VBZ
+given VBN
+United NNP
+Airlines NNPS
+and CC
+for IN
+Search NNP
+property NN
+in IN
+Washington NNP
+bmi NN
+( (
+British JJ
+Midland NNP
+Airways NNP
+Ltd. NNP
+,. NN
+British Midland Airways Ltd.
+
+
 Besides losing internal studio Bungie , the company lost Interactive Entertainment vice president Peter Moore to Electronic Arts in July
+Besides IN
+losing VBG
+internal JJ
+studio NN
+Bungie NNP
+, ,
+the DT
+company NN
+lost VBD
+Interactive NNP
+Entertainment NNP
+vice NN
+president NN
+Peter NNP
+Moore NNP
+to TO
+Electronic NNP
+Arts NNS
+in IN
+July NNP
+
+
 The Visual Effects Society awarded Bungie the ?Best Real Time Visuals in a Video Game ? for Halo 3 
+The DT
+Visual JJ
+Effects NNP
+Society NNP
+awarded VBD
+Bungie NNP
+the DT
+?Best JJS
+Real JJ
+Time NN
+Visuals NNS
+in IN
+a DT
+Video NNP
+Game NNP
+? .
+for IN
+Halo NNP
+3 CD
+Visual Effects Society
+Halo 3
+
+
 You'll find the best prices on Hawks video games, Crave Entertainment in Video Games when you shop online at BizRate .
+You'll NNP
+find VBP
+the DT
+best JJS
+prices NNS
+on IN
+Hawks NNP
+video NN
+games, NN
+Crave NNP
+Entertainment NNP
+in IN
+Video NNP
+Games NNPS
+when WRB
+you PRP
+shop VBP
+online JJ
+at IN
+BizRate NNP
+. .
+
+
 In the same manner, the Government of Canada created Trans-Canada Airlines as an arm of the Canadian National  Railroad 
+In IN
+the DT
+same JJ
+manner, NN
+the DT
+Government NNP
+of IN
+Canada NNP
+created VBD
+Trans-Canada NNP
+Airlines NNPS
+as IN
+an DT
+arm NN
+of IN
+the DT
+Canadian NNP
+National NNP
+Railroad NNP
+Government of Canada
+
+
 One of the world's leading Airlines , Cathay Pacific will certainly travel to South Africa for the simple and profitable.
+One CD
+of IN
+the DT
+world's NN
+leading VBG
+Airlines NNS
+, ,
+Cathay NNP
+Pacific NNP
+will MD
+certainly RB
+travel VB
+to TO
+South NNP
+Africa NNP
+for IN
+the DT
+simple NN
+and CC
+profitable. NN
+
+
 Shell 's commitment to Sustainable Development encompasses everything its companies do, in Oil and Gas as much as Renewables 
+Shell NNP
+'s POS
+commitment NN
+to TO
+Sustainable NNP
+Development NNP
+encompasses VBZ
+everything NN
+its PRP$
+companies NNS
+do, VBP
+in IN
+Oil NNP
+and CC
+Gas NNP
+as RB
+much RB
+as IN
+Renewables NNS
+Oil and Gas
+
+
 Professional Wrestler and WWE Superstar the Josh Mathews dishing out the smackdown on RAW from the WWE 
+Professional NNP
+Wrestler NNP
+and CC
+WWE NNP
+Superstar NNP
+the DT
+Josh NNP
+Mathews NNP
+dishing VBG
+out RP
+the DT
+smackdown NN
+on IN
+RAW NNP
+from IN
+the DT
+WWE NNP
+
+
 TELECOMMUNICATIONS company AAPT is back in the consumer market with the launch of a multi-million-dollar advertising campaign
+TELECOMMUNICATIONS NN
+company NN
+AAPT NNP
+is VBZ
+back RB
+in IN
+the DT
+consumer NN
+market NN
+with IN
+the DT
+launch NN
+of IN
+a DT
+multi-million-dollar JJ
+advertising NN
+campaign NN
+
+
 But anyway, I'd LOVE To see Okami turned into a Movie , by Studio Ghibli !
+But CC
+anyway, JJ
+I'd NNP
+LOVE NNP
+To TO
+see VB
+Okami NNP
+turned VBD
+into IN
+a DT
+Movie NNP
+, ,
+by IN
+Studio NNP
+Ghibli NNP
+! .
+
+
 On the Sunday after the storm we received a call through TNRIS requesting GIS assistance to Galveston County .
+On IN
+the DT
+Sunday NNP
+after IN
+the DT
+storm NN
+we PRP
+received VBD
+a DT
+call NN
+through IN
+TNRIS NNP
+requesting VBG
+GIS NNP
+assistance NN
+to TO
+Galveston NNP
+County NNP
+. .
+
+
 Airlines  flights  air travel  discount and cheap international air travel  las vegas  french-dutch pany air france-klm was ordered by the.
+Airlines NNS
+flights NNS
+air NN
+travel VBP
+discount NN
+and CC
+cheap JJ
+international JJ
+air NN
+travel NN
+las VBD
+vegas JJ
+french-dutch JJ
+pany NN
+air NN
+france-klm NN
+was VBD
+ordered VBN
+by IN
+the. NN
+las vegas
+
+
 For instance, last month PE fund Actis invested $65m in the Nilgiri 's group, a South Indian food brand
+For IN
+instance, JJ
+last JJ
+month NN
+PE NNP
+fund NN
+Actis NNP
+invested VBD
+$65m NNP
+in IN
+the DT
+Nilgiri NNP
+'s POS
+group, NN
+a DT
+South NNP
+Indian JJ
+food NN
+brand NN
+South Indian
+
+
 iGATE Corporation  offers a comprehensive range of Information Technology solutions to more than 500 clients across five continents
+iGATE NN
+Corporation NNP
+offers VBZ
+a DT
+comprehensive JJ
+range NN
+of IN
+Information NNP
+Technology NNP
+solutions NNS
+to TO
+more JJR
+than IN
+500 CD
+clients NNS
+across IN
+five CD
+continents NNS
+
+
 Appeared in April, 2003 issue of WestJet 's in-flight publication, AirLines . 
+Appeared NNP
+in IN
+April, NNP
+2003 CD
+issue NN
+of IN
+WestJet NNP
+'s POS
+in-flight JJ
+publication, NN
+AirLines NNPS
+. .
+
+
 All Clothing is American Apparel brand, 100% cotton, chosen for it's quality & fit.
+All DT
+Clothing NNP
+is VBZ
+American JJ
+Apparel NNP
+brand, VBD
+100% CD
+cotton, NN
+chosen VBN
+for IN
+it's JJ
+quality NN
+& CC
+fit. NN
+American Apparel
+
+
 Market Research firm IDC has named Fortinet
+Market NN
+Research NNP
+firm NN
+IDC NNP
+has VBZ
+named VBN
+Fortinet NNP
+
+
 Jayco sells a full line of Class C , fifth-wheel, travel trailer and expandable camping trailer RVs
+Jayco NNP
+sells VBZ
+a DT
+full JJ
+line NN
+of IN
+Class NNP
+C NNP
+, ,
+fifth-wheel, JJ
+travel NN
+trailer NN
+and CC
+expandable JJ
+camping VBG
+trailer NN
+RVs NNP
+
+
 BankIslami Pakistan is Islamic Bank in Pakistan offering wealth management, investment banking and consumer banking services
+BankIslami NNP
+Pakistan NNP
+is VBZ
+Islamic NNP
+Bank NNP
+in IN
+Pakistan NNP
+offering NN
+wealth NN
+management, NN
+investment NN
+banking NN
+and CC
+consumer NN
+banking NN
+services NNS
+
+
 Calyon is the Corporate and Investment Bank of the Cr? dit Agricole Group
+Calyon NNP
+is VBZ
+the DT
+Corporate NNP
+and CC
+Investment NNP
+Bank NNP
+of IN
+the DT
+Cr? NNP
+dit NN
+Agricole NNP
+Group NNP
+
+
 Uplink connects SIP protocol VoIP calls to the proprietary Skype phone network
+Uplink NNP
+connects VBZ
+SIP NNP
+protocol NN
+VoIP NNP
+calls VBZ
+to TO
+the DT
+proprietary JJ
+Skype NNP
+phone NN
+network NN
+
+
 Columbia Pictures Presents a Film directed and edited by Harry Hook 
+Columbia NNP
+Pictures NNPS
+Presents VBZ
+a DT
+Film NNP
+directed VBN
+and CC
+edited VBN
+by IN
+Harry NNP
+Hook NNP
+
+
 VFX were developed at Framestore by executive producer James Razzall, producer Michael Stanish, VFX supervisor Mike McGee .
+VFX NNP
+were VBD
+developed VBN
+at IN
+Framestore NNP
+by IN
+executive JJ
+producer NN
+James NNP
+Razzall, NNP
+producer NN
+Michael NNP
+Stanish, NNP
+VFX NNP
+supervisor NN
+Mike NNP
+McGee NNP
+. .
+
+
 India -based Wipro Technologies also opened a new BPO
+India NNP
+-based VBD
+Wipro NNP
+Technologies NNPS
+also RB
+opened VBD
+a DT
+new JJ
+BPO NNP
+
+
 Cadcorp is a UK Geographic Information System  software house, established in 1991
+Cadcorp NNP
+is VBZ
+a DT
+UK NNP
+Geographic NNP
+Information NNP
+System NNP
+software NN
+house, NN
+established VBN
+in IN
+1991 CD
+
+
 I had an interesting meeting today with the senior leadership of social networking SaaS vendor Neighborhood America .
+I PRP
+had VBD
+an DT
+interesting JJ
+meeting NN
+today NN
+with IN
+the DT
+senior JJ
+leadership NN
+of IN
+social JJ
+networking NN
+SaaS NNP
+vendor NN
+Neighborhood NNP
+America NNP
+. .
+
+
 Newspapers: Television: Marketplace: CanWest Countries: 2005 - 2008 Canwest squinting Media , a division of Canwest Publishing Inc .
+Newspapers: NNP
+Television: NNP
+Marketplace: NNP
+CanWest NNP
+Countries: NNP
+2005 CD
+- :
+2008 CD
+Canwest NNP
+squinting VBG
+Media NNP
+, ,
+a DT
+division NN
+of IN
+Canwest NNP
+Publishing NNP
+Inc NNP
+. .
+
+
 Forbes is privately held?the 91-year-old mag sold a roughly 40 percent stake to PE firm Elevation Partners two years ago
+Forbes NNP
+is VBZ
+privately RB
+held?the JJ
+91-year-old JJ
+mag NN
+sold VBD
+a DT
+roughly RB
+40 CD
+percent JJ
+stake NN
+to TO
+PE NNP
+firm NN
+Elevation NNP
+Partners NNP
+two CD
+years NNS
+ago RB
+
+
 In 2007 Bond Wireless will integrate VOIP as an additional capability into its core gateways and applications.
+In IN
+2007 CD
+Bond NNP
+Wireless NNP
+will MD
+integrate VB
+VOIP NNP
+as IN
+an DT
+additional JJ
+capability NN
+into IN
+its PRP$
+core NN
+gateways NNS
+and CC
+applications. NN
+
+
 Car Hire is available at the Airport with Hertz and Avis , and with Europe Car, off site.
+Car NN
+Hire NNP
+is VBZ
+available JJ
+at IN
+the DT
+Airport NNP
+with IN
+Hertz NNP
+and CC
+Avis NNP
+, ,
+and CC
+with IN
+Europe NNP
+Car, NNP
+off IN
+site. NN
+
+
 The world of Sports Entertainment is heating up with the   Monday Night Wars   between World Wrestling Entertainment and World Championship Wrestling 
+The DT
+world NN
+of IN
+Sports NNP
+Entertainment NNP
+is VBZ
+heating VBG
+up RP
+with IN
+the DT
+Monday NNP
+Night NNP
+Wars NNP
+between IN
+World NNP
+Wrestling NNP
+Entertainment NNP
+and CC
+World NNP
+Championship NNP
+Wrestling NNP
+
+
 Mosaic Communications  is the Philippines ' first commercial Internet Service Provider .
+Mosaic NNP
+Communications NNP
+is VBZ
+the DT
+Philippines NNPS
+' POS
+first JJ
+commercial JJ
+Internet NNP
+Service NNP
+Provider NNP
+. .
+
+
 Bombay Dyeing  is the flagship company of the Wadia Group , engaged mainly into the business of Textiles 
+Bombay NNP
+Dyeing NNP
+is VBZ
+the DT
+flagship NN
+company NN
+of IN
+the DT
+Wadia NNP
+Group NNP
+, ,
+engaged VBD
+mainly RB
+into IN
+the DT
+business NN
+of IN
+Textiles NNS
+
+
 Animal Logic , the digital production studio behind Happy Feet , did VFX for this movie
+Animal NNP
+Logic NNP
+, ,
+the DT
+digital JJ
+production NN
+studio NN
+behind IN
+Happy JJ
+Feet NNP
+, ,
+did VBD
+VFX NNP
+for IN
+this DT
+movie NN
+Happy Feet
+
+
 Steam, which Valve calls a   Digital Distribution Platform   most definitely represents the future of gaming and possibly of all online transactions.
+Steam, NNP
+which WDT
+Valve NNP
+calls VBZ
+a DT
+Digital NNP
+Distribution NNP
+Platform NNP
+most JJS
+definitely RB
+represents VBZ
+the DT
+future NN
+of IN
+gaming NN
+and CC
+possibly RB
+of IN
+all DT
+online NN
+transactions. NN
+
+
 Which is why the Bank stumped up the money for Northern Rock in the end, moral hazard notwithstanding.
+Which WDT
+is VBZ
+why WRB
+the DT
+Bank NNP
+stumped VBD
+up RP
+the DT
+money NN
+for IN
+Northern NNP
+Rock NNP
+in IN
+the DT
+end, JJ
+moral JJ
+hazard NN
+notwithstanding. NN
+
+
 Industrial Light & Magic or WETA Digital should handle the VFX 
+Industrial NNP
+Light NNP
+& CC
+Magic NNP
+or CC
+WETA NNP
+Digital NNP
+should MD
+handle VB
+the DT
+VFX NNP
+Industrial Light & Magic
+
+
 That and the hillarious mention that Taco Bell won the Fast Food  wars  and became the only fast food restaurant.. Priceless.
+That DT
+and CC
+the DT
+hillarious JJ
+mention NN
+that IN
+Taco NNP
+Bell NNP
+won VBD
+the DT
+Fast NNP
+Food NNP
+wars NNS
+and CC
+became VBD
+the DT
+only JJ
+fast RB
+food NN
+restaurant.. NN
+Priceless. NNP
+
+
 Akamai operates an  Internet within the Internet   that accelerates the performance of widely distributed online applications.
+Akamai NNP
+operates VBZ
+an DT
+Internet NNP
+within IN
+the DT
+Internet NNP
+that WDT
+accelerates VBZ
+the DT
+performance NN
+of IN
+widely RB
+distributed VBN
+online NN
+applications. NN
+
+
 Futuremark Announces Groundbreaking Automotive Demo for Audi at NVISION
+Futuremark NNP
+Announces NNP
+Groundbreaking NNP
+Automotive NNP
+Demo NNP
+for IN
+Audi NNP
+at IN
+NVISION NNP
+
+
 Make an informed decision on Rare xbox video games Video Games before you buy.
+Make NNP
+an DT
+informed JJ
+decision NN
+on IN
+Rare NNP
+xbox NNP
+video NN
+games NNS
+Video NNP
+Games NNPS
+before IN
+you PRP
+buy. VBP
+
+
 Music provided courtesy of Om Records 
+Music NNP
+provided VBD
+courtesy NN
+of IN
+Om NNP
+Records NNS
+
+
 Here is the Ad created by FCB for intuit......
+Here RB
+is VBZ
+the DT
+Ad NNP
+created VBN
+by IN
+FCB NNP
+for IN
+intuit...... NN
+
+
 ADVERTISING FAILURE: Kevin Roberts , pictured, CEO of Saatchi and Saatchi has criticised the UAE 's advertising industry.
+ADVERTISING NN
+FAILURE: NNP
+Kevin NNP
+Roberts NNP
+, ,
+pictured, NN
+CEO NNP
+of IN
+Saatchi NNP
+and CC
+Saatchi NNP
+has VBZ
+criticised VBN
+the DT
+UAE NNP
+'s POS
+advertising NN
+industry. NN
+Saatchi and Saatchi
+
+
 Prior to his appointment at Burberry , Christopher was Senior Designer of Womenswear at Gucci 
+Prior RB
+to TO
+his PRP$
+appointment NN
+at IN
+Burberry NNP
+, ,
+Christopher NNP
+was VBD
+Senior NNP
+Designer NNP
+of IN
+Womenswear NNP
+at IN
+Gucci NNP
+
+
 Description: Insureandgo provide Travel Insurance and a wide variety of other insurance services.
+Description: NNP
+Insureandgo NNP
+provide VBP
+Travel NNP
+Insurance NNP
+and CC
+a DT
+wide JJ
+variety NN
+of IN
+other JJ
+insurance NN
+services. NN
+
+
 Rebuilt Ford engines, Ford engine parts, Automotive , custom,rebuilds.
+Rebuilt NNP
+Ford NNP
+engines, VBZ
+Ford NNP
+engine NN
+parts, NN
+Automotive NNP
+, ,
+custom,rebuilds. NN
+
+
 With the Biotech and Health Care industries growing rapidly, 23andMe could be Google
+With IN
+the DT
+Biotech NNP
+and CC
+Health NNP
+Care NNP
+industries NNS
+growing VBG
+rapidly, NN
+23andMe CD
+could MD
+be VB
+Google NNP
+23andMe
+
+
 CINEMA and theme park operator Village Roadshow will merge its film production business with US record company Concord Music
+CINEMA NNP
+and CC
+theme NN
+park NN
+operator NN
+Village NNP
+Roadshow NNP
+will MD
+merge VB
+its PRP$
+film NN
+production NN
+business NN
+with IN
+US NNP
+record NN
+company NN
+Concord NNP
+Music NNP
+
+
 Finally, the MSc in Finance is accredited by the Association of Chartered Certified Accountants .
+Finally, IN
+the DT
+MSc NNP
+in IN
+Finance NNP
+is VBZ
+accredited VBN
+by IN
+the DT
+Association NNP
+of IN
+Chartered NNP
+Certified NNP
+Accountants NNP
+. .
+Association of Chartered Certified Accountants
+
+
 Consequently, we are further leveraging on Fortis ?s capabilities in Global Markets and Investment Banking .
+Consequently, NN
+we PRP
+are VBP
+further JJ
+leveraging VBG
+on IN
+Fortis NNP
+?s NNP
+capabilities NNS
+in IN
+Global NNP
+Markets NNPS
+and CC
+Investment NNP
+Banking NNP
+. .
+
+
 Friday Night Lights  is a production of Imagine Entertainment , NBC Universal Television Studio and Film 44.
+Friday NNP
+Night NNP
+Lights NNP
+is VBZ
+a DT
+production NN
+of IN
+Imagine NNP
+Entertainment NNP
+, ,
+NBC NNP
+Universal NNP
+Television NNP
+Studio NNP
+and CC
+Film NNP
+44. CD
+
+
 Both sites have multiple lines over VoIP supplied by Engin .
+Both DT
+sites NNS
+have VBP
+multiple JJ
+lines NNS
+over IN
+VoIP NNP
+supplied VBN
+by IN
+Engin NNP
+. .
+
+
 But that doesn mean Verizon is moving out of the residential VoIP market....
+But CC
+that DT
+doesn JJ
+mean NN
+Verizon NNP
+is VBZ
+moving VBG
+out IN
+of IN
+the DT
+residential JJ
+VoIP NNP
+market.... NN
+
+
 Northrop Grumman Corporation is an Aerospace and defense conglomerate that is the result of 1994 purchase of Grumman by Northrop .
+Northrop NNP
+Grumman NNP
+Corporation NNP
+is VBZ
+an DT
+Aerospace NN
+and CC
+defense NN
+conglomerate NN
+that WDT
+is VBZ
+the DT
+result NN
+of IN
+1994 CD
+purchase NN
+of IN
+Grumman NNP
+by IN
+Northrop NNP
+. .
+
+
 STEEL union officials from Teesside say a meeting with Corus managers went 'very well.
+STEEL NNP
+union NN
+officials NNS
+from IN
+Teesside NNP
+say VBP
+a DT
+meeting NN
+with IN
+Corus NNP
+managers NNS
+went VBD
+'very CD
+well. NN
+
+
 CLOTHING group Next has brushed aside fears of a slowdown in high street spending with its latest results
+CLOTHING NN
+group NN
+Next NNP
+has VBZ
+brushed VBN
+aside RB
+fears NNS
+of IN
+a DT
+slowdown NN
+in IN
+high JJ
+street NN
+spending NN
+with IN
+its PRP$
+latest JJS
+results NNS
+
+
 MPC has completed various types of VFX for a number of key sequences.
+MPC NNP
+has VBZ
+completed VBN
+various JJ
+types NNS
+of IN
+VFX NNP
+for IN
+a DT
+number NN
+of IN
+key JJ
+sequences. NN
+
+
 Reporter Hacked to Death Fuels Fears for Nepal s Media , UN Says - Bloomberg
+Reporter NN
+Hacked VBD
+to TO
+Death NNP
+Fuels NNP
+Fears NNP
+for IN
+Nepal NNP
+s NNP
+Media NNP
+, ,
+UN NNP
+Says NNP
+- :
+Bloomberg NN
+
+
 Overnight at Sheraton Hotel , Holiday express, Tourist hotel Kampala .
+Overnight NNP
+at IN
+Sheraton NNP
+Hotel NNP
+, ,
+Holiday NNP
+express, VBP
+Tourist NNP
+hotel NN
+Kampala NNP
+. .
+
+
 Sandoz  was the largest energy user in Novartis , followed by Pharma  and Consumer Health .
+Sandoz NNP
+was VBD
+the DT
+largest JJS
+energy NN
+user NN
+in IN
+Novartis NNP
+, ,
+followed VBN
+by IN
+Pharma NNP
+and CC
+Consumer NNP
+Health NNP
+. .
+
+
 Nuance to sell $175M in stock to PE firm Warburg Pincus
+Nuance NN
+to TO
+sell VB
+$175M NN
+in IN
+stock NN
+to TO
+PE NNP
+firm NN
+Warburg NNP
+Pincus NNP
+
+
 Paper is taken to SCA in Cambridge to be baled.
+Paper NN
+is VBZ
+taken VBN
+to TO
+SCA NNP
+in IN
+Cambridge NNP
+to TO
+be VB
+baled. JJ
+
+
 Verizon has Wireless quietly introduced Motorola RAZR the to WMAs and then V3m,.
+Verizon NNP
+has VBZ
+Wireless NNP
+quietly RB
+introduced VBD
+Motorola NNP
+RAZR NNP
+the DT
+to TO
+WMAs NNP
+and CC
+then RB
+V3m,. NNP
+
+
 The laboratory was setup with the help of ABB , the world leaders in Industrial Automation .
+The DT
+laboratory NN
+was VBD
+setup VBN
+with IN
+the DT
+help NN
+of IN
+ABB NNP
+, ,
+the DT
+world NN
+leaders NNS
+in IN
+Industrial NNP
+Automation NNP
+. .
+
+
 PTC provides leading Product Lifecycle Management  and Enterprise Content Management  solutions to more than 50,000 organizations worldwide.
+PTC NNP
+provides VBZ
+leading JJ
+Product NNP
+Lifecycle NNP
+Management NNP
+and CC
+Enterprise NNP
+Content NNP
+Management NNP
+solutions NNS
+to TO
+more JJR
+than IN
+50,000 CD
+organizations NNS
+worldwide. VBP
+
+
 The Creature Shop won an Academy Award as part of the Visual Effects 
+The DT
+Creature NNP
+Shop NNP
+won VBD
+an DT
+Academy NNP
+Award NNP
+as IN
+part NN
+of IN
+the DT
+Visual NNP
+Effects NNS
+
+
 Job Duties :  Provide complex and challenging support for MicroStrategy s Business Intelligence product suite and its underlying technologies.
+Job JJ
+Duties NNS
+: :
+Provide NNP
+complex NN
+and CC
+challenging VBG
+support NN
+for IN
+MicroStrategy NNP
+s NNP
+Business NNP
+Intelligence NNP
+product NN
+suite NN
+and CC
+its PRP$
+underlying JJ
+technologies. NN
+
+
 Vyke can be used as VOIP and mobile VOIP option.
+Vyke NNP
+can MD
+be VB
+used VBN
+as IN
+VOIP NNP
+and CC
+mobile JJ
+VOIP NNP
+option. NN
+
+
 Software said seeing that Cakewalk water 6 Producer .
+Software NNP
+said VBD
+seeing VBG
+that IN
+Cakewalk NNP
+water NN
+6 CD
+Producer NNP
+. .
+
+
 The Green Mountain Film Festival is presented by Focus on Film , a 501 organization
+The DT
+Green NNP
+Mountain NNP
+Film NNP
+Festival NNP
+is VBZ
+presented VBN
+by IN
+Focus NNP
+on IN
+Film NNP
+, ,
+a DT
+501 CD
+organization NN
+
+
 Disney high school musical Video Games
+Disney NNP
+high JJ
+school NN
+musical JJ
+Video NNP
+Games NNP
+
+
 Zee has first listed Media Company in India , which launched the first Hindi movie channel, Zee Cinema 
+Zee NNP
+has VBZ
+first RB
+listed VBN
+Media NNP
+Company NNP
+in IN
+India NNP
+, ,
+which WDT
+launched VBD
+the DT
+first JJ
+Hindi NNP
+movie NN
+channel, NN
+Zee NNP
+Cinema NNP
+
+
 Baumers Footwear ...OnlineSports  ONLY GOLF APPAREL  OnYourFeet.com  ...from adidas  showcases a ......
+Baumers NNS
+Footwear VBP
+...OnlineSports NNS
+ONLY NNP
+GOLF NNP
+APPAREL NNP
+OnYourFeet.com NNP
+...from NNP
+adidas NN
+showcases VBZ
+a DT
+...... NN
+
+
 FURNITURE retailer MFI has forecast a substantial improvement in results at its main business.
+FURNITURE NNP
+retailer NN
+MFI NNP
+has VBZ
+forecast VBN
+a DT
+substantial JJ
+improvement NN
+in IN
+results NNS
+at IN
+its PRP$
+main JJ
+business. NN
+
+
 David Arquette  is an American actor and former Professional Wrestler with World Championship Wrestling .
+David NNP
+Arquette NNP
+is VBZ
+an DT
+American JJ
+actor NN
+and CC
+former JJ
+Professional NNP
+Wrestler NNP
+with IN
+World NNP
+Championship NNP
+Wrestling NNP
+. .
+American
+
+
 Railway operator RailTrack has today announced a surprise late bid to run the national lottery.
+Railway NNP
+operator NN
+RailTrack NNP
+has VBZ
+today NN
+announced VBD
+a DT
+surprise NN
+late RB
+bid NN
+to TO
+run VB
+the DT
+national JJ
+lottery. NN
+
+
 A new survey from global PR firm Edelman found that entertainment industry is the third-least truste...
+A DT
+new JJ
+survey NN
+from IN
+global JJ
+PR NNP
+firm NN
+Edelman NNP
+found VBD
+that IN
+entertainment NN
+industry NN
+is VBZ
+the DT
+third-least JJ
+truste... NN
+
+
 Mitchell  has joined the PR and marketing agency Freud Communications .
+Mitchell NNP
+has VBZ
+joined VBN
+the DT
+PR NNP
+and CC
+marketing NN
+agency NN
+Freud NNP
+Communications NNPS
+. .
+
+
 Tuesdays at Marie Callendar s Restaurant , 31920 Gateway Center Blvd
+Tuesdays NNS
+at IN
+Marie NNP
+Callendar NNP
+s NNP
+Restaurant NNP
+, ,
+31920 CD
+Gateway NNP
+Center NNP
+Blvd NNP
+
+
 Thin-film solar PV company Solyndra
+Thin-film NNP
+solar JJ
+PV NNP
+company NN
+Solyndra NNP
+
+
 IRCTC has completely changed the way of Railway ticketing in India .
+IRCTC NNP
+has VBZ
+completely RB
+changed VBN
+the DT
+way NN
+of IN
+Railway NNP
+ticketing VBG
+in IN
+India NNP
+. .
+
+
 Juno is a nationwide Internet Service Provider , available in over 8,000 cities throughout N America .
+Juno NNP
+is VBZ
+a DT
+nationwide JJ
+Internet NNP
+Service NNP
+Provider NNP
+, ,
+available JJ
+in IN
+over IN
+8,000 CD
+cities NNS
+throughout IN
+N NNP
+America NNP
+. .
+
+
 ,- Vestas Receives Orders for Wind Turbines in China and US .
+,- JJ
+Vestas NNP
+Receives VBZ
+Orders NNS
+for IN
+Wind NNP
+Turbines NNPS
+in IN
+China NNP
+and CC
+US NNP
+. .
+
+
 TransCAD differs from most GIS products as it is effectively a GIS for transportation? offering
+TransCAD NNP
+differs NNS
+from IN
+most JJS
+GIS NNP
+products NNS
+as IN
+it PRP
+is VBZ
+effectively RB
+a DT
+GIS NNP
+for IN
+transportation? NN
+offering NN
+
+
 Cable overbuilder RCN says theyre starting to deploy DOCSIS 3.0 technolo?
+Cable JJ
+overbuilder NN
+RCN NNP
+says VBZ
+theyre NN
+starting VBG
+to TO
+deploy VB
+DOCSIS NNP
+3.0 CD
+technolo? NN
+Cable
+
+
 We soared into the unfriendly skies with a new series of Airline , the docusoap about easyJet 
+We PRP
+soared VBD
+into IN
+the DT
+unfriendly JJ
+skies NNS
+with IN
+a DT
+new JJ
+series NN
+of IN
+Airline NNP
+, ,
+the DT
+docusoap NN
+about IN
+easyJet NN
+
+
 The first time I have worked for VFX was for BUF compagnie.
+The DT
+first JJ
+time NN
+I PRP
+have VBP
+worked VBN
+for IN
+VFX NNP
+was VBD
+for IN
+BUF NNP
+compagnie. NN
+
+
 Stewart A. Gollmer ? Director Stewart A. Gollmer is a senior vice president in Private Equity and a partner in Lehman Brothers Venture Partners .
+Stewart NNP
+A. NN
+Gollmer NNP
+? .
+Director NNP
+Stewart NNP
+A. NNP
+Gollmer NNP
+is VBZ
+a DT
+senior JJ
+vice NN
+president NN
+in IN
+Private NNP
+Equity NNP
+and CC
+a DT
+partner NN
+in IN
+Lehman NNP
+Brothers NNP
+Venture NNP
+Partners NNP
+. .
+
+
 She teaches a minicourse for MMM entitled   Sustainable Design and Manufacturing . 
+She PRP
+teaches VBZ
+a DT
+minicourse NN
+for IN
+MMM NNP
+entitled VBD
+Sustainable JJ
+Design NNP
+and CC
+Manufacturing NNP
+. .
+Sustainable Design
+
+
 CONSTRUCTION giant Grocon will build a $50 million inner-city homeless shelter at cost, forgoing up to $15 million profit
+CONSTRUCTION NN
+giant NN
+Grocon NNP
+will MD
+build VB
+a DT
+$50 JJ
+million CD
+inner-city NN
+homeless NN
+shelter NN
+at IN
+cost, NN
+forgoing VBG
+up RP
+to TO
+$15 VB
+million CD
+profit NN
+
+
 With specialized coatings designed for Oil and Gas industry  specifically catering to Petroleum Development Oman , Oman Refineries and Petrochemicals Company and various Ministries.
+With IN
+specialized JJ
+coatings NNS
+designed VBN
+for IN
+Oil NNP
+and CC
+Gas NNP
+industry NN
+specifically RB
+catering VBG
+to TO
+Petroleum NNP
+Development NNP
+Oman NNP
+, ,
+Oman NNP
+Refineries NNPS
+and CC
+Petrochemicals NNP
+Company NNP
+and CC
+various JJ
+Ministries. NNP
+Oil and Gas industry
+
+
 Ronnie artman polaris sled pull class b  scott pompa suzuki vinson drag race class c  travis knight honda trx r.
+Ronnie NNP
+artman JJ
+polaris NN
+sled VBD
+pull JJ
+class NN
+b NN
+scott NN
+pompa NN
+suzuki NN
+vinson NN
+drag NN
+race NN
+class NN
+c NN
+travis NN
+knight VBD
+honda NN
+trx NN
+r. NN
+
+
 American Airlines adheres to the Federal Aviation Authority  requirements and the UK Department for Transportation 's  recommendations of one carry-on bag.
+American NNP
+Airlines NNPS
+adheres VBZ
+to TO
+the DT
+Federal NNP
+Aviation NNP
+Authority NNP
+requirements NNS
+and CC
+the DT
+UK NNP
+Department NNP
+for IN
+Transportation NNP
+'s POS
+recommendations NNS
+of IN
+one CD
+carry-on JJ
+bag. NN
+
+
 Cable TV operator Cablevision sold the money-losing VOOM 's assets and plans to shut the service down on April 30
+Cable JJ
+TV NN
+operator NN
+Cablevision NNP
+sold VBD
+the DT
+money-losing JJ
+VOOM NNP
+'s POS
+assets NNS
+and CC
+plans NNS
+to TO
+shut VB
+the DT
+service NN
+down RP
+on IN
+April NNP
+30 CD
+Cable TV
+
+
 Cognos is an acknowledged industry leader in BI and corporate performance management .
+Cognos NNP
+is VBZ
+an DT
+acknowledged JJ
+industry NN
+leader NN
+in IN
+BI NNP
+and CC
+corporate JJ
+performance NN
+management NN
+. .
+
+
 Its Volunteer Mine was  leased by the Cleveland-Cliffs Iron Company in 1899.
+Its PRP$
+Volunteer NNP
+Mine NNP
+was VBD
+leased VBN
+by IN
+the DT
+Cleveland-Cliffs NNP
+Iron NNP
+Company NNP
+in IN
+1899. CD
+
+
 Ascentium also provides Business Intelligence  services, agile application development, outsourced product development and technical infrastructure
+Ascentium NNP
+also RB
+provides VBZ
+Business NNP
+Intelligence NNP
+services, NN
+agile NN
+application NN
+development, NN
+outsourced VBD
+product NN
+development NN
+and CC
+technical JJ
+infrastructure NN
+
+
 Bally receiving Fitness and the Sports accuracy summer get Rituxan .
+Bally NNP
+receiving VBG
+Fitness NNP
+and CC
+the DT
+Sports NNP
+accuracy NN
+summer NN
+get NN
+Rituxan NNP
+. .
+
+
 While Xerox had fantastic R & D , they didn't have a marketing brain attached to these ideas.
+While IN
+Xerox NNP
+had VBD
+fantastic JJ
+R NNP
+& CC
+D NNP
+, ,
+they PRP
+didn't VBP
+have VBP
+a DT
+marketing NN
+brain NN
+attached VBD
+to TO
+these DT
+ideas. NNS
+R & D
+
+
 Although British Nuclear Fuels Limited  has been pushing Nuclear Power as the non-polluting solution to climate change, this is certainly not the case.
+Although IN
+British JJ
+Nuclear NNP
+Fuels NNP
+Limited NNP
+has VBZ
+been VBN
+pushing VBG
+Nuclear JJ
+Power NNP
+as IN
+the DT
+non-polluting JJ
+solution NN
+to TO
+climate VB
+change, NN
+this DT
+is VBZ
+certainly RB
+not RB
+the DT
+case. NN
+British Nuclear Fuels Limited
+Nuclear Power
+
+
 Film production company Universal Studios has plans to open a new theme park in , according to reports
+Film NNP
+production NN
+company NN
+Universal NNP
+Studios NNP
+has VBZ
+plans NNS
+to TO
+open VB
+a DT
+new JJ
+theme NN
+park NN
+in IN
+, ,
+according VBG
+to TO
+reports NNS
+
+
 MLM brings to mind Tupperware parties, Amway supplies, and Mary Kay Cosmetics .
+MLM NNP
+brings VBZ
+to TO
+mind VB
+Tupperware NNP
+parties, JJ
+Amway NNP
+supplies, NN
+and CC
+Mary NNP
+Kay NNP
+Cosmetics NNP
+. .
+
+
 Software included Macromedia 's Director 4.0.4,
+Software NNP
+included VBD
+Macromedia NNP
+'s POS
+Director NNP
+4.0.4, CD
+
+
 Computer Hardware is south central Nebraska 's #1 Apple and computer store.
+Computer NNP
+Hardware NNP
+is VBZ
+south JJ
+central JJ
+Nebraska NNP
+'s POS
+#1 NN
+Apple NNP
+and CC
+computer NN
+store. NN
+
+
 Oil Company of the Future  describes StatoilHydro s TAIL IO R&D partnership project.
+Oil NN
+Company NN
+of IN
+the DT
+Future NNP
+describes VBZ
+StatoilHydro NNP
+s NNP
+TAIL NNP
+IO NNP
+R&D NNP
+partnership NN
+project. NN
+
+
 It divests Winterthur to AXA and the newly reorganized Investment Bank replaces the old CSFB 
+It PRP
+divests VBZ
+Winterthur NNP
+to TO
+AXA NNP
+and CC
+the DT
+newly RB
+reorganized VBN
+Investment NNP
+Bank NNP
+replaces VBZ
+the DT
+old JJ
+CSFB NN
+
+
 Consumer Electronics Friday: The iPhone is Apple 's Infiltrator
+Consumer NN
+Electronics NNS
+Friday: VBP
+The DT
+iPhone NN
+is VBZ
+Apple NNP
+'s POS
+Infiltrator NN
+
+
 Video Games is pleased to announce that Eidos ' Commandos 2: Men of Courage is now available on Yahoo !
+Video NNP
+Games NNP
+is VBZ
+pleased VBN
+to TO
+announce VB
+that DT
+Eidos NNP
+' POS
+Commandos NNP
+2: CD
+Men NNP
+of IN
+Courage NNP
+is VBZ
+now RB
+available JJ
+on IN
+Yahoo NN
+! .
+Commandos 2: Men of Courage
+
+
 Vatican Airlines , operated by the Italian cargo company Mistral Air
+Vatican NNP
+Airlines NNPS
+, ,
+operated VBN
+by IN
+the DT
+Italian JJ
+cargo NN
+company NN
+Mistral NNP
+Air NNP
+Italian
+
+
 LEADING GREEK FRANCHISE Merrill Lynch has a long-standing presence in the Greek market, primarily through Private Clients and Investment Banking services.
+LEADING JJ
+GREEK NNP
+FRANCHISE NNP
+Merrill NNP
+Lynch NNP
+has VBZ
+a DT
+long-standing JJ
+presence NN
+in IN
+the DT
+Greek JJ
+market, NN
+primarily RB
+through IN
+Private JJ
+Clients NNS
+and CC
+Investment NNP
+Banking NNP
+services. NN
+Greek
+
+
 BAR owner Regent Inns , which is planning a new Walkabout
+BAR NNP
+owner NN
+Regent NNP
+Inns NNP
+, ,
+which WDT
+is VBZ
+planning VBG
+a DT
+new JJ
+Walkabout NN
+
+
 - Based in Houston , Texas , EOG is an Oil and Gas producer.
+- :
+Based VBN
+in IN
+Houston NNP
+, ,
+Texas NNP
+, ,
+EOG NNP
+is VBZ
+an DT
+Oil NN
+and CC
+Gas NNP
+producer. NN
+Oil and Gas
+
+
 I think the main VFX vendor on Zodiac was Digital Domain .
+I PRP
+think VBP
+the DT
+main JJ
+VFX NNP
+vendor NN
+on IN
+Zodiac NNP
+was VBD
+Digital NNP
+Domain NNP
+. .
+
+
 Interactive Entertainment and Eidos will  co-publish Batman: Arkham Asylum in North America ,  while   Eidos Interactive will publish the game in all other territories.
+Interactive JJ
+Entertainment NNP
+and CC
+Eidos NNP
+will MD
+co-publish VB
+Batman: NNP
+Arkham NNP
+Asylum NNP
+in IN
+North NNP
+America NNP
+, ,
+while IN
+Eidos NNP
+Interactive NNP
+will MD
+publish VB
+the DT
+game NN
+in IN
+all DT
+other JJ
+territories. NN
+Interactive Entertainment
+Eidos Interactive
+
+
 Dutch telecom KPN might have broken the Telecommunication law in Holland .
+Dutch NNP
+telecom NN
+KPN NNP
+might MD
+have VB
+broken VBN
+the DT
+Telecommunication NNP
+law NN
+in IN
+Holland NNP
+. .
+
+
 Lee eventually left PDI to pursue freelance work in 2D and 3D animation and illustration
+Lee NNP
+eventually RB
+left VBD
+PDI NNP
+to TO
+pursue VB
+freelance NN
+work NN
+in IN
+2D CD
+and CC
+3D CD
+animation NN
+and CC
+illustration NN
+2D
+3D animation
+
+
 TIMBER company Gunns
+TIMBER NNP
+company NN
+Gunns NNP
+
+
 8X8 also offers a number of voice-only VoIP plans starting at $19.95/month.
+8X8 CD
+also RB
+offers VBZ
+a DT
+number NN
+of IN
+voice-only JJ
+VoIP NNP
+plans VBZ
+starting VBG
+at IN
+$19.95/month. NN
+8X8
+
+
 Our Affiliate Program is administered by Shareasale .
+Our PRP$
+Affiliate NNP
+Program NNP
+is VBZ
+administered VBN
+by IN
+Shareasale NNP
+. .
+
+
 XING and ZoomInfo bring together Business Networking and Business Information Search
+XING NN
+and CC
+ZoomInfo NNP
+bring VBP
+together RB
+Business NNP
+Networking NNP
+and CC
+Business NNP
+Information NNP
+Search NNP
+
+
 [ NYT ] - Newspaper publishers Media General and Belo have both cut their dividend sharply
+[ JJ
+NYT NNP
+] NNP
+- :
+Newspaper NN
+publishers NNS
+Media NNP
+General NNP
+and CC
+Belo NNP
+have VBP
+both DT
+cut VBP
+their PRP$
+dividend NN
+sharply RB
+
+
 Keane offers a different approach to BPO 
+Keane NNP
+offers VBZ
+a DT
+different JJ
+approach NN
+to TO
+BPO VB
+BPO
+
+
 Our Airline  will commence twice weekly Brisbane service, and Air Pacific continues its weekly service to and from Nadi .
+Our PRP$
+Airline NNP
+will MD
+commence VB
+twice RB
+weekly JJ
+Brisbane NNP
+service, NN
+and CC
+Air NNP
+Pacific NNP
+continues VBZ
+its PRP$
+weekly JJ
+service NN
+to TO
+and CC
+from IN
+Nadi NNP
+. .
+
+
 TELECOMS operator BT has confirmed that high-speed broadband communication will be available in Thirsk from May 14.??more..
+TELECOMS NNP
+operator NN
+BT NNP
+has VBZ
+confirmed VBN
+that IN
+high-speed NN
+broadband NN
+communication NN
+will MD
+be VB
+available JJ
+in IN
+Thirsk NNP
+from IN
+May NNP
+14.??more.. CD
+
+
 Cavalier Telephone Cavalier Telephone is Virginia 's local, long distance telephone and Internet Service Provider  based in Richmond , Virginia .
+Cavalier NNP
+Telephone NNP
+Cavalier NNP
+Telephone NNP
+is VBZ
+Virginia NNP
+'s POS
+local, NN
+long JJ
+distance NN
+telephone NN
+and CC
+Internet NNP
+Service NNP
+Provider NNP
+based VBN
+in IN
+Richmond NNP
+, ,
+Virginia NNP
+. .
+
+
 Gaslight Village is built on the site of the former Jacobson s Department Store .
+Gaslight NNP
+Village NNP
+is VBZ
+built VBN
+on IN
+the DT
+site NN
+of IN
+the DT
+former JJ
+Jacobson NNP
+s NNP
+Department NNP
+Store NNP
+. .
+
+
 The utilities on this site are produced for use with TSR 's range of Role Playing Games .
+The DT
+utilities NNS
+on IN
+this DT
+site NN
+are VBP
+produced VBN
+for IN
+use NN
+with IN
+TSR NNP
+'s POS
+range NN
+of IN
+Role NNP
+Playing NNP
+Games NNPS
+. .
+
+
 A follow flyer miles any questions Airlines hit Continental or companies and
+A DT
+follow JJ
+flyer NN
+miles NNS
+any DT
+questions NNS
+Airlines VBP
+hit VBN
+Continental NNP
+or CC
+companies NNS
+and CC
+Airlines
+
+
 Gary has performed for HEB Grocery 's annual Feast of Sharing Holiday Dinners throughout the state of Texas .
+Gary NNP
+has VBZ
+performed VBN
+for IN
+HEB NNP
+Grocery NNP
+'s POS
+annual JJ
+Feast NNP
+of IN
+Sharing VBG
+Holiday NNP
+Dinners NNPS
+throughout IN
+the DT
+state NN
+of IN
+Texas NNP
+. .
+
+
 Baker Atlas a division of Baker Hughes is a leader in the Oil and Gas service industry.
+Baker NNP
+Atlas NNP
+a DT
+division NN
+of IN
+Baker NNP
+Hughes NNP
+is VBZ
+a DT
+leader NN
+in IN
+the DT
+Oil NNP
+and CC
+Gas NNP
+service NN
+industry. NN
+Oil and Gas
+
+
 To eliminate labor-intensive rigid tag commissioning and ease mass adoption of RFID technolgy, Omni-ID offers a tag commissioning process.
+To TO
+eliminate VB
+labor-intensive JJ
+rigid JJ
+tag NN
+commissioning NN
+and CC
+ease NN
+mass NN
+adoption NN
+of IN
+RFID NNP
+technolgy, POS
+Omni-ID NNP
+offers VBZ
+a DT
+tag NN
+commissioning NN
+process. NN
+
+
 You'll find the best prices on Arcade video games, Midway in Video Games when you shop online at BizRate .
+You'll NNP
+find VBP
+the DT
+best JJS
+prices NNS
+on IN
+Arcade NNP
+video NN
+games, NN
+Midway NNP
+in IN
+Video NNP
+Games NNPS
+when WRB
+you PRP
+shop VBP
+online JJ
+at IN
+BizRate NNP
+. .
+
+
 Still, when WEG released Star Wars the Roleplaying Game , I was in with a grin.
+Still, NN
+when WRB
+WEG NNP
+released VBD
+Star NNP
+Wars NNP
+the DT
+Roleplaying NNP
+Game NNP
+, ,
+I PRP
+was VBD
+in IN
+with IN
+a DT
+grin. NN
+
+
 @Mac-nugget and CD: That's why I say that Apple is a SOFTware company disguised as a HARDware company
+@Mac-nugget NN
+and CC
+CD: NNP
+That's NNP
+why WRB
+I PRP
+say VBP
+that IN
+Apple NNP
+is VBZ
+a DT
+SOFTware NNP
+company NN
+disguised VBD
+as IN
+a DT
+HARDware NNP
+company NN
+
+
 Have lunch or dinner at the Hard Rock Cafe or Planet Hollywood each neighbouring the Casino 
+Have NNP
+lunch NN
+or CC
+dinner NN
+at IN
+the DT
+Hard NNP
+Rock NNP
+Cafe NNP
+or CC
+Planet NNP
+Hollywood NNP
+each DT
+neighbouring VBG
+the DT
+Casino NN
+
+
 Online Store will be processed securely through PayPal , an eBay company.
+Online NNP
+Store NNP
+will MD
+be VB
+processed VBN
+securely RB
+through IN
+PayPal NNP
+, ,
+an DT
+eBay NN
+company. NN
+
+
 Mobile GIS data collection software Leica Geosystems
+Mobile NNP
+GIS NNP
+data NNS
+collection NN
+software NN
+Leica NNP
+Geosystems NNP
+
+
 German VoIP provider SipGate announced an open API to their VoIP
+German JJ
+VoIP NNP
+provider NN
+SipGate NNP
+announced VBD
+an DT
+open JJ
+API NNP
+to TO
+their PRP$
+VoIP NNP
+German
+
+
 Manufacturing & Automotive was represented by Tata Motors , Ashok Leyland , Telcon , VIP Industries and others.
+Manufacturing NNP
+& CC
+Automotive NNP
+was VBD
+represented VBN
+by IN
+Tata NNP
+Motors NNP
+, ,
+Ashok NNP
+Leyland NNP
+, ,
+Telcon NNP
+, ,
+VIP NNP
+Industries NNPS
+and CC
+others. VB
+
+
 On the US retail front Jeweller 's Tiffany reported sales in December down 21% compared with a year earlier
+On IN
+the DT
+US NNP
+retail JJ
+front NN
+Jeweller NNP
+'s POS
+Tiffany NNP
+reported VBD
+sales NNS
+in IN
+December NNP
+down RB
+21% CD
+compared VBN
+with IN
+a DT
+year NN
+earlier RBR
+
+
 Next, Nokia should get the other half of the Big Four record labels  EMI and Warner Music Group
+Next, NNP
+Nokia NNP
+should MD
+get VB
+the DT
+other JJ
+half NN
+of IN
+the DT
+Big NNP
+Four CD
+record NN
+labels NNS
+ VBP
+EMI NNP
+and CC
+Warner NNP
+Music NNP
+Group NNP
+Big Four
+
+
 MOST FAMOUSLY, Cable sports network ESPN , which has about a hundred satellite dishes.
+MOST JJS
+FAMOUSLY, NNP
+Cable NNP
+sports NNS
+network NN
+ESPN NNP
+, ,
+which WDT
+has VBZ
+about IN
+a DT
+hundred CD
+satellite NN
+dishes. NN
+
+
 facility recently selected ERP leader BatchMaster .
+facility NN
+recently RB
+selected VBN
+ERP NNP
+leader NN
+BatchMaster NNP
+. .
+
+
 Web-based free scan virus uses Software 's award-winning technology Panda and virus Our list.
+Web-based JJ
+free JJ
+scan JJ
+virus NN
+uses VBZ
+Software NNP
+'s POS
+award-winning JJ
+technology NN
+Panda NNP
+and CC
+virus VB
+Our PRP$
+list. NN
+
+
 Adbrite also got equal Advertisers .
+Adbrite NNP
+also RB
+got VBD
+equal JJ
+Advertisers NNP
+. .
+
+
 In 1995, Rhythm & Hues was recognized with an Academy Award for Achievement in Visual Effects for its work on Babe .
+In IN
+1995, CD
+Rhythm NNP
+& CC
+Hues NNP
+was VBD
+recognized VBN
+with IN
+an DT
+Academy NNP
+Award NNP
+for IN
+Achievement NNP
+in IN
+Visual NNP
+Effects NNPS
+for IN
+its PRP$
+work NN
+on IN
+Babe NNP
+. .
+Rhythm & Hues
+
+
 While not directly related to this story, EMS provider Plexus does count Honeywell as one of its customers.
+While IN
+not RB
+directly RB
+related VBN
+to TO
+this DT
+story, NN
+EMS NNP
+provider NN
+Plexus NNP
+does VBZ
+count VB
+Honeywell NNP
+as IN
+one CD
+of IN
+its PRP$
+customers. NN
+
+
 There is no doubt that Apple is the most successful Tech company out there they are the best
+There EX
+is VBZ
+no DT
+doubt NN
+that IN
+Apple NNP
+is VBZ
+the DT
+most RBS
+successful JJ
+Tech NNP
+company NN
+out RB
+there RB
+they PRP
+are VBP
+the DT
+best JJS
+
+
 May Department Stores bought Marshall Fields  - but bye-bye Mervyn's 
+May NNP
+Department NNP
+Stores NNPS
+bought VBD
+Marshall NNP
+Fields NNP
+- :
+but CC
+bye-bye JJ
+Mervyn's NNP
+
+
 Global Solar Energy replaced Dow s original PV material provider in this program
+Global NNP
+Solar NNP
+Energy NNP
+replaced VBD
+Dow NNP
+s NNP
+original JJ
+PV NNP
+material NN
+provider NN
+in IN
+this DT
+program NN
+
+
 Hosted version of new-generation system, aiRES helps Airline reduce costs...
+Hosted VBN
+version NN
+of IN
+new-generation JJ
+system, NN
+aiRES NN
+helps VBZ
+Airline NNP
+reduce VB
+costs... NN
+
+
 BMW Designer Chris Bangle hands Resignation Papers to Car Maker
+BMW NNP
+Designer NNP
+Chris NNP
+Bangle NNP
+hands VBZ
+Resignation NNP
+Papers NNP
+to TO
+Car VB
+Maker NNP
+Car Maker
+
+
 Nemesysco and Television giant Endemol signed an exclusive cooperation agreement, to bring Nemesysco 's technologies to your TV screen.
+Nemesysco NNP
+and CC
+Television NNP
+giant NN
+Endemol NNP
+signed VBD
+an DT
+exclusive JJ
+cooperation NN
+agreement, NN
+to TO
+bring VB
+Nemesysco NNP
+'s POS
+technologies NNS
+to TO
+your PRP$
+TV NN
+screen. NN
+
+
 Who was Hemingway 's editor at Scribner 's Publishing House ?...
+Who WP
+was VBD
+Hemingway NNP
+'s POS
+editor NN
+at IN
+Scribner NNP
+'s POS
+Publishing NNP
+House NNP
+?... NN
+
+
 Rachel's Organic had a stand in the Organic Food
+Rachel's NNP
+Organic NNP
+had VBD
+a DT
+stand NN
+in IN
+the DT
+Organic NNP
+Food NNP
+
+
 I joined Accenture s New York office as Systems Integration & Technology Consulting analyst, aligned with the Technology Consulting workgroup.
+I PRP
+joined VBD
+Accenture NNP
+s NNP
+New NNP
+York NNP
+office NN
+as IN
+Systems NNP
+Integration NNP
+& CC
+Technology NNP
+Consulting NNP
+analyst, NN
+aligned VBN
+with IN
+the DT
+Technology NNP
+Consulting NNP
+workgroup. NN
+
+
 Vertex is the BPO subsidiary of British utility company, United Utilities 
+Vertex NNP
+is VBZ
+the DT
+BPO NNP
+subsidiary NN
+of IN
+British JJ
+utility NN
+company, NN
+United NNP
+Utilities NNS
+British
+
+
 3. Is DE Shaw securing Private Equity liquidity protection for Hedge Fund liquidity risks
+3. CD
+Is NNP
+DE NNP
+Shaw NNP
+securing VBG
+Private NNP
+Equity NNP
+liquidity NN
+protection NN
+for IN
+Hedge NNP
+Fund NNP
+liquidity NN
+risks NNS
+
+
 Kelvinator will be handled by Kitchen Appliances , a Videocon subsidiary which also markets the Sansui brand of colour televisions.
+Kelvinator NNP
+will MD
+be VB
+handled VBN
+by IN
+Kitchen NNP
+Appliances NNP
+, ,
+a DT
+Videocon NNP
+subsidiary NN
+which WDT
+also RB
+markets NNS
+the DT
+Sansui NNP
+brand NN
+of IN
+colour NN
+televisions. NN
+
+
 RightScale makes EC2 a better fit for SaaS 
+RightScale NNP
+makes VBZ
+EC2 NNP
+a DT
+better JJR
+fit NN
+for IN
+SaaS NNP
+
+
 Hawaiis leading Airline Company ? Hawaiian Airlines provides daily service between the Hawaiian Islands and Western United States ...
+Hawaiis NNP
+leading VBG
+Airline NNP
+Company NNP
+? .
+Hawaiian NNP
+Airlines NNPS
+provides VBZ
+daily JJ
+service NN
+between IN
+the DT
+Hawaiian NNP
+Islands NNP
+and CC
+Western NNP
+United NNP
+States NNPS
+... :
+
+
 , which spent $3.3 billion on BI leader Hyperion Solutions last year
+, ,
+which WDT
+spent VBD
+$3.3 NNP
+billion CD
+on IN
+BI NNP
+leader NN
+Hyperion NNP
+Solutions NNP
+last JJ
+year NN
+
+
 Moto occasion harley-davidson
+Moto NNP
+occasion NN
+harley-davidson NN
+
+
 A goal is to establish a regional Center for Excellence in Automobile Manufacturing modeled after Toyota ?s Kentucky plant
+A DT
+goal NN
+is VBZ
+to TO
+establish VB
+a DT
+regional JJ
+Center NNP
+for IN
+Excellence NNP
+in IN
+Automobile NNP
+Manufacturing NNP
+modeled VBD
+after IN
+Toyota NNP
+?s NNP
+Kentucky NNP
+plant NN
+
+
 And yet another article covering the VOIP market? The NYT takes on AT&T CallVantage .
+And CC
+yet RB
+another DT
+article NN
+covering VBG
+the DT
+VOIP NNP
+market? VBD
+The DT
+NYT NNP
+takes VBZ
+on IN
+AT&T NNP
+CallVantage NNP
+. .
+
+
 Accenture believes that Information Technology plays a vital role in helping organizations achieve high performance.
+Accenture NN
+believes VBZ
+that IN
+Information NNP
+Technology NNP
+plays VBZ
+a DT
+vital JJ
+role NN
+in IN
+helping VBG
+organizations NNS
+achieve VBP
+high JJ
+performance. NN
+
+
 Previously I used an ISP called Internode in Australia .
+Previously RB
+I PRP
+used VBD
+an DT
+ISP NNP
+called VBD
+Internode NNP
+in IN
+Australia NNP
+. .
+
+
 The NC Film Office is an agency of the North Carolina Department of Commerce , within the Division of Tourism, Film and Sports Development
+The DT
+NC NNP
+Film NNP
+Office NNP
+is VBZ
+an DT
+agency NN
+of IN
+the DT
+North NNP
+Carolina NNP
+Department NNP
+of IN
+Commerce NNP
+, ,
+within IN
+the DT
+Division NNP
+of IN
+Tourism, NNP
+Film NNP
+and CC
+Sports NNP
+Development NNP
+Department of Commerce
+
+
 Brewing only began at BrewDog in April 2007, when Watt and Dickie were 24 years old.
+Brewing VBG
+only RB
+began VBD
+at IN
+BrewDog NNP
+in IN
+April NNP
+2007, CD
+when WRB
+Watt NNP
+and CC
+Dickie NNP
+were VBD
+24 CD
+years NNS
+old. RB
+Brewing
+
+
 > Cable operator Virgin Media has started a mass-market super-fast broadband service in Britan, offering 50 Mbps speed.
+> NN
+Cable NNP
+operator NN
+Virgin NNP
+Media NNP
+has VBZ
+started VBN
+a DT
+mass-market JJ
+super-fast JJ
+broadband NN
+service NN
+in IN
+Britan, NNP
+offering VBG
+50 CD
+Mbps NNP
+speed. NN
+
+
 It is being released in J&K in July and Music will be released by T - Series .
+It PRP
+is VBZ
+being VBG
+released VBN
+in IN
+J&K NNP
+in IN
+July NNP
+and CC
+Music NNP
+will MD
+be VB
+released VBN
+by IN
+T NNP
+- :
+Series NN
+. .
+
+
 His first position was with Pennzoil E & P until Devon Energy bought the Oil and Gas part of Pennzoil in 1999.
+His PRP$
+first JJ
+position NN
+was VBD
+with IN
+Pennzoil NNP
+E NNP
+& CC
+P NNP
+until IN
+Devon NNP
+Energy NNP
+bought VBD
+the DT
+Oil NNP
+and CC
+Gas NNP
+part NN
+of IN
+Pennzoil NNP
+in IN
+1999. CD
+Oil and Gas
+
+
 Like iPrimus , Internode will also offer the option of an Internet -only plan without VOIP .
+Like IN
+iPrimus NN
+, ,
+Internode NNP
+will MD
+also RB
+offer VB
+the DT
+option NN
+of IN
+an DT
+Internet NNP
+-only RB
+plan NN
+without IN
+VOIP NNP
+. .
+
+
 Special Business: Great-West sells Business -owned Life Insurance products.
+Special JJ
+Business: NNP
+Great-West NNP
+sells VBZ
+Business NNP
+-owned VBD
+Life NNP
+Insurance NNP
+products. NN
+
+
 Great West Lifeco is the largest Canadian life and Health Insurance Company and serves s...
+Great NNP
+West NNP
+Lifeco NNP
+is VBZ
+the DT
+largest JJS
+Canadian JJ
+life NN
+and CC
+Health NNP
+Insurance NNP
+Company NNP
+and CC
+serves NNS
+s... VBP
+Canadian
+
+
 Jajah offers several VoIP calling products
+Jajah NNP
+offers VBZ
+several JJ
+VoIP NNP
+calling VBG
+products NNS
+
+
 Cable TV is available through Bright House , or, if you like WiFi , bring your own satellite dish.
+Cable JJ
+TV NN
+is VBZ
+available JJ
+through IN
+Bright NNP
+House NNP
+, ,
+or, RB
+if IN
+you PRP
+like VBP
+WiFi NNP
+, ,
+bring VB
+your PRP$
+own JJ
+satellite NN
+dish. NN
+Cable TV
+
+
 Belgian Railways - NMBS / SNCB ? NMBS / SNCB is the National Railway Company of Belgium .
+Belgian JJ
+Railways NNP
+- :
+NMBS NNP
+/ NNP
+SNCB NNP
+? .
+NMBS NNP
+/ NNP
+SNCB NNP
+is VBZ
+the DT
+National NNP
+Railway NNP
+Company NNP
+of IN
+Belgium NNP
+. .
+Belgian
+National Railway Company of Belgium
+
+
 A leading figure in the Games Industry , Jez founded Argonaut  in the early eighties.
+A DT
+leading JJ
+figure NN
+in IN
+the DT
+Games NNPS
+Industry NNP
+, ,
+Jez NNP
+founded VBD
+Argonaut NNP
+in IN
+the DT
+early JJ
+eighties. NN
+
+
 North Star Games puts Greenbelt on the Gameboard !
+North NNP
+Star NNP
+Games NNP
+puts VBZ
+Greenbelt NNP
+on IN
+the DT
+Gameboard NNP
+! .
+
+
 iCall lets you make VoIP calls over Wi-Fi with your iPhone
+iCall JJ
+lets VBZ
+you PRP
+make VBP
+VoIP JJ
+calls NNS
+over IN
+Wi-Fi NNP
+with IN
+your PRP$
+iPhone NN
+iCall
+VoIP
+
+
 Reports on Information Security published by Websense , Inc .
+Reports NNS
+on IN
+Information NNP
+Security NNP
+published VBN
+by IN
+Websense NNP
+, ,
+Inc NNP
+. .
+
+
 You'll find the best prices on Fire video games, Agetec in Video Games when you shop online at BizRate .
+You'll NNP
+find VBP
+the DT
+best JJS
+prices NNS
+on IN
+Fire NNP
+video NN
+games, NN
+Agetec NNP
+in IN
+Video NNP
+Games NNPS
+when WRB
+you PRP
+shop VBP
+online JJ
+at IN
+BizRate NNP
+. .
+
+
 MUMBAI , Jan 20, 2009  , FMCG player Emami is looking for acquisitions in the personal healthcare business.
+MUMBAI NNP
+, ,
+Jan NNP
+20, CD
+2009 CD
+, ,
+FMCG NNP
+player NN
+Emami NNP
+is VBZ
+looking VBG
+for IN
+acquisitions NNS
+in IN
+the DT
+personal JJ
+healthcare NN
+business. NN
+
+
 Quoted: Speakeasy offers superior Voice over IP , T1 , DSL and a range of broadband services customized for small businesses.
+Quoted: NNP
+Speakeasy NNP
+offers VBZ
+superior JJ
+Voice NNP
+over IN
+IP NNP
+, ,
+T1 NNP
+, ,
+DSL NNP
+and CC
+a DT
+range NN
+of IN
+broadband NN
+services NNS
+customized VBN
+for IN
+small JJ
+businesses. NN
+Voice over IP
+
+
 Swap these gasoline points in order to pitier receive plane tickets casper of Northwest gasoline credit Airlines .
+Swap NNP
+these DT
+gasoline NN
+points NNS
+in IN
+order NN
+to TO
+pitier VB
+receive JJ
+plane NN
+tickets NNS
+casper NN
+of IN
+Northwest NNP
+gasoline NN
+credit NN
+Airlines NNS
+. .
+
+
 In fact, just this week, German PV manufacturer, Solarworld AG , announced that its 2005 profits nearly tripled from 2004.
+In IN
+fact, NN
+just RB
+this DT
+week, JJ
+German JJ
+PV NNP
+manufacturer, NN
+Solarworld NNP
+AG NNP
+, ,
+announced VBD
+that IN
+its PRP$
+2005 CD
+profits NNS
+nearly RB
+tripled VBD
+from IN
+2004. CD
+German
+
+
 Third edition RPG icon Monte Cook comes to Paizo with a new print edition of his popular Books of Experimental Might !
+Third JJ
+edition NN
+RPG NNP
+icon NN
+Monte NNP
+Cook NNP
+comes VBZ
+to TO
+Paizo VB
+with IN
+a DT
+new JJ
+print NN
+edition NN
+of IN
+his PRP$
+popular JJ
+Books NNP
+of IN
+Experimental NNP
+Might NNP
+! .
+Paizo
+Books of Experimental Might
+
+
 EastEnders pips Dr Who on Paramount Pictures news story, GI JOE GETS A MAKEOVER FOR MOVIE 
+EastEnders NNS
+pips NNS
+Dr NNP
+Who WP
+on IN
+Paramount NNP
+Pictures NNP
+news NN
+story, NN
+GI NNP
+JOE NNP
+GETS NNP
+A NNP
+MAKEOVER NNP
+FOR NNP
+MOVIE NNP
+
+
 Asurion is who Alltel goes through, Nextel goes through Signal , not sure who Sprint uses
+Asurion NN
+is VBZ
+who WP
+Alltel NNP
+goes VBZ
+through, JJ
+Nextel NNP
+goes VBZ
+through IN
+Signal NNP
+, ,
+not RB
+sure JJ
+who WP
+Sprint VBP
+uses NNS
+
+
 SOFTWARE group Sage rewarded investors with a near-doubling in its annual dividend payout
+SOFTWARE NNP
+group NN
+Sage NNP
+rewarded VBD
+investors NNS
+with IN
+a DT
+near-doubling JJ
+in IN
+its PRP$
+annual JJ
+dividend NN
+payout NN
+
+
 ... Kino und Film Forum ... Forum   MOVIES &amp; more   MOVIE &amp; more Spam   Bester ... Forensoftware: Burning Board 2.3.6,
+... :
+Kino NNP
+und IN
+Film NNP
+Forum NNP
+... :
+Forum NNP
+MOVIES NNP
+&amp; NNP
+more RBR
+MOVIE NNP
+&amp; NNP
+more RBR
+Spam NNP
+Bester NNP
+... :
+Forensoftware: NNP
+Burning NNP
+Board NNP
+2.3.6, CD
+
+
 You'll find the best prices on Fire video games, Ubisoft in Video Games when you shop online at BizRate .
+You'll NNP
+find VBP
+the DT
+best JJS
+prices NNS
+on IN
+Fire NNP
+video NN
+games, NN
+Ubisoft NNP
+in IN
+Video NNP
+Games NNPS
+when WRB
+you PRP
+shop VBP
+online JJ
+at IN
+BizRate NNP
+. .
+
+
 AOL unveils Bebo integration plan | Media | guardian.co.uk - AOL 's [...]
+AOL NNP
+unveils VBZ
+Bebo NNP
+integration NN
+plan NN
+| NNP
+Media NNP
+| NNP
+guardian.co.uk SYM
+- :
+AOL NNP
+'s POS
+[...] NN
+
+
 Penguin and Education push Pearson
+Penguin NNP
+and CC
+Education NNP
+push NN
+Pearson NNP
+
+
 Ted Leonsis , co-chairman of AOL , and owner of the Washington Wizards basketball team, also spoke at Web 2.0 yesterday.
+Ted NNP
+Leonsis NNP
+, ,
+co-chairman NN
+of IN
+AOL NNP
+, ,
+and CC
+owner NN
+of IN
+the DT
+Washington NNP
+Wizards NNP
+basketball NN
+team, NN
+also RB
+spoke VBD
+at IN
+Web NNP
+2.0 CD
+yesterday. NN
+Web 2.0
+
+
 CD-adapco is the world's largest independent CFD ? focused CAE provider.
+CD-adapco NNP
+is VBZ
+the DT
+world's JJ
+largest JJS
+independent JJ
+CFD NNP
+? .
+focused VBD
+CAE NNP
+provider. NN
+
+
 Full Tilt was followed by Party Poker , which recently released a downloadable Mac version of its popular software.
+Full NNP
+Tilt NNP
+was VBD
+followed VBN
+by IN
+Party NNP
+Poker NNP
+, ,
+which WDT
+recently RB
+released VBD
+a DT
+downloadable JJ
+Mac NNP
+version NN
+of IN
+its PRP$
+popular JJ
+software. NN
+
+
 Earthdawn is a Fantasy role-playing game, or RPG produced originally by FASA 
+Earthdawn NNP
+is VBZ
+a DT
+Fantasy NNP
+role-playing JJ
+game, NN
+or CC
+RPG NNP
+produced VBN
+originally RB
+by IN
+FASA NNP
+
+
 OMEGA of Manufacturer prestige Swiss
+OMEGA NNP
+of IN
+Manufacturer NNP
+prestige FW
+Swiss NNP
+
+
 GOLD AUTOMATIC CALENDAR CENTRE SECONDS WRISTWATCH signed Omega , Chronometer Officially Certified, Constellation , circa 1965.
+GOLD NNP
+AUTOMATIC NNP
+CALENDAR NNP
+CENTRE NNP
+SECONDS NNP
+WRISTWATCH NNP
+signed VBD
+Omega NNP
+, ,
+Chronometer NNP
+Officially NNP
+Certified, NNP
+Constellation NNP
+, ,
+circa VBZ
+1965. CD
+
+
 AOL , Compuserve and Prodigy are examples of OSP 's
+AOL NNP
+, ,
+Compuserve NNP
+and CC
+Prodigy NNP
+are VBP
+examples NNS
+of IN
+OSP NNP
+'s POS
+
+
 The table shows that UTI top Mutual Funds  whereas Principal Asset Mgmt Co  gets the second position.
+The DT
+table NN
+shows VBZ
+that IN
+UTI NNP
+top JJ
+Mutual NNP
+Funds NNP
+whereas JJ
+Principal NNP
+Asset NNP
+Mgmt NNP
+Co NNP
+gets VBZ
+the DT
+second JJ
+position. NN
+
+
 Tech Mahindra 's commitment to Bahrain underlines the country's position as a leading Information Technology  hub in the region
+Tech NNP
+Mahindra NNP
+'s POS
+commitment NN
+to TO
+Bahrain NNP
+underlines VBZ
+the DT
+country's JJ
+position NN
+as IN
+a DT
+leading VBG
+Information NNP
+Technology NNP
+hub NN
+in IN
+the DT
+region NN
+
+
 Computhink provides best-in-class ECM solutions for secure information sharing and compliance, targeting small and medium size organizations.
+Computhink NNP
+provides VBZ
+best-in-class NN
+ECM NNP
+solutions NNS
+for IN
+secure NN
+information NN
+sharing NN
+and CC
+compliance, NN
+targeting VBG
+small JJ
+and CC
+medium JJ
+size NN
+organizations. NN
+
+
 Technologies used at large Internet Service Providers , like AOL , and many businesses affect the accuracy of web site statistics.
+Technologies NNS
+used VBN
+at IN
+large JJ
+Internet NNP
+Service NNP
+Providers NNPS
+, ,
+like IN
+AOL NNP
+, ,
+and CC
+many JJ
+businesses NNS
+affect VBP
+the DT
+accuracy NN
+of IN
+web JJ
+site NN
+statistics. NN
+
+
 - Comcast and Newscorp respond to the Google / Yahoo threat...there's more than Print at stake here
+- :
+Comcast NN
+and CC
+Newscorp NNP
+respond NN
+to TO
+the DT
+Google NNP
+/ NNP
+Yahoo NNP
+threat...there's VBZ
+more JJR
+than IN
+Print NN
+at IN
+stake NN
+here RB
+
+
 ENERGY supplier Scottish & Southern Energy has announced plans to raise around ?500m through a placing of 40 million new shares.
+ENERGY NNP
+supplier NN
+Scottish NNP
+& CC
+Southern NNP
+Energy NNP
+has VBZ
+announced VBN
+plans NNS
+to TO
+raise VB
+around RP
+?500m NNP
+through IN
+a DT
+placing NN
+of IN
+40 CD
+million CD
+new JJ
+shares. NN
+Scottish & Southern Energy
+
+
 His career in the Games industry started with Virgin Mastertronic in the late 1980s
+His PRP$
+career NN
+in IN
+the DT
+Games NNPS
+industry NN
+started VBD
+with IN
+Virgin NNP
+Mastertronic NNP
+in IN
+the DT
+late JJ
+1980s NNS
+
+
 PG Raghuraman is the lead executive for Accenture s Delivery Centres for BPO in India .
+PG NNP
+Raghuraman NNP
+is VBZ
+the DT
+lead JJ
+executive NN
+for IN
+Accenture NNP
+s NNP
+Delivery NNP
+Centres NNP
+for IN
+BPO NNP
+in IN
+India NNP
+. .
+
+
 I sometimes say that Amway / Quixtar arguably has the worst reputation in the Network Marketing industry.
+I PRP
+sometimes RB
+say VBP
+that IN
+Amway NNP
+/ NNP
+Quixtar NNP
+arguably RB
+has VBZ
+the DT
+worst JJS
+reputation NN
+in IN
+the DT
+Network NNP
+Marketing NNP
+industry. NN
+
+
 The Airlines include BMI , Easy Jet, British Airways and Iberia .
+The DT
+Airlines NNP
+include VBP
+BMI NNP
+, ,
+Easy NNP
+Jet, NNP
+British NNP
+Airways NNP
+and CC
+Iberia NNP
+. .
+
+
 Air Baltic also proposes tourist services such as Rail & Fly with the german railway   Deutsche Bahn  
+Air NNP
+Baltic NNP
+also RB
+proposes VBZ
+tourist NN
+services NNS
+such JJ
+as IN
+Rail NNP
+& CC
+Fly NNP
+with IN
+the DT
+german JJ
+railway NN
+Deutsche NNP
+Bahn NNP
+
+
 ENGINEERING group Amec has won a multi-million pound contract to modify a coal-fired power station in Northern Ireland .
+ENGINEERING NN
+group NN
+Amec NNP
+has VBZ
+won VBN
+a DT
+multi-million NN
+pound NN
+contract NN
+to TO
+modify VB
+a DT
+coal-fired JJ
+power NN
+station NN
+in IN
+Northern NNP
+Ireland NNP
+. .
+
+
 Professional Wrestling und Mixed Martial Arts - WWE , TNA , MMA - Neuheiten und Reports ... NameNickname:, BARBIE STONE.
+Professional JJ
+Wrestling NNP
+und NN
+Mixed NNP
+Martial NNP
+Arts NNP
+- :
+WWE NNP
+, ,
+TNA NNP
+, ,
+MMA NNP
+- :
+Neuheiten NNP
+und JJ
+Reports NNS
+... :
+NameNickname:, NNP
+BARBIE NNP
+STONE. NNP
+Professional Wrestling
+
+
 Ralph's is a great California chain of Grocery Stores made famous by one Jeffrey Lebowski 
+Ralph's NNP
+is VBZ
+a DT
+great JJ
+California NNP
+chain NN
+of IN
+Grocery NNP
+Stores NNPS
+made VBD
+famous JJ
+by IN
+one CD
+Jeffrey NNP
+Lebowski NNP
+
+
 Investment Banking is provided through Thomas Weisel Partners of San Francisco , California .
+Investment NN
+Banking NN
+is VBZ
+provided VBN
+through IN
+Thomas NNP
+Weisel NNP
+Partners NNP
+of IN
+San NNP
+Francisco NNP
+, ,
+California NNP
+. .
+
+
 Disruptive qualities: Alibaba has found ways to connect with China burgeoning Internet population: 210 million users and growing!
+Disruptive JJ
+qualities: NN
+Alibaba NNP
+has VBZ
+found VBN
+ways NNS
+to TO
+connect VB
+with IN
+China NNP
+burgeoning VBG
+Internet NNP
+population: $
+210 CD
+million CD
+users NNS
+and CC
+growing! NN
+
+
 Gahtan's Technology and Inte Law Blog, Voice over IP  Update, Users can access FWD using special VOIP
+Gahtan's NNP
+Technology NNP
+and CC
+Inte NNP
+Law NNP
+Blog, NNP
+Voice NNP
+over IN
+IP NNP
+Update, NNP
+Users NNP
+can MD
+access NN
+FWD NNP
+using VBG
+special JJ
+VOIP NNP
+
+
 SSD maker Fusion-io announced today that Apple founder Steve Wozniak has joined it as Chief Scientist
+SSD NN
+maker NN
+Fusion-io NNP
+announced VBD
+today NN
+that IN
+Apple NNP
+founder NN
+Steve NNP
+Wozniak NNP
+has VBZ
+joined VBN
+it PRP
+as IN
+Chief NNP
+Scientist NNP
+
+
 She?s no less the oilwoman than Bush was the Oilman , her husband being a BP employee
+She?s NNP
+no DT
+less JJR
+the DT
+oilwoman NN
+than IN
+Bush NNP
+was VBD
+the DT
+Oilman NNP
+, ,
+her PRP$
+husband NN
+being VBG
+a DT
+BP NNP
+employee NN
+
+
 Many customers search for DIRECTV using terms like DIRECT TV , DIRECTTV , SATELLITE TV , and DISH TV .
+Many JJ
+customers NNS
+search VBP
+for IN
+DIRECTV NNP
+using VBG
+terms NNS
+like IN
+DIRECT NNP
+TV NN
+, ,
+DIRECTTV NNP
+, ,
+SATELLITE NNP
+TV NN
+, ,
+and CC
+DISH NNP
+TV NNP
+. .
+
+
 Lexis bought Book Publishing who first commercially published the Code after the recodification in 1990
+Lexis NNP
+bought VBD
+Book NNP
+Publishing NNP
+who WP
+first RB
+commercially RB
+published VBN
+the DT
+Code NNP
+after IN
+the DT
+recodification NN
+in IN
+1990 CD
+
+
 I do not think it is good policy either, since Bear Stearns was an INVESTMENT firm
+I PRP
+do VBP
+not RB
+think VB
+it PRP
+is VBZ
+good JJ
+policy NN
+either, NN
+since IN
+Bear NNP
+Stearns NNP
+was VBD
+an DT
+INVESTMENT NNP
+firm NN
+
+
 INVESTMENT company Dubai International Capital
+INVESTMENT NN
+company NN
+Dubai NNP
+International NNP
+Capital NNP
+
+
 He joined Macquarie in 1999 via Macquarie 's acquisition of the Investment Banking business of Bankers Trust Australia.
+He PRP
+joined VBD
+Macquarie NNP
+in IN
+1999 CD
+via IN
+Macquarie NNP
+'s POS
+acquisition NN
+of IN
+the DT
+Investment NNP
+Banking NNP
+business NN
+of IN
+Bankers NNPS
+Trust NNP
+Australia. NNP
+
+
 A healthy saving on your health insurance PruHealth have a unique approach to Health Insurance .
+A DT
+healthy JJ
+saving VBG
+on IN
+your PRP$
+health NN
+insurance NN
+PruHealth NNP
+have VBP
+a DT
+unique JJ
+approach NN
+to TO
+Health NNP
+Insurance NNP
+. .
+
+
 Effective immediately, Deutsche Post World Net will separate the LOGISTICS corporate division into two operating units.
+Effective JJ
+immediately, NN
+Deutsche NNP
+Post NNP
+World NNP
+Net NNP
+will MD
+separate VB
+the DT
+LOGISTICS NNP
+corporate JJ
+division NN
+into IN
+two CD
+operating VBG
+units. NN
+
+
 Budget Rent A Car is a Car Hire company located in Perth WA .
+Budget NNP
+Rent NNP
+A NNP
+Car NNP
+is VBZ
+a DT
+Car NN
+Hire NNP
+company NN
+located VBN
+in IN
+Perth NNP
+WA NNP
+. .
+
+
 Best prices on Ps2 games, Sega in Video Games 
+Best JJS
+prices NNS
+on IN
+Ps2 NNP
+games, NN
+Sega NNP
+in IN
+Video NNP
+Games NNP
+
+
 Tags: 250-C20, Aero engines, Aerospace , Airbus , Aircraft engines...
+Tags: NNP
+250-C20, JJ
+Aero NNP
+engines, NN
+Aerospace NNP
+, ,
+Airbus NNP
+, ,
+Aircraft NNP
+engines... NN
+
+
 Better Place already has EV community infrastructrure project s in Isreal and Denmark 
+Better NNP
+Place NNP
+already RB
+has VBZ
+EV NNP
+community NN
+infrastructrure NN
+project NN
+s NN
+in IN
+Isreal NNP
+and CC
+Denmark NNP
+
+
 Primus got involved in VoIP traffic in 1998, says Geoffrey Hicks, senior vice president of network services and technology.
+Primus NNP
+got VBD
+involved VBN
+in IN
+VoIP NNP
+traffic NN
+in IN
+1998, CD
+says VBZ
+Geoffrey NNP
+Hicks, NNP
+senior JJ
+vice NN
+president NN
+of IN
+network NN
+services NNS
+and CC
+technology. NN
+
+
 Trina Solar provided most of the PV panels, while Gestamp Asetym provided management and design engineering for the project.
+Trina NNP
+Solar NNP
+provided VBD
+most JJS
+of IN
+the DT
+PV NNP
+panels, NN
+while IN
+Gestamp NNP
+Asetym NNP
+provided VBD
+management NN
+and CC
+design NN
+engineering NN
+for IN
+the DT
+project. NN
+
+
 Every time I walk into Walmart it reminds me of the Department Stores owned by the Communist States
+Every DT
+time NN
+I PRP
+walk VBP
+into IN
+Walmart NNP
+it PRP
+reminds VBZ
+me PRP
+of IN
+the DT
+Department NNP
+Stores NNPS
+owned VBN
+by IN
+the DT
+Communist NNP
+States NNPS
+
+
 Partnerships with global ICT leaders, IBM , Orange Business Services and Microsoft further enhance our ability to deliver quality solutions world-wide.
+Partnerships NNS
+with IN
+global JJ
+ICT NNP
+leaders, NN
+IBM NNP
+, ,
+Orange NNP
+Business NNP
+Services NNPS
+and CC
+Microsoft NNP
+further RB
+enhance VB
+our PRP$
+ability NN
+to TO
+deliver VB
+quality JJ
+solutions NNS
+world-wide. VBP
+
+
 Best prices on Atlus , M  in Video Games .
+Best JJS
+prices NNS
+on IN
+Atlus NNP
+, ,
+M NNP
+in IN
+Video NNP
+Games NNP
+. .
+
+
 Ecm specialist Open Text has appointed Delicia Cordeaux as technical director for Asia Pacific .
+Ecm NNP
+specialist NN
+Open NNP
+Text NNP
+has VBZ
+appointed VBN
+Delicia NNP
+Cordeaux NNP
+as IN
+technical JJ
+director NN
+for IN
+Asia NNP
+Pacific NNP
+. .
+
+
 US : Ford confirms Lincoln MKT 'concept' for production: Automotive .
+US NN
+: :
+Ford NNP
+confirms VBZ
+Lincoln NNP
+MKT NNP
+'concept' POS
+for IN
+production: JJ
+Automotive NNP
+. .
+
+
 Astound Broadband competes with incumbent Cable TV carrier, Satellite carrier, Telephone company, and ISPs.
+Astound NNP
+Broadband NNP
+competes VBZ
+with IN
+incumbent JJ
+Cable NNP
+TV NN
+carrier, NN
+Satellite NNP
+carrier, NN
+Telephone NNP
+company, NN
+and CC
+ISPs. NNP
+
+
 Voxbone provides Voice over IP  virtual phone numbers in Brazil.
+Voxbone NNP
+provides VBZ
+Voice NNP
+over IN
+IP NNP
+virtual JJ
+phone NN
+numbers NNS
+in IN
+Brazil. NNP
+Voice over IP
+
+
 Ad group Omnicom has launched a global consultancy called Mobile Behavior.
+Ad NNP
+group NN
+Omnicom NNP
+has VBZ
+launched VBN
+a DT
+global JJ
+consultancy NN
+called VBN
+Mobile NNP
+Behavior. NNP
+
+
 Saint-Leon, Rhoda Marcus de,   Comme des Garçons : Rei Kawakubo Makes Magic ,  in American Fabrics and Fashions , Fall 1983
+Saint-Leon, JJ
+Rhoda NNP
+Marcus NNP
+de, VBZ
+Comme NNP
+des FW
+Garçons NNS
+: :
+Rei NNP
+Kawakubo NNP
+Makes NNP
+Magic NNP
+, ,
+in IN
+American JJ
+Fabrics NNS
+and CC
+Fashions NNS
+, ,
+Fall NN
+1983 CD
+Comme des Garçons
+
+
 VocalTec and Cisco will provide an end-to-end solution for handling pre- and post-paid VoIP calling services for Bell Atlantic 
+VocalTec NNP
+and CC
+Cisco NNP
+will MD
+provide VB
+an DT
+end-to-end JJ
+solution NN
+for IN
+handling VBG
+pre- JJ
+and CC
+post-paid JJ
+VoIP NNP
+calling VBG
+services NNS
+for IN
+Bell NNP
+Atlantic NNP
+
+
 Tata Consultancy Services  is a global IT Consulting , IT services and BPO organisation
+Tata NNP
+Consultancy NNP
+Services NNPS
+is VBZ
+a DT
+global JJ
+IT NNP
+Consulting NNP
+, ,
+IT NNP
+services NNS
+and CC
+BPO NNP
+organisation NN
+
+
 Now it is for Project B.Box! Steinberg is distributing the next generation of this innovative Software Tool .
+Now RB
+it PRP
+is VBZ
+for IN
+Project NNP
+B.Box! NNP
+Steinberg NNP
+is VBZ
+distributing VBG
+the DT
+next JJ
+generation NN
+of IN
+this DT
+innovative JJ
+Software NNP
+Tool NNP
+. .
+
+
 The bottom cell is filled with a proprietary polymer first disclosed last year by plastic PV developer Konarka Technologies <http://www.konarkatech.com/>
+The DT
+bottom NN
+cell NN
+is VBZ
+filled VBN
+with IN
+a DT
+proprietary JJ
+polymer NN
+first RB
+disclosed VBN
+last JJ
+year NN
+by IN
+plastic NN
+PV NNP
+developer NN
+Konarka NNP
+Technologies NNPS
+<http://www.konarkatech.com/> VBP
+
+
 The Commonwealth Bank of Australia has been operating in Tokyo , Japan since 1986, and has recently expanded into Retail Banking Services
+The DT
+Commonwealth NNP
+Bank NNP
+of IN
+Australia NNP
+has VBZ
+been VBN
+operating VBG
+in IN
+Tokyo NNP
+, ,
+Japan NNP
+since IN
+1986, CD
+and CC
+has VBZ
+recently RB
+expanded VBN
+into IN
+Retail NNP
+Banking NNP
+Services NNS
+Commonwealth Bank of Australia
+
+
 Welcome to AMR 's online resource for EMS education!
+Welcome VB
+to TO
+AMR NNP
+'s POS
+online NN
+resource NN
+for IN
+EMS NNP
+education! NN
+
+
 The London based Internet Telephone provider, Voipfone ,  today added 0800 number services to its widening range of telecommunication products
+The DT
+London NNP
+based VBN
+Internet NNP
+Telephone NNP
+provider, NN
+Voipfone NNP
+, ,
+today NN
+added VBD
+0800 CD
+number NN
+services NNS
+to TO
+its PRP$
+widening VBG
+range NN
+of IN
+telecommunication NN
+products NNS
+
+
 CNET named MindSpring the Internet Service Provider offering the 'Best Value,' and highlighted our 'first-rate technical support.'
+CNET NNP
+named VBD
+MindSpring VBG
+the DT
+Internet NNP
+Service NNP
+Provider NNP
+offering VBG
+the DT
+'Best JJS
+Value,' NN
+and CC
+highlighted VBD
+our PRP$
+'first-rate JJ
+technical JJ
+support.' NN
+MindSpring
+
+
 Examples of Internet Service Providers are America Online
+Examples NNS
+of IN
+Internet NNP
+Service NNP
+Providers NNP
+are VBP
+America NNP
+Online NNP
+
+
 Remember how people tell us that Xango is an MLM company that only runs on one product line?
+Remember NNP
+how WRB
+people NNS
+tell VBP
+us PRP
+that IN
+Xango NNP
+is VBZ
+an DT
+MLM NNP
+company NN
+that WDT
+only RB
+runs VBZ
+on IN
+one CD
+product NN
+line? NN
+
+
 * Journey to Wellness ? is not a Shaklee Corporation program, but a program designed by HealthMasters organization.
+* JJ
+Journey NNP
+to TO
+Wellness NNP
+? .
+is VBZ
+not RB
+a DT
+Shaklee NNP
+Corporation NNP
+program, NN
+but CC
+a DT
+program NN
+designed VBN
+by IN
+HealthMasters NNP
+organization. NN
+
+
 The Victorian ACS branch recently organised a fruitful seminar on IT 's future in Australia 
+The DT
+Victorian JJ
+ACS NNP
+branch NN
+recently RB
+organised VBD
+a DT
+fruitful JJ
+seminar NN
+on IN
+IT NNP
+'s POS
+future NN
+in IN
+Australia NNP
+Victorian
+
+
 Emirates is a Scheduled Airline flying from Gatwick Airport 's, North Terminal.
+Emirates NNS
+is VBZ
+a DT
+Scheduled JJ
+Airline NNP
+flying VBG
+from IN
+Gatwick NNP
+Airport NNP
+'s, POS
+North NNP
+Terminal. NNP
+Scheduled Airline
+
+
 ZenithOptimedia is the media agency for PUMA while Flare Communicatios handles PR .
+ZenithOptimedia NNP
+is VBZ
+the DT
+media NNS
+agency NN
+for IN
+PUMA NNP
+while IN
+Flare NNP
+Communicatios NNP
+handles VBZ
+PR NNP
+. .
+
+
 Shaklee was a pioneer of the MLM and Health Industries.
+Shaklee NNP
+was VBD
+a DT
+pioneer NN
+of IN
+the DT
+MLM NNP
+and CC
+Health NNP
+Industries. NNP
+
+
 In cooperation with AutoDesk , Roots of Peace supports greater use of sophisticated Geographic Information Systems  technology.
+In IN
+cooperation NN
+with IN
+AutoDesk NNP
+, ,
+Roots NNP
+of IN
+Peace NNP
+supports NNS
+greater JJR
+use NN
+of IN
+sophisticated JJ
+Geographic NNP
+Information NNP
+Systems NNP
+technology. NN
+Roots of Peace
+
+
 ... NetZero is a nationwide Internet Service Provider , available in more than 8,000 ... www.netzero.net
+... :
+NetZero NN
+is VBZ
+a DT
+nationwide JJ
+Internet NNP
+Service NNP
+Provider NNP
+, ,
+available JJ
+in IN
+more JJR
+than IN
+8,000 CD
+... :
+www.netzero.net NN
+
+
 Interactive Entertainment announced that the Harry Potter and the Order of the Phoenix videogame is in… EA and Warner Bros 
+Interactive JJ
+Entertainment NNP
+announced VBD
+that IN
+the DT
+Harry NNP
+Potter NNP
+and CC
+the DT
+Order NN
+of IN
+the DT
+Phoenix NNP
+videogame NN
+is VBZ
+in… JJ
+EA NNP
+and CC
+Warner NNP
+Bros NNP
+Interactive Entertainment
+Harry Potter and the Order of the Phoenix
+
+
 Zoom 's approach to VoIP may be unique, but it is certainly not the only exception
+Zoom NNP
+'s POS
+approach NN
+to TO
+VoIP NNP
+may MD
+be VB
+unique, JJ
+but CC
+it PRP
+is VBZ
+certainly RB
+not RB
+the DT
+only JJ
+exception NN
+
+
 Pipeline gas connections Mahanagar Gas Limited  and Indraprastha Gas Limited , Joint Venture companies of [[ GAIL (India) Limited | /m/02vzp1l ]] are supplying Piped Natural Gas  to 1.70 lakh...........................
+Pipeline NNP
+gas NN
+connections NNS
+Mahanagar NNP
+Gas NNP
+Limited NNP
+and CC
+Indraprastha NNP
+Gas NNP
+Limited NNP
+, ,
+Joint NNP
+Venture NNP
+companies NNS
+of IN
+[[ JJ
+GAIL NNP
+(India) NNP
+Limited NNP
+| NNP
+/m/02vzp1l NNP
+]] NNP
+are VBP
+supplying VBG
+Piped NNP
+Natural NNP
+Gas NNP
+to TO
+1.70 CD
+lakh........................... NN
+
+
 Travel Malta is now served by an ever growing number of Airlines including Ryan Air and Easyjet 
+Travel NNP
+Malta NNP
+is VBZ
+now RB
+served VBN
+by IN
+an DT
+ever RB
+growing VBG
+number NN
+of IN
+Airlines NNS
+including VBG
+Ryan NNP
+Air NNP
+and CC
+Easyjet NNP
+
+
 Capgemini is a global leader in Consulting , ...
+Capgemini NNP
+is VBZ
+a DT
+global JJ
+leader NN
+in IN
+Consulting NNP
+, ,
+... :
+
+
 First Car Rental is the official franchise partner of SIXT in South Africa .
+First RB
+Car NNP
+Rental NNP
+is VBZ
+the DT
+official JJ
+franchise NN
+partner NN
+of IN
+SIXT NNP
+in IN
+South NNP
+Africa NNP
+. .
+
+
 State Bank of India works with Infosys on the core-banking front and Mphasis  for its BPO functions.
+State NNP
+Bank NNP
+of IN
+India NNP
+works VBZ
+with IN
+Infosys NNP
+on IN
+the DT
+core-banking JJ
+front NN
+and CC
+Mphasis NNP
+for IN
+its PRP$
+BPO NNP
+functions. NN
+State Bank of India
+
+
 Under Steves leadership, Michelin s Truck and Earthmover divisions routinely exceeded projections and still remain market share leaders today.
+Under IN
+Steves NNP
+leadership, NNP
+Michelin NNP
+s NNP
+Truck NNP
+and CC
+Earthmover NNP
+divisions NNS
+routinely RB
+exceeded VBD
+projections NNS
+and CC
+still RB
+remain VBP
+market NN
+share NN
+leaders NNS
+today. VBP
+
+
 Best prices on Wars wii, Electronic Arts in Video Games 
+Best JJS
+prices NNS
+on IN
+Wars NNP
+wii, NN
+Electronic NNP
+Arts NNS
+in IN
+Video NNP
+Games NNP
+
+
 Pakistan Software Export Board  is a government-owned organization that is mandated to promote Pakistan s Information Technology  industry
+Pakistan NNP
+Software NNP
+Export NNP
+Board NNP
+is VBZ
+a DT
+government-owned JJ
+organization NN
+that WDT
+is VBZ
+mandated VBN
+to TO
+promote VB
+Pakistan NNP
+s NNP
+Information NNP
+Technology NNP
+industry NN
+
+
 AAI Corporation has openings for Mechanical , Electronic and Aerospace engineers and engineering technicians.
+AAI NNP
+Corporation NNP
+has VBZ
+openings NNS
+for IN
+Mechanical NNP
+, ,
+Electronic NNP
+and CC
+Aerospace NNP
+engineers NNS
+and CC
+engineering NN
+technicians. NN
+
+
 It's partnering with Australian VoIP equipment manufacturer Freshtel 
+It's NNP
+partnering VBG
+with IN
+Australian JJ
+VoIP NNP
+equipment NN
+manufacturer NN
+Freshtel NNP
+Australian
+
+
 ACS has been providing a host of BPO services for the Apollo Group since May of 2002.
+ACS NNP
+has VBZ
+been VBN
+providing VBG
+a DT
+host NN
+of IN
+BPO NNP
+services NNS
+for IN
+the DT
+Apollo NNP
+Group NNP
+since IN
+May NNP
+of IN
+2002. CD
+
+
 Radar Networks is pioneering the Semantic Web , sometimes referred to as Web 3.0 .
+Radar NNP
+Networks NNP
+is VBZ
+pioneering VBG
+the DT
+Semantic NNP
+Web NNP
+, ,
+sometimes RB
+referred VBD
+to TO
+as IN
+Web NNP
+3.0 CD
+. .
+Web 3.0
+
+
 TELECOMS firm CABLE & WIRELESS has put on ice plans to divide into two businesses
+TELECOMS NNP
+firm NN
+CABLE NNP
+& CC
+WIRELESS NNP
+has VBZ
+put VBN
+on IN
+ice NN
+plans NNS
+to TO
+divide VB
+into IN
+two CD
+businesses NNS
+CABLE & WIRELESS
+
+
 The whole Airline Industry would be a lot better off without Southwest
+The DT
+whole JJ
+Airline NNP
+Industry NNP
+would MD
+be VB
+a DT
+lot NN
+better JJR
+off IN
+without IN
+Southwest NNP
+
+
 www.robotron-2084.co.uk - Preserving Williams, Atari and Taito 1980's Video Games and Pinball Machines for the future!
+www.robotron-2084.co.uk JJ
+- :
+Preserving VBG
+Williams, NNP
+Atari NNP
+and CC
+Taito NNP
+1980's CD
+Video NNP
+Games NNPS
+and CC
+Pinball NNP
+Machines NNP
+for IN
+the DT
+future! NN
+
+
 (cargo shipping company that among other things ran a dedicated cold chain set up for Pharma company Ranbaxy ).
+(cargo NN
+shipping VBG
+company NN
+that WDT
+among IN
+other JJ
+things NNS
+ran VBD
+a DT
+dedicated JJ
+cold NN
+chain NN
+set VBD
+up RP
+for IN
+Pharma NNP
+company NN
+Ranbaxy NNP
+). NN
+
+
 India Gives Monsanto an Unstable Lab for Genetics in Farming 
+India NNP
+Gives NNP
+Monsanto NNP
+an DT
+Unstable JJ
+Lab NN
+for IN
+Genetics NNP
+in IN
+Farming VBG
+Farming
+
+
 Asurion is who Alltel goes through, Nextel goes through Signal , not sure who Sprint uses
+Asurion NN
+is VBZ
+who WP
+Alltel NNP
+goes VBZ
+through, JJ
+Nextel NNP
+goes VBZ
+through IN
+Signal NNP
+, ,
+not RB
+sure JJ
+who WP
+Sprint VBP
+uses NNS
+
+
 Email a copy of PE firm Onex sees gold in beaten-up buyout debt to a friend.
+Email VB
+a DT
+copy NN
+of IN
+PE NNP
+firm NN
+Onex NNP
+sees VBZ
+gold NN
+in IN
+beaten-up NN
+buyout NN
+debt NN
+to TO
+a DT
+friend. NN
+
+
 Alpinesportinggoods.com carries Burton 's line of Snowboard boots including the Freestyle and Moto series.
+Alpinesportinggoods.com NNP
+carries VBZ
+Burton NNP
+'s POS
+line NN
+of IN
+Snowboard NNP
+boots NNS
+including VBG
+the DT
+Freestyle NNP
+and CC
+Moto NNP
+series. NN
+
+
 The shut down of its network operations follows the closure of VoIP provider Sunrocket 
+The DT
+shut JJ
+down NN
+of IN
+its PRP$
+network NN
+operations NNS
+follows VBZ
+the DT
+closure NN
+of IN
+VoIP NNP
+provider NN
+Sunrocket NN
+
+
 2001 -? Cable operator Comcast mounted a $41 billion hostile bid to merge with AT&T Broadband 
+2001 CD
+-? NNP
+Cable NNP
+operator NN
+Comcast NNP
+mounted VBD
+a DT
+$41 JJ
+billion CD
+hostile JJ
+bid NN
+to TO
+merge VB
+with IN
+AT&T NNP
+Broadband NNP
+
+
 All you need to know about Biotech was AMGN and DNDN .
+All DT
+you PRP
+need VBP
+to TO
+know VB
+about IN
+Biotech NNP
+was VBD
+AMGN NNP
+and CC
+DNDN NNP
+. .
+
+
 UNIVERSAL MUSIC GROUP CLAIMS THE MUSIC CONTAINED IN THIS VIDEO IS INFRINGING.THEREFORE THE MUSIC HAS BEEN MUTED BY UMG.
+UNIVERSAL NNP
+MUSIC NNP
+GROUP NNP
+CLAIMS NNP
+THE NNP
+MUSIC NNP
+CONTAINED NNP
+IN NNP
+THIS NNP
+VIDEO NNP
+IS NNP
+INFRINGING.THEREFORE NNP
+THE NNP
+MUSIC NNP
+HAS NNP
+BEEN NNP
+MUTED NNP
+BY NNP
+UMG. NNP
+
+
 EarthLink also offers different types of Voice over Internet Protocol  phone services
+EarthLink NNP
+also RB
+offers VBZ
+different JJ
+types NNS
+of IN
+Voice NNP
+over IN
+Internet NNP
+Protocol NNP
+phone NN
+services NNS
+Voice over Internet Protocol
+
+
 Jcpenney is in the Department Stores industry in HOT SPRINGS NATIONAL PARK, AR .
+Jcpenney NNP
+is VBZ
+in IN
+the DT
+Department NNP
+Stores NNPS
+industry NN
+in IN
+HOT NNP
+SPRINGS NNP
+NATIONAL NNP
+PARK, NNP
+AR NNP
+. .
+
+
 RAIL : Ferrovie dello Stato  is the Italian
+RAIL NN
+: :
+Ferrovie NNP
+dello NN
+Stato NNP
+is VBZ
+the DT
+Italian JJ
+Italian
+
+
 Pharmaceutical manufactures? Pfizer
+Pharmaceutical JJ
+manufactures? NN
+Pfizer NNP
+Pharmaceutical
+
+
 We all know of the exciting things Tesla Motors is doing for the Automotive world.
+We PRP
+all DT
+know VBP
+of IN
+the DT
+exciting JJ
+things NNS
+Tesla NNP
+Motors NNPS
+is VBZ
+doing VBG
+for IN
+the DT
+Automotive NNP
+world. NN
+
+
 PokerStars hosts the World Championships of Online Poker  annually.
+PokerStars NNS
+hosts VBZ
+the DT
+World NNP
+Championships NNP
+of IN
+Online NNP
+Poker NNP
+annually. NN
+
+
 I get most of my services through Time Warner including Cable , Internet and Digital Phone .
+I PRP
+get VBP
+most JJS
+of IN
+my PRP$
+services NNS
+through IN
+Time NNP
+Warner NNP
+including VBG
+Cable NNP
+, ,
+Internet NNP
+and CC
+Digital NNP
+Phone NNP
+. .
+
+
 4. Blue Cross Health Plans - Quotes Health Insurance quotes online from Blue Cross .
+4. CD
+Blue NNP
+Cross NNP
+Health NNP
+Plans NNP
+- :
+Quotes VBZ
+Health NNP
+Insurance NNP
+quotes VBZ
+online VBP
+from IN
+Blue NNP
+Cross NNP
+. .
+
+
 Food Processing interviews Archer Daniels Midland Co. about its NovaLipid line of zero trans-fat oils.
+Food NN
+Processing VBG
+interviews NNS
+Archer NNP
+Daniels NNP
+Midland NNP
+Co. NNP
+about IN
+its PRP$
+NovaLipid NNP
+line NN
+of IN
+zero CD
+trans-fat JJ
+oils. NN
+Food Processing
+
+
 Information Technology  company Dimension Data Holdings
+Information NNP
+Technology NNP
+company NN
+Dimension NNP
+Data NNP
+Holdings NNS
+
+
 www.robotron-2084.co.uk - Preserving Williams, Atari and Taito 1980's Video Games and Pinball Machines for the future!
+www.robotron-2084.co.uk JJ
+- :
+Preserving VBG
+Williams, NNP
+Atari NNP
+and CC
+Taito NNP
+1980's CD
+Video NNP
+Games NNPS
+and CC
+Pinball NNP
+Machines NNP
+for IN
+the DT
+future! NN
+
+
 While VoicePulse receives high marks from many VoIP
+While IN
+VoicePulse NNP
+receives VBZ
+high JJ
+marks NNS
+from IN
+many JJ
+VoIP NNP
+
+
 Hosting is a service provided by a ISP , such as Earthlink a leading provider in Atlanta .
+Hosting NNP
+is VBZ
+a DT
+service NN
+provided VBN
+by IN
+a DT
+ISP NNP
+, ,
+such JJ
+as IN
+Earthlink NNP
+a DT
+leading VBG
+provider NN
+in IN
+Atlanta NNP
+. .
+
+
 One And Only Network - Appears to have been bought by Match.Com, whose Affiliate Program is run by Commission Junction .
+One CD
+And CC
+Only RB
+Network NNP
+- :
+Appears NNS
+to TO
+have VB
+been VBN
+bought VBN
+by IN
+Match.Com, NNP
+whose WP$
+Affiliate NNP
+Program NNP
+is VBZ
+run VBN
+by IN
+Commission NNP
+Junction NNP
+. .
+
+
 The Intercontinental Hotel is the best business accommodation among the Hotels in Amman in Jordan .
+The DT
+Intercontinental NNP
+Hotel NNP
+is VBZ
+the DT
+best JJS
+business NN
+accommodation NN
+among IN
+the DT
+Hotels NNP
+in IN
+Amman NNP
+in IN
+Jordan NNP
+. .
+
+
 Note that my Internet Service Provider  was Bell Sympatico .
+Note NN
+that IN
+my PRP$
+Internet NNP
+Service NNP
+Provider NNP
+was VBD
+Bell NNP
+Sympatico NNP
+. .
+
+
 He is currently Chief Economist of IXIS Corporate amd Investment Bank , a subsidary of NATIXIS .
+He PRP
+is VBZ
+currently RB
+Chief NNP
+Economist NNP
+of IN
+IXIS NNP
+Corporate NNP
+amd NN
+Investment NNP
+Bank NNP
+, ,
+a DT
+subsidary NN
+of IN
+NATIXIS NNP
+. .
+
+
 boringloser: Daves Quest  1988 Sierra Games Made for Movie Night , and our  Video Game
+boringloser: NN
+Daves NNP
+Quest NNP
+1988 CD
+Sierra NNP
+Games NNP
+Made NNP
+for IN
+Movie NNP
+Night NNP
+, ,
+and CC
+our PRP$
+Video NNP
+Game NNP
+
+
 I get most of my services through Time Warner including Cable , Internet and Digital Phone .
+I PRP
+get VBP
+most JJS
+of IN
+my PRP$
+services NNS
+through IN
+Time NNP
+Warner NNP
+including VBG
+Cable NNP
+, ,
+Internet NNP
+and CC
+Digital NNP
+Phone NNP
+. .
+
+
 Cruise America operates a joint venture with Thor Industries, Inc. , a leading maker of RVs , for renting to the public.
+Cruise NNP
+America NNP
+operates VBZ
+a DT
+joint JJ
+venture NN
+with IN
+Thor NNP
+Industries, NNP
+Inc. NNP
+, ,
+a DT
+leading VBG
+maker NN
+of IN
+RVs NNP
+, ,
+for IN
+renting VBG
+to TO
+the DT
+public. NN
+
+
 EW SCRIPPS CL A Daily Stock Prices Chart
+EW NNP
+SCRIPPS NNP
+CL NNP
+A NNP
+Daily NNP
+Stock NNP
+Prices NNP
+Chart NNP
+
+
 Jumeirah signs Luxury Hotel in Glasgow , Scotland
+Jumeirah NNP
+signs NNS
+Luxury NNP
+Hotel NNP
+in IN
+Glasgow NNP
+, ,
+Scotland NNP
+
+
 According to / Film , Pixar s Wall-E is the newest to add something to lobby charm.
+According VBG
+to TO
+/ NNP
+Film NNP
+, ,
+Pixar NNP
+s NNP
+Wall-E NNP
+is VBZ
+the DT
+newest JJS
+to TO
+add VB
+something NN
+to TO
+lobby VB
+charm. NN
+
+
 Qwest Communications is a front line player in the Telecommunications Industry .
+Qwest JJS
+Communications NNPS
+is VBZ
+a DT
+front JJ
+line NN
+player NN
+in IN
+the DT
+Telecommunications NNPS
+Industry NNP
+. .
+Qwest Communications
+
+
 For 2007, the Kudelski Group expects a further favorable development of both Digital TV and Public Access economics
+For IN
+2007, CD
+the DT
+Kudelski NNP
+Group NNP
+expects VBZ
+a DT
+further RBR
+favorable JJ
+development NN
+of IN
+both DT
+Digital NNP
+TV NN
+and CC
+Public NNP
+Access NNP
+economics NNS
+
+
 Lexus Could Become Hybrid -only Carmaker
+Lexus NNP
+Could NNP
+Become NNP
+Hybrid NNP
+-only RB
+Carmaker NNP
+
+
 Microsoft did best among Computer Software firms , while Siebel Systems did worst
+Microsoft NNP
+did VBD
+best JJS
+among IN
+Computer NNP
+Software NNP
+firms NNS
+, ,
+while IN
+Siebel NNP
+Systems NNPS
+did VBD
+worst VB
+
+
 Coradiant teamed up with Omniture to provide the most complete Web Analytics solution available.
+Coradiant NN
+teamed VBD
+up RP
+with IN
+Omniture NNP
+to TO
+provide VB
+the DT
+most RBS
+complete JJ
+Web NNP
+Analytics NNPS
+solution NN
+available. NN
+
+
 Alloy Media + Marketing commissioned a study by Harris Interactive toward the end of the 2007 school year.
+Alloy NNP
+Media NNP
++ NNP
+Marketing NNP
+commissioned VBD
+a DT
+study NN
+by IN
+Harris NNP
+Interactive NNP
+toward IN
+the DT
+end NN
+of IN
+the DT
+2007 CD
+school NN
+year. NN
+
+
 Outline: History of Morgan Stanley Why is the Morgan Stanley a Top ranked Investment Bank 
+Outline: NNP
+History NNP
+of IN
+Morgan NNP
+Stanley NNP
+Why WRB
+is VBZ
+the DT
+Morgan NNP
+Stanley NNP
+a DT
+Top NNP
+ranked VBD
+Investment NNP
+Bank NNP
+
+
 Microsoft , Oracle , and Symantec  were listed in the Computer Software category.
+Microsoft NNP
+, ,
+Oracle NNP
+, ,
+and CC
+Symantec NNP
+were VBD
+listed VBN
+in IN
+the DT
+Computer NNP
+Software NNP
+category. NN
+
+
 Hardware : Sun E6500, RS /6000, IBM PC 's, and Pentium PCs, HP servers, IBM Pseries 
+Hardware NN
+: :
+Sun NNP
+E6500, NNP
+RS NNP
+/6000, NNP
+IBM NNP
+PC NNP
+'s, POS
+and CC
+Pentium NNP
+PCs, NNP
+HP NNP
+servers, VBD
+IBM NNP
+Pseries NNS
+
+
 Vonage is a VoIP solution .
+Vonage NN
+is VBZ
+a DT
+VoIP JJ
+solution NN
+. .
+VoIP
+
+
 HP has the most comprehensive ITSM solution in the industry.
+HP NNP
+has VBZ
+the DT
+most RBS
+comprehensive JJ
+ITSM NNP
+solution NN
+in IN
+the DT
+industry. NN
+
+
 TOMRA SYSTEMS IS A SUPPLIER OF REVERSE VENDING MACHINES , WHICH ARE USED TO SORT AND COLLECT CONTAINERS FOR RECYCLING .
+TOMRA NNP
+SYSTEMS NNP
+IS VBZ
+A DT
+SUPPLIER NN
+OF NNP
+REVERSE NNP
+VENDING NNP
+MACHINES NNP
+, ,
+WHICH NNP
+ARE NNP
+USED NNP
+TO NNP
+SORT NNP
+AND NNP
+COLLECT NNP
+CONTAINERS NNP
+FOR NNP
+RECYCLING NNP
+. .
+
+
 Lucasfilm Ltd. , 1981: Return of the Jedi , lowly crafts flunky on Major Motion Picture 13.
+Lucasfilm NNP
+Ltd. NNP
+, ,
+1981: CD
+Return NNP
+of IN
+the DT
+Jedi NNP
+, ,
+lowly RB
+crafts JJ
+flunky NN
+on IN
+Major JJ
+Motion NNP
+Picture NNP
+13. CD
+Return of the Jedi
+Major Motion Picture
+
+
 Panasonic is taking part in the   Consumer Electronics   portion of the exhibition.
+Panasonic NNP
+is VBZ
+taking VBG
+part NN
+in IN
+the DT
+Consumer NNP
+Electronics NNP
+portion NN
+of IN
+the DT
+exhibition. NN
+
+
 Kiva follows these principles of Microfinance and and there is more information on the Kiva Site
+Kiva NNP
+follows VBZ
+these DT
+principles NNS
+of IN
+Microfinance NNP
+and CC
+and CC
+there EX
+is VBZ
+more JJR
+information NN
+on IN
+the DT
+Kiva NNP
+Site NNP
+
+
 The Software is owned by Hewlett-Packard and its suppliers and is protected by copyright laws and international treaties.
+The DT
+Software NNP
+is VBZ
+owned VBN
+by IN
+Hewlett-Packard NNP
+and CC
+its PRP$
+suppliers NNS
+and CC
+is VBZ
+protected VBN
+by IN
+copyright NN
+laws NNS
+and CC
+international JJ
+treaties. NN
+
+
 Today, the Canadian Institute for Health Information  released the ninth edition of Health Care in Canada .
+Today, NNP
+the DT
+Canadian NNP
+Institute NNP
+for IN
+Health NNP
+Information NNP
+released VBD
+the DT
+ninth JJ
+edition NN
+of IN
+Health NNP
+Care NNP
+in IN
+Canada NNP
+. .
+Canadian Institute for Health Information
+
+
 Examples of a Mobile Network Operator are Vodafone
+Examples NNS
+of IN
+a DT
+Mobile NNP
+Network NNP
+Operator NNP
+are VBP
+Vodafone NNP
+
+
 You'll find the best prices on Ghost video games, Namco Bandai in Video Games when you shop online at BizRate .
+You'll NNP
+find VBP
+the DT
+best JJS
+prices NNS
+on IN
+Ghost NNP
+video NN
+games, NN
+Namco NNP
+Bandai NNP
+in IN
+Video NNP
+Games NNPS
+when WRB
+you PRP
+shop VBP
+online JJ
+at IN
+BizRate NNP
+. .
+
+
 Air Jamaica was voted Caribbean s Leading Airlines .
+Air NNP
+Jamaica NNP
+was VBD
+voted VBN
+Caribbean NNP
+s NNP
+Leading NNP
+Airlines NNPS
+. .
+
+
 Q : How is VoIP security such as Session Border Controller functions addressed by AudioCodes ?
+Q NN
+: :
+How NNP
+is VBZ
+VoIP NNP
+security NN
+such JJ
+as IN
+Session NNP
+Border NNP
+Controller NNP
+functions NNS
+addressed VBN
+by IN
+AudioCodes NNP
+? .
+
+
 Hero Games publishes Champions , a super hero RPG .
+Hero NNP
+Games NNP
+publishes VBZ
+Champions NNP
+, ,
+a DT
+super JJ
+hero NN
+RPG NNP
+. .
+
+
 The Holiday Inn Group of Hotels is part of the famed InterContinental Hotels Group .
+The DT
+Holiday NNP
+Inn NNP
+Group NNP
+of IN
+Hotels NNP
+is VBZ
+part NN
+of IN
+the DT
+famed JJ
+InterContinental NNP
+Hotels NNP
+Group NNP
+. .
+
+
 Then, my partner and I received a mailing from an agent for the MLM company Neways .
+Then, NNP
+my PRP$
+partner NN
+and CC
+I PRP
+received VBD
+a DT
+mailing NN
+from IN
+an DT
+agent NN
+for IN
+the DT
+MLM NNP
+company NN
+Neways NNP
+. .
+
+
 Genpact is a BPO company in India 
+Genpact NNP
+is VBZ
+a DT
+BPO NNP
+company NN
+in IN
+India NNP
+
+
 IntelliCorp provides SAP application lifecycle management, business process management and data management solutions for SAP customers and and?partners.
+IntelliCorp NNP
+provides VBZ
+SAP NNP
+application NN
+lifecycle NN
+management, NN
+business NN
+process NN
+management NN
+and CC
+data NN
+management NN
+solutions NNS
+for IN
+SAP NNP
+customers NNS
+and CC
+and?partners. NN
+
+
 Tags: 250-c20, Aero engines, Aerospace , Airbus , Aircraft engines...
+Tags: NNP
+250-c20, JJ
+Aero NNP
+engines, NN
+Aerospace NNP
+, ,
+Airbus NNP
+, ,
+Aircraft NNP
+engines... NN
+
+
 It Services company Atos Origin has drawn up its top tips for improving business performance in 2009.
+It PRP
+Services VBZ
+company NN
+Atos NNP
+Origin NNP
+has VBZ
+drawn VBN
+up RP
+its PRP$
+top JJ
+tips NNS
+for IN
+improving VBG
+business NN
+performance NN
+in IN
+2009. CD
+It Services
+
+
 When you?re in the market for new performance clothing, check out Patagonia ?s line of Clothing with Recycled Content.
+When WRB
+you?re NN
+in IN
+the DT
+market NN
+for IN
+new JJ
+performance NN
+clothing, NN
+check VB
+out RP
+Patagonia NNP
+?s NNP
+line NN
+of IN
+Clothing NN
+with IN
+Recycled NNP
+Content. NNP
+
+
 Above, several posters suggested the rest of the Airlines should support US Airways 
+Above, NNP
+several JJ
+posters NNS
+suggested VBD
+the DT
+rest NN
+of IN
+the DT
+Airlines NNPS
+should MD
+support VB
+US NNP
+Airways NNP
+
+
 He was actively involved in developing Ultrasonic testing procedure for Railway tracks for Indian Railways as a consultant.
+He PRP
+was VBD
+actively RB
+involved VBN
+in IN
+developing VBG
+Ultrasonic JJ
+testing NN
+procedure NN
+for IN
+Railway NNP
+tracks NNS
+for IN
+Indian JJ
+Railways NNP
+as IN
+a DT
+consultant. NN
+Indian Railways
+
+
 Free VoIP calls to other PlusNet customers and VoIP users worldwide.
+Free JJ
+VoIP NNP
+calls VBZ
+to TO
+other JJ
+PlusNet NNP
+customers NNS
+and CC
+VoIP NNP
+users NNS
+worldwide. VBP
+
+
 Top 5 Online Poker Rooms are Bodog
+Top JJ
+5 CD
+Online NNP
+Poker NNP
+Rooms NNP
+are VBP
+Bodog NNP
+
+
 PV integrator IBC SOLAR has announced that it has completed construction of a new PV
+PV NNP
+integrator NN
+IBC NNP
+SOLAR NNP
+has VBZ
+announced VBN
+that IN
+it PRP
+has VBZ
+completed VBN
+construction NN
+of IN
+a DT
+new JJ
+PV NNP
+
+
 Wed like to thank the University of Bath s Innovation Centre, and PR company Hill & Knowlton for sponsoring this report.
+Wed NNP
+like IN
+to TO
+thank VB
+the DT
+University NNP
+of IN
+Bath NNP
+s NNP
+Innovation NNP
+Centre, NNP
+and CC
+PR NNP
+company NN
+Hill NNP
+& CC
+Knowlton NNP
+for IN
+sponsoring VBG
+this DT
+report. NN
+University of Bath
+Hill & Knowlton
+
+
 Alamy Images has a great variety of Stock Images both royalty free and rights managed by pro, agencies and amateurs
+Alamy NNP
+Images NNP
+has VBZ
+a DT
+great JJ
+variety NN
+of IN
+Stock NNP
+Images NNP
+both DT
+royalty NN
+free JJ
+and CC
+rights NNS
+managed VBN
+by IN
+pro, NN
+agencies NNS
+and CC
+amateurs NNS
+
+
 In Medina , Cable TV is provided by Mediacom , 1.800.332.0245.
+In IN
+Medina NNP
+, ,
+Cable NNP
+TV NN
+is VBZ
+provided VBN
+by IN
+Mediacom NNP
+, ,
+1.800.332.0245. CD
+
+
 Infor says that Enterprise software can help organisations address both of these concerns.
+Infor NNP
+says VBZ
+that IN
+Enterprise NNP
+software NN
+can MD
+help VB
+organisations NNS
+address VB
+both DT
+of IN
+these DT
+concerns. NNS
+
+
 The datasets are updated monthly on the website in GIS formats MapInfo , ESRI and KML .
+The DT
+datasets NNS
+are VBP
+updated VBN
+monthly RB
+on IN
+the DT
+website NN
+in IN
+GIS NNP
+formats NNS
+MapInfo NNP
+, ,
+ESRI NNP
+and CC
+KML NNP
+. .
+
+
 Jun. 2 - Fashion king Yves Saint-Laurent has died at the age of 71 after a long illness
+Jun. NNP
+2 CD
+- :
+Fashion NN
+king VBG
+Yves NNS
+Saint-Laurent NNP
+has VBZ
+died VBN
+at IN
+the DT
+age NN
+of IN
+71 CD
+after IN
+a DT
+long JJ
+illness NN
+
+
 Currently: Designer at Videogames company Lionhead Studios .
+Currently: NNP
+Designer NNP
+at IN
+Videogames NNP
+company NN
+Lionhead NNP
+Studios NNP
+. .
+
+
 Emap was bought by Guardian Media Group and PE form Apax Partners last last year for £ 1.2 billion
+Emap NNP
+was VBD
+bought VBN
+by IN
+Guardian JJ
+Media NNP
+Group NNP
+and CC
+PE NNP
+form VBP
+Apax NNP
+Partners NNPS
+last JJ
+last JJ
+year NN
+for IN
+£ $
+1.2 CD
+billion CD
+Guardian Media Group
+
+
   Evergreen sees the commercial grid-tied PV market as an important element of our marketing strategy
+Evergreen JJ
+sees VBZ
+the DT
+commercial JJ
+grid-tied JJ
+PV NNP
+market NN
+as IN
+an DT
+important JJ
+element NN
+of IN
+our PRP$
+marketing NN
+strategy NN
+Evergreen
+
+
 Cable Franchise held by TCI of Hawaii , Inc 
+Cable JJ
+Franchise NNP
+held NN
+by IN
+TCI NNP
+of IN
+Hawaii NNP
+, ,
+Inc NNP
+Cable Franchise
+
+
 CHEMICALS group ICI sprang a better-than-expected profits report on the City yesterday but warned that uncertain times lay ahead
+CHEMICALS NNP
+group NN
+ICI NNP
+sprang VBD
+a DT
+better-than-expected JJ
+profits NNS
+report NN
+on IN
+the DT
+City NNP
+yesterday NN
+but CC
+warned VBD
+that IN
+uncertain JJ
+times NNS
+lay VBP
+ahead RB
+
+
 The Australian firm FaktorTel offers residential VOIP as well as business VOIP
+The DT
+Australian JJ
+firm NN
+FaktorTel NNP
+offers VBZ
+residential JJ
+VOIP NNP
+as RB
+well RB
+as IN
+business NN
+VOIP NNP
+
+
 Despite some downturns in the SP sector, Tencent has been able to maintain steady growth in Internet value-added services.
+Despite IN
+some DT
+downturns NNS
+in IN
+the DT
+SP NNP
+sector, NN
+Tencent NNP
+has VBZ
+been VBN
+able JJ
+to TO
+maintain VB
+steady JJ
+growth NN
+in IN
+Internet NNP
+value-added JJ
+services. NN
+
+
 Automakers ; Yes, Canada has a vested interest in GM especially
+Automakers NNS
+; :
+Yes, NNP
+Canada NNP
+has VBZ
+a DT
+vested JJ
+interest NN
+in IN
+GM NNP
+especially RB
+
+
 The Commonwealth Bank of Australia and EDS has signed a new Information Technology and telecom...
+The DT
+Commonwealth NNP
+Bank NNP
+of IN
+Australia NNP
+and CC
+EDS NNP
+has VBZ
+signed VBN
+a DT
+new JJ
+Information NNP
+Technology NNP
+and CC
+telecom... VB
+Commonwealth Bank of Australia
+
+
 We can supply full range of Nike shoes, Apparel and Bag .
+We PRP
+can MD
+supply VB
+full JJ
+range NN
+of IN
+Nike NNP
+shoes, NN
+Apparel NNP
+and CC
+Bag NNP
+. .
+
+
 Zopa is the marketplace for Social Lending .
+Zopa NNP
+is VBZ
+the DT
+marketplace NN
+for IN
+Social NNP
+Lending NNP
+. .
+
+
 9 on eBay , also, Skates, Ice Hockey , Sporting Goods  Check if NIKE BAUER VAPOR.
+9 CD
+on IN
+eBay NN
+, ,
+also, JJ
+Skates, NNP
+Ice NNP
+Hockey NNP
+, ,
+Sporting VBG
+Goods NNP
+Check NNP
+if IN
+NIKE NNP
+BAUER NNP
+VAPOR. NNP
+Sporting Goods
+
+
 NetEase provides Chinese language services centered around Internet content, community, and e-commerce
+NetEase NNP
+provides VBZ
+Chinese JJ
+language NN
+services NNS
+centered VBN
+around IN
+Internet NNP
+content, NN
+community, NN
+and CC
+e-commerce NN
+Chinese
+
+
 Information Technology bigwig, HCL has sought Olive 's Internet marketing services for one of its partner websites, EmPresent
+Information NNP
+Technology NNP
+bigwig, NN
+HCL NNP
+has VBZ
+sought VBN
+Olive NNP
+'s POS
+Internet NNP
+marketing NN
+services NNS
+for IN
+one CD
+of IN
+its PRP$
+partner NN
+websites, NN
+EmPresent NN
+
+
 - Film studio Metro-Goldwyn-Mayer  announced on Thursday that it will release films on Sony 's Blu-ray next-generation DVD format
+- :
+Film NN
+studio NN
+Metro-Goldwyn-Mayer NNP
+announced VBD
+on IN
+Thursday NNP
+that IN
+it PRP
+will MD
+release VB
+films NNS
+on IN
+Sony NNP
+'s POS
+Blu-ray JJ
+next-generation NN
+DVD NNP
+format NN
+
+
 FURNITURE store Land of Leather in Kew will close.
+FURNITURE NNP
+store NN
+Land NNP
+of IN
+Leather NNP
+in IN
+Kew NNP
+will MD
+close. VB
+Land of Leather
+
+
 Ogilvy on Advertising is great; Ogilvy also wrote Confessions of an Advertising Man .
+Ogilvy NNP
+on IN
+Advertising NNP
+is VBZ
+great; JJ
+Ogilvy NNP
+also RB
+wrote VBD
+Confessions NNP
+of IN
+an DT
+Advertising NNP
+Man NN
+. .
+Confessions of an Advertising Man
+
+
 The price was a Stressless chair, produced by the Norwegian company Ekornes and donated by Macys Home Furnishing .
+The DT
+price NN
+was VBD
+a DT
+Stressless NNP
+chair, NN
+produced VBN
+by IN
+the DT
+Norwegian JJ
+company NN
+Ekornes NNP
+and CC
+donated VBN
+by IN
+Macys NNP
+Home NNP
+Furnishing NNP
+. .
+Norwegian
+
+
 By 1998, the ACCUTANE had Roche revise the package insert to contain doctors about the way big Pharma
+By IN
+1998, CD
+the DT
+ACCUTANE NNP
+had VBD
+Roche NNP
+revise VB
+the DT
+package NN
+insert NN
+to TO
+contain VB
+doctors NNS
+about IN
+the DT
+way NN
+big JJ
+Pharma NN
+
+
 South East Asia partner of QlikTech , a swedish based company known for its patented in-memory BI platform, QlikView .
+South NNP
+East NNP
+Asia NNP
+partner NN
+of IN
+QlikTech NNP
+, ,
+a DT
+swedish JJ
+based VBN
+company NN
+known VBN
+for IN
+its PRP$
+patented JJ
+in-memory JJ
+BI NNP
+platform, NN
+QlikView NNP
+. .
+
+
 ? GData - Google BCM protocol | Main | MS & Yahoo not thinking about Publishing ?
+? .
+GData NNP
+- :
+Google NNP
+BCM NNP
+protocol NN
+| NNP
+Main NNP
+| NNP
+MS NNP
+& CC
+Yahoo NNP
+not RB
+thinking VBG
+about IN
+Publishing NNP
+? .
+
+
 We? Provide Computer Training in most Microsoft products, Computer Hardware , Internet , and much more...
+We? NNP
+Provide NNP
+Computer NNP
+Training NNP
+in IN
+most JJS
+Microsoft NNP
+products, NN
+Computer NNP
+Hardware NNP
+, ,
+Internet NNP
+, ,
+and CC
+much RB
+more... NN
+
+
 Technip is a world leader in Engineering , Technologies and Project Management for the Oil and Gas industry .
+Technip NNP
+is VBZ
+a DT
+world NN
+leader NN
+in IN
+Engineering NNP
+, ,
+Technologies NNPS
+and CC
+Project NNP
+Management NNP
+for IN
+the DT
+Oil NNP
+and CC
+Gas NNP
+industry NN
+. .
+Oil and Gas industry
+
+
 3i is a world leader in Private Equity , focusing on Buyouts, Growth Capital , Infrastructure and Quoted Private Equity .
+3i CD
+is VBZ
+a DT
+world NN
+leader NN
+in IN
+Private NNP
+Equity NNP
+, ,
+focusing VBG
+on IN
+Buyouts, NNP
+Growth NNP
+Capital NNP
+, ,
+Infrastructure NNP
+and CC
+Quoted NNP
+Private NNP
+Equity NNP
+. .
+3i
+
+
 Silverpop 's e-mail marketing solution, Marketer , now offers enhanced suppression capabilities that automatically safeguard all mailings
+Silverpop NNP
+'s POS
+e-mail JJ
+marketing NN
+solution, NN
+Marketer NNP
+, ,
+now RB
+offers VBZ
+enhanced JJ
+suppression NN
+capabilities NNS
+that WDT
+automatically RB
+safeguard VBP
+all DT
+mailings NNS
+
+
 A delegation from Indian Oil Corporation  visited Turkmenistan and had useful discussions with the Deputy Minister of Oil and Gas Industry of Turkmenistan 
+A DT
+delegation NN
+from IN
+Indian JJ
+Oil NNP
+Corporation NNP
+visited VBD
+Turkmenistan NNP
+and CC
+had VBD
+useful JJ
+discussions NNS
+with IN
+the DT
+Deputy NNP
+Minister NNP
+of IN
+Oil NNP
+and CC
+Gas NNP
+Industry NNP
+of IN
+Turkmenistan NNP
+Indian Oil Corporation
+Oil and Gas Industry
+
+
 Snom manufactures a range of VoIP products, primarily on the basis of open-standard SIP 
+Snom NNP
+manufactures VBZ
+a DT
+range NN
+of IN
+VoIP NNP
+products, FW
+primarily RB
+on IN
+the DT
+basis NN
+of IN
+open-standard JJ
+SIP NNP
+
+
 6. LXR Luxury Resorts Official Site - Stay at the World 's Premier Luxury Resorts and Hotels .
+6. CD
+LXR NNP
+Luxury NNP
+Resorts NNP
+Official NNP
+Site NNP
+- :
+Stay NN
+at IN
+the DT
+World NNP
+'s POS
+Premier NNP
+Luxury NNP
+Resorts NNP
+and CC
+Hotels NNP
+. .
+
+
 ACTIVATION. ScanSoft has included features in the Software to prevent unlicensed use of the Software
+ACTIVATION. NNP
+ScanSoft NNP
+has VBZ
+included VBN
+features NNS
+in IN
+the DT
+Software NNP
+to TO
+prevent VB
+unlicensed JJ
+use NN
+of IN
+the DT
+Software NNP
+
+
 LOS ANGELES - Newspaper publisher AH Belo Corp. says it will lay off 500 workers,...
+LOS NNP
+ANGELES NNP
+- :
+Newspaper NNP
+publisher NN
+AH NNP
+Belo NNP
+Corp. NNP
+says VBZ
+it PRP
+will MD
+lay VB
+off RP
+500 CD
+workers,... NN
+
+
 The Airline also runs connecting flights from London via Entebbe in partnership with British Airways 
+The DT
+Airline NNP
+also RB
+runs VBZ
+connecting VBG
+flights NNS
+from IN
+London NNP
+via IN
+Entebbe NNP
+in IN
+partnership NN
+with IN
+British NNP
+Airways NNS
+
+
 LAS VEGAS , NV ? 04/14/08 ? Imagineer Systems , creators of next-generation VFX tools, today announced the arrival of mogul.
+LAS NNP
+VEGAS NNP
+, ,
+NV NNP
+? .
+04/14/08 CD
+? .
+Imagineer NNP
+Systems NNPS
+, ,
+creators NNS
+of IN
+next-generation NN
+VFX NNP
+tools, NN
+today NN
+announced VBD
+the DT
+arrival NN
+of IN
+mogul. NN
+
+
 Cactus  was America West s call signto differentiate it from American [ Airlines ]]
+Cactus NNP
+was VBD
+America NNP
+West NNP
+s NNP
+call VB
+signto NN
+differentiate NN
+it PRP
+from IN
+American NNP
+[ NNP
+Airlines NNPS
+]] NN
+
+
 As the largest member of EADS group, Airbus is the leader in Aerospace and Defense industry.
+As IN
+the DT
+largest JJS
+member NN
+of IN
+EADS NNP
+group, NN
+Airbus NNP
+is VBZ
+the DT
+leader NN
+in IN
+Aerospace NNP
+and CC
+Defense NNP
+industry. NN
+
+
 KANA Delivers on CRM 's Promise of ROI with New Solution
+KANA NNP
+Delivers NNP
+on IN
+CRM NNP
+'s POS
+Promise NNP
+of IN
+ROI NNP
+with IN
+New NNP
+Solution NNP
+
+
 Kerstetter continues,   Tech pundit Nicholas Carr predicted Dell 's current predicament more than three years ago..
+Kerstetter NNP
+continues, NN
+Tech NNP
+pundit NN
+Nicholas NNP
+Carr NNP
+predicted VBD
+Dell NNP
+'s POS
+current JJ
+predicament NN
+more RBR
+than IN
+three CD
+years NNS
+ago.. VBP
+
+
 Winnebago made this Class C
+Winnebago RB
+made VBD
+this DT
+Class NNP
+C NNP
+Winnebago
+
+
 CABLE operators Telewest and ntl have joined forces to take on rivals BSkyB and BT.??more..
+CABLE NNP
+operators NNS
+Telewest NNP
+and CC
+ntl RB
+have VBP
+joined VBN
+forces NNS
+to TO
+take VB
+on IN
+rivals NNS
+BSkyB NNP
+and CC
+BT.??more.. NNP
+
+
 Long-haul Airlines regularly used include scheduled flights on British Airways , Air India and Emirates .
+Long-haul NNP
+Airlines NNPS
+regularly RB
+used VBN
+include VBP
+scheduled VBN
+flights NNS
+on IN
+British NNP
+Airways NNP
+, ,
+Air NNP
+India NNP
+and CC
+Emirates NNP
+. .
+
+
 As of Fall 2004, the Education Office of Information Technology is supporting Dell Axim Pocket PCs.
+As IN
+of IN
+Fall NNP
+2004, CD
+the DT
+Education NNP
+Office NNP
+of IN
+Information NNP
+Technology NNP
+is VBZ
+supporting VBG
+Dell NNP
+Axim NNP
+Pocket NNP
+PCs. NNP
+
+
 This Week in Consumer Electronics  reports that Kenwood has agreed to merge in 2008 with Victor Company of Japan  under a holding company
+This DT
+Week NNP
+in IN
+Consumer NNP
+Electronics NNP
+reports NNS
+that IN
+Kenwood NNP
+has VBZ
+agreed VBN
+to TO
+merge VB
+in IN
+2008 CD
+with IN
+Victor NNP
+Company NNP
+of IN
+Japan NNP
+under IN
+a DT
+holding VBG
+company NN
+This Week
+Victor Company of Japan
+
+
 After graduating from journalism school at Columbia University , he worked for PR company Ogilvy & Mather for several years
+After IN
+graduating VBG
+from IN
+journalism NN
+school NN
+at IN
+Columbia NNP
+University NNP
+, ,
+he PRP
+worked VBD
+for IN
+PR NNP
+company NN
+Ogilvy NNP
+& CC
+Mather NNP
+for IN
+several JJ
+years NNS
+Ogilvy & Mather
+
+
 Dennis is Rural/Metro s EMS director for Loudon County , Tennessee .
+Dennis NNP
+is VBZ
+Rural/Metro NNP
+s NNP
+EMS NNP
+director NN
+for IN
+Loudon NNP
+County NNP
+, ,
+Tennessee NNP
+. .
+
+
 Audemars Piguet s new Manufacture
+Audemars NNP
+Piguet NNP
+s NNP
+new JJ
+Manufacture NN
+
+
 Wi-Fi is a technology standardized by WECA , which makes WLAN connections compatible with other WLAN systems.
+Wi-Fi NNP
+is VBZ
+a DT
+technology NN
+standardized VBN
+by IN
+WECA NNP
+, ,
+which WDT
+makes VBZ
+WLAN NNP
+connections NNS
+compatible JJ
+with IN
+other JJ
+WLAN NNP
+systems. NN
+
+
 ( Oracle and Microsoft technologies, Java , Data warehousing, Business intelligence, GIS ).
+( (
+Oracle NNP
+and CC
+Microsoft NNP
+technologies, NN
+Java NNP
+, ,
+Data NNP
+warehousing, NN
+Business NNP
+intelligence, NN
+GIS NNP
+). NN
+
+
 BlueBean used RFID tags and readers from Alien Technology and Impinj 
+BlueBean NNP
+used VBD
+RFID NNP
+tags NNS
+and CC
+readers NNS
+from IN
+Alien NNP
+Technology NNP
+and CC
+Impinj NNP
+
+
 Sitel is a global Business Process Outsourcing  leader
+Sitel NNP
+is VBZ
+a DT
+global JJ
+Business NNP
+Process NNP
+Outsourcing NNP
+leader NN
+
+
 The Data security company, Norman ASA , has signed an ISP agreement with the Swedish telecom group, Telia .
+The DT
+Data NNP
+security NN
+company, NN
+Norman NNP
+ASA NNP
+, ,
+has VBZ
+signed VBN
+an DT
+ISP NNP
+agreement NN
+with IN
+the DT
+Swedish JJ
+telecom NN
+group, NN
+Telia NNP
+. .
+Swedish
+
+
 ... Random House is the Publishing Company for Dr Seuss children's books.
+... :
+Random NNP
+House NNP
+is VBZ
+the DT
+Publishing VBG
+Company NN
+for IN
+Dr NNP
+Seuss NNP
+children's NN
+books. NN
+Publishing Company
+
+
 Mint analyzes all of Personal Finance makes it.
+Mint NNP
+analyzes VBZ
+all DT
+of IN
+Personal NNP
+Finance NNP
+makes VBZ
+it. NN
+
+

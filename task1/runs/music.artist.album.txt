@@ -1,500 +1,10021 @@
 If you're a speed metal fan, you'll like Reno -based Fall Silent 's latest offering, Drunken Violence 
+If IN
+you're PDT
+a DT
+speed NN
+metal NN
+fan, VBD
+you'll NNS
+like IN
+Reno NNP
+-based VBD
+Fall NNP
+Silent NNP
+'s POS
+latest JJS
+offering, NN
+Drunken NNP
+Violence NNP
+
+
 However: buy the  Love Kills!  album and the side project Controlled Fusion 's latest album   Patient Zero   first.
+However: NNP
+buy VBP
+the DT
+Love NNP
+Kills! NNP
+album NN
+and CC
+the DT
+side NN
+project NN
+Controlled NNP
+Fusion NNP
+'s POS
+latest JJS
+album NN
+Patient NN
+Zero NNP
+first. NN
+
+
 In 2002 Amr Diab released an Album called Rewind .
+In IN
+2002 CD
+Amr NNP
+Diab NNP
+released VBD
+an DT
+Album NNP
+called VBD
+Rewind NNP
+. .
+
+
 1996 Sven produces the soundtrack for the Ralf Huettner movie ? Der Kalte Finger ?  together with B-ZET 
+1996 CD
+Sven NNP
+produces VBZ
+the DT
+soundtrack NN
+for IN
+the DT
+Ralf NNP
+Huettner NNP
+movie NN
+? .
+Der NNP
+Kalte NNP
+Finger NNP
+? .
+together RB
+with IN
+B-ZET NNP
+
+
 The Earth Pressed Flat is 10,000 Maniacs
+The DT
+Earth NNP
+Pressed VBD
+Flat NNP
+is VBZ
+10,000 CD
+Maniacs NN
+Earth Pressed Flat
+10,000 Maniacs
+
+
 10,000 Maniacs began   Trouble Me ,  an old one.
+10,000 CD
+Maniacs NNP
+began VBD
+Trouble NNP
+Me NNP
+, ,
+an DT
+old JJ
+one. NN
+10,000 Maniacs
+
+
 Roger Waters used these same chord forms in   The Bravery Of Being Out Of Range   from his 1992 solo release Amused To Death
+Roger NNP
+Waters NNP
+used VBD
+these DT
+same JJ
+chord NN
+forms NNS
+in IN
+The DT
+Bravery NNP
+Of IN
+Being VBG
+Out NNP
+Of IN
+Range NNP
+from IN
+his PRP$
+1992 CD
+solo NN
+release NN
+Amused VBD
+To TO
+Death VB
+The Bravery Of Being Out Of Range
+
+
 Dave, The Chantays were a surf guitar group, and the Pipeline is the name of a Hawaiian surf break
+Dave, NNP
+The DT
+Chantays NNPS
+were VBD
+a DT
+surf JJ
+guitar NN
+group, NN
+and CC
+the DT
+Pipeline NNP
+is VBZ
+the DT
+name NN
+of IN
+a DT
+Hawaiian JJ
+surf NN
+break NN
+Hawaiian
+
+
 This was Waters ' setup from 1999-2000; though in 2000, Waters also played a red Fender Stratocaster during   The Bravery Of Being Out Of Range .
+This DT
+was VBD
+Waters NNP
+' POS
+setup NN
+from IN
+1999-2000; JJ
+though IN
+in IN
+2000, CD
+Waters NNS
+also RB
+played VBD
+a DT
+red JJ
+Fender NNP
+Stratocaster NNP
+during IN
+The DT
+Bravery NNP
+Of IN
+Being VBG
+Out NNP
+Of IN
+Range NNP
+. .
+The Bravery Of Being Out Of Range
+
+
 A well-drafted, De-vision and Green Court , Shining  CD5, Shining  different paragraphs first
+A DT
+well-drafted, JJ
+De-vision NN
+and CC
+Green NNP
+Court NNP
+, ,
+Shining VBG
+CD5, NNP
+Shining NNP
+different JJ
+paragraphs NN
+first RB
+Shining
+Shining
+
+
 While preparing for the Eurovision Song Contest the German band No Angels has released their album; Destiny Reloaded .
+While IN
+preparing VBG
+for IN
+the DT
+Eurovision NNP
+Song NNP
+Contest NNP
+the DT
+German JJ
+band NN
+No NNP
+Angels NNP
+has VBZ
+released VBN
+their PRP$
+album; JJ
+Destiny NNP
+Reloaded NNP
+. .
+German
+
+
 Kammel Kalamak  Diab 's latest album, Kammel Kalamak is the long anticipated follow up to Leily Nahary 
+Kammel NNP
+Kalamak NNP
+Diab NNP
+'s POS
+latest JJS
+album, NN
+Kammel NNP
+Kalamak NNP
+is VBZ
+the DT
+long JJ
+anticipated VBD
+follow VB
+up RP
+to TO
+Leily NNP
+Nahary NNP
+
+
 Kammel Kalamak  Diab 's latest album, Kammel Kalamak is the long anticipated follow up to Leily Nahary 
+Kammel NNP
+Kalamak NNP
+Diab NNP
+'s POS
+latest JJS
+album, NN
+Kammel NNP
+Kalamak NNP
+is VBZ
+the DT
+long JJ
+anticipated VBD
+follow VB
+up RP
+to TO
+Leily NNP
+Nahary NNP
+
+
 10,000 Maniacs discography, download 10,000 Maniacs music, 10,000 Maniacs albums, - The Wishing Chair by 10,000 Maniacs .
+10,000 CD
+Maniacs NNP
+discography, NN
+download NN
+10,000 CD
+Maniacs NNP
+music, VBD
+10,000 CD
+Maniacs NNP
+albums, SYM
+- :
+The DT
+Wishing NNP
+Chair NNP
+by IN
+10,000 CD
+Maniacs NNP
+. .
+10,000 Maniacs
+10,000 Maniacs
+10,000 Maniacs
+The Wishing Chair
+10,000 Maniacs
+
+
 Retro is a KMFDM compilation album, initially released in 1996 as a promotional item and re-released in 1998.
+Retro NNP
+is VBZ
+a DT
+KMFDM NNP
+compilation NN
+album, NN
+initially RB
+released VBN
+in IN
+1996 CD
+as IN
+a DT
+promotional JJ
+item NN
+and CC
+re-released JJ
+in IN
+1998. CD
+
+
 1999's The Earth Pressed Flat finds 10,000 Maniacs exploring similar musical terrain as their previous album, Love Among the Ruins , on which singer Mary Ramsey debuted.
+1999's CD
+The DT
+Earth NN
+Pressed VBD
+Flat NNP
+finds VBZ
+10,000 CD
+Maniacs NNP
+exploring VBG
+similar JJ
+musical JJ
+terrain NN
+as IN
+their PRP$
+previous JJ
+album, NNS
+Love NNP
+Among IN
+the DT
+Ruins NNP
+, ,
+on IN
+which WDT
+singer NN
+Mary NNP
+Ramsey NNP
+debuted. NN
+The Earth Pressed Flat
+10,000 Maniacs
+Love Among the Ruins
+
+
 After playing   Break Your Heart  , she pulled out   These Are Days  , from the Maniacs album, Our Time In Eden 
+After IN
+playing VBG
+Break NNP
+Your NNP
+Heart NNP
+, ,
+she PRP
+pulled VBD
+out RP
+These DT
+Are NNP
+Days NNPS
+, ,
+from IN
+the DT
+Maniacs NNP
+album, VB
+Our PRP$
+Time NNP
+In IN
+Eden NNP
+These Are Days
+Our Time In Eden
+
+
 Nah...the best CD for Quake is KMFDM 's Angst 
+Nah...the NNP
+best JJS
+CD NN
+for IN
+Quake NNP
+is VBZ
+KMFDM NNP
+'s POS
+Angst NNP
+
+
 Godlike occurs as KMFDM single off of the album Naïve .
+Godlike NNP
+occurs VBZ
+as IN
+KMFDM NNP
+single JJ
+off IN
+of IN
+the DT
+album NN
+Naïve NNP
+. .
+
+
 Durante toured with KMFDM and provided guitar and some songwriting on the subsequent albums Nihil [4] and Xtort .[5
+Durante NNP
+toured VBD
+with IN
+KMFDM NNP
+and CC
+provided VBN
+guitar NN
+and CC
+some DT
+songwriting NN
+on IN
+the DT
+subsequent JJ
+albums NNS
+Nihil NNP
+[4] NNP
+and CC
+Xtort NNP
+.[5 NNP
+
+
 File this one next to Steve Martin , Judy Tenuta and Bette Midler circa Mud Will Be Flung Tonight .
+File IN
+this DT
+one CD
+next JJ
+to TO
+Steve NNP
+Martin NNP
+, ,
+Judy NNP
+Tenuta NNP
+and CC
+Bette NNP
+Midler NNP
+circa NN
+Mud NNP
+Will NNP
+Be NNP
+Flung NNP
+Tonight NNP
+. .
+
+
 Bette Midler - RCR worked with Bette on her album Bathhouse Betty , 1998.
+Bette NNP
+Midler NNP
+- :
+RCR NNP
+worked VBD
+with IN
+Bette NNP
+on IN
+her PRP$
+album NN
+Bathhouse NNP
+Betty NNP
+, ,
+1998. CD
+
+
 - Bette released Live At Last and Broken Blossom 
+- :
+Bette NN
+released VBN
+Live NNP
+At IN
+Last JJ
+and CC
+Broken NNP
+Blossom NNP
+Live At Last
+
+
 November The soundtrack to Bette ?s TV presentation of Gypsy was released
+November NNP
+The DT
+soundtrack NN
+to TO
+Bette NNP
+?s NNP
+TV NNP
+presentation NN
+of IN
+Gypsy NNP
+was VBD
+released VBN
+
+
 This is so far my all time favorite KMFDM song, from my favorite KMFDM album   Attak  .
+This DT
+is VBZ
+so RB
+far RB
+my PRP$
+all DT
+time NN
+favorite JJ
+KMFDM NNP
+song, NN
+from IN
+my PRP$
+favorite JJ
+KMFDM NNP
+album NN
+Attak NNP
+. .
+
+
 Bette Midler : Midler covered Ol ' '55 on   Songs For The New Depression   
+Bette NNP
+Midler NNP
+: :
+Midler NNP
+covered VBD
+Ol NNP
+' POS
+'55 NNS
+on IN
+Songs NNS
+For IN
+The DT
+New NNP
+Depression NNP
+Songs For The New Depression
+
+
 Cameron Paul, a San Francisco DJ ; remixes 'Push It,' a tune from Salt-N-Pepa 's  album,   Hot, Cool & Vicious .
+Cameron NNP
+Paul, NNP
+a DT
+San NNP
+Francisco NNP
+DJ NNP
+; :
+remixes NNS
+'Push VBP
+It,' VBZ
+a DT
+tune NN
+from IN
+Salt-N-Pepa NNP
+'s POS
+album, NN
+Hot, NNP
+Cool NNP
+& CC
+Vicious NNP
+. .
+Hot, Cool & Vicious
+
+
 Now in their 23rd year, KMFDM remain a. HAU RUCK .
+Now RB
+in IN
+their PRP$
+23rd CD
+year, NN
+KMFDM NNP
+remain VBP
+a. JJ
+HAU NNP
+RUCK NNP
+. .
+
+
 - Bette released Live At Last and Broken Blossom 
+- :
+Bette NN
+released VBN
+Live NNP
+At IN
+Last JJ
+and CC
+Broken NNP
+Blossom NNP
+Live At Last
+
+
 Click on  more info  Amr Diab 's video clip Tamally Maak  with English ..
+Click NNP
+on IN
+more JJR
+info JJ
+Amr NNP
+Diab NNP
+'s POS
+video NN
+clip NN
+Tamally NNP
+Maak NNP
+with IN
+English NNP
+.. NN
+
+
 Jfc Live! was Jeffries Fan Club 's first live album and fifth album.
+Jfc NNP
+Live! NNP
+was VBD
+Jeffries NNPS
+Fan NNP
+Club NNP
+'s POS
+first JJ
+live JJ
+album NN
+and CC
+fifth JJ
+album. NN
+
+
 Roger and Ron also collaborated on MUSIC FROM THE BODY , a bizarre soundtrack album for the film   The Body  
+Roger NNP
+and CC
+Ron NNP
+also RB
+collaborated VBD
+on IN
+MUSIC NNP
+FROM NNP
+THE NNP
+BODY NNP
+, ,
+a DT
+bizarre JJ
+soundtrack NN
+album NN
+for IN
+the DT
+film NN
+The DT
+Body NN
+The Body
+
+
 Recommended to enthusiasts of the isolationist terror of Painkiller ?s Execution Ground ambient disc, Lustmord , and Scorn
+Recommended VBN
+to TO
+enthusiasts NNS
+of IN
+the DT
+isolationist JJ
+terror NN
+of IN
+Painkiller NNP
+?s NNP
+Execution NNP
+Ground NNP
+ambient VBD
+disc, NN
+Lustmord NNP
+, ,
+and CC
+Scorn NNP
+
+
 In 1993 Fleshcrawl s second album   Impurity   was produced in Dan Swanö 's Unisound Studio 
+In IN
+1993 CD
+Fleshcrawl NNP
+s NNP
+second JJ
+album NN
+Impurity NNP
+was VBD
+produced VBN
+in IN
+Dan NNP
+Swanö NNP
+'s POS
+Unisound NNP
+Studio NNP
+
+
 Op 31 maart komt het album   Hills And Valleys   van the Flatlanders uit op het New West label.
+Op $
+31 CD
+maart NN
+komt NN
+het NN
+album NN
+Hills NNP
+And CC
+Valleys NNP
+van VBP
+the DT
+Flatlanders NNP
+uit NN
+op NN
+het VBD
+New NNP
+West NNP
+label. NN
+Hills And Valleys
+
+
 Appeared in the Salt-N-Pepa video, Whatta Man .
+Appeared VBN
+in IN
+the DT
+Salt-N-Pepa NNP
+video, NN
+Whatta NNP
+Man NNP
+. .
+
+
   None Of Your Business   was Salt 'N Pepa 's 4th single release by their 4th multiplatinum album  Very Necessary 
+None NN
+Of IN
+Your NNP
+Business NNP
+was VBD
+Salt NNP
+'N NNP
+Pepa NNP
+'s POS
+4th CD
+single JJ
+release NN
+by IN
+their PRP$
+4th CD
+multiplatinum NN
+album NN
+Very NNP
+Necessary NNP
+None Of Your Business
+
+
 WWIII follows the common KMFDM practice of naming albums, and many songs, with five symbols.
+WWIII NNP
+follows VBZ
+the DT
+common JJ
+KMFDM NNP
+practice NN
+of IN
+naming VBG
+albums, NN
+and CC
+many JJ
+songs, NN
+with IN
+five CD
+symbols. NNS
+
+
 Salt-N-Pepa video Shoop on Music .
+Salt-N-Pepa JJ
+video NN
+Shoop NNP
+on IN
+Music NNP
+. .
+Salt-N-Pepa
+
+
 After almost three decades, Bette reunited with Manilow in 2003 for Bette Midler Sings The Rosemary Clooney Songbook .
+After IN
+almost RB
+three CD
+decades, NNS
+Bette NNP
+reunited VBD
+with IN
+Manilow NNP
+in IN
+2003 CD
+for IN
+Bette NNP
+Midler NNP
+Sings NNP
+The DT
+Rosemary NNP
+Clooney NNP
+Songbook NNP
+. .
+Bette Midler Sings The Rosemary Clooney Songbook
+
+
 Painkiller 's brief Buried Secrets  is a powerful psychological experience
+Painkiller NNP
+'s POS
+brief NN
+Buried NNP
+Secrets NNP
+is VBZ
+a DT
+powerful JJ
+psychological JJ
+experience NN
+
+
 Her first two solo efforts,  and the astonishing Ophelia  were worthy successors to the 10,000 Maniacs sendoff, MTV Unplugged 
+Her PRP$
+first JJ
+two CD
+solo NN
+efforts, NN
+and CC
+the DT
+astonishing JJ
+Ophelia NNP
+were VBD
+worthy JJ
+successors NNS
+to TO
+the DT
+10,000 CD
+Maniacs NNP
+sendoff, NN
+MTV NNP
+Unplugged VBD
+10,000 Maniacs
+MTV Unplugged
+
+
 There is some mystery regarding the His Name is Alive song  King of Sweet 
+There EX
+is VBZ
+some DT
+mystery NN
+regarding VBG
+the DT
+His PRP$
+Name NN
+is VBZ
+Alive JJ
+song NN
+King NNP
+of IN
+Sweet NNP
+His Name is Alive
+King of Sweet
+
+
 Sweet Earth Flower might be His Name Is Alive
+Sweet NNP
+Earth NNP
+Flower NNP
+might MD
+be VB
+His PRP$
+Name NN
+Is VBZ
+Alive JJ
+His Name Is Alive
+
+
 The Tragically Hip released   In Between Evolution   in 2004.
+The DT
+Tragically NNP
+Hip NNP
+released VBD
+In IN
+Between NNP
+Evolution NNP
+in IN
+2004. CD
+In Between Evolution
+
+
 From The Tragically Hip 's full length debut album Up To Here from 1989
+From IN
+The DT
+Tragically NNP
+Hip NNP
+'s POS
+full JJ
+length NN
+debut NN
+album VBZ
+Up IN
+To TO
+Here RB
+from IN
+1989 CD
+The Tragically Hip
+Up To Here
+
+
 After the completion of the tour for Stars on ESP , His Name Is Alive leader Warren Defever
+After IN
+the DT
+completion NN
+of IN
+the DT
+tour NN
+for IN
+Stars NNP
+on IN
+ESP NNP
+, ,
+His PRP$
+Name NN
+Is VBZ
+Alive JJ
+leader NN
+Warren NNP
+Defever NNP
+Stars on ESP
+His Name Is Alive
+
+
 Also made during this time was a trailer for the Bette Midler film DIVINE MADNESS 
+Also RB
+made VBN
+during IN
+this DT
+time NN
+was VBD
+a DT
+trailer NN
+for IN
+the DT
+Bette NNP
+Midler NNP
+film NN
+DIVINE NNP
+MADNESS NNP
+
+
 Hipeponymous brings the music of The Tragically Hip to youLive!
+Hipeponymous JJ
+brings VBZ
+the DT
+music NN
+of IN
+The DT
+Tragically NNP
+Hip NNP
+to TO
+youLive! VB
+Hipeponymous
+The Tragically Hip
+
+
 He came out of the store with Drive Like Jehu s Yank Crime .
+He PRP
+came VBD
+out IN
+of IN
+the DT
+store NN
+with IN
+Drive NNP
+Like IN
+Jehu NNP
+s NNP
+Yank NNP
+Crime NNP
+. .
+Drive Like Jehu
+
+
 Music video by The Tragically Hip performing My Music At Work : 
+Music JJ
+video NN
+by IN
+The DT
+Tragically NNP
+Hip NNP
+performing VBG
+My PRP$
+Music NN
+At IN
+Work NN
+: :
+The Tragically Hip
+My Music At Work
+
+
 Aykroyd gives the Tragically Hip a noisome intro, and singer Gord Downie assumes his twitchy madman persona, letting loose with  Music At Work 
+Aykroyd NNP
+gives VBZ
+the DT
+Tragically NNP
+Hip NNP
+a DT
+noisome JJ
+intro, NN
+and CC
+singer NN
+Gord NNP
+Downie NNP
+assumes VBZ
+his PRP$
+twitchy JJ
+madman NN
+persona, NN
+letting VBG
+loose JJ
+with IN
+Music NNP
+At IN
+Work NNP
+Music At Work
+
+
 Review: Bite Down Hard is the third release from Britny Fox , and the first to feature new vocalist Tommy Paris.
+Review: NNP
+Bite NNP
+Down NNP
+Hard NNP
+is VBZ
+the DT
+third JJ
+release NN
+from IN
+Britny NNP
+Fox NNP
+, ,
+and CC
+the DT
+first JJ
+to TO
+feature VB
+new JJ
+vocalist NN
+Tommy NNP
+Paris. NNP
+
+
 Keller 's collaboration album, Dream , was released on February 6, 2007
+Keller NNP
+'s POS
+collaboration NN
+album, NN
+Dream NNP
+, ,
+was VBD
+released VBN
+on IN
+February NNP
+6, CD
+2007 CD
+
+
 I actually own a copy of   Road Apples   signed by the Hip 
+I PRP
+actually RB
+own VBP
+a DT
+copy NN
+of IN
+Road NNP
+Apples NNP
+signed VBN
+by IN
+the DT
+Hip NNP
+
+
 Artists  Regina Belle Regina Belle Songs Lazy Afternoon
+Artists NNS
+Regina NNP
+Belle NNP
+Regina NNP
+Belle NNP
+Songs NNP
+Lazy NNP
+Afternoon NNP
+
+
 Ephel Duath was amazing on   The Painter's Palette   but that's about all I've ever cared about from 'em
+Ephel NNP
+Duath NNP
+was VBD
+amazing VBG
+on IN
+The DT
+Painter's NNP
+Palette NNP
+but CC
+that's VBP
+about IN
+all DT
+I've NNP
+ever RB
+cared VBD
+about IN
+from IN
+'em NN
+The Painter's Palette
+
+
 Glimmer makes Richey sound like one of folk music's sensitive, self-pitying, depressed troubadours.
+Glimmer NNP
+makes VBZ
+Richey NNP
+sound NN
+like IN
+one CD
+of IN
+folk NN
+music's NN
+sensitive, VBD
+self-pitying, JJ
+depressed JJ
+troubadours. NN
+
+
 Canada most loved band The Tragically Hip is back with World Container , their 11th album that was just released last Tuesday.
+Canada NNP
+most JJS
+loved JJ
+band VBP
+The DT
+Tragically NNP
+Hip NNP
+is VBZ
+back RB
+with IN
+World NNP
+Container NNP
+, ,
+their PRP$
+11th CD
+album NN
+that WDT
+was VBD
+just RB
+released VBN
+last JJ
+Tuesday. NN
+The Tragically Hip
+
+
 Ash In The Rainbow is Haco 's collaboration with cellist Hiromichi Sakamoto.
+Ash NNP
+In IN
+The DT
+Rainbow NNP
+is VBZ
+Haco NNP
+'s POS
+collaboration NN
+with IN
+cellist NN
+Hiromichi NNP
+Sakamoto. NNP
+Ash In The Rainbow
+
+
 Carmen , the acoustic version in English , to promote the new release: Future Past EP by Anything Box 
+Carmen NNS
+, ,
+the DT
+acoustic JJ
+version NN
+in IN
+English NNP
+, ,
+to TO
+promote VB
+the DT
+new JJ
+release: NN
+Future NNP
+Past NNP
+EP NNP
+by IN
+Anything NNP
+Box NNP
+
+
 On February 8, 2006, Keller Williams hit the stage at Denver ?s Fillmore with a project he calls Grateful Grass .
+On IN
+February NNP
+8, CD
+2006, CD
+Keller NNP
+Williams NNP
+hit VBD
+the DT
+stage NN
+at IN
+Denver NNP
+?s NNP
+Fillmore NNP
+with IN
+a DT
+project NN
+he PRP
+calls VBZ
+Grateful JJ
+Grass NNP
+. .
+Grateful Grass
+
+
 Raiders is an song by Anne Dudley on American History X Soundtrack .
+Raiders NNS
+is VBZ
+an DT
+song NN
+by IN
+Anne NNP
+Dudley NNP
+on IN
+American NNP
+History NNP
+X NNP
+Soundtrack NNP
+. .
+
+
 Petraglia co-wrote several songs on Richey 's previous album, 1997's aptly titled and critically praised Bitter Sweet 
+Petraglia NNP
+co-wrote JJ
+several JJ
+songs NNS
+on IN
+Richey NNP
+'s POS
+previous JJ
+album, NN
+1997's CD
+aptly RB
+titled VBN
+and CC
+critically RB
+praised JJ
+Bitter NNP
+Sweet NNP
+
+
 Music video by The Tragically Hip performing Little Bones : 
+Music JJ
+video NN
+by IN
+The DT
+Tragically NNP
+Hip NNP
+performing VBG
+Little JJ
+Bones NNS
+: :
+The Tragically Hip
+Little Bones
+
+
 One film composer I like here is Anne Dudley , who did the Pushing Tin soundtrack
+One CD
+film NN
+composer NN
+I PRP
+like VBP
+here RB
+is VBZ
+Anne NNP
+Dudley NNP
+, ,
+who WP
+did VBD
+the DT
+Pushing NNP
+Tin NNP
+soundtrack NN
+
+
 Author's note: This work of fan fiction was inspired by and based on The Tragically Hip 's epic song   Nautical Disaster .
+Author's NNP
+note: NN
+This DT
+work NN
+of IN
+fan JJ
+fiction NN
+was VBD
+inspired VBN
+by IN
+and CC
+based VBN
+on IN
+The DT
+Tragically NNP
+Hip NNP
+'s POS
+epic NN
+song NN
+Nautical NNP
+Disaster NNP
+. .
+The Tragically Hip
+
+
 Oblique Sessions  is a collaboration with Comelade , Berrocal & Liebezeit.
+Oblique JJ
+Sessions NNP
+is VBZ
+a DT
+collaboration NN
+with IN
+Comelade NNP
+, ,
+Berrocal NNP
+& CC
+Liebezeit. NNP
+Oblique Sessions
+
+
 Phantom Power is the sixth full-length album by Canadian rock band The Tragically Hip .
+Phantom NNP
+Power NNP
+is VBZ
+the DT
+sixth JJ
+full-length JJ
+album NN
+by IN
+Canadian JJ
+rock NN
+band VBP
+The DT
+Tragically NNP
+Hip NNP
+. .
+Canadian
+The Tragically Hip
+
+
 The French avant-garde musician Pascal Comelade included several cover versions on his 1987 album El Primitivismo 
+The DT
+French JJ
+avant-garde JJ
+musician JJ
+Pascal NNP
+Comelade NNP
+included VBD
+several JJ
+cover NN
+versions NNS
+on IN
+his PRP$
+1987 CD
+album NN
+El NNP
+Primitivismo NNP
+French
+
+
 In 2006, Midler released  Cool Yule , a Christmas album featuring the title song and a duet with Johhny Mathis 
+In IN
+2006, CD
+Midler NNP
+released VBD
+Cool NNP
+Yule NNP
+, ,
+a DT
+Christmas NNP
+album NN
+featuring VBG
+the DT
+title NN
+song NN
+and CC
+a DT
+duet NN
+with IN
+Johhny NNP
+Mathis NNP
+
+
 Tony Rice sings   Cold On The Shoulder   from the TNN television series American Music Shop
+Tony NNP
+Rice NNP
+sings NNS
+Cold NNP
+On IN
+The DT
+Shoulder NN
+from IN
+the DT
+TNN NNP
+television NN
+series NN
+American NNP
+Music NNP
+Shop NNP
+Cold On The Shoulder
+
+
 Also, a 2005 release   Mary Never Wanted Jesus   credited to Genesis P-Orridge & Thee Majesty featured archive PTV material alongside new Thee Majesty
+Also, IN
+a DT
+2005 CD
+release NN
+Mary NNP
+Never NNP
+Wanted VBD
+Jesus NNP
+credited VBD
+to TO
+Genesis NNP
+P-Orridge NNP
+& CC
+Thee NNP
+Majesty NNP
+featured VBD
+archive JJ
+PTV NNP
+material NN
+alongside RB
+new JJ
+Thee NNP
+Majesty NNP
+Mary Never Wanted Jesus
+
+
 mistrust's remix of   Rude Mechanicals   by NZ band Pitch Black gets an official release on the bands own label....
+mistrust's JJ
+remix NN
+of IN
+Rude NNP
+Mechanicals NNP
+by IN
+NZ NNP
+band NN
+Pitch NNP
+Black NNP
+gets VBZ
+an DT
+official JJ
+release NN
+on IN
+the DT
+bands NNS
+own VBP
+label.... NN
+
+
 Twenty years later, Tony recorded   Fishscale   with John Carlini  on River Suite For Two Guitars 
+Twenty CD
+years NNS
+later, VBP
+Tony NNP
+recorded VBD
+Fishscale NNP
+with IN
+John NNP
+Carlini NNP
+on IN
+River NNP
+Suite NNP
+For IN
+Two CD
+Guitars NNS
+River Suite For Two Guitars
+
+
 Did the Free Design make any recordings before Kites Are Fun 
+Did NNP
+the DT
+Free NNP
+Design NNP
+make VBP
+any DT
+recordings NNS
+before IN
+Kites NNS
+Are VBP
+Fun NNP
+Kites Are Fun
+
+
 From the mewithoutYou album,   Catch For Us The Foxes ,  in stores now on Tooth & Nail Records !..
+From IN
+the DT
+mewithoutYou NN
+album, VBP
+Catch NNP
+For IN
+Us NNP
+The DT
+Foxes NNP
+, ,
+in IN
+stores NNS
+now RB
+on IN
+Tooth NNP
+& CC
+Nail NNP
+Records NNP
+!.. NN
+Catch For Us The Foxes
+Tooth & Nail Records
+
+
 In 2000, Lindsay won the role of   Rose   in Bette Midler 's television sitcom, Bette 
+In IN
+2000, CD
+Lindsay NNP
+won VBD
+the DT
+role NN
+of IN
+Rose NNP
+in IN
+Bette NNP
+Midler NNP
+'s POS
+television NN
+sitcom, NN
+Bette NNP
+
+
 Les Luthiers : Bromato De Armonio par Carlos López Puccio , Daniel Rabinovich , ... Les Luthiers : Hacen Muchas Gracias De Nada par Les Luthiers  ..
+Les JJ
+Luthiers NNS
+: :
+Bromato NNP
+De NNP
+Armonio NNP
+par NN
+Carlos NNP
+López NNP
+Puccio NNP
+, ,
+Daniel NNP
+Rabinovich NNP
+, ,
+... :
+Les FW
+Luthiers NNS
+: :
+Hacen NNP
+Muchas NNP
+Gracias NNP
+De NNP
+Nada NNP
+par NN
+Les NNP
+Luthiers NNP
+.. VBD
+Les Luthiers
+Les Luthiers
+Les Luthiers
+
+
 The band probably hit its zenith when Rice released the all-instrumental Unit Of Measure  in 2000
+The DT
+band NN
+probably RB
+hit VBD
+its PRP$
+zenith NN
+when WRB
+Rice NNP
+released VBD
+the DT
+all-instrumental JJ
+Unit NNP
+Of IN
+Measure NN
+in IN
+2000 CD
+Unit Of Measure
+
+
 In my opinion, Tony 's version of Church Street Blues is one of his finest recorded moments
+In IN
+my PRP$
+opinion, NN
+Tony NNP
+'s POS
+version NN
+of IN
+Church NNP
+Street NNP
+Blues NNP
+is VBZ
+one CD
+of IN
+his PRP$
+finest JJS
+recorded VBN
+moments NNS
+
+
 Darren Hanlon  After the success of his Hello Stranger and Little Chills albums, Darren Hanlon returns with the wonderful Fingertips and Mountaintops
+Darren NNP
+Hanlon NNP
+After IN
+the DT
+success NN
+of IN
+his PRP$
+Hello NNP
+Stranger NNP
+and CC
+Little NNP
+Chills NNP
+albums, VBZ
+Darren NNP
+Hanlon NNP
+returns VBZ
+with IN
+the DT
+wonderful JJ
+Fingertips NNP
+and CC
+Mountaintops NNP
+
+
 Hanlon went to the US last year as the Fields ' support act, taking his most recent album, Little Chills 
+Hanlon NNP
+went VBD
+to TO
+the DT
+US NNP
+last JJ
+year NN
+as IN
+the DT
+Fields NNP
+' POS
+support NN
+act, NN
+taking VBG
+his PRP$
+most RBS
+recent JJ
+album, JJ
+Little NNP
+Chills NNP
+
+
 In 1992, Faye released Coming Home , an album that fuelled her career in an unexpected way
+In IN
+1992, CD
+Faye NNS
+released VBN
+Coming NNP
+Home NNP
+, ,
+an DT
+album NN
+that WDT
+fuelled VBD
+her PRP
+career NN
+in IN
+an DT
+unexpected JJ
+way NN
+
+
 I have been looking for the Ugly Casanova cd,   Sharpen Your Teeth   for nearly 2 years now
+I PRP
+have VBP
+been VBN
+looking VBG
+for IN
+the DT
+Ugly NNP
+Casanova NNP
+cd, NN
+Sharpen NNP
+Your NNP
+Teeth NNP
+for IN
+nearly RB
+2 CD
+years NNS
+now RB
+
+
 Jacob Kirkegaard performs Eldfjall live in Spain ...
+Jacob NNP
+Kirkegaard NNP
+performs VBZ
+Eldfjall NNP
+live VBP
+in IN
+Spain NNP
+... :
+
+
 After the release of Chalk Mark in a Rainstorm , Mitchell participated in Roger Waters ' The Wall Concert in Berlin 
+After IN
+the DT
+release NN
+of IN
+Chalk NNP
+Mark NNP
+in IN
+a DT
+Rainstorm NNP
+, ,
+Mitchell NNP
+participated VBD
+in IN
+Roger NNP
+Waters NNP
+' POS
+The DT
+Wall NNP
+Concert NNP
+in IN
+Berlin NNP
+Chalk Mark in a Rainstorm
+The Wall Concert in Berlin
+
+
 Jenkins also worked with Harry Nilsson on A Little Touch of Schmilsson in the Night , a collection of pre-rock and roll standards
+Jenkins NNS
+also RB
+worked VBD
+with IN
+Harry NNP
+Nilsson NNP
+on IN
+A NNP
+Little NNP
+Touch NNP
+of IN
+Schmilsson NNP
+in IN
+the DT
+Night NNP
+, ,
+a DT
+collection NN
+of IN
+pre-rock NN
+and CC
+roll NN
+standards NNS
+A Little Touch of Schmilsson in the Night
+
+
 In his latest work for Touch ,  4 Rooms  , Kirkegaard explores the sonic legacy of Chernobyl .
+In IN
+his PRP$
+latest JJS
+work NN
+for IN
+Touch NNP
+, ,
+4 CD
+Rooms NNP
+, ,
+Kirkegaard NNP
+explores VBZ
+the DT
+sonic JJ
+legacy NN
+of IN
+Chernobyl NNP
+. .
+4 Rooms
+
+
 Portland lo-fi folk rock band Horse Feathers  released their acclaimed House With No Home in September on Kill Rock Stars .
+Portland NNP
+lo-fi JJ
+folk NN
+rock NN
+band NN
+Horse NNP
+Feathers NNP
+released VBD
+their PRP$
+acclaimed JJ
+House NNP
+With IN
+No NNP
+Home NNP
+in IN
+September NNP
+on IN
+Kill NNP
+Rock NNP
+Stars NNP
+. .
+House With No Home
+
+
 Carrie Rodriguez is paired with Chip Taylor on the new Trainwreck Records release Live From The Ruhr Triennale available now
+Carrie NNP
+Rodriguez NNP
+is VBZ
+paired VBN
+with IN
+Chip NNP
+Taylor NNP
+on IN
+the DT
+new JJ
+Trainwreck NNP
+Records NNP
+release NN
+Live NNP
+From IN
+The DT
+Ruhr NNP
+Triennale NNP
+available JJ
+now RB
+Live From The Ruhr Triennale
+
+
 I found both of Mofro 's earlier discs, Blackwater , and Lochloosa , also intriguing.
+I PRP
+found VBD
+both DT
+of IN
+Mofro NNP
+'s POS
+earlier JJR
+discs, NN
+Blackwater NNP
+, ,
+and CC
+Lochloosa NNP
+, ,
+also RB
+intriguing. NN
+
+
 Sparrow was originally on Mira Calix 's first album called One On One .
+Sparrow NNP
+was VBD
+originally RB
+on IN
+Mira NNP
+Calix NNP
+'s POS
+first JJ
+album NN
+called VBN
+One CD
+On IN
+One CD
+. .
+One On One
+
+
 It was amazing, but the first thing I thought of while watching them sing   American Idiot   was   Max Frost and The Troopers   and   Shape of Things to Come   
+It PRP
+was VBD
+amazing, RB
+but CC
+the DT
+first JJ
+thing NN
+I PRP
+thought VBD
+of IN
+while IN
+watching VBG
+them PRP
+sing VBG
+American JJ
+Idiot NNP
+was VBD
+Max NNP
+Frost NNP
+and CC
+The DT
+Troopers NNPS
+and CC
+Shape NNP
+of IN
+Things NNP
+to TO
+Come VB
+American Idiot
+Max Frost and The Troopers
+Shape of Things to Come
+
+
 Rodriguez was taken by Taylor in his next album   Let's Leave This Town  , that was released in 2002.
+Rodriguez NNP
+was VBD
+taken VBN
+by IN
+Taylor NNP
+in IN
+his PRP$
+next JJ
+album NN
+Let's NNP
+Leave NNP
+This DT
+Town NNP
+, ,
+that WDT
+was VBD
+released VBN
+in IN
+2002. CD
+Let's Leave This Town
+
+
 That person may be onto something since Hezekiah 's video for   I Predict A Riot   was released one year ago.
+That DT
+person NN
+may MD
+be VB
+onto IN
+something NN
+since IN
+Hezekiah NNP
+'s POS
+video NN
+for IN
+I PRP
+Predict VBP
+A DT
+Riot NNP
+was VBD
+released VBN
+one CD
+year NN
+ago. NN
+I Predict A Riot
+
+
 Dr. Dre has been recording for Dretox since 2000 and apparently has over 400 records for the album.
+Dr. NNP
+Dre NNP
+has VBZ
+been VBN
+recording VBG
+for IN
+Dretox NNP
+since IN
+2000 CD
+and CC
+apparently RB
+has VBZ
+over RP
+400 CD
+records NNS
+for IN
+the DT
+album. NN
+
+
 In 1995, Gavin Friday releases the classic Shag Tobacco , produced by Bomb the bass ' Tim Simenon .
+In IN
+1995, CD
+Gavin NNP
+Friday NNP
+releases VBZ
+the DT
+classic JJ
+Shag NNP
+Tobacco NNP
+, ,
+produced VBN
+by IN
+Bomb NNP
+the DT
+bass NN
+' POS
+Tim NNP
+Simenon NNP
+. .
+Bomb the bass
+
+
 Ward ?s previous album, End of Amnesia , was a romantic fusion of silence and soft acoustic melodies
+Ward NNP
+?s NNP
+previous JJ
+album, JJ
+End NN
+of IN
+Amnesia NNP
+, ,
+was VBD
+a DT
+romantic JJ
+fusion NN
+of IN
+silence NN
+and CC
+soft JJ
+acoustic JJ
+melodies NNS
+End of Amnesia
+
+
 In 1973, The Divine Miss M garnered Midler a Grammy for Best New Artist .
+In IN
+1973, CD
+The DT
+Divine NNP
+Miss NNP
+M NNP
+garnered VBD
+Midler NNP
+a DT
+Grammy NNP
+for IN
+Best NNP
+New NNP
+Artist NNP
+. .
+The Divine Miss M
+
+
 And Orange Blossoms , the fourth album by JJ Grey & MOFRO should add more to the fold.
+And CC
+Orange NNP
+Blossoms NNP
+, ,
+the DT
+fourth JJ
+album NN
+by IN
+JJ NNP
+Grey NNP
+& CC
+MOFRO NNP
+should MD
+add VB
+more JJR
+to TO
+the DT
+fold. NN
+JJ Grey & MOFRO
+
+
 Du ciment sous les plaines  is an album by Noir Désir .
+Du NNP
+ciment NN
+sous JJ
+les NNS
+plaines NNS
+is VBZ
+an DT
+album NN
+by IN
+Noir NNP
+Désir NNP
+. .
+Du ciment sous les plaines
+
+
 Regina Belle is enjoying the success of her first Gospel CD,   Love Forever Shines   featuring the song,   God is Good  .
+Regina NNP
+Belle NNP
+is VBZ
+enjoying VBG
+the DT
+success NN
+of IN
+her PRP$
+first JJ
+Gospel NNP
+CD, NNP
+Love NNP
+Forever NNP
+Shines NNP
+featuring VBG
+the DT
+song, NN
+God NNP
+is VBZ
+Good NNP
+. .
+
+
 Expectations were high,I am a fan of Deschanel ?s voice, and I enjoyed Ward ?s albums Post-War  and Transfiguration of Vincent 
+Expectations NNS
+were VBD
+high,I JJ
+am VBP
+a DT
+fan NN
+of IN
+Deschanel NNP
+?s NNP
+voice, NN
+and CC
+I PRP
+enjoyed VBP
+Ward NNP
+?s NNP
+albums POS
+Post-War NNP
+and CC
+Transfiguration NNP
+of IN
+Vincent NNP
+Transfiguration of Vincent
+
+
 After the Henmans left, April Wine released the harder-edged Electric Jewels in 1973
+After IN
+the DT
+Henmans NNPS
+left, JJ
+April NNP
+Wine NNP
+released VBD
+the DT
+harder-edged JJ
+Electric NNP
+Jewels NNP
+in IN
+1973 CD
+
+
   Stand Back   is April Wine 's fourth full-length studio-album
+Stand NNP
+Back NNP
+is VBZ
+April NNP
+Wine NNP
+'s POS
+fourth JJ
+full-length JJ
+studio-album NN
+
+
 Now regrouped with four of its early members, April Wine released Back to the Mansion in 2001
+Now RB
+regrouped VBN
+with IN
+four CD
+of IN
+its PRP$
+early JJ
+members, NN
+April NNP
+Wine NNP
+released VBD
+Back NNP
+to TO
+the DT
+Mansion NNP
+in IN
+2001 CD
+Back to the Mansion
+
+
 In 2001 Grey ’s debut album, BLACKWATER , was released under the name Mofro 
+In IN
+2001 CD
+Grey NNP
+’s NNP
+debut NN
+album, NN
+BLACKWATER NNP
+, ,
+was VBD
+released VBN
+under IN
+the DT
+name NN
+Mofro NNP
+
+
 Tone Soul Evolution is the second album from The Apples In Stereo .
+Tone CD
+Soul NNP
+Evolution NNP
+is VBZ
+the DT
+second JJ
+album NN
+from IN
+The DT
+Apples NNP
+In IN
+Stereo NNP
+. .
+Tone Soul Evolution
+The Apples In Stereo
+
+
 666.667 Club is an song by Noir Désir on 666.667 Club .
+666.667 CD
+Club NNP
+is VBZ
+an DT
+song NN
+by IN
+Noir NNP
+Désir NNP
+on IN
+666.667 CD
+Club NNP
+. .
+666.667 Club
+
+
 Des visages des figures is an album by French rock band Noir Désir 
+Des NNP
+visages NNS
+des NNS
+figures NNS
+is VBZ
+an DT
+album NN
+by IN
+French JJ
+rock NN
+band NN
+Noir NNP
+Désir NNP
+French
+
+
 It's rougher than anything on the deliberately-rough Apples in Stereo album Velocity of Sound .
+It's NNP
+rougher NN
+than IN
+anything NN
+on IN
+the DT
+deliberately-rough JJ
+Apples NNP
+in IN
+Stereo NNP
+album VBP
+Velocity NNP
+of IN
+Sound NNP
+. .
+Apples in Stereo
+Velocity of Sound
+
+
 In 1997 Cuccurullo completed Machine Language , an ambient instrumental guitar album, also released on Imago
+In IN
+1997 CD
+Cuccurullo NNP
+completed VBD
+Machine NNP
+Language NNP
+, ,
+an DT
+ambient JJ
+instrumental JJ
+guitar NN
+album, NN
+also RB
+released VBN
+on IN
+Imago NNP
+
+
 He also explains that the Skatalites '   Latin Goes Ska   is an instrumental version of the Cuban song  Pachito El Che. 
+He PRP
+also RB
+explains VBZ
+that IN
+the DT
+Skatalites NNP
+' POS
+Latin NNP
+Goes NNP
+Ska NNP
+is VBZ
+an DT
+instrumental JJ
+version NN
+of IN
+the DT
+Cuban NNP
+song NN
+Pachito NNP
+El NNP
+Che. NNP
+
+
 Fireball Zone is an album from Ric Ocasek .
+Fireball NNP
+Zone NNP
+is VBZ
+an DT
+album NN
+from IN
+Ric NNP
+Ocasek NNP
+. .
+
+
 More recently, a live version appeared on Irish-American punk band Flogging Molly 's 1997 release Alive Behind the Green Door 
+More RBR
+recently, VBZ
+a DT
+live JJ
+version NN
+appeared VBD
+on IN
+Irish-American JJ
+punk NN
+band NN
+Flogging NNP
+Molly NNP
+'s POS
+1997 CD
+release NN
+Alive NNP
+Behind IN
+the DT
+Green JJ
+Door NNP
+Irish-American
+Alive Behind the Green Door
+
+
 By 1976 Pablo had released a substantially re-imagined single version of   East Of The River Nile . 
+By IN
+1976 CD
+Pablo NNP
+had VBD
+released VBN
+a DT
+substantially RB
+re-imagined JJ
+single JJ
+version NN
+of IN
+East NNP
+Of IN
+The DT
+River NNP
+Nile NNP
+. .
+East Of The River Nile
+
+
 Girls And Boys is actually Michaelson 's second record, but she spoke somewhat dismissively of her lesser-known debut, Slow The Rain 
+Girls NNP
+And CC
+Boys NNP
+is VBZ
+actually RB
+Michaelson NNP
+'s POS
+second JJ
+record, NN
+but CC
+she PRP
+spoke VBD
+somewhat RB
+dismissively RB
+of IN
+her PRP$
+lesser-known JJ
+debut, NN
+Slow NNP
+The DT
+Rain NN
+Girls And Boys
+Slow The Rain
+
+
   The Others   , a song from the Dukes of Windsor 's album of the same name, Remixed by TV Rock 
+The DT
+Others NNP
+, ,
+a DT
+song NN
+from IN
+the DT
+Dukes NNP
+of IN
+Windsor NNP
+'s POS
+album NN
+of IN
+the DT
+same JJ
+name, NN
+Remixed NNP
+by IN
+TV NN
+Rock NNP
+The Others
+Dukes of Windsor
+
+
 JJ Grey & MOFRO have been nominated for a Jammy Award for Song of the Year for  Circles  off of the 2007 release Country Ghetto 
+JJ NNP
+Grey NNP
+& CC
+MOFRO NNP
+have VBP
+been VBN
+nominated VBN
+for IN
+a DT
+Jammy NNP
+Award NNP
+for IN
+Song NNP
+of IN
+the DT
+Year NN
+for IN
+Circles NNP
+off IN
+of IN
+the DT
+2007 CD
+release NN
+Country NNP
+Ghetto NNP
+JJ Grey & MOFRO
+Song of the Year
+
+
 My review of The Apples in Stereo album Electronic Projects for Musicians has been published on Blogcritics .
+My PRP$
+review NN
+of IN
+The DT
+Apples NNP
+in IN
+Stereo NNP
+album NN
+Electronic NNP
+Projects NNPS
+for IN
+Musicians NNPS
+has VBZ
+been VBN
+published VBN
+on IN
+Blogcritics NNS
+. .
+The Apples in Stereo
+Electronic Projects for Musicians
+
+
 As I posted last week, M Ward 's new record, Post-War , which comes out in mid August, is terrific.
+As IN
+I PRP
+posted VBD
+last JJ
+week, JJ
+M NNP
+Ward NNP
+'s POS
+new JJ
+record, NN
+Post-War NNP
+, ,
+which WDT
+comes VBZ
+out RP
+in IN
+mid JJ
+August, NNP
+is VBZ
+terrific. JJ
+
+
 This month's song   You and I   is by Ingrid Michaelson from her album   Be Ok  
+This DT
+month's NN
+song NN
+You PRP
+and CC
+I PRP
+is VBZ
+by IN
+Ingrid NNP
+Michaelson NNP
+from IN
+her PRP$
+album NN
+Be NNP
+Ok NNP
+You and I
+
+
 In addition to his on-air duties, Hannity is also the author of the New York Times best-seller, Sean Hannity , Let Freedom Ring 
+In IN
+addition NN
+to TO
+his PRP$
+on-air JJ
+duties, NN
+Hannity NNP
+is VBZ
+also RB
+the DT
+author NN
+of IN
+the DT
+New NNP
+York NNP
+Times NNP
+best-seller, JJ
+Sean NNP
+Hannity NNP
+, ,
+Let NNP
+Freedom NNP
+Ring NNP
+
+
 Viktoria Tolstoy Swedish singer Viktoria Tolstoy just released her latest album   My Russian Soul    on September 23, 2008
+Viktoria NNP
+Tolstoy NNP
+Swedish NNP
+singer NN
+Viktoria NNP
+Tolstoy NNP
+just RB
+released VBD
+her PRP
+latest JJS
+album NN
+My NNP
+Russian JJ
+Soul NNP
+on IN
+September NNP
+23, CD
+2008 CD
+My Russian Soul
+
+
 Watch M Ward s  Hold Time
+Watch NNP
+M NNP
+Ward NNP
+s NNP
+ NNP
+Hold NNP
+Time NNP
+
+
 Seth Gueko ft Sefyu / Patate de Forain
+Seth NNP
+Gueko NNP
+ft NN
+Sefyu NNP
+/ NNP
+Patate NNP
+de FW
+Forain NNP
+Patate de Forain
+
+
 Dolby gave Lovich his song   New Toy ,  which became a British hit in 1981
+Dolby NNP
+gave VBD
+Lovich NNP
+his PRP$
+song JJ
+New NNP
+Toy NNP
+, ,
+which WDT
+became VBD
+a DT
+British JJ
+hit NN
+in IN
+1981 CD
+British
+
+
 Roger Waters public? Radio KAOS , Amused to Death  y la ? pera Ça Ira 
+Roger NNP
+Waters NNP
+public? VBP
+Radio NNP
+KAOS NNP
+, ,
+Amused VBD
+to TO
+Death NNP
+y NN
+la NN
+? .
+pera NN
+Ça NN
+Ira NNP
+
+
 When I purchased M.Ward 's newest record Transistor Radio , these memories came back in deluge
+When WRB
+I PRP
+purchased VBD
+M.Ward NNP
+'s POS
+newest JJS
+record NN
+Transistor NN
+Radio NNP
+, ,
+these DT
+memories NNS
+came VBD
+back RB
+in IN
+deluge NN
+
+
 Flogging Molly new full-length album Within a Mile of Home is set for release on September 14th
+Flogging VBG
+Molly NNP
+new JJ
+full-length JJ
+album NN
+Within IN
+a DT
+Mile NNP
+of IN
+Home NNP
+is VBZ
+set VBN
+for IN
+release NN
+on IN
+September NNP
+14th CD
+Flogging Molly
+Within a Mile of Home
+
+
 Try   Lucky Number   on Lene Lovich ?s red-vinyl Stateless [Stiff Records SEEZ 7]
+Try VB
+Lucky NNP
+Number NNP
+on IN
+Lene NNP
+Lovich NNP
+?s NNP
+red-vinyl JJ
+Stateless NNP
+[Stiff NN
+Records NNP
+SEEZ NNP
+7] CD
+
+
 I enjoyed Twin Freaks more, Paul 's partnership with DJ and producer Freelance Hellraiser .
+I PRP
+enjoyed VBD
+Twin NNP
+Freaks NNP
+more, NN
+Paul NNP
+'s POS
+partnership NN
+with IN
+DJ NNP
+and CC
+producer NN
+Freelance NNP
+Hellraiser NNP
+. .
+
+
 Paul McCartney will release   The Space Within Us  , a live concert video, in October
+Paul NNP
+McCartney NNP
+will MD
+release VB
+The DT
+Space NNP
+Within NNP
+Us NNP
+, ,
+a DT
+live JJ
+concert NN
+video, NN
+in IN
+October NNP
+The Space Within Us
+
+
 Blues Matters! - Super Chikan new album   Sum' Mo' Chikan . .
+Blues NNS
+Matters! NNP
+- :
+Super NNP
+Chikan NNP
+new JJ
+album NN
+Sum' NNP
+Mo' NNP
+Chikan NNP
+. .
+. .
+
+
 ... Whiskey on a Sunday is a 2006 album by the Irish-American punk band Flogging Molly 
+... :
+Whiskey NN
+on IN
+a DT
+Sunday NNP
+is VBZ
+a DT
+2006 CD
+album NN
+by IN
+the DT
+Irish-American JJ
+punk NN
+band NN
+Flogging NNP
+Molly NNP
+Whiskey on a Sunday
+Irish-American
+
+
 Buoyed by the rising popularity of   Girls and Boys ,  Miss Michaelson left New York and took up residence on the road
+Buoyed VBN
+by IN
+the DT
+rising VBG
+popularity NN
+of IN
+Girls NNP
+and CC
+Boys NNP
+, ,
+Miss NNP
+Michaelson NNP
+left VBD
+New NNP
+York NNP
+and CC
+took VBD
+up RP
+residence NN
+on IN
+the DT
+road NN
+Girls and Boys
+
+
 Flogging Molly s weakly  Drunken Lullabies  has no visible association of this sort; neither does Sugarcult
+Flogging VBG
+Molly NNP
+s NNP
+weakly RB
+Drunken NNP
+Lullabies NNP
+has VBZ
+no DT
+visible JJ
+association NN
+of IN
+this DT
+sort; NN
+neither NN
+does VBZ
+Sugarcult VB
+Flogging Molly
+Sugarcult
+
+
 Buzzgrinder interviews Apples in Stereo bassist Eric Allen about the band's new album, New Magnetic Wonder 
+Buzzgrinder NNP
+interviews NNS
+Apples NNP
+in IN
+Stereo NNP
+bassist NN
+Eric NNP
+Allen NNP
+about IN
+the DT
+band's JJ
+new JJ
+album, JJ
+New NNP
+Magnetic NNP
+Wonder NNP
+Apples in Stereo
+
+
 Maybe   Wingspan   is McCartney 's way of providing closure to the second phase of his life
+Maybe RB
+Wingspan NNP
+is VBZ
+McCartney NNP
+'s POS
+way NN
+of IN
+providing VBG
+closure NN
+to TO
+the DT
+second JJ
+phase NN
+of IN
+his PRP$
+life NN
+
+
 It was the first time McCartney had recorded an album in England since 1973's?  Red Rose Speedway  
+It PRP
+was VBD
+the DT
+first JJ
+time NN
+McCartney NNP
+had VBD
+recorded VBN
+an DT
+album NN
+in IN
+England NNP
+since IN
+1973's? CD
+Red NNP
+Rose NNP
+Speedway NNP
+
+
 Co-produced with Nigel Godrich , Chaos And Creation is McCartney 's first record since 2001's Driving Rain 
+Co-produced JJ
+with IN
+Nigel NNP
+Godrich NNP
+, ,
+Chaos NNP
+And CC
+Creation NNP
+is VBZ
+McCartney NNP
+'s POS
+first JJ
+record NN
+since IN
+2001's CD
+Driving VBG
+Rain NN
+Chaos And Creation
+Driving Rain
+
+
 Paul performs Mull Of Kintyre during tonight's Get Back
+Paul NNP
+performs VBZ
+Mull NNP
+Of IN
+Kintyre NNP
+during IN
+tonight's NN
+Get NNP
+Back NNP
+Mull Of Kintyre
+
+
 I mean, Paul McCartney was already at Press To Play when he was about your age.
+I PRP
+mean, VBP
+Paul NNP
+McCartney NNP
+was VBD
+already RB
+at IN
+Press NNP
+To TO
+Play VB
+when WRB
+he PRP
+was VBD
+about IN
+your PRP$
+age. NN
+Press To Play
+
+
 The Pet Shop Boys did It Couldn’t Happen Here , Macca did Give My Regards To Broad Street
+The DT
+Pet NNP
+Shop NNP
+Boys NNP
+did VBD
+It PRP
+Couldn’t NNP
+Happen NNP
+Here RB
+, ,
+Macca NNP
+did VBD
+Give VB
+My NNP
+Regards NNP
+To TO
+Broad NNP
+Street NNP
+Give My Regards To Broad Street
+
+
 I was just thinking about buying Paul 's newest album   Liverpool Sound Collage  .
+I PRP
+was VBD
+just RB
+thinking VBG
+about IN
+buying VBG
+Paul NNP
+'s POS
+newest JJS
+album NN
+Liverpool NNP
+Sound NNP
+Collage NNP
+. .
+
+
 Eric Stewart had appeared on McCartney 's Pipes of Peace album,[100] and he co-wrote most of McCartney 's 1986 album, Press to Play 
+Eric NNP
+Stewart NNP
+had VBD
+appeared VBN
+on IN
+McCartney NNP
+'s POS
+Pipes NNP
+of IN
+Peace NNP
+album,[100] NN
+and CC
+he PRP
+co-wrote VBZ
+most JJS
+of IN
+McCartney NNP
+'s POS
+1986 CD
+album, JJ
+Press NNP
+to TO
+Play VB
+Pipes of Peace
+Press to Play
+
+
 Paul McCartney 's Amoeba's Secret is coming to CD !
+Paul NNP
+McCartney NNP
+'s POS
+Amoeba's NNP
+Secret NNP
+is VBZ
+coming VBG
+to TO
+CD NN
+! .
+
+
 1980, Paul McCartney 's LP, McCartney II , reaches #1 in the UK charts.
+1980, CD
+Paul NNP
+McCartney NNP
+'s POS
+LP, NNP
+McCartney NNP
+II NNP
+, ,
+reaches VBZ
+#1 NNP
+in IN
+the DT
+UK NNP
+charts. NN
+
+
 In 1993 New releases included Mick Jagger 's the solo album   Wandering Spirit   and Paul McCartney 's album   Off the Ground .
+In IN
+1993 CD
+New NNP
+releases NNS
+included VBD
+Mick NNP
+Jagger NNP
+'s POS
+the DT
+solo NN
+album NN
+Wandering NNP
+Spirit NNP
+and CC
+Paul NNP
+McCartney NNP
+'s POS
+album NN
+Off IN
+the DT
+Ground NNP
+. .
+Off the Ground
+
+
 Paul McCartney performing Lady Madonna in Minneapolis on the   Wings Over America   tour.
+Paul NNP
+McCartney NNP
+performing VBG
+Lady NNP
+Madonna NNP
+in IN
+Minneapolis NNP
+on IN
+the DT
+Wings NNP
+Over NNP
+America NNP
+tour. NN
+
+
 In 1999, Paul McCartney included a cover of   Lonesome Town   on his album   Run Devil Run .
+In IN
+1999, CD
+Paul NNP
+McCartney NNP
+included VBD
+a DT
+cover NN
+of IN
+Lonesome NNP
+Town NNP
+on IN
+his PRP$
+album NN
+Run NNP
+Devil NNP
+Run NNP
+. .
+
+
 Likwidation is the third album by West Coast hip hop group Tha Alkaholiks , released in 1997 on Loud Records 
+Likwidation NN
+is VBZ
+the DT
+third JJ
+album NN
+by IN
+West NNP
+Coast NNP
+hip NN
+hop NN
+group NN
+Tha NNP
+Alkaholiks NNP
+, ,
+released VBN
+in IN
+1997 CD
+on IN
+Loud NNP
+Records NNS
+
+
 Paul McCartney performs George Harrison 's  Something  on a ukelele in the Concert for George ...
+Paul NNP
+McCartney NNP
+performs NNS
+George NNP
+Harrison NNP
+'s POS
+Something VBG
+on IN
+a DT
+ukelele NN
+in IN
+the DT
+Concert NNP
+for IN
+George NNP
+... :
+Concert for George
+
+
 Paul still favored the   Thrillington   concept, only this time, he took it to a grand scale
+Paul NNP
+still RB
+favored VBD
+the DT
+Thrillington NNP
+concept, VBZ
+only RB
+this DT
+time, NN
+he PRP
+took VBD
+it PRP
+to TO
+a DT
+grand JJ
+scale NN
+
+
 Finnish female-fronted metal band AMBERIAN DAWN will release its debut album,   River of Tuoni  , on January 30, 2008 via Suomen Musiikki.
+Finnish JJ
+female-fronted JJ
+metal NN
+band NN
+AMBERIAN NNP
+DAWN NNP
+will MD
+release VB
+its PRP$
+debut NN
+album, VBZ
+River NNP
+of IN
+Tuoni NNP
+, ,
+on IN
+January NNP
+30, CD
+2008 CD
+via IN
+Suomen NNP
+Musiikki. NNP
+Finnish
+River of Tuoni
+
+
 Erstwhile BUCK CHERRY vocalist JOSH TODD releases his debut solo album, ' You Made Me ', through Todd Entertainment on March 9th
+Erstwhile NNP
+BUCK NNP
+CHERRY NNP
+vocalist NN
+JOSH NNP
+TODD NNP
+releases VBZ
+his PRP$
+debut NN
+solo VBZ
+album, RP
+' ''
+You PRP
+Made VBD
+Me NNP
+', NNP
+through IN
+Todd NNP
+Entertainment NNP
+on IN
+March NNP
+9th CD
+You Made Me
+
+
 'Ya Akhi', first single from Ahmed Bukhatir 's album   Da'ani  .
+'Ya POS
+Akhi', NNP
+first RB
+single JJ
+from IN
+Ahmed NNP
+Bukhatir NNP
+'s POS
+album NN
+Da'ani NNP
+. .
+
+
   La Maravilla   is the debut studio album by Dominican - American reggaeton singer-songwriter Arcangel , officially released in April 2008.
+La NNP
+Maravilla NNP
+is VBZ
+the DT
+debut NN
+studio NN
+album NN
+by IN
+Dominican NNP
+- :
+American JJ
+reggaeton NN
+singer-songwriter NN
+Arcangel NNP
+, ,
+officially RB
+released VBN
+in IN
+April NNP
+2008. CD
+American
+
+
 I think the quickest cover I ever did was the one for Mortician s Re-animated Dead Flesh 
+I PRP
+think VBP
+the DT
+quickest JJS
+cover NN
+I PRP
+ever RB
+did VBD
+was VBD
+the DT
+one NN
+for IN
+Mortician JJ
+s JJ
+Re-animated JJ
+Dead NNP
+Flesh NNP
+Mortician
+Re-animated Dead Flesh
+
+
 The 11 Beatles songs featured on PAUL IS LIVE did not appear on McCartney 's previous live album TRIPPING THE LIVE FANTASTIC .
+The DT
+11 CD
+Beatles NNP
+songs NNS
+featured VBD
+on IN
+PAUL NNP
+IS NNP
+LIVE NNP
+did VBD
+not RB
+appear VB
+on IN
+McCartney NNP
+'s POS
+previous JJ
+live JJ
+album NN
+TRIPPING NNP
+THE NNP
+LIVE NNP
+FANTASTIC NNP
+. .
+
+
 US death metal band Mortician have made several songs about the movie, including   Chainsaw Dismemberment   and  Hacked up for Barbecue 
+US NNP
+death NN
+metal NN
+band NN
+Mortician NNP
+have VBP
+made VBN
+several JJ
+songs NNS
+about IN
+the DT
+movie, NN
+including VBG
+Chainsaw NNP
+Dismemberment NNP
+and CC
+Hacked VBD
+up RP
+for IN
+Barbecue NNP
+
+
 Gauthier sang on Ray Wylie Hubbard 's latest,   Growl ,  and is name-checked on  Name Droppin',  a tune on   Growl . 
+Gauthier NNP
+sang NN
+on IN
+Ray NNP
+Wylie NNP
+Hubbard NNP
+'s POS
+latest, NN
+Growl NNP
+, ,
+and CC
+is VBZ
+name-checked JJ
+on IN
+Name NNP
+Droppin', NNP
+a DT
+tune NN
+on IN
+Growl NNP
+. .
+
+
 Although my favourite Turisas songis on The Varangian Way , overally I enjoy more the Battle Metal album!
+Although IN
+my PRP$
+favourite JJ
+Turisas NNP
+songis NN
+on IN
+The DT
+Varangian JJ
+Way NNP
+, ,
+overally RB
+I PRP
+enjoy VBP
+more JJR
+the DT
+Battle NNP
+Metal NNP
+album! NN
+The Varangian Way
+
+
 In 1997, Citizen King signed to Warner Brothers records, and in 1999 released their first  major label release, Mobile Estates ..
+In IN
+1997, CD
+Citizen NNP
+King NNP
+signed VBD
+to TO
+Warner NNP
+Brothers NNPS
+records, NN
+and CC
+in IN
+1999 CD
+released VBD
+their PRP$
+first JJ
+major JJ
+label NN
+release, NN
+Mobile NNP
+Estates VBZ
+.. NNS
+Mobile Estates
+
+
 Guru Josh Project performed the world premier of   Infinity 2008  ..
+Guru NNP
+Josh NNP
+Project NNP
+performed VBD
+the DT
+world NN
+premier NN
+of IN
+Infinity NNP
+2008 CD
+.. NN
+Infinity 2008
+
+
 ... Firewater is the fifth album by West Coast hip hop group Tha Alkaholiks , released in January 2006 through Waxploitation Records 
+... :
+Firewater NN
+is VBZ
+the DT
+fifth JJ
+album NN
+by IN
+West NNP
+Coast NNP
+hip NN
+hop NN
+group NN
+Tha NNP
+Alkaholiks NNP
+, ,
+released VBN
+in IN
+January NNP
+2006 CD
+through IN
+Waxploitation NN
+Records NNS
+
+
 In 2004, Loon left Bad Boy to start his own label, Boss Up Entertainment 
+In IN
+2004, CD
+Loon NNP
+left VBD
+Bad NNP
+Boy NNP
+to TO
+start VB
+his PRP$
+own JJ
+label, NN
+Boss NNP
+Up NNP
+Entertainment NNP
+
+
 Smartly, Nouvelle Vague made  Bande A Part s arrangements and overall feel different from the first album.
+Smartly, NNP
+Nouvelle NNP
+Vague NNP
+made VBD
+ NNP
+Bande NNP
+A NNP
+Part NNP
+s NNP
+arrangements NNS
+and CC
+overall JJ
+feel NN
+different JJ
+from IN
+the DT
+first JJ
+album. NN
+
+
 Tantric 's new album,   The End Begins  , is set to be released early next year
+Tantric NNP
+'s POS
+new JJ
+album, IN
+The DT
+End NN
+Begins NNP
+, ,
+is VBZ
+set VBN
+to TO
+be VB
+released VBN
+early JJ
+next JJ
+year NN
+The End Begins
+
+
 Kate Ryan For fans of European vocal trance, it would be hard to beat Kate Ryan s Stronger .
+Kate NNP
+Ryan NNP
+For IN
+fans NNS
+of IN
+European JJ
+vocal JJ
+trance, NN
+it PRP
+would MD
+be VB
+hard JJ
+to TO
+beat VB
+Kate NNP
+Ryan NNP
+s NNP
+Stronger NNP
+. .
+European
+
+
 O: What do you think of Paul 's latest album,   Flowers in the Dirt ?
+O: NNP
+What WP
+do VBP
+you PRP
+think VB
+of IN
+Paul NNP
+'s POS
+latest JJS
+album, NN
+Flowers NNS
+in IN
+the DT
+Dirt NNP
+? .
+Flowers in the Dirt
+
+
 Excerpt from Turisas 's album Battle Metal !
+Excerpt NN
+from IN
+Turisas NNP
+'s POS
+album JJ
+Battle NNP
+Metal NN
+! .
+
+
 This is a mix of clips of Soul Calibur 's Raphael dubbed to Kate Ryan 's Desenchantee 
+This DT
+is VBZ
+a DT
+mix NN
+of IN
+clips NNS
+of IN
+Soul NNP
+Calibur NNP
+'s POS
+Raphael NNP
+dubbed VBD
+to TO
+Kate NNP
+Ryan NNP
+'s POS
+Desenchantee NN
+
+
 In 2007, the label released Saigon 's debut mixtape, The Moral of the Story .
+In IN
+2007, CD
+the DT
+label NN
+released VBN
+Saigon NNP
+'s POS
+debut NN
+mixtape, VBZ
+The DT
+Moral NNP
+of IN
+the DT
+Story NNP
+. .
+The Moral of the Story
+
+
 Ecce Cor Meum  is Paul fourth classical album since his first released in 1991, The Liverpool Oratorio 
+Ecce NNP
+Cor NNP
+Meum NNP
+is VBZ
+Paul NNP
+fourth JJ
+classical JJ
+album NN
+since IN
+his PRP$
+first JJ
+released VBN
+in IN
+1991, CD
+The DT
+Liverpool NNP
+Oratorio NNP
+
+
 Kubb s Mother
+Kubb NNP
+s NNP
+Mother NNP
+
+
 Hard 'n Phirm 's fourth track on Horses and Grasses is   Pi   
+Hard NNP
+'n NNP
+Phirm NNP
+'s POS
+fourth JJ
+track NN
+on IN
+Horses NNS
+and CC
+Grasses NNP
+is VBZ
+Pi NNP
+Horses and Grasses
+
+
 boxed set  and I found Lori McKenna 's record,   Bittertown  , to be really interesting
+boxed VBN
+set NN
+and CC
+I PRP
+found VBD
+Lori NNP
+McKenna NNP
+'s POS
+record, NN
+Bittertown NNP
+, ,
+to TO
+be VB
+really RB
+interesting JJ
+
+
 Frank Turner playing Long Live the Queen at The Junction in Cambridge , 19/01/09.Sorry about my dodgy camera work...
+Frank NNP
+Turner NNP
+playing VBG
+Long NNP
+Live NNP
+the DT
+Queen NNP
+at IN
+The DT
+Junction NNP
+in IN
+Cambridge NNP
+, ,
+19/01/09.Sorry CD
+about IN
+my PRP$
+dodgy NN
+camera NN
+work... NN
+Long Live the Queen
+
+
 The main course is Red , the sophomore album from Guillemots 
+The DT
+main JJ
+course NN
+is VBZ
+Red NNP
+, ,
+the DT
+sophomore NN
+album NN
+from IN
+Guillemots NNP
+
+
 All but two of the songs on My World come from Cyndi and Tommy Lee .
+All DT
+but CC
+two CD
+of IN
+the DT
+songs NNS
+on IN
+My NNP
+World NNP
+come VBP
+from IN
+Cyndi NNP
+and CC
+Tommy NNP
+Lee NNP
+. .
+
+
 Oh, I had to laugh when I heard the title of Lori McKenna ?s latest CD, Unglamorous 
+Oh, NNP
+I PRP
+had VBD
+to TO
+laugh IN
+when WRB
+I PRP
+heard VBD
+the DT
+title NN
+of IN
+Lori NNP
+McKenna NNP
+?s NNP
+latest JJS
+CD, NNP
+Unglamorous NNP
+
+
 Music critic Serene Dominic notes that Dusty in London  collects most of See All Her Faces  and Dusty . . 
+Music NNP
+critic JJ
+Serene NNP
+Dominic NNP
+notes NNS
+that IN
+Dusty NNP
+in IN
+London NNP
+collects VBZ
+most JJS
+of IN
+See NNP
+All NNP
+Her NNP
+Faces NNP
+and CC
+Dusty NNP
+. .
+. .
+
+
 Welcome Guillemots whose critically acclaimed debut album, Through The Windowpane , was nominated for a Mercury Music Prize last year
+Welcome JJ
+Guillemots NNP
+whose WP$
+critically RB
+acclaimed VBN
+debut NN
+album, VBZ
+Through IN
+The DT
+Windowpane NNP
+, ,
+was VBD
+nominated VBN
+for IN
+a DT
+Mercury NNP
+Music NNP
+Prize NNP
+last JJ
+year NN
+Through The Windowpane
+
+
 Frank Turner 's music on Campfire Punkrock is folksy, mellow and melodic.
+Frank NNP
+Turner NNP
+'s POS
+music NN
+on IN
+Campfire NNP
+Punkrock NNP
+is VBZ
+folksy, JJ
+mellow NN
+and CC
+melodic. NN
+
+
 Ryan. Kate Ryan mp3, The Promise You Made downloads.
+Ryan. NNP
+Kate NNP
+Ryan NNP
+mp3, VBD
+The DT
+Promise NNP
+You PRP
+Made VBD
+downloads. NNS
+The Promise You Made
+
+
 On June 14, 1994, Lush released Split , produced by Mike Hedges 
+On IN
+June NNP
+14, CD
+1994, CD
+Lush NNP
+released VBN
+Split NNP
+, ,
+produced VBN
+by IN
+Mike NNP
+Hedges NNP
+
+
 Later in 1980, McCartney entered the studio with Beatles producer George Martin to make Tug of War 
+Later RB
+in IN
+1980, CD
+McCartney NNP
+entered VBD
+the DT
+studio NN
+with IN
+Beatles NNP
+producer NN
+George NNP
+Martin NNP
+to TO
+make VB
+Tug NNP
+of IN
+War NNP
+Tug of War
+
+
 D. Rider will release   Mother Of Curses ,  their new album on Tizona Records, February 17th.
+D. NNP
+Rider NNP
+will MD
+release VB
+Mother NNP
+Of IN
+Curses NNP
+, ,
+their PRP$
+new JJ
+album NN
+on IN
+Tizona NNP
+Records, NNP
+February NNP
+17th. CD
+Mother Of Curses
+
+
 The Spin Doctors hit the Top 40 with   You Let Your Heart Go Too Fast . 
+The DT
+Spin NNP
+Doctors NNPS
+hit VBD
+the DT
+Top JJ
+40 CD
+with IN
+You PRP
+Let VB
+Your VB
+Heart NNP
+Go NNP
+Too NNP
+Fast NNP
+. .
+Top 40
+You Let Your Heart Go Too Fast
+
+
 Riding high on the resulting wave of Baby Boomer nostalgia, McCartney released a new solo album inearly 1997, Flaming Pie 
+Riding VBG
+high JJ
+on IN
+the DT
+resulting VBG
+wave NN
+of IN
+Baby NNP
+Boomer NNP
+nostalgia, IN
+McCartney NNP
+released VBD
+a DT
+new JJ
+solo NN
+album VBD
+inearly RB
+1997, CD
+Flaming NNP
+Pie NNP
+
+
 McCartney , who died in 1998, was the wife of former Beatles member Paul McCartney , and both were vegetarians.
+McCartney NNP
+, ,
+who WP
+died VBD
+in IN
+1998, CD
+was VBD
+the DT
+wife NN
+of IN
+former JJ
+Beatles NNP
+member NN
+Paul NNP
+McCartney NNP
+, ,
+and CC
+both DT
+were VBD
+vegetarians. NNS
+
+
 However, in 1996, Lush did score a minor US alterna-radio hit with  Ladykillers  from their final album, Lovelife 
+However, NNP
+in IN
+1996, CD
+Lush NNP
+did VBD
+score VB
+a DT
+minor JJ
+US NNP
+alterna-radio NN
+hit NN
+with IN
+Ladykillers NNS
+from IN
+their PRP$
+final JJ
+album, NN
+Lovelife NNP
+
+
 said: how can all agree that a YMO album Naughty Boys and instrumental is good?
+said: VB
+how WRB
+can MD
+all DT
+agree VB
+that IN
+a DT
+YMO NNP
+album NN
+Naughty NNP
+Boys NNP
+and CC
+instrumental JJ
+is VBZ
+good? JJ
+
+
 Roger Waters ,  The Tide is Turning  from Radio KAOS .
+Roger NNP
+Waters NNP
+, ,
+The DT
+Tide NNP
+is VBZ
+Turning VBG
+from IN
+Radio NNP
+KAOS NNP
+. .
+
+
 Naughty Boys Instrumental was the seventh album by Yellow Magic Orchestra .
+Naughty NNP
+Boys NNP
+Instrumental NNP
+was VBD
+the DT
+seventh JJ
+album NN
+by IN
+Yellow NNP
+Magic NNP
+Orchestra NNP
+. .
+
+
 He has also confirmed he has co-produced a track on the upcoming Dr. Dre album Detox .
+He PRP
+has VBZ
+also RB
+confirmed VBN
+he PRP
+has VBZ
+co-produced VBN
+a DT
+track NN
+on IN
+the DT
+upcoming JJ
+Dr. NNP
+Dre NNP
+album NN
+Detox NNP
+. .
+
+
 Happy End was re-recorded by YMO on BGM 
+Happy JJ
+End NN
+was VBD
+re-recorded VBN
+by IN
+YMO NNP
+on IN
+BGM NNP
+Happy End
+
+
 In some ways White Heat was for Dusty Springfield what 1979's Broken English was for Marianne Faithfull .
+In IN
+some DT
+ways NNS
+White NNP
+Heat NNP
+was VBD
+for IN
+Dusty NNP
+Springfield NNP
+what WP
+1979's CD
+Broken NNP
+English NNP
+was VBD
+for IN
+Marianne NNP
+Faithfull NNP
+. .
+
+
 On Monday, Bradley refused to answer reporters' questions regarding his rumored ownership of the 1991 Spin Doctors album Pocket Full Of Kryptonite 
+On IN
+Monday, NNP
+Bradley NNP
+refused VBD
+to TO
+answer VB
+reporters' JJ
+questions NNS
+regarding VBG
+his PRP$
+rumored JJ
+ownership NN
+of IN
+the DT
+1991 CD
+Spin NNP
+Doctors NNPS
+album VBP
+Pocket NNP
+Full NNP
+Of IN
+Kryptonite NNP
+Pocket Full Of Kryptonite
+
+
 Mos Def has joined The Roots on two previous albums, Things Fall Apart and The Tipping Point .
+Mos NNP
+Def NNP
+has VBZ
+joined VBN
+The DT
+Roots NNP
+on IN
+two CD
+previous JJ
+albums, NNS
+Things NNP
+Fall NNP
+Apart NNP
+and CC
+The DT
+Tipping NNP
+Point NNP
+. .
+The Roots
+The Tipping Point
+
+
 Organix is the debut album by The Roots .
+Organix NNP
+is VBZ
+the DT
+debut NN
+album NN
+by IN
+The DT
+Roots NNP
+. .
+The Roots
+
+
   Spooky   is The first album of Lush and produced by Robin Guthrie 
+Spooky NNP
+is VBZ
+The DT
+first JJ
+album NN
+of IN
+Lush NNP
+and CC
+produced VBN
+by IN
+Robin NNP
+Guthrie NNP
+
+
 The NY Times just published a good article on The Roots and their new album, ? Rising Down ? .
+The DT
+NY NNP
+Times NNP
+just RB
+published VBD
+a DT
+good JJ
+article NN
+on IN
+The DT
+Roots NNP
+and CC
+their PRP$
+new JJ
+album, NN
+? .
+Rising VBG
+Down RP
+? .
+. .
+The Roots
+Rising Down
+
+
 Phrenology  is the sixth album from The Roots .
+Phrenology NN
+is VBZ
+the DT
+sixth JJ
+album NN
+from IN
+The DT
+Roots NNP
+. .
+The Roots
+
+
 Rieflin came along and participated in the creation of Ministry 's ground-breaking album Land of Rape and Honey 
+Rieflin NNP
+came VBD
+along RB
+and CC
+participated VBN
+in IN
+the DT
+creation NN
+of IN
+Ministry NNP
+'s POS
+ground-breaking NN
+album NN
+Land NNP
+of IN
+Rape NNP
+and CC
+Honey NNP
+Land of Rape and Honey
+
+
 John-Michael Howson is co-writer of the hit Australian musical   Dusty   about the life of 60s singer, Dusty Springfield .
+John-Michael NNP
+Howson NNP
+is VBZ
+co-writer NN
+of IN
+the DT
+hit NN
+Australian JJ
+musical JJ
+Dusty NNP
+about IN
+the DT
+life NN
+of IN
+60s CD
+singer, NN
+Dusty NNP
+Springfield NNP
+. .
+Australian
+
+
 The hit single ' Jenny Wren ' from Paul McCartney 's new critically acclaimed album, Chaos and Creation in the Backyward....
+The DT
+hit NN
+single JJ
+' POS
+Jenny NNP
+Wren NNP
+' POS
+from IN
+Paul NNP
+McCartney NNP
+'s POS
+new JJ
+critically RB
+acclaimed VBN
+album, JJ
+Chaos NNP
+and CC
+Creation NNP
+in IN
+the DT
+Backyward.... NNP
+Chaos and Creation
+
+
 said: how can all agree that a YMO album Solid State Survivor is good?
+said: VB
+how WRB
+can MD
+all DT
+agree VB
+that IN
+a DT
+YMO NNP
+album NN
+Solid NNP
+State NNP
+Survivor NNP
+is VBZ
+good? JJ
+
+
 Lovelife was Lush 's last studio release 
+Lovelife NNP
+was VBD
+Lush NNP
+'s POS
+last JJ
+studio NN
+release NN
+
+
 It may also appear on the upcoming Baha Men compilation Greatest Movie Hits 
+It PRP
+may MD
+also RB
+appear VB
+on IN
+the DT
+upcoming JJ
+Baha NNP
+Men NNP
+compilation NN
+Greatest NNP
+Movie NNP
+Hits NNP
+
+
 Dark Side of the Spoon is an album by Ministry , released on June 8, 1999.
+Dark NNP
+Side NNP
+of IN
+the DT
+Spoon NNP
+is VBZ
+an DT
+album NN
+by IN
+Ministry NNP
+, ,
+released VBN
+on IN
+June NNP
+8, CD
+1999. CD
+Dark Side of the Spoon
+
+
 The song is called   Coconut   and it's on the Baha Men album Move It Like This .
+The DT
+song NN
+is VBZ
+called VBN
+Coconut NNP
+and CC
+it's VB
+on IN
+the DT
+Baha NNP
+Men NNP
+album VBZ
+Move NNP
+It PRP
+Like IN
+This DT
+. .
+Move It Like This
+
+
   The Mind Is A Terrible Thing To Taste   is definitely the best Ministry album ever
+The DT
+Mind NNP
+Is VBZ
+A NNP
+Terrible JJ
+Thing NN
+To TO
+Taste NNP
+is VBZ
+definitely RB
+the DT
+best JJS
+Ministry NNP
+album NN
+ever RB
+The Mind Is A Terrible Thing To Taste
+
+
 Lagwagon ?s latest full length, Blaze is out at long last
+Lagwagon NNP
+?s NNP
+latest JJS
+full JJ
+length, NN
+Blaze NNP
+is VBZ
+out RP
+at IN
+long RB
+last JJ
+
+
 Let's Talk About Feelings is the fifth album by the California punk band Lagwagon , released in 1998.
+Let's NNP
+Talk NN
+About IN
+Feelings NNP
+is VBZ
+the DT
+fifth JJ
+album NN
+by IN
+the DT
+California NNP
+punk NN
+band NN
+Lagwagon NNP
+, ,
+released VBN
+in IN
+1998. CD
+Let's Talk About Feelings
+
+
 First, Bell finally laid down those vocals for the final Ministry tantrum, 2007s Dubya pi? ata, The Last Sucker 
+First, NNP
+Bell NNP
+finally RB
+laid VBD
+down RB
+those DT
+vocals NNS
+for IN
+the DT
+final JJ
+Ministry NNP
+tantrum, NN
+2007s CD
+Dubya NNP
+pi? NN
+ata, VBZ
+The DT
+Last JJ
+Sucker NN
+The Last Sucker
+
+
 Check out Jason Reeves , who is probably best known for co-writing the Colbie Caillat hit Bubbly .
+Check VB
+out RP
+Jason NNP
+Reeves NNPS
+, ,
+who WP
+is VBZ
+probably RB
+best RBS
+known VBN
+for IN
+co-writing VBG
+the DT
+Colbie NNP
+Caillat NNP
+hit VBD
+Bubbly NNP
+. .
+
+
 MINISTRY 's new album,   Houses of the Mole  , was released last Tuesay week through Sanctuary Records 
+MINISTRY NNP
+'s POS
+new JJ
+album, NN
+Houses NNP
+of IN
+the DT
+Mole NNP
+, ,
+was VBD
+released VBN
+last JJ
+Tuesay NNP
+week NN
+through IN
+Sanctuary NNP
+Records NNS
+Houses of the Mole
+
+
 MINISTRY will be releasing a 25th anniversary collection, entitled   RaNtologY  , TOMORROW via Sanctuary 
+MINISTRY NNP
+will MD
+be VB
+releasing VBG
+a DT
+25th JJ
+anniversary JJ
+collection, NN
+entitled VBD
+RaNtologY NNP
+, ,
+TOMORROW NNP
+via IN
+Sanctuary NNP
+
+
 On May 28th, 2007 American industrial rockers Ministry will release remix album ? Rio Grande Dub ? 
+On IN
+May NNP
+28th, CD
+2007 CD
+American JJ
+industrial JJ
+rockers NNS
+Ministry NNP
+will MD
+release VB
+remix VB
+album NN
+? .
+Rio NNP
+Grande NNP
+Dub NNP
+? .
+American
+
+
 Com and and its Sources Dr Retribution, Malevolent Creation underestimate the power of Retribution , Malevolent Creation mg/kg f...
+Com NNP
+and CC
+and CC
+its PRP$
+Sources NNS
+Dr NNP
+Retribution, NNP
+Malevolent NNP
+Creation NNP
+underestimate VBP
+the DT
+power NN
+of IN
+Retribution NNP
+, ,
+Malevolent NNP
+Creation NNP
+mg/kg NN
+f... NN
+
+
 Many have said Ministry had gone downhill since Psalm 69, with Filth Pig being a large disappointment to many
+Many JJ
+have VBP
+said VBD
+Ministry NNP
+had VBD
+gone VBN
+downhill RB
+since IN
+Psalm NNP
+69, CD
+with IN
+Filth NNP
+Pig NNP
+being VBG
+a DT
+large JJ
+disappointment NN
+to TO
+many JJ
+
+
 The 2008 compilation Cover Up examined Ministry 's long history of destroying other artists' tunes
+The DT
+2008 CD
+compilation NN
+Cover NNP
+Up NNP
+examined VBD
+Ministry NNP
+'s POS
+long JJ
+history NN
+of IN
+destroying VBG
+other JJ
+artists' JJ
+tunes NNS
+
+
 However, in 1999, a clean and sober  Inger emerged from New Jersey with a solo album, Transcendental Medication 
+However, NNP
+in IN
+1999, CD
+a DT
+clean JJ
+and CC
+sober JJ
+Inger NNP
+emerged VBD
+from IN
+New NNP
+Jersey NNP
+with IN
+a DT
+solo NN
+album, NN
+Transcendental NNP
+Medication NNP
+
+
 It?s a first person statement, U-N-I Verse, derived from the song off of Illadelph Halflife by The Roots featuring Common 
+It?s NNP
+a DT
+first JJ
+person NN
+statement, JJ
+U-N-I NNP
+Verse, NNP
+derived VBD
+from IN
+the DT
+song NN
+off IN
+of IN
+Illadelph NNP
+Halflife NNP
+by IN
+The DT
+Roots NNP
+featuring NN
+Common NNP
+The Roots
+
+
 Animositisomina is an album by Ministry .
+Animositisomina NNP
+is VBZ
+an DT
+album NN
+by IN
+Ministry NNP
+. .
+
+
 Some of the same musicians who appeared on Gorka 's last record, 1994's Out of the Valley are on Between Five and Seven 
+Some DT
+of IN
+the DT
+same JJ
+musicians NNS
+who WP
+appeared VBD
+on IN
+Gorka NNP
+'s POS
+last JJ
+record, NN
+1994's CD
+Out IN
+of IN
+the DT
+Valley NNP
+are VBP
+on IN
+Between NNP
+Five NNP
+and CC
+Seven NNP
+Out of the Valley
+Between Five and Seven
+
+
 The Company You Keep held fast to John ?s tradition of fine songwriting, yet moved forward down new avenues
+The DT
+Company NNP
+You PRP
+Keep VBP
+held VBN
+fast RB
+to TO
+John NNP
+?s NNP
+tradition NN
+of IN
+fine JJ
+songwriting, NN
+yet RB
+moved VBN
+forward RB
+down RP
+new JJ
+avenues NNS
+The Company You Keep
+
+
 To order our favorite Darryl Purpose album, Same River Twice  right now, click here.
+To TO
+order NN
+our PRP$
+favorite JJ
+Darryl NNP
+Purpose NNP
+album, JJ
+Same NNP
+River NNP
+Twice NNP
+right RB
+now, RB
+click JJ
+here. NN
+
+
 His previous CD from Concord Records is Hopeless Romantics , a songbook of classics recorded with legendary jazz pianist George Shearing 
+His PRP$
+previous JJ
+CD NN
+from IN
+Concord NNP
+Records NNP
+is VBZ
+Hopeless NNP
+Romantics NNPS
+, ,
+a DT
+songbook NN
+of IN
+classics NNS
+recorded VBN
+with IN
+legendary JJ
+jazz NN
+pianist NN
+George NNP
+Shearing NNP
+
+
 (his successful collaboration with singer Jagjit Singh titled   Marasim   is the latest of his poetic ventures).
+(his RB
+successful JJ
+collaboration NN
+with IN
+singer NN
+Jagjit NNP
+Singh NNP
+titled VBD
+Marasim NNP
+is VBZ
+the DT
+latest JJS
+of IN
+his PRP$
+poetic JJ
+ventures). NN
+
+
 With this lineup, the Feelies recorded Crazy Rhythms for Stiff Records in 1980
+With IN
+this DT
+lineup, VBZ
+the DT
+Feelies NNS
+recorded VBD
+Crazy NNP
+Rhythms NNP
+for IN
+Stiff NNP
+Records NNP
+in IN
+1980 CD
+
+
 Richie Spice represents with In The Streets To Africa on the charts
+Richie NNP
+Spice NNP
+represents VBZ
+with IN
+In IN
+The DT
+Streets NNPS
+To TO
+Africa NNP
+on IN
+the DT
+charts NNS
+In The Streets To Africa
+
+
 And I think I listened to The Moon Is Down , the first record by Further Seems Forever just yesterday.
+And CC
+I PRP
+think VBP
+I PRP
+listened VBD
+to TO
+The DT
+Moon NNP
+Is NNP
+Down NNP
+, ,
+the DT
+first JJ
+record NN
+by IN
+Further NNP
+Seems NNP
+Forever NNP
+just RB
+yesterday. VB
+The Moon Is Down
+
+
 Eight years in the making,   Ecce Cor Meum    will be McCartney
+Eight CD
+years NNS
+in IN
+the DT
+making, NN
+Ecce NNP
+Cor NNP
+Meum NNP
+will MD
+be VB
+McCartney NNP
+
+
 In 2000, sisters Erica and Tina Campbell earned immediate respect and success with Mary Mary 's platinum debut album, Thankful .
+In IN
+2000, CD
+sisters NNS
+Erica NNP
+and CC
+Tina NNP
+Campbell NNP
+earned VBD
+immediate JJ
+respect NN
+and CC
+success NN
+with IN
+Mary NNP
+Mary NNP
+'s POS
+platinum NN
+debut NN
+album, VBZ
+Thankful NNP
+. .
+
+
 Lee Newman and Michael Wells formed Greater Than One in London , circa 1985.
+Lee NNP
+Newman NNP
+and CC
+Michael NNP
+Wells NNP
+formed VBD
+Greater NNP
+Than NNP
+One CD
+in IN
+London NNP
+, ,
+circa VBD
+1985. CD
+Greater Than One
+
+
 Released in time for Paul Bley 75th birthday in the autumn of 2007, Solo in Mondsee is the first Bley
+Released VBN
+in IN
+time NN
+for IN
+Paul NNP
+Bley NNP
+75th CD
+birthday NN
+in IN
+the DT
+autumn NN
+of IN
+2007, CD
+Solo NNP
+in IN
+Mondsee NNP
+is VBZ
+the DT
+first JJ
+Bley NNP
+Solo in Mondsee
+
+
 That same year, Joey began recording with Riders In The Sky , and after becoming a regular on their NPR
+That DT
+same JJ
+year, NNP
+Joey NNP
+began VBD
+recording VBG
+with IN
+Riders NNP
+In IN
+The DT
+Sky NNP
+, ,
+and CC
+after IN
+becoming VBG
+a DT
+regular JJ
+on IN
+their PRP$
+NPR NN
+Riders In The Sky
+
+
 And JPL played Baha Men 's   Who Let the Dogs Out   to cap the moment.
+And CC
+JPL NNP
+played VBD
+Baha NNP
+Men NNP
+'s POS
+Who NNP
+Let VBD
+the DT
+Dogs NNS
+Out NNP
+to TO
+cap VB
+the DT
+moment. NN
+Who Let the Dogs Out
+
+
 As the lead singer of the teen group Grupo Mania , Crespo was a Latino pop star by age twenty-two
+As IN
+the DT
+lead JJ
+singer NN
+of IN
+the DT
+teen JJ
+group NN
+Grupo NNP
+Mania NNP
+, ,
+Crespo NNP
+was VBD
+a DT
+Latino NNP
+pop NN
+star NN
+by IN
+age NN
+twenty-two NN
+
+
 Colbie Caillat ?s latest release Coco will be available on July 17th.
+Colbie NNP
+Caillat NNP
+?s NNP
+latest JJS
+release NN
+Coco NNP
+will MD
+be VB
+available JJ
+on IN
+July NNP
+17th. CD
+
+
 Riders in the Sky will revive America 's tradition of show-biz cowpokery in   Christmas the Cowboy Way .
+Riders NNS
+in IN
+the DT
+Sky NNP
+will MD
+revive VB
+America NNP
+'s POS
+tradition NN
+of IN
+show-biz JJ
+cowpokery NN
+in IN
+Christmas NNP
+the DT
+Cowboy NNP
+Way NNP
+. .
+Riders in the Sky
+Christmas the Cowboy Way
+
+
 ELEVATOR MUSIQ  is the latest installment from Nesian Mystik 
+ELEVATOR NNP
+MUSIQ NNP
+is VBZ
+the DT
+latest JJS
+installment NN
+from IN
+Nesian JJ
+Mystik NNP
+Nesian Mystik
+
+
 PSF: I thought Time For A Witness was the best Feelies album.
+PSF: NNP
+I PRP
+thought VBD
+Time NNP
+For IN
+A NNP
+Witness NNP
+was VBD
+the DT
+best JJS
+Feelies NNS
+album. VBP
+Time For A Witness
+
+
 Riders in the Sky 's most recent album, Always Drink Upstream from the Herd , returns attention to the music while comedy takes a back seat
+Riders NNS
+in IN
+the DT
+Sky NNP
+'s POS
+most RBS
+recent JJ
+album, NN
+Always NNP
+Drink NNP
+Upstream NNP
+from IN
+the DT
+Herd NNP
+, ,
+returns VBZ
+attention NN
+to TO
+the DT
+music NN
+while IN
+comedy NN
+takes VBZ
+a DT
+back RB
+seat NN
+Riders in the Sky
+Always Drink Upstream from the Herd
+
+
 Potuznik 's latest release, Vendetta , contains a collection of material dating from 1986 to 2002.
+Potuznik NNP
+'s POS
+latest JJS
+release, NN
+Vendetta NNP
+, ,
+contains VBZ
+a DT
+collection NN
+of IN
+material NN
+dating VBG
+from IN
+1986 CD
+to TO
+2002. CD
+
+
 You few weeks to complete that may be prescribed All My Love , Peabo Bryson not think VoIP is for everyone
+You PRP
+few JJ
+weeks NNS
+to TO
+complete VB
+that DT
+may MD
+be VB
+prescribed VBN
+All DT
+My NNP
+Love NNP
+, ,
+Peabo NNP
+Bryson NNP
+not RB
+think VB
+VoIP NNP
+is VBZ
+for IN
+everyone NN
+All My Love
+
+
 With his Atlantic release, Out Of The Shadows , Royal has extended his musical stride even further.
+With IN
+his PRP$
+Atlantic NNP
+release, NN
+Out NNP
+Of IN
+The DT
+Shadows NNP
+, ,
+Royal NNP
+has VBZ
+extended VBN
+his PRP$
+musical JJ
+stride NN
+even RB
+further. VBD
+Out Of The Shadows
+
+
 North Carolina band Codeseven , who released   Dancing Echoes/Dead Sounds   on Equal Vision Records in 2004 split late last year
+North NNP
+Carolina NNP
+band NN
+Codeseven NNP
+, ,
+who WP
+released VBD
+Dancing NNP
+Echoes/Dead NNP
+Sounds NNP
+on IN
+Equal NNP
+Vision NNP
+Records NNP
+in IN
+2004 CD
+split NN
+late RB
+last JJ
+year NN
+
+
 UPDATE: Check this review out as it also covers Gale ?s follow-up, Black Rhythm Happening 
+UPDATE: NNP
+Check NNP
+this DT
+review NN
+out RP
+as IN
+it PRP
+also RB
+covers VBZ
+Gale NNP
+?s NNP
+follow-up, JJ
+Black NNP
+Rhythm NNP
+Happening NNP
+
+
 Binary Star then switched to Subterraneous Records and released Masters of the Universe , named for a track on the album
+Binary NNP
+Star NNP
+then RB
+switched VBD
+to TO
+Subterraneous NNP
+Records NNP
+and CC
+released VBN
+Masters NNS
+of IN
+the DT
+Universe NNP
+, ,
+named VBN
+for IN
+a DT
+track NN
+on IN
+the DT
+album NN
+Masters of the Universe
+
+
 Codeseven 's next release, Division Of Labor was a mini-LP and aptly displayed the band's maturity and musical evolution.
+Codeseven NNP
+'s POS
+next JJ
+release, NN
+Division NNP
+Of IN
+Labor NNP
+was VBD
+a DT
+mini-LP JJ
+and CC
+aptly RB
+displayed VBD
+the DT
+band's NN
+maturity NN
+and CC
+musical JJ
+evolution. NN
+Division Of Labor
+
+
 A vibrant single, it was followed by   Good Guys Only Win In The Movies  , after which Mel And Tim switched to Stax .
+A DT
+vibrant JJ
+single, NN
+it PRP
+was VBD
+followed VBN
+by IN
+Good NNP
+Guys NNP
+Only NNP
+Win NNP
+In IN
+The DT
+Movies NNP
+, ,
+after IN
+which WDT
+Mel NNP
+And CC
+Tim NNP
+switched VBD
+to TO
+Stax NNP
+. .
+Good Guys Only Win In The Movies
+Mel And Tim
+
+
 This cool screensaver features art work from Garbage 's video, Androgyny .
+This DT
+cool JJ
+screensaver NN
+features NNS
+art VBP
+work NN
+from IN
+Garbage NNP
+'s POS
+video, NN
+Androgyny NNP
+. .
+
+
 album   Brian De Palma  ; 1996 second Whirlpool album   Dense Music  . 1997:  From: Disco To: Disco  number one hit in Italy 
+album JJ
+Brian NNP
+De NNP
+Palma NNP
+; :
+1996 CD
+second JJ
+Whirlpool NNP
+album NN
+Dense NNP
+Music NNP
+. .
+1997: CD
+From: NNP
+Disco NNP
+To: NNP
+Disco NNP
+number NN
+one CD
+hit NN
+in IN
+Italy NNP
+
+
 Check Jah Warrior Presents Peter Broggs   Jah Golden Throne  , here..
+Check NNP
+Jah NNP
+Warrior NNP
+Presents NNP
+Peter NNP
+Broggs NNP
+Jah NNP
+Golden NNP
+Throne NNP
+, ,
+here.. NN
+
+
 Mos Def has joined The Roots on two previous albums, Things Fall Apart and The Tipping Point .
+Mos NNP
+Def NNP
+has VBZ
+joined VBN
+The DT
+Roots NNP
+on IN
+two CD
+previous JJ
+albums, NNS
+Things NNP
+Fall NNP
+Apart NNP
+and CC
+The DT
+Tipping NNP
+Point NNP
+. .
+The Roots
+The Tipping Point
+
+
 A remastered versions of   Only Happy When It Rains   also appears on Garbage 's greatest hits album Absolute Garbage 
+A DT
+remastered JJ
+versions NNS
+of IN
+Only RB
+Happy JJ
+When WRB
+It PRP
+Rains NNP
+also RB
+appears VBZ
+on IN
+Garbage NNP
+'s POS
+greatest JJS
+hits NNS
+album VBP
+Absolute NNP
+Garbage NNP
+Only Happy When It Rains
+
+
 There were some exceptions, like Fleet Foxes self-titled album, Wolf Parade 's  At Mount Zoomer ,  or Adele 's  19.
+There EX
+were VBD
+some DT
+exceptions, NNS
+like IN
+Fleet NNP
+Foxes NNP
+self-titled JJ
+album, NN
+Wolf NNP
+Parade NNP
+'s POS
+At IN
+Mount NNP
+Zoomer NNP
+, ,
+or CC
+Adele NNP
+'s POS
+19. CD
+
+
 Wir Werden Sehen typifies Schelmish ?s folk-rock style which seems to be growing in popularity in Germany lately.
+Wir NNP
+Werden NNP
+Sehen NNP
+typifies VBZ
+Schelmish JJ
+?s JJ
+folk-rock NN
+style NN
+which WDT
+seems VBZ
+to TO
+be VB
+growing VBG
+in IN
+popularity NN
+in IN
+Germany NNP
+lately. NN
+Schelmish
+
+
 Crown of Jewels gave Randy Scruggs the opportunity to be in the spotlight
+Crown NNP
+of IN
+Jewels NNP
+gave VBD
+Randy NNP
+Scruggs NNP
+the DT
+opportunity NN
+to TO
+be VB
+in IN
+the DT
+spotlight NN
+Crown of Jewels
+
+
 The revived Lustra returned with Left for Dead  in 2006
+The DT
+revived VBN
+Lustra NNP
+returned VBD
+with IN
+Left NNP
+for IN
+Dead NNP
+in IN
+2006 CD
+Left for Dead
+
+
 Home Video 's full-length debut album, No Certain Night or Morning , was released in October 2006 on Defend..
+Home NNP
+Video NNP
+'s POS
+full-length JJ
+debut NN
+album, VBZ
+No DT
+Certain NNP
+Night NNP
+or CC
+Morning NNP
+, ,
+was VBD
+released VBN
+in IN
+October NNP
+2006 CD
+on IN
+Defend.. NNP
+No Certain Night or Morning
+
+
 Garbage   Bleed like Me   live in London 3/30/05 DV
+Garbage NNP
+Bleed NNP
+like IN
+Me NNP
+live VBP
+in IN
+London NNP
+3/30/05 CD
+DV NNP
+Bleed like Me
+
+
 February 8, 2006: Shorter won the Grammy Award for best jazz instrumental album, individual or group, for Beyond the Sound Barrier 
+February NNP
+8, CD
+2006: CD
+Shorter NNP
+won VBD
+the DT
+Grammy NNP
+Award NNP
+for IN
+best JJS
+jazz NN
+instrumental JJ
+album, JJ
+individual NN
+or CC
+group, NN
+for IN
+Beyond NNP
+the DT
+Sound NNP
+Barrier NNP
+Beyond the Sound Barrier
+
+
 Victor Calderone will be in Miami on March 29th @ Karu & Y with an Evolve party
+Victor NNP
+Calderone NNP
+will MD
+be VB
+in IN
+Miami NNP
+on IN
+March NNP
+29th CD
+@ NNP
+Karu NNP
+& CC
+Y NNP
+with IN
+an DT
+Evolve NNP
+party NN
+
+
 The Feelies album The Good Earth has been my favorite album for almost twenty freaking years.
+The DT
+Feelies NNPS
+album IN
+The DT
+Good NNP
+Earth NNP
+has VBZ
+been VBN
+my PRP$
+favorite JJ
+album NN
+for IN
+almost RB
+twenty JJ
+freaking NN
+years. NN
+The Good Earth
+
+
 Denison Witmer 's debut album, Safe Away , went out of print in CD near the end of 2004
+Denison NNP
+Witmer NNP
+'s POS
+debut NN
+album, VBZ
+Safe NNP
+Away NNP
+, ,
+went VBD
+out IN
+of IN
+print NN
+in IN
+CD NN
+near IN
+the DT
+end NN
+of IN
+2004 CD
+
+
 In 1969 he made his recording debut on guitar behind British folk singer Michael Chapman on his album   Fully Qualified Survivor   
+In IN
+1969 CD
+he PRP
+made VBD
+his PRP$
+recording NN
+debut NN
+on IN
+guitar NN
+behind IN
+British JJ
+folk NN
+singer NN
+Michael NNP
+Chapman NNP
+on IN
+his PRP$
+album NN
+Fully NNP
+Qualified NNP
+Survivor NNP
+British
+
+
 said: how can all agree that a Wayne Shorter album ET Cetera is good?
+said: VB
+how WRB
+can MD
+all DT
+agree VB
+that IN
+a DT
+Wayne NNP
+Shorter NNP
+album NN
+ET NNP
+Cetera NNP
+is VBZ
+good? JJ
+
+
 In 1995, Navaira released   Life is Good ,  his first all-country CD , produced by noted Nashville wiz Barry Beckett
+In IN
+1995, CD
+Navaira NNP
+released VBN
+Life NNP
+is VBZ
+Good JJ
+, ,
+his PRP$
+first JJ
+all-country JJ
+CD NN
+, ,
+produced VBN
+by IN
+noted JJ
+Nashville NNP
+wiz NN
+Barry NNP
+Beckett NNP
+Life is Good
+
+
 Pela 's second EP,   Exit Columbia Street   is now available exclusively on iTunes .
+Pela NNP
+'s POS
+second JJ
+EP, NNP
+Exit NNP
+Columbia NNP
+Street NNP
+is VBZ
+now RB
+available JJ
+exclusively RB
+on IN
+iTunes NNS
+. .
+
+
 Richard 's next album, Improvika , featured an unaccompanied free-flowing Bishop on a steel-string wooden guitar.
+Richard NNP
+'s POS
+next JJ
+album, NN
+Improvika NNP
+, ,
+featured VBD
+an DT
+unaccompanied JJ
+free-flowing JJ
+Bishop NNP
+on IN
+a DT
+steel-string JJ
+wooden NN
+guitar. NN
+
+
 Wayne Shorter almost named his Verve album   High Life    Instant Gratification  instead
+Wayne NNP
+Shorter NNP
+almost RB
+named VBD
+his PRP$
+Verve NNP
+album NN
+High NNP
+Life NNP
+Instant NNP
+Gratification NNP
+instead RB
+
+
 Roll On Dreamer is a folk/rock album by Johnny Coppin released in 1978, his debut solo album following his time with Decameron 
+Roll NN
+On IN
+Dreamer NNP
+is VBZ
+a DT
+folk/rock NN
+album NN
+by IN
+Johnny NNP
+Coppin NNP
+released VBD
+in IN
+1978, CD
+his PRP$
+debut NN
+solo VBZ
+album RP
+following VBG
+his PRP$
+time NN
+with IN
+Decameron NNP
+Roll On Dreamer
+
+
 Bo Diddley recorded Live at the Ritz
+Bo NNP
+Diddley NNP
+recorded VBD
+Live NNP
+at IN
+the DT
+Ritz NNP
+Live at the Ritz
+
+
 When Marc Anthony recorded Otra Nota in 1993, he changed the history of salsa
+When WRB
+Marc NNP
+Anthony NNP
+recorded VBD
+Otra NNP
+Nota NNP
+in IN
+1993, CD
+he PRP
+changed VBD
+the DT
+history NN
+of IN
+salsa NN
+
+
 Anthony ?s debut album, When the Night Is Over released in 1991 was straight Latin hip-hop
+Anthony NNP
+?s NNP
+debut NN
+album, NN
+When WRB
+the DT
+Night NNP
+Is VBZ
+Over NNP
+released VBN
+in IN
+1991 CD
+was VBD
+straight VBN
+Latin NNP
+hip-hop NN
+When the Night Is Over
+
+
 Anthony stars as Hector Lavoe in El Cantante along with his wife  which was released in August 2007
+Anthony NNP
+stars NNS
+as IN
+Hector NNP
+Lavoe NNP
+in IN
+El NNP
+Cantante NNP
+along IN
+with IN
+his PRP$
+wife NN
+which WDT
+was VBD
+released VBN
+in IN
+August NNP
+2007 CD
+
+
 M? sica compuesta por la agrupaci? n   Tosca Tango Orchestra   para la pel? cula Waking Life del director Richard Linklater .
+M? NNP
+sica NN
+compuesta NN
+por NN
+la NN
+agrupaci? IN
+n JJ
+Tosca NNP
+Tango NNP
+Orchestra NNP
+para NN
+la NN
+pel? FW
+cula NN
+Waking NNP
+Life NNP
+del FW
+director NN
+Richard NNP
+Linklater NNP
+. .
+
+
 ,-) Andy 's new album  The Gates of Gnomeria   is out and it features 2 tracks with yours truly.
+,-) JJ
+Andy NNP
+'s POS
+new JJ
+album NN
+The DT
+Gates NNP
+of IN
+Gnomeria NNP
+is VBZ
+out RP
+and CC
+it PRP
+features VBZ
+2 CD
+tracks NNS
+with IN
+yours NNS
+truly. NNS
+Gates of Gnomeria
+
+
 Marc Anthony 's   Libre   has been certified GOLD by the RIAA as of December 13, 2001
+Marc NNP
+Anthony NNP
+'s POS
+Libre NNP
+has VBZ
+been VBN
+certified VBN
+GOLD NNP
+by IN
+the DT
+RIAA NNP
+as IN
+of IN
+December NNP
+13, CD
+2001 CD
+
+
 The Shaky Hands released Lunglight in September.
+The DT
+Shaky NNP
+Hands NNP
+released VBD
+Lunglight NNP
+in IN
+September. NNP
+
+
 From the acclaimed songwriting troubadour David Dondero comes Simple Love , the follow up to his crit... ...
+From IN
+the DT
+acclaimed JJ
+songwriting VBG
+troubadour NN
+David NNP
+Dondero NNP
+comes VBZ
+Simple NNP
+Love NNP
+, ,
+the DT
+follow NN
+up RB
+to TO
+his PRP$
+crit... NN
+... :
+
+
 November 3, 2005: Anthony won the Latin Grammy award for best salsa album for Valio La Pena 
+November NNP
+3, CD
+2005: CD
+Anthony NNP
+won VBD
+the DT
+Latin NNP
+Grammy NNP
+award NN
+for IN
+best JJS
+salsa NN
+album NN
+for IN
+Valio NNP
+La NNP
+Pena NNP
+
+
 The third installment of Al Jourgensen ?s anti George W. Bush trilogy, Rio Grande Blood is everything you?d expect from Ministry , and more.
+The DT
+third JJ
+installment NN
+of IN
+Al NNP
+Jourgensen NNP
+?s NNP
+anti POS
+George NNP
+W. NNP
+Bush NNP
+trilogy, NN
+Rio NNP
+Grande NNP
+Blood NNP
+is VBZ
+everything NN
+you?d NNS
+expect VBP
+from IN
+Ministry NNP
+, ,
+and CC
+more. NN
+
+
 Wayne Shorter recorded versions of the first three tracks for his 1969 Blue Note solo album SUPER NOVA .
+Wayne NNP
+Shorter NNP
+recorded VBD
+versions NNS
+of IN
+the DT
+first JJ
+three CD
+tracks NNS
+for IN
+his PRP$
+1969 CD
+Blue NNP
+Note NNP
+solo NN
+album NN
+SUPER NNP
+NOVA NNP
+. .
+
+
 On July 11, 2006 Marc Anthony released   Sigo Siendo Yo  , a Spanish greatest-hits album.
+On IN
+July NNP
+11, CD
+2006 CD
+Marc NNP
+Anthony NNP
+released VBD
+Sigo NNP
+Siendo NNP
+Yo NNP
+, ,
+a DT
+Spanish JJ
+greatest-hits NNS
+album. NN
+Spanish
+
+
 The Jesus Lizard 's new album,   Blue ,  is out now
+The DT
+Jesus NNP
+Lizard NNP
+'s POS
+new JJ
+album, NN
+Blue NNP
+, ,
+is VBZ
+out RP
+now RB
+
+
 ? Comparisons to the Beatles or Rolling Stones are well-deserved; Tree City definitely puts Robbers on High Street within their caliber.
+? .
+Comparisons NNS
+to TO
+the DT
+Beatles NNP
+or CC
+Rolling NNP
+Stones NNPS
+are VBP
+well-deserved; JJ
+Tree NNP
+City NNP
+definitely RB
+puts VBZ
+Robbers NNS
+on IN
+High NNP
+Street NNP
+within IN
+their PRP$
+caliber. NN
+Robbers on High Street
+
+
 Anthony released Todo A Su Tiempo and appeared in the film, Hackers
+Anthony NNP
+released VBD
+Todo NNP
+A NNP
+Su NNP
+Tiempo NNP
+and CC
+appeared VBD
+in IN
+the DT
+film, NN
+Hackers NNS
+
+
 Produced by Marius DeVries ,   Waiting For A Want   features more of Wainwright 's dreamy vocals, majestic piano chords and introspective lyrics
+Produced VBN
+by IN
+Marius NNP
+DeVries NNP
+, ,
+Waiting VBG
+For IN
+A NNP
+Want NNP
+features VBZ
+more JJR
+of IN
+Wainwright NNP
+'s POS
+dreamy JJ
+vocals, NN
+majestic JJ
+piano NN
+chords NNS
+and CC
+introspective JJ
+lyrics NNS
+Waiting For A Want
+
+
 Rufus Does Judy At Carnegie Hall  is Rufus Wainwright telling his own story through the same songs used by Judy Garland .
+Rufus NN
+Does NNP
+Judy NNP
+At IN
+Carnegie NNP
+Hall NNP
+is VBZ
+Rufus NNP
+Wainwright NNP
+telling VBG
+his PRP$
+own JJ
+story NN
+through IN
+the DT
+same JJ
+songs NNS
+used VBN
+by IN
+Judy NNP
+Garland NNP
+. .
+Rufus Does Judy At Carnegie Hall
+
+
 The Dillinger Escape Plan playing   Milk Lizard   off of the latest release   Ire Works  .
+The DT
+Dillinger NNP
+Escape NNP
+Plan NNP
+playing VBG
+Milk NNP
+Lizard NNP
+off IN
+of IN
+the DT
+latest JJS
+release NN
+Ire NNP
+Works NNP
+. .
+
+
 This song was one of 3 top 10 hit country singles from Dolly Parton 's album Heartbreak Express .
+This DT
+song NN
+was VBD
+one CD
+of IN
+3 CD
+top JJ
+10 CD
+hit JJ
+country NN
+singles NNS
+from IN
+Dolly NNP
+Parton NNP
+'s POS
+album NN
+Heartbreak NNP
+Express NNP
+. .
+
+
 Dolly Parton 's album   Eagle When She Flies   certified platinum 1992
+Dolly NNP
+Parton NNP
+'s POS
+album NN
+Eagle NN
+When WRB
+She PRP
+Flies VBZ
+certified VBD
+platinum NN
+1992 CD
+Eagle When She Flies
+
+
 Even better, Coat was paired with Joshua , another Parton classic that hasn?t seen release stateside.
+Even RB
+better, JJ
+Coat NNP
+was VBD
+paired VBN
+with IN
+Joshua NNP
+, ,
+another DT
+Parton NNP
+classic NN
+that WDT
+hasn?t VBZ
+seen VBN
+release NN
+stateside. NN
+
+
 Shorter released Alegría , his first all-acoustic studio recording as a leader since 1967, in 2003
+Shorter NNP
+released VBD
+Alegría NNP
+, ,
+his PRP$
+first JJ
+all-acoustic JJ
+studio NN
+recording NN
+as IN
+a DT
+leader NN
+since IN
+1967, CD
+in IN
+2003 CD
+
+
 2. Mary Mary Mary Mary 's latest release, The Sound , has made major moves on the Billboard charts.
+2. CD
+Mary NNP
+Mary NNP
+Mary NNP
+Mary NNP
+'s POS
+latest JJS
+release, NN
+The DT
+Sound NNP
+, ,
+has VBZ
+made VBN
+major JJ
+moves NNS
+on IN
+the DT
+Billboard NNP
+charts. NN
+The Sound
+
+
 His former Fab Four bandmate Paul McCartney released his 21st solo album,   Memory Almost Full ,  earlier this month.
+His PRP$
+former JJ
+Fab NNP
+Four NNP
+bandmate NN
+Paul NNP
+McCartney NNP
+released VBD
+his PRP$
+21st CD
+solo NN
+album, NN
+Memory NNP
+Almost NNP
+Full NNP
+, ,
+earlier RBR
+this DT
+month. NN
+
+
 Then Dolly flopped with   Rhinestone    co-starring Sylvester Stallone in his first comedy attempt
+Then RB
+Dolly NNP
+flopped VBD
+with IN
+Rhinestone NNP
+co-starring JJ
+Sylvester NNP
+Stallone NNP
+in IN
+his PRP$
+first JJ
+comedy NN
+attempt NN
+
+
 McCoy Tyner used this scale on the Wayne Shorter modal track   JuJu  :
+McCoy NNP
+Tyner NNP
+used VBD
+this DT
+scale NN
+on IN
+the DT
+Wayne NNP
+Shorter NNP
+modal VBD
+track RP
+JuJu NN
+: :
+
+
 Marc 's album Contra La Corriente was awarded a Grammy for Best Latin/Tropical Performance .
+Marc NNP
+'s POS
+album NN
+Contra NNP
+La NNP
+Corriente NNP
+was VBD
+awarded VBN
+a DT
+Grammy NNP
+for IN
+Best NNP
+Latin/Tropical NNP
+Performance NNP
+. .
+
+
 Also in 2003, Twain participated in the Dolly Parton tribute album, Just Because I'm a Woman , covering Parton ?s classic ? Coat of Many Colors ?
+Also RB
+in IN
+2003, CD
+Twain NNP
+participated VBD
+in IN
+the DT
+Dolly NNP
+Parton NNP
+tribute NN
+album, NN
+Just NNP
+Because IN
+I'm NNP
+a DT
+Woman NNP
+, ,
+covering VBG
+Parton NNP
+?s NNP
+classic JJ
+? .
+Coat NNP
+of IN
+Many NNP
+Colors NNP
+? .
+Just Because I'm a Woman
+Coat of Many Colors
+
+
 Dolly Parton and Kenny Rogers sing Once Upon A Christmas .
+Dolly NNP
+Parton NNP
+and CC
+Kenny NNP
+Rogers NNP
+sing VBG
+Once RB
+Upon IN
+A NNP
+Christmas NNP
+. .
+Once Upon A Christmas
+
+
 In 1989, Dolly returned to Nashville and the resulting album was White Limozeen 
+In IN
+1989, CD
+Dolly RB
+returned VBN
+to TO
+Nashville NNP
+and CC
+the DT
+resulting VBG
+album NN
+was VBD
+White NNP
+Limozeen NNP
+Dolly
+
+
 Just like many Americans , Milton came to me via Wayne Shorter ?s album Native Dancer 
+Just RB
+like IN
+many JJ
+Americans NNPS
+, ,
+Milton NNP
+came VBD
+to TO
+me PRP
+via IN
+Wayne NNP
+Shorter NNP
+?s NNP
+album RB
+Native NNP
+Dancer NNP
+
+
 Jolene reviews Dolly Parton 's   My Tennessee Mountain Home   CD
+Jolene NNP
+reviews VBZ
+Dolly NNP
+Parton NNP
+'s POS
+My NNP
+Tennessee NNP
+Mountain NNP
+Home NNP
+CD NN
+
+
 Marc Anthony 's Spanish-language pop album, Amar sin mentiras shared a song set list with its salsa-flavored sister collection, Valió la pena 
+Marc NNP
+Anthony NNP
+'s POS
+Spanish-language JJ
+pop NN
+album, NN
+Amar NNP
+sin NN
+mentiras NNS
+shared VBD
+a DT
+song NN
+set VBN
+list NN
+with IN
+its PRP$
+salsa-flavored JJ
+sister NN
+collection, NN
+Valió NNP
+la NN
+pena NN
+Spanish-language
+
+
 I am looking for an big anthem song and I have fallen for Dolly Parton 's version of Peace Train .
+I PRP
+am VBP
+looking VBG
+for IN
+an DT
+big JJ
+anthem NN
+song NN
+and CC
+I PRP
+have VBP
+fallen VBN
+for IN
+Dolly NNP
+Parton NNP
+'s POS
+version NN
+of IN
+Peace NNP
+Train NNP
+. .
+
+
 Did you know that Clay Aiken did a cover of Dolly Parton ?s ? Here You Come Again ? on his last CD
+Did NNP
+you PRP
+know VBP
+that IN
+Clay NNP
+Aiken NNP
+did VBD
+a DT
+cover NN
+of IN
+Dolly NNP
+Parton NNP
+?s NNP
+? .
+Here RB
+You PRP
+Come VBP
+Again RB
+? .
+on IN
+his PRP$
+last JJ
+CD NN
+Here You Come Again
+
+
 Grinspoon has some diversity on Guide To Better Living .
+Grinspoon NNP
+has VBZ
+some DT
+diversity NN
+on IN
+Guide NNP
+To TO
+Better NNP
+Living NNP
+. .
+Guide To Better Living
+
+
 Lyrics of Repeat sung by GRINSPOON
+Lyrics NNS
+of IN
+Repeat NNP
+sung NN
+by IN
+GRINSPOON NNP
+
+
 Just A Little Lovin' finds Lynne taking on songs from Dusty Springfield 's 1969 classic, Dusty in Memphis 
+Just RB
+A DT
+Little JJ
+Lovin' NNP
+finds VBZ
+Lynne NNP
+taking VBG
+on IN
+songs NNS
+from IN
+Dusty NNP
+Springfield NNP
+'s POS
+1969 CD
+classic, NN
+Dusty NNP
+in IN
+Memphis NNP
+Dusty in Memphis
+
+
 Rufus Wainwright 's new album, Want One , will be released on DreamWorks on September 23
+Rufus NNP
+Wainwright NNP
+'s POS
+new JJ
+album, NN
+Want NNP
+One NNP
+, ,
+will MD
+be VB
+released VBN
+on IN
+DreamWorks NNS
+on IN
+September NNP
+23 CD
+
+
 In 1994 Angelfish 's first single   Suffocate Me   aired on MTV 's 120 minutes
+In IN
+1994 CD
+Angelfish NNP
+'s POS
+first JJ
+single JJ
+Suffocate NNP
+Me NNP
+aired VBD
+on IN
+MTV NNP
+'s POS
+120 CD
+minutes NNS
+
+
 Lyrics of Opaline sung by DISHWALLA
+Lyrics NNS
+of IN
+Opaline NNP
+sung NN
+by IN
+DISHWALLA NNP
+
+
 +++++++++++++++++++ Looking for Dolly Parton 's ablums Halos & Horns and A Bluegrass Tribute +++++++++++++ TIA!!!!
++++++++++++++++++++ NN
+Looking VBG
+for IN
+Dolly NNP
+Parton NNP
+'s POS
+ablums NNS
+Halos NNP
+& CC
+Horns NNP
+and CC
+A NNP
+Bluegrass NNP
+Tribute NNP
++++++++++++++ NNP
+TIA!!!! NNP
+Halos & Horns
+
+
 In 1994 Martin formed Martin Taylor 's Spirit of Django , paying homage to Django Reinhardt 
+In IN
+1994 CD
+Martin NNP
+formed VBD
+Martin NNP
+Taylor NNP
+'s POS
+Spirit NNP
+of IN
+Django NNP
+, ,
+paying VBG
+homage NN
+to TO
+Django NNP
+Reinhardt NNP
+Spirit of Django
+
+
 , but Shorter boldly abandoned the Coltrane paradigm on Speak No Evil 
+, ,
+but CC
+Shorter NNP
+boldly RB
+abandoned VBD
+the DT
+Coltrane NNP
+paradigm NN
+on IN
+Speak NNP
+No NNP
+Evil NNP
+
+
 In January 1999, Harris released Trio 2 with Parton and Ronstadt 
+In IN
+January NNP
+1999, CD
+Harris NNP
+released VBD
+Trio NNP
+2 CD
+with IN
+Parton NNP
+and CC
+Ronstadt NNP
+Trio 2
+
+
 Martin plays the Martin Taylor 'Artistry' 003 while friend Ernie tries out the prototype ' Gypsy '.
+Martin NNP
+plays VBZ
+the DT
+Martin NNP
+Taylor NNP
+'Artistry' POS
+003 CD
+while IN
+friend NN
+Ernie NNP
+tries VBZ
+out RP
+the DT
+prototype NN
+' POS
+Gypsy NNP
+'. NNS
+
+
 In mid-2005, Yusuf Islam played guitar for the Dolly Parton album, Those Were the Days , on her version of his   Where Do the Children Play  
+In IN
+mid-2005, JJ
+Yusuf NNP
+Islam NNP
+played VBD
+guitar NN
+for IN
+the DT
+Dolly NNP
+Parton NNP
+album, IN
+Those DT
+Were NNP
+the DT
+Days NNP
+, ,
+on IN
+her PRP$
+version NN
+of IN
+his PRP$
+Where WRB
+Do VBP
+the DT
+Children NNP
+Play NNP
+Those Were the Days
+Where Do the Children Play
+
+
 Yellowjacket 's title song is a co-write with Stephen 's close creative comrade, Tom Wilson .
+Yellowjacket NN
+'s POS
+title NN
+song NN
+is VBZ
+a DT
+co-write JJ
+with IN
+Stephen NNP
+'s POS
+close JJ
+creative JJ
+comrade, NN
+Tom NNP
+Wilson NNP
+. .
+
+
 In 1987, along with Emmylou Harris and Linda Ronstadt , Dolly Parton released the decade-in-the-making Trio album to critical acclaim 
+In IN
+1987, CD
+along IN
+with IN
+Emmylou NNP
+Harris NNP
+and CC
+Linda NNP
+Ronstadt NNP
+, ,
+Dolly NNP
+Parton NNP
+released VBD
+the DT
+decade-in-the-making JJ
+Trio NNP
+album NN
+to TO
+critical JJ
+acclaim NN
+
+
 *I'm also still upset about Dolly Parton not getting the Oscar for   Travelin' Thru  
+*I'm NN
+also RB
+still RB
+upset VBN
+about IN
+Dolly NNP
+Parton NNP
+not RB
+getting VBG
+the DT
+Oscar NNP
+for IN
+Travelin' NNP
+Thru NNP
+
+
 The Battle for Everything is a 2004 album for United States singer-songwriter Five for Fighting , the stage name of John Ondrasik .
+The DT
+Battle NNP
+for IN
+Everything NNP
+is VBZ
+a DT
+2004 CD
+album NN
+for IN
+United NNP
+States NNPS
+singer-songwriter JJ
+Five NNP
+for IN
+Fighting NNP
+, ,
+the DT
+stage NN
+name NN
+of IN
+John NNP
+Ondrasik NNP
+. .
+The Battle for Everything
+Five for Fighting
+
+
 En 2002, Keren Ann sort son deuxi?me album, La Disparition 
+En RB
+2002, CD
+Keren NNP
+Ann NNP
+sort NN
+son NN
+deuxi?me NN
+album, NN
+La NNP
+Disparition NNP
+
+
 In 1997, Leary would follow up No Cure For Cancer with another stand-up spectacular called Lock 'N Load 
+In IN
+1997, CD
+Leary NNP
+would MD
+follow VB
+up RP
+No DT
+Cure NN
+For IN
+Cancer NNP
+with IN
+another DT
+stand-up JJ
+spectacular NN
+called VBN
+Lock NNP
+'N NNP
+Load NNP
+No Cure For Cancer
+
+
 Want Two is the fourth album by American - Canadian singer-songwriter Rufus Wainwright .
+Want JJ
+Two CD
+is VBZ
+the DT
+fourth JJ
+album NN
+by IN
+American NNP
+- :
+Canadian JJ
+singer-songwriter JJ
+Rufus NNP
+Wainwright NNP
+. .
+Want Two
+Canadian
+
+
 Until then, only metalcore completists will need to check out Forever In Terror ?s debut album Restless In The Tides .
+Until IN
+then, EX
+only RB
+metalcore NN
+completists NNS
+will MD
+need VB
+to TO
+check VB
+out RP
+Forever NNP
+In IN
+Terror NNP
+?s NNP
+debut NN
+album NN
+Restless NNP
+In IN
+The DT
+Tides NNP
+. .
+Forever In Terror
+Restless In The Tides
+
+
 The first song is called  Stoffig Stuk  and is basicly Wouter re-interpreting the infamous   Stofstuk   by Machinefabriek .
+The DT
+first JJ
+song NN
+is VBZ
+called VBN
+Stoffig NNP
+Stuk NNP
+and CC
+is VBZ
+basicly JJ
+Wouter NNP
+re-interpreting VBG
+the DT
+infamous JJ
+Stofstuk NNP
+by IN
+Machinefabriek NNP
+. .
+
+
 Feufollet makes the music on Cow Island Hop sound like they've played it?for centuries but only wrote the songs yesterday
+Feufollet NNP
+makes VBZ
+the DT
+music NN
+on IN
+Cow NNP
+Island NNP
+Hop NNP
+sound NN
+like IN
+they've NN
+played VBN
+it?for JJ
+centuries NNS
+but CC
+only RB
+wrote VBD
+the DT
+songs NNS
+yesterday NN
+
+
 Dolly Parton ?s new album, Backwoods Barbie , will be released later than the previously reported date, Tuesday, February 5.? Parton
+Dolly RB
+Parton NNP
+?s NNP
+new JJ
+album, NN
+Backwoods NNP
+Barbie NNP
+, ,
+will MD
+be VB
+released VBN
+later RB
+than IN
+the DT
+previously RB
+reported VBN
+date, NN
+Tuesday, NNP
+February NNP
+5.? CD
+Parton NNP
+Dolly Parton
+
+
 These would feature on Keren Ann 's acclaimed debut album,   La Biographie de Luka Philipsen  
+These DT
+would MD
+feature VB
+on IN
+Keren NNP
+Ann NNP
+'s POS
+acclaimed JJ
+debut NN
+album, VBZ
+La NNP
+Biographie NNP
+de IN
+Luka NNP
+Philipsen NNP
+La Biographie de Luka Philipsen
+
+
 With that said, look out for Girls' Generation 's new album   GEE   on January 7, 2009
+With IN
+that DT
+said, NN
+look VB
+out RP
+for IN
+Girls' NNP
+Generation NNP
+'s POS
+new JJ
+album NN
+GEE NNP
+on IN
+January NNP
+7, CD
+2009 CD
+
+
 In 1984, the Robert Palmer assisted John Martyn album Sapphire was released
+In IN
+1984, CD
+the DT
+Robert NNP
+Palmer NNP
+assisted VBD
+John NNP
+Martyn NNP
+album NN
+Sapphire NNP
+was VBD
+released VBN
+
+
 Paley 's first solo album Lucky's Tune was produced by Frank Black , and released by GoodNoise in 1999
+Paley NNP
+'s POS
+first JJ
+solo NN
+album NN
+Lucky's NNP
+Tune NNP
+was VBD
+produced VBN
+by IN
+Frank NNP
+Black NNP
+, ,
+and CC
+released VBN
+by IN
+GoodNoise NNP
+in IN
+1999 CD
+
+
 , John Martyn ?s atypical jazz-flute album The Tumbler , Bert Jansch and the jazz-folk stylings of Robin Dransfield.
+, ,
+John NNP
+Martyn NNP
+?s NNP
+atypical JJ
+jazz-flute NN
+album IN
+The DT
+Tumbler NNP
+, ,
+Bert NNP
+Jansch NNP
+and CC
+the DT
+jazz-folk JJ
+stylings NNS
+of IN
+Robin NNP
+Dransfield. NNP
+The Tumbler
+
+
 He also produced the album Revival  by Brooklyn singer-songwriter  Reid Paley 
+He PRP
+also RB
+produced VBD
+the DT
+album NN
+Revival NNP
+by IN
+Brooklyn NNP
+singer-songwriter JJ
+Reid NNP
+Paley NNP
+
+
 En dag som denna sä tter man på Asshole med Denis Leary på hö g volym
+En NNP
+dag NN
+som NN
+denna NN
+sä NN
+tter NN
+man NN
+på NN
+Asshole NNP
+med VBD
+Denis NNP
+Leary NNP
+på NN
+hö NN
+g NN
+volym NN
+
+
 In addition, he played on Bo Diddley ?s recording,   Who Do You Love   and Billy Boy Arnold ?s  I Ai n?t Got You.
+In IN
+addition, NN
+he PRP
+played VBD
+on IN
+Bo NNP
+Diddley NNP
+?s NNP
+recording, NN
+Who NNP
+Do VBP
+You PRP
+Love VB
+and CC
+Billy NNP
+Boy NNP
+Arnold NNP
+?s NNP
+I PRP
+Ai VBP
+n?t JJ
+Got NNP
+You. NNP
+Who Do You Love
+Ai
+
+
 Ainda is Madredeus ' record dedicated to the city of Lisbon 
+Ainda NNP
+is VBZ
+Madredeus NNP
+' POS
+record NN
+dedicated VBN
+to TO
+the DT
+city NN
+of IN
+Lisbon NNP
+
+
 HEI HA! is produced by Tocker and Bruce Lynch .
+HEI NNP
+HA! NNP
+is VBZ
+produced VBN
+by IN
+Tocker NNP
+and CC
+Bruce NNP
+Lynch NNP
+. .
+
+
 At the time John explained that Inside Out was all about the concept of love...
+At IN
+the DT
+time NN
+John NNP
+explained VBD
+that IN
+Inside NNP
+Out NNP
+was VBD
+all DT
+about IN
+the DT
+concept NN
+of IN
+love... NN
+
+
   Superman   can be found on Five For Fighting 's second album, America Town 
+Superman NNP
+can MD
+be VB
+found VBN
+on IN
+Five NNP
+For IN
+Fighting VBG
+'s POS
+second JJ
+album, NN
+America NNP
+Town NNP
+Five For Fighting
+
+
 London Conversation includes a cover of Bob Dylan s Don t Think Twice, Its Alright which John does brilliantly.
+London NNP
+Conversation NNP
+includes VBZ
+a DT
+cover NN
+of IN
+Bob NNP
+Dylan NNP
+s VBZ
+Don NNP
+t NN
+Think NNP
+Twice, NNP
+Its PRP$
+Alright NNP
+which WDT
+John NNP
+does VBZ
+brilliantly. VB
+
+
 Use the PC infrastructure Life Goes On , Sash! Shows no sign of Life Goes On , ...
+Use VB
+the DT
+PC NN
+infrastructure NN
+Life NNP
+Goes NNP
+On IN
+, ,
+Sash! NNP
+Shows NNP
+no DT
+sign NN
+of IN
+Life NNP
+Goes NNP
+On IN
+, ,
+... :
+Life Goes On
+Life Goes On
+
+
 There is a distinctly cinematic quality to the pieces that make up Markus Reuter excellent work, Trepanation .
+There EX
+is VBZ
+a DT
+distinctly RB
+cinematic JJ
+quality NN
+to TO
+the DT
+pieces NNS
+that WDT
+make VBP
+up RP
+Markus NNP
+Reuter NNP
+excellent JJ
+work, NN
+Trepanation NNP
+. .
+
+
 Starting in 1989, Hargrove released a string of bebop and neo-bop albums, starting with the Novus release Diamond in the Rough 
+Starting VBG
+in IN
+1989, CD
+Hargrove NNP
+released VBD
+a DT
+string NN
+of IN
+bebop NN
+and CC
+neo-bop JJ
+albums, NN
+starting VBG
+with IN
+the DT
+Novus NNP
+release NN
+Diamond NNP
+in IN
+the DT
+Rough NNP
+Diamond in the Rough
+
+
 In 1997, Roy s Cuban -based band Crisol  won the Best Latin Jazz Performance Grammy for the album Habana 
+In IN
+1997, CD
+Roy NNP
+s NNP
+Cuban NNP
+-based VBD
+band NN
+Crisol NNP
+won VBD
+the DT
+Best JJS
+Latin JJ
+Jazz NN
+Performance NNP
+Grammy NNP
+for IN
+the DT
+album NN
+Habana NNP
+
+
 Goodbye Blue Monday follows Fisher ?s 2001 debut of Back Porch Spirituals , and his second album Let It Shine , released in 2004
+Goodbye NNP
+Blue NNP
+Monday NNP
+follows VBZ
+Fisher NNP
+?s NN
+2001 CD
+debut NN
+of IN
+Back NNP
+Porch NNP
+Spirituals NNP
+, ,
+and CC
+his PRP$
+second JJ
+album NN
+Let VBD
+It PRP
+Shine NNP
+, ,
+released VBN
+in IN
+2004 CD
+Let It Shine
+
+
 Gentleman Reg is the recording name for Canadian singer/songwriter Reg Vermue , who released his fourth album, Jet Black , today.
+Gentleman NNP
+Reg NNP
+is VBZ
+the DT
+recording NN
+name NN
+for IN
+Canadian JJ
+singer/songwriter NN
+Reg NNP
+Vermue NNP
+, ,
+who WP
+released VBD
+his PRP$
+fourth JJ
+album, NN
+Jet NNP
+Black NNP
+, ,
+today. NN
+Canadian
+
+
 Home & Garden will have 4 songs on the upcoming Colette record   Hypnotized   on Om Records .
+Home NNP
+& CC
+Garden NNP
+will MD
+have VB
+4 CD
+songs NNS
+on IN
+the DT
+upcoming JJ
+Colette NNP
+record NN
+Hypnotized NNP
+on IN
+Om NNP
+Records NNP
+. .
+Home & Garden
+
+
 Ferrer played the drums on Keith Moon 's Two Sides of the Moon .
+Ferrer NNP
+played VBD
+the DT
+drums NNS
+on IN
+Keith NNP
+Moon NNP
+'s POS
+Two CD
+Sides NNP
+of IN
+the DT
+Moon NNP
+. .
+Two Sides of the Moon
+
+
 Collins played on Martyn 's 1980 album Grace And Danger and 1981's Glorious Fool 
+Collins NNS
+played VBN
+on IN
+Martyn NNP
+'s POS
+1980 CD
+album JJ
+Grace NNP
+And CC
+Danger NNP
+and CC
+1981's CD
+Glorious JJ
+Fool NN
+Grace And Danger
+Glorious Fool
+
+
 Next out of the chute from Brickman is   The Gift ,  the follow-up to   Picture This   
+Next JJ
+out IN
+of IN
+the DT
+chute NN
+from IN
+Brickman NNP
+is VBZ
+The DT
+Gift NNP
+, ,
+the DT
+follow-up NN
+to TO
+Picture VB
+This DT
+The Gift
+Picture This
+
+
 Collins played on Martyn 's 1980 album Grace And Danger and 1981's Glorious Fool 
+Collins NNS
+played VBN
+on IN
+Martyn NNP
+'s POS
+1980 CD
+album JJ
+Grace NNP
+And CC
+Danger NNP
+and CC
+1981's CD
+Glorious JJ
+Fool NN
+Grace And Danger
+Glorious Fool
+
+
 On Tuesday's   American Idol ,  David Cook wowed the judges and the audience with his rendition of Dolly Parton s  Little Sparrow .
+On IN
+Tuesday's NNP
+American NNP
+Idol NNP
+, ,
+David NNP
+Cook NNP
+wowed VBD
+the DT
+judges NNS
+and CC
+the DT
+audience NN
+with IN
+his PRP$
+rendition NN
+of IN
+Dolly NNP
+Parton NNP
+s NNP
+Little NNP
+Sparrow NNP
+. .
+
+
 Jim Brickman 's new single,  Coming Home from Christmas  from his latest album, Homecoming features Richie McDonald of Lo...
+Jim NNP
+Brickman NNP
+'s POS
+new JJ
+single, NN
+Coming NNP
+Home NNP
+from IN
+Christmas NNP
+from IN
+his PRP$
+latest JJS
+album, NN
+Homecoming VBG
+features NNS
+Richie NNP
+McDonald NNP
+of IN
+Lo... NNP
+Homecoming
+
+
   No Words   introduced the original solo piano sounds of Jim Brickman to Adult Contemporary radio and the world
+No DT
+Words NNP
+introduced VBD
+the DT
+original JJ
+solo NN
+piano NN
+sounds NNS
+of IN
+Jim NNP
+Brickman NNP
+to TO
+Adult NNP
+Contemporary NNP
+radio NN
+and CC
+the DT
+world NN
+No Words
+
+
 Electric Music AKA were originally Electric Music , until ex-Kraftwerk man Karl Bartos threatened to sue
+Electric NNP
+Music NNP
+AKA NNP
+were VBD
+originally RB
+Electric NNP
+Music NNP
+, ,
+until IN
+ex-Kraftwerk JJ
+man NN
+Karl NNP
+Bartos NNP
+threatened VBD
+to TO
+sue VB
+
+
 Australia is an album by Howie Day , first released in 2000 independently and re-released in 2002 by Epic Records .
+Australia NNP
+is VBZ
+an DT
+album NN
+by IN
+Howie NNP
+Day NNP
+, ,
+first RB
+released VBN
+in IN
+2000 CD
+independently RB
+and CC
+re-released JJ
+in IN
+2002 CD
+by IN
+Epic NNP
+Records NNP
+. .
+
+
 album from 2006 to 2005 since it was released earlier on the G4 album, G4 & Friends 
+album NN
+from IN
+2006 CD
+to TO
+2005 CD
+since IN
+it PRP
+was VBD
+released VBN
+earlier RBR
+on IN
+the DT
+G4 NNP
+album, NN
+G4 NNP
+& CC
+Friends NNS
+G4 & Friends
+
+
 G4 's new album, Act Three , is released tomorrow and includes the track No Matter What which they sing with Stephen
+G4 NNP
+'s POS
+new JJ
+album, NN
+Act NNP
+Three NNP
+, ,
+is VBZ
+released VBN
+tomorrow NN
+and CC
+includes VBZ
+the DT
+track NN
+No NNP
+Matter NNP
+What WP
+which WDT
+they PRP
+sing VBG
+with IN
+Stephen NNP
+No Matter What
+
+
 Goodbye Blue Monday follows Fisher ?s 2001 debut of Back Porch Spirituals , and his second album Let It Shine , released in 2004
+Goodbye NNP
+Blue NNP
+Monday NNP
+follows VBZ
+Fisher NNP
+?s NN
+2001 CD
+debut NN
+of IN
+Back NNP
+Porch NNP
+Spirituals NNP
+, ,
+and CC
+his PRP$
+second JJ
+album NN
+Let VBD
+It PRP
+Shine NNP
+, ,
+released VBN
+in IN
+2004 CD
+Let It Shine
+
+
 Next was   Throw It All Away   by something called Zero 7 , of which it was said  their new album . . .
+Next NNP
+was VBD
+Throw VB
+It PRP
+All DT
+Away NNP
+by IN
+something NN
+called VBN
+Zero CD
+7 CD
+, ,
+of IN
+which WDT
+it PRP
+was VBD
+said VBD
+their PRP$
+new JJ
+album NN
+. .
+. .
+. .
+Throw It All Away
+Zero 7
+
+
 The Bloody Beetroots ft Steve Aoki @ Nitsa barcelona 07/02/09 Track : Bloody Beetroots ft Steve Aoki - Warp !
+The DT
+Bloody NNP
+Beetroots NNP
+ft VBD
+Steve NNP
+Aoki NNP
+@ NNP
+Nitsa NNP
+barcelona VBD
+07/02/09 CD
+Track NN
+: :
+Bloody JJ
+Beetroots NNP
+ft NN
+Steve NNP
+Aoki NNP
+- :
+Warp NN
+! .
+Bloody Beetroots
+
+
 For a band that that thrived on focus, New Whirl Odor sees Public Enemy at the proverbial crossroads
+For IN
+a DT
+band NN
+that IN
+that DT
+thrived VBD
+on IN
+focus, JJ
+New NNP
+Whirl NNP
+Odor NNP
+sees VBZ
+Public JJ
+Enemy NNP
+at IN
+the DT
+proverbial JJ
+crossroads NNS
+Public Enemy
+
+
 And of course Lee Hazlewood 's less-overdone albums like Requiem for an almost lady  fit this aesthetic perfectly
+And CC
+of IN
+course NN
+Lee NNP
+Hazlewood NNP
+'s POS
+less-overdone NN
+albums NNS
+like IN
+Requiem NNP
+for IN
+an DT
+almost RB
+lady JJ
+fit NN
+this DT
+aesthetic JJ
+perfectly RB
+Requiem for an almost lady
+
+
 John Martyn unites One World with this new double-disc compilation
+John NNP
+Martyn NNP
+unites VBZ
+One CD
+World NN
+with IN
+this DT
+new JJ
+double-disc JJ
+compilation NN
+One World
+
+
 Brickman ?s songs   Valentine   and   The Gift   have been adopted as new holiday favorites
+Brickman NNP
+?s NNP
+songs NNS
+Valentine NNP
+and CC
+The DT
+Gift NNP
+have VBP
+been VBN
+adopted VBN
+as IN
+new JJ
+holiday NN
+favorites NNS
+The Gift
+
+
 to air Public Enemy 's video for   Hazy Shade Of Criminal  .
+to TO
+air VB
+Public NNP
+Enemy NNP
+'s POS
+video NN
+for IN
+Hazy NNP
+Shade NNP
+Of IN
+Criminal NNP
+. .
+Hazy Shade Of Criminal
+
+
 The song   Hands Without Shadows   is taught in Michael Angelo Batio 's instructional DVD  Speed Lives 2  http://www.metalmethod.com/lead-guitar-lesson-speed-lives-2.ht
+The DT
+song NN
+Hands VBZ
+Without IN
+Shadows NNP
+is VBZ
+taught VBN
+in IN
+Michael NNP
+Angelo NNP
+Batio NNP
+'s POS
+instructional JJ
+DVD NNP
+Speed NNP
+Lives VBZ
+2 CD
+http://www.metalmethod.com/lead-guitar-lesson-speed-lives-2.ht NN
+Hands Without Shadows
+
+
 And Lee Hazelwood s Cake or Death is our featured album.
+And CC
+Lee NNP
+Hazelwood NNP
+s NNP
+Cake NNP
+or CC
+Death NNP
+is VBZ
+our PRP$
+featured JJ
+album. NN
+Cake or Death
+
+
 The He Got Game Soundtrack marks the second collaboration between Public Enemy and Spike Lee 
+The DT
+He PRP
+Got NNP
+Game NNP
+Soundtrack NNP
+marks VBZ
+the DT
+second JJ
+collaboration NN
+between IN
+Public NNP
+Enemy NNP
+and CC
+Spike NNP
+Lee NNP
+He Got Game Soundtrack
+
+
 Each new track on Live for Today individually displays a different element of the Boy Sets Fire sound.
+Each DT
+new JJ
+track NN
+on IN
+Live NNP
+for IN
+Today NNP
+individually RB
+displays VBZ
+a DT
+different JJ
+element NN
+of IN
+the DT
+Boy NNP
+Sets NNP
+Fire NNP
+sound. NN
+Live for Today
+
+
 After having released 3 critically acclaimed albums, PE came with Apocalypse 91 .
+After IN
+having VBG
+released VBN
+3 CD
+critically RB
+acclaimed VBN
+albums, JJ
+PE NNP
+came VBD
+with IN
+Apocalypse NNP
+91 CD
+. .
+Apocalypse 91
+
+
 Implicit in   Shut Em Down   is PE 's admonition to rappers to join in struggle with their communities
+Implicit NNP
+in IN
+Shut NNP
+Em NNP
+Down NNP
+is VBZ
+PE NNP
+'s POS
+admonition NN
+to TO
+rappers NNS
+to TO
+join VB
+in IN
+struggle NN
+with IN
+their PRP$
+communities NNS
+
+
 DANGER MOUSE 's remix of ZERO 7 's   Somersault   became the 100 millionth song downloaded through the iTunes Music Store on July 11th
+DANGER NNP
+MOUSE NNP
+'s POS
+remix NN
+of IN
+ZERO NNP
+7 CD
+'s POS
+Somersault NN
+became VBD
+the DT
+100 CD
+millionth NN
+song NN
+downloaded VBD
+through IN
+the DT
+iTunes NNS
+Music NNP
+Store NN
+on IN
+July NNP
+11th CD
+ZERO 7
+
+
 [2] She did bakcround vocals on Patty Loveless album, Strong Heart , that year
+[2] IN
+She PRP
+did VBD
+bakcround NN
+vocals NNS
+on IN
+Patty NNP
+Loveless NNP
+album, NN
+Strong NNP
+Heart NNP
+, ,
+that IN
+year NN
+
+
 1. Desmond 's Bridge Over Troubled Water is an iTunes download for $9.90.
+1. CD
+Desmond NNP
+'s POS
+Bridge NNP
+Over NNP
+Troubled NNP
+Water NNP
+is VBZ
+an DT
+iTunes JJ
+download NN
+for IN
+$9.90. NN
+iTunes
+
+
 Patty Loveless 's last album   Dreamin' My Dreams   does come to mind, a disc mostly ignored by the country community.
+Patty NNP
+Loveless NNP
+'s POS
+last JJ
+album NN
+Dreamin' NNP
+My NNP
+Dreams NNP
+does VBZ
+come VB
+to TO
+mind, VB
+a DT
+disc NN
+mostly RB
+ignored VBN
+by IN
+the DT
+country NN
+community. NN
+
+
 The five-song disc starts off with a jazzy number then follows with the Dolly Parton tune   Coat of Many Colors . 
+The DT
+five-song JJ
+disc NN
+starts VBZ
+off IN
+with IN
+a DT
+jazzy JJ
+number NN
+then RB
+follows VBZ
+with IN
+the DT
+Dolly NNP
+Parton NNP
+tune NNP
+Coat NNP
+of IN
+Many JJ
+Colors NNS
+. .
+Coat of Many Colors
+
+
 Death Trip Delivery: 1981 - 1985 is an album by Mourning Noise .
+Death NNP
+Trip NNP
+Delivery: NNP
+1981 CD
+- :
+1985 CD
+is VBZ
+an DT
+album NN
+by IN
+Mourning VBG
+Noise NNP
+. .
+Death Trip Delivery: 1981 - 1985
+Mourning Noise
+
+
 Did Mariah record a song for   Glitter   called   Destiny   with Jim Brickman 
+Did NNP
+Mariah NNP
+record NN
+a DT
+song NN
+for IN
+Glitter NNP
+called VBD
+Destiny NNP
+with IN
+Jim NNP
+Brickman NNP
+
+
 ? Goodbye ? pushed the album to platinum, and Loveless followed with the critically acclaimed When Fallen Angels Fly 
+? .
+Goodbye NNP
+? .
+pushed VBD
+the DT
+album NN
+to TO
+platinum, VB
+and CC
+Loveless NNP
+followed VBD
+with IN
+the DT
+critically RB
+acclaimed VBN
+When WRB
+Fallen NNP
+Angels NNP
+Fly NNP
+When Fallen Angels Fly
+
+
 González was also a featured vocalist on the Grammy nominated Zero 7 album ' The Garden .'
+González NNP
+was VBD
+also RB
+a DT
+featured JJ
+vocalist NN
+on IN
+the DT
+Grammy NNP
+nominated VBD
+Zero NNP
+7 CD
+album NN
+' ''
+The DT
+Garden NNP
+.' NN
+Zero 7
+The Garden
+
+
 As Angels became her third platinum album, Loveless returned with the grittier The Trouble With the Truth 
+As IN
+Angels NNP
+became VBD
+her PRP$
+third JJ
+platinum NN
+album, NN
+Loveless NNP
+returned VBD
+with IN
+the DT
+grittier NN
+The DT
+Trouble JJ
+With IN
+the DT
+Truth NN
+The Trouble With the Truth
+
+
 Under Official -> Albums: KAT-TUN 's regular edition album   Best of KAT-TUN   at 320CBR and FLAC 
+Under IN
+Official NNP
+-> NNP
+Albums: NNP
+KAT-TUN NNP
+'s POS
+regular JJ
+edition NN
+album NN
+Best NNP
+of IN
+KAT-TUN NNP
+at IN
+320CBR CD
+and CC
+FLAC NNP
+Best of KAT-TUN
+
+
 Flesh and Blood is the seventh  album by Roxy Music and was released in 1980.
+Flesh NNP
+and CC
+Blood NNP
+is VBZ
+the DT
+seventh JJ
+album NN
+by IN
+Roxy NNP
+Music NNP
+and CC
+was VBD
+released VBN
+in IN
+1980. CD
+Flesh and Blood
+
+
 Atomic Bomb [10] Public Enemy 's online-only CD,   There's a Poison Goin' On . . 
+Atomic NNP
+Bomb NNP
+[10] NNP
+Public NNP
+Enemy NNP
+'s POS
+online-only JJ
+CD, NNP
+There's NNP
+a DT
+Poison NNP
+Goin' NNP
+On IN
+. .
+. .
+There's a Poison Goin' On
+
+
   Slow Rollers   is a compilation album of Rolling Stones ' Ballads.
+Slow JJ
+Rollers NNPS
+is VBZ
+a DT
+compilation NN
+album NN
+of IN
+Rolling NNP
+Stones NNP
+' POS
+Ballads. NNP
+Slow Rollers
+
+
 In other Chuck D news, the long-awaited Public Enemy album, Revolverlution , will be released July 23rd
+In IN
+other JJ
+Chuck NNP
+D NNP
+news, IN
+the DT
+long-awaited JJ
+Public NNP
+Enemy NNP
+album, NN
+Revolverlution NNP
+, ,
+will MD
+be VB
+released VBN
+July NNP
+23rd CD
+
+
 The debut single from the album,   Turn Da Lights Off   features Tweet 's mentor Missy Elliott and was produced by Kwame .
+The DT
+debut NN
+single JJ
+from IN
+the DT
+album, NN
+Turn NNP
+Da NNP
+Lights NNP
+Off NNP
+features VBZ
+Tweet NNP
+'s POS
+mentor NN
+Missy NNP
+Elliott NNP
+and CC
+was VBD
+produced VBN
+by IN
+Kwame NNP
+. .
+
+
   The Thrill of it All   performed by Roxy Music 
+The DT
+Thrill NNP
+of IN
+it PRP
+All NNP
+performed VBN
+by IN
+Roxy NNP
+Music NNP
+The Thrill of it All
+
+
 The most rocking of Parton 's songs,   Jolene   seemed a little neutered here.
+The DT
+most RBS
+rocking NN
+of IN
+Parton NNP
+'s POS
+songs, JJ
+Jolene NNP
+seemed VBD
+a DT
+little JJ
+neutered JJ
+here. NN
+
+
 This turned out to be the Public Enemy album Rebirth Of a Nation 
+This DT
+turned VBD
+out RP
+to TO
+be VB
+the DT
+Public NNP
+Enemy NNP
+album VBD
+Rebirth NNP
+Of IN
+a DT
+Nation NN
+Rebirth Of a Nation
+
+
 An engineer who assisted on the recordings the Stones made in Japan for Stripped 
+An DT
+engineer NN
+who WP
+assisted VBD
+on IN
+the DT
+recordings NNS
+the DT
+Stones NNS
+made VBN
+in IN
+Japan NNP
+for IN
+Stripped NNP
+
+
 Rolled Gold: The Very Best of the Rolling Stones is a compilation by The Rolling Stones released in 1975.
+Rolled VBN
+Gold: NNP
+The DT
+Very NNP
+Best NNP
+of IN
+the DT
+Rolling NNP
+Stones NNP
+is VBZ
+a DT
+compilation NN
+by IN
+The DT
+Rolling NNP
+Stones NNPS
+released VBN
+in IN
+1975. CD
+Rolled Gold: The Very Best of the Rolling Stones
+The Rolling Stones
+
+
 Roxy Music continued until Siren , split for a flurry of solo work, reunited for three more 
+Roxy NNP
+Music NNP
+continued VBD
+until IN
+Siren NNP
+, ,
+split NN
+for IN
+a DT
+flurry NN
+of IN
+solo NN
+work, NN
+reunited VBD
+for IN
+three CD
+more JJR
+
+
 She also worked with English ?musicians Zero 7 on their second album, When It Falls .
+She PRP
+also RB
+worked VBD
+with IN
+English NNP
+?musicians NNPS
+Zero NNP
+7 CD
+on IN
+their PRP$
+second JJ
+album, NN
+When WRB
+It PRP
+Falls NNP
+. .
+Zero 7
+When It Falls
+
+
 Warhol s actual work for the Stones included the LP covers for Sticky Fingers and Love You Live 
+Warhol NNP
+s NNP
+actual JJ
+work NN
+for IN
+the DT
+Stones NNP
+included VBD
+the DT
+LP NNP
+covers NNS
+for IN
+Sticky NNP
+Fingers NNP
+and CC
+Love NNP
+You PRP
+Live VBP
+Love You Live
+
+
 The project would mark the first time Eno worked with Roxy Music since 1973's For Your Pleasure 
+The DT
+project NN
+would MD
+mark VB
+the DT
+first JJ
+time NN
+Eno NNP
+worked VBD
+with IN
+Roxy NNP
+Music NNP
+since IN
+1973's CD
+For IN
+Your JJ
+Pleasure NN
+For Your Pleasure
+
+
 Patty Loveless performs this   Mountain Soul   song in Nashville during September 2002.
+Patty NNP
+Loveless NNP
+performs VBZ
+this DT
+Mountain NNP
+Soul NNP
+song NN
+in IN
+Nashville NNP
+during IN
+September NNP
+2002. CD
+
+
 From the Stones album   Goats Head Soup ,  released in 1973
+From IN
+the DT
+Stones NNP
+album NN
+Goats NNP
+Head NNP
+Soup NNP
+, ,
+released VBN
+in IN
+1973 CD
+
+
 As I write, The Stones are releasing? Singles 1968-1971
+As IN
+I PRP
+write, VBP
+The DT
+Stones NNS
+are VBP
+releasing? JJ
+Singles NNP
+1968-1971 NNS
+The Stones
+
+
 Get Yer Ya-Ya's Out! , Love You Live, Flashpoint, and No Security are some of the best live Rolling Stones recordings I?ve listened to
+Get NNP
+Yer NNP
+Ya-Ya's NNP
+Out! NNP
+, ,
+Love NNP
+You PRP
+Live, NNP
+Flashpoint, NNP
+and CC
+No NNP
+Security NNP
+are VBP
+some DT
+of IN
+the DT
+best JJS
+live JJ
+Rolling NNP
+Stones NNP
+recordings NNS
+I?ve NNP
+listened VBD
+to TO
+
+
 He also launched Tweet , who debuted with Southern Hummingbird , and produced Lil Kim s  The Jump Off 
+He PRP
+also RB
+launched VBD
+Tweet NNP
+, ,
+who WP
+debuted VBD
+with IN
+Southern NNP
+Hummingbird NNP
+, ,
+and CC
+produced VBD
+Lil NNP
+Kim NNP
+s VBD
+The DT
+Jump NNP
+Off NNP
+The Jump Off
+
+
 Paint It Black , a title of a Rolling Stones song, is one of them.
+Paint NN
+It PRP
+Black NNP
+, ,
+a DT
+title NN
+of IN
+a DT
+Rolling NNP
+Stones NNP
+song, NN
+is VBZ
+one CD
+of IN
+them. NN
+Paint It Black
+
+
 She also gets into the classic Rolling Stones track   Wild Horses . 
+She PRP
+also RB
+gets VBZ
+into IN
+the DT
+classic JJ
+Rolling NNP
+Stones NNP
+track NN
+Wild NNP
+Horses NNP
+. .
+
+
 December's Children  was the last Rolling Stones
+December's NNP
+Children NNP
+was VBD
+the DT
+last JJ
+Rolling NNP
+Stones NNS
+
+
 As Tears Go By?????1965  ( As Tears Go By   later also charted for the Rolling Stones in 1966.).
+As IN
+Tears NNP
+Go NNP
+By?????1965 NNP
+( (
+As IN
+Tears NNP
+Go NNP
+By IN
+later RB
+also RB
+charted VBN
+for IN
+the DT
+Rolling NNP
+Stones NNPS
+in IN
+1966.). CD
+Tears Go By
+
+
 In 1998, Hot Rocks were invited by The Rolling Stones to perform at the band's news conference for the   No Security Tour . 
+In IN
+1998, CD
+Hot JJ
+Rocks NNS
+were VBD
+invited VBN
+by IN
+The DT
+Rolling NNP
+Stones NNPS
+to TO
+perform VB
+at IN
+the DT
+band's JJ
+news NN
+conference NN
+for IN
+the DT
+No NNP
+Security NNP
+Tour NNP
+. .
+Hot Rocks
+The Rolling Stones
+
+
 There's one line in Jimmy 's song, Handmade ,  Have we lost the need and the will to care 
+There's NNP
+one CD
+line NN
+in IN
+Jimmy NNP
+'s POS
+song, NN
+Handmade NNP
+, ,
+Have VBP
+we PRP
+lost VBD
+the DT
+need NN
+and CC
+the DT
+will MD
+to TO
+care VB
+
+
 Leavell joined the Stones in 1982 and played on the European leg of their   Tattoo You   tour
+Leavell NNP
+joined VBD
+the DT
+Stones NNPS
+in IN
+1982 CD
+and CC
+played VBD
+on IN
+the DT
+European NNP
+leg NN
+of IN
+their PRP$
+Tattoo NNP
+You PRP
+tour VBP
+Tattoo You
+
+
 Obvious examples of this include Industrial Records ' issue of a record of William Burroughs cut-ups, Nothing Here Now But The Recordings .
+Obvious JJ
+examples NNS
+of IN
+this DT
+include VBP
+Industrial NNP
+Records NNP
+' POS
+issue NN
+of IN
+a DT
+record NN
+of IN
+William NNP
+Burroughs NNP
+cut-ups, NN
+Nothing NNP
+Here RB
+Now RB
+But CC
+The DT
+Recordings NNP
+. .
+Nothing Here Now But The Recordings
+
+
 A year later, Frazier Chorus disbanded with Freeman reforming the group for 1995 album  Wide Awake 
+A DT
+year NN
+later, RB
+Frazier NNP
+Chorus NNP
+disbanded VBD
+with IN
+Freeman NNP
+reforming VBG
+the DT
+group NN
+for IN
+1995 CD
+album NN
+ NNP
+Wide NNP
+Awake NNP
+ NN
+
+
 Used in many classic recordings such as Roxy Music 's album Avalon .
+Used VBN
+in IN
+many JJ
+classic JJ
+recordings NNS
+such JJ
+as IN
+Roxy NNP
+Music NNP
+'s POS
+album NN
+Avalon NNP
+. .
+
+
   A Bigger Bang   is the Stones album I've been hoping for since 1983's   Undercover .
+A DT
+Bigger NNP
+Bang NNP
+is VBZ
+the DT
+Stones NNPS
+album NN
+I've NNP
+been VBN
+hoping VBG
+for IN
+since IN
+1983's CD
+Undercover NNP
+. .
+A Bigger Bang
+
+
 Just released: Ned Rothenberg 's SYNC 's new album   Harbinger   is out on Animul Records.
+Just RB
+released: NN
+Ned NNP
+Rothenberg NNP
+'s POS
+SYNC NNP
+'s POS
+new JJ
+album NN
+Harbinger NNP
+is VBZ
+out RP
+on IN
+Animul NNP
+Records. NNP
+
+
 Read Ned Rothenberg 's notes to Intervals and view the track listing.
+Read NNP
+Ned NNP
+Rothenberg NNP
+'s POS
+notes NNS
+to TO
+Intervals NNS
+and CC
+view VBP
+the DT
+track NN
+listing. NN
+
+
 Just released: Ned Rothenberg 's SYNC 's new album   Harbinger   is out on Animul Records.
+Just RB
+released: NN
+Ned NNP
+Rothenberg NNP
+'s POS
+SYNC NNP
+'s POS
+new JJ
+album NN
+Harbinger NNP
+is VBZ
+out RP
+on IN
+Animul NNP
+Records. NNP
+
+
 Dead City Radio is a musical album by Beat Generation author William S. Burroughs , which was released by Island Records in 1990.
+Dead JJ
+City NNP
+Radio NNP
+is VBZ
+a DT
+musical JJ
+album NN
+by IN
+Beat NNP
+Generation NNP
+author NN
+William NNP
+S. NNP
+Burroughs NNP
+, ,
+which WDT
+was VBD
+released VBN
+by IN
+Island NNP
+Records NNP
+in IN
+1990. CD
+Dead City Radio
+
+
 Harbhajan Mann 's album,   Oye Hoye   topped music charts
+Harbhajan NNP
+Mann NNP
+'s POS
+album, NN
+Oye NNP
+Hoye NNP
+topped VBD
+music NN
+charts NNS
+
+
 Recorded during the longest winter in recent memory, New Pagan Love Song features Brill longing voice and celebrated lyric.
+Recorded VBN
+during IN
+the DT
+longest JJS
+winter NN
+in IN
+recent JJ
+memory, JJ
+New NNP
+Pagan NNP
+Love NNP
+Song NNP
+features NNS
+Brill NNP
+longing VBG
+voice NN
+and CC
+celebrated VBD
+lyric. NN
+
+
 Disc one of Forty Licks is an excellent andprehensive collection of Rolling Stones hits of the 60's
+Disc NNP
+one CD
+of IN
+Forty NNP
+Licks NNP
+is VBZ
+an DT
+excellent JJ
+andprehensive JJ
+collection NN
+of IN
+Rolling NNP
+Stones NNP
+hits NNS
+of IN
+the DT
+60's CD
+
+
 For Senator Obama is Allen Toussaint and Lee Dorsey 's   Yes We Can   mixed with one of Obama 's speeches
+For IN
+Senator NNP
+Obama NNP
+is VBZ
+Allen NNP
+Toussaint NNP
+and CC
+Lee NNP
+Dorsey NNP
+'s POS
+Yes NNP
+We PRP
+Can MD
+mixed VB
+with IN
+one CD
+of IN
+Obama NNP
+'s POS
+speeches NNS
+Yes We Can
+
+
 The Stones ' 1989 release   Steel Wheels   features samples of this Moroccan
+The DT
+Stones NNP
+' POS
+1989 CD
+release NN
+Steel NNP
+Wheels NNP
+features VBZ
+samples NNS
+of IN
+this DT
+Moroccan JJ
+Moroccan
+
+
 The final Rolling Stones studio albums   Voodoo Lounge   and   Bridges to Babylon 
+The DT
+final JJ
+Rolling NNP
+Stones NNPS
+studio NN
+albums NNS
+Voodoo NNP
+Lounge NNP
+and CC
+Bridges NNP
+to TO
+Babylon VB
+Bridges to Babylon
+
+
 ?s new album and Black Stone Cherry ?s new album Folklore and Superstition .
+?s JJ
+new JJ
+album NN
+and CC
+Black NNP
+Stone NNP
+Cherry NNP
+?s NNP
+new JJ
+album NN
+Folklore NNP
+and CC
+Superstition NNP
+. .
+Folklore and Superstition
+
+
 ( Blöndal says that PE 's Fear Of A Black Planet is what inspired him to make music)
+( (
+Blöndal NNP
+says VBZ
+that IN
+PE NNP
+'s POS
+Fear NNP
+Of IN
+A NNP
+Black NNP
+Planet NNP
+is VBZ
+what WP
+inspired VBD
+him PRP
+to TO
+make VB
+music) NN
+Fear Of A Black Planet
+
+
 Tru Thoughts are pleased to present the third Quantic album Mishaps Happening .
+Tru NNP
+Thoughts NNS
+are VBP
+pleased VBN
+to TO
+present VB
+the DT
+third JJ
+Quantic NNP
+album NN
+Mishaps NNP
+Happening NNP
+. .
+
+
 Genie Gets Her Wish is a music DVD by Christina Aguilera .
+Genie NNP
+Gets VBZ
+Her PRP$
+Wish JJ
+is VBZ
+a DT
+music NN
+DVD NNP
+by IN
+Christina NNP
+Aguilera NNP
+. .
+Genie Gets Her Wish
+
+
 Andrew Lloyd Webber created TELL ME ON A SUNDAY after writing JESUS CHRIST SUPERSTAR and before beginning work on EVITA .
+Andrew NNP
+Lloyd NNP
+Webber NNP
+created VBD
+TELL NNP
+ME NNP
+ON NNP
+A NNP
+SUNDAY NNP
+after IN
+writing VBG
+JESUS NNP
+CHRIST NNP
+SUPERSTAR NNP
+and CC
+before IN
+beginning VBG
+work NN
+on IN
+EVITA NNP
+. .
+
+
 Fountains Of Wayne released Out-Of-State Plates overseas
+Fountains NNS
+Of IN
+Wayne NNP
+released VBD
+Out-Of-State NNP
+Plates NNP
+overseas RB
+Fountains Of Wayne
+
+
 The Rolling Stones had the cover to Some Girls reissued.
+The DT
+Rolling NNP
+Stones NNP
+had VBD
+the DT
+cover NN
+to TO
+Some DT
+Girls NNP
+reissued. NN
+Some Girls
+
+
 The final Rolling Stones studio albums   Voodoo Lounge   and   Bridges to Babylon 
+The DT
+final JJ
+Rolling NNP
+Stones NNPS
+studio NN
+albums NNS
+Voodoo NNP
+Lounge NNP
+and CC
+Bridges NNP
+to TO
+Babylon VB
+Bridges to Babylon
+
+
 1985 In February, the Stones are in Paris recording Dirty Work at Pathe-Marconi Studio
+1985 CD
+In IN
+February, NNP
+the DT
+Stones NNPS
+are VBP
+in IN
+Paris NNP
+recording VBG
+Dirty NNP
+Work NN
+at IN
+Pathe-Marconi NNP
+Studio NNP
+
+
 Track featuring Mi Swing Es Tropical by Nickodemus & Quantic featuring Tempo .
+Track NN
+featuring VBG
+Mi NNP
+Swing NNP
+Es NNP
+Tropical NNP
+by IN
+Nickodemus NNP
+& CC
+Quantic NNP
+featuring NN
+Tempo NNP
+. .
+
+
 In 2004, she earned the coveted role of Christine Daaé in the screen adaptation of composer Andrew Lloyd Webber 's musical The Phantom of the Opera 
+In IN
+2004, CD
+she PRP
+earned VBD
+the DT
+coveted JJ
+role NN
+of IN
+Christine NNP
+Daaé NNP
+in IN
+the DT
+screen JJ
+adaptation NN
+of IN
+composer NN
+Andrew NNP
+Lloyd NNP
+Webber NNP
+'s POS
+musical JJ
+The DT
+Phantom NNP
+of IN
+the DT
+Opera NN
+The Phantom of the Opera
+
+
 John's first of two Grammy Awards was secured for his contributions to artist Jimmy Cliff 's platinum record   Cliff Hanger . 
+John's NNP
+first RB
+of IN
+two CD
+Grammy NNP
+Awards NNP
+was VBD
+secured VBN
+for IN
+his PRP$
+contributions NNS
+to TO
+artist VB
+Jimmy NNP
+Cliff NNP
+'s POS
+platinum NN
+record NN
+Cliff NNP
+Hanger NNP
+. .
+
+
 Back to Basics: Live and Down Under is her new DVD and Christina Aguilera showed up in LA to sign copies
+Back RB
+to TO
+Basics: NNP
+Live NNP
+and CC
+Down NNP
+Under IN
+is VBZ
+her PRP$
+new JJ
+DVD NNP
+and CC
+Christina NNP
+Aguilera NNP
+showed VBD
+up RP
+in IN
+LA NNP
+to TO
+sign VB
+copies NNS
+Back to Basics: Live and Down Under
+
+
 This year, artistic director Marian Jordan Hamilton presents an adaptation of Tim Rice and Andrew Lloyd-Webber rock opera Jesus Christ Superstar .
+This DT
+year, VBZ
+artistic JJ
+director NN
+Marian JJ
+Jordan NNP
+Hamilton NNP
+presents VBZ
+an DT
+adaptation NN
+of IN
+Tim NNP
+Rice NNP
+and CC
+Andrew NNP
+Lloyd-Webber NNP
+rock NN
+opera NN
+Jesus NNP
+Christ NNP
+Superstar NNP
+. .
+
+
 Martin Scorsese and the Rolling Stones unite in   Shine A Light ,  a look at The Rolling Stones . 
+Martin NNP
+Scorsese NNP
+and CC
+the DT
+Rolling NNP
+Stones NNP
+unite RB
+in IN
+Shine NNP
+A NNP
+Light NNP
+, ,
+a DT
+look NN
+at IN
+The DT
+Rolling NNP
+Stones NNP
+. .
+The Rolling Stones
+
+
 I just got a copy of Natalie Merchant 's latest recording, The House Carpenter's Daughter .
+I PRP
+just RB
+got VBD
+a DT
+copy NN
+of IN
+Natalie NNP
+Merchant NNP
+'s POS
+latest JJS
+recording, NN
+The DT
+House NNP
+Carpenter's NNP
+Daughter NNP
+. .
+The House Carpenter's Daughter
+
+
 New York -based Fountains Of Wayne , on the other hand, became America 's prime Brit-poppers through Fountains Of Wayne  and Utopia Parkway 
+New NNP
+York NNP
+-based VBD
+Fountains NNS
+Of IN
+Wayne NNP
+, ,
+on IN
+the DT
+other JJ
+hand, NN
+became VBD
+America NNP
+'s POS
+prime JJ
+Brit-poppers NNS
+through IN
+Fountains NNS
+Of IN
+Wayne NNP
+and CC
+Utopia NNP
+Parkway NNP
+Fountains Of Wayne
+Fountains Of Wayne
+
+
 120. Jimmy Cliff recorded a duet with Elvis Costello for the soundtrack to Club Paradise 
+120. CD
+Jimmy NNP
+Cliff NNP
+recorded VBD
+a DT
+duet NN
+with IN
+Elvis NNP
+Costello NNP
+for IN
+the DT
+soundtrack NN
+to TO
+Club NNP
+Paradise NNP
+
+
 November 9: Natalie Merchant 's live cover of Space Oddity from her Live In Concert
+November NNP
+9: CD
+Natalie NNP
+Merchant NNP
+'s POS
+live JJ
+cover NN
+of IN
+Space NNP
+Oddity NNP
+from IN
+her PRP$
+Live NNP
+In IN
+Concert NNP
+Live In Concert
+
+
 For the analysis, I used the tune   Southern Exposure   on the Frank Wess recording   Opus In Swing   .
+For IN
+the DT
+analysis, NN
+I PRP
+used VBD
+the DT
+tune NN
+Southern NNP
+Exposure NNP
+on IN
+the DT
+Frank NNP
+Wess NNP
+recording VBG
+Opus NNP
+In IN
+Swing NNP
+. .
+Opus In Swing
+
+
 * I really REALLY like Fountains of Wayne 's new album, Traffic and Weather .
+* NN
+I PRP
+really RB
+REALLY NNP
+like IN
+Fountains NNP
+of IN
+Wayne NNP
+'s POS
+new JJ
+album, NN
+Traffic NNP
+and CC
+Weather NNP
+. .
+Fountains of Wayne
+Traffic and Weather
+
+
 Rough Edge: How would you say   Up Off the Floor   compares with previous GLU
+Rough NNP
+Edge: NNP
+How NNP
+would MD
+you PRP
+say VB
+Up RP
+Off IN
+the DT
+Floor NNP
+compares VBZ
+with IN
+previous JJ
+GLU NNP
+Up Off the Floor
+
+
 Empty, God Lives Underwater don be to hard Empty , God Lives Underwater provided.
+Empty, NNP
+God NNP
+Lives VBZ
+Underwater NNP
+don NN
+be VB
+to TO
+hard JJ
+Empty NNP
+, ,
+God NNP
+Lives VBZ
+Underwater NNP
+provided. NN
+God Lives Underwater
+God Lives Underwater
+
+
 Whatever tag is pinned on God Lives Underwater 's new album, Life in the So-Called Space Age , don't call it techno
+Whatever WDT
+tag NN
+is VBZ
+pinned VBN
+on IN
+God NNP
+Lives VBZ
+Underwater NNP
+'s POS
+new JJ
+album, JJ
+Life NN
+in IN
+the DT
+So-Called JJ
+Space NNP
+Age NNP
+, ,
+don't NN
+call VB
+it PRP
+techno VB
+God Lives Underwater
+Life in the So-Called Space Age
+
+
 A skit from Bill Engvall called Dorkfish .
+A DT
+skit NN
+from IN
+Bill NNP
+Engvall NNP
+called VBD
+Dorkfish NNP
+. .
+
+
 Unfortunately, where Beggars Banquet was the high water mark for the Rolling Stones , it saw the demise of guitarist Jones 
+Unfortunately, NNP
+where WRB
+Beggars NNP
+Banquet NNP
+was VBD
+the DT
+high JJ
+water NN
+mark NN
+for IN
+the DT
+Rolling NNP
+Stones NNPS
+, ,
+it PRP
+saw VBD
+the DT
+demise NN
+of IN
+guitarist NN
+Jones NNP
+
+
 Jeff Foxworthy is does the   You Might Be a Redneck If...  routine, but the   Here's Your Sign   is Bill Engvall .
+Jeff NNP
+Foxworthy NNP
+is VBZ
+does VBZ
+the DT
+You PRP
+Might NNP
+Be VB
+a DT
+Redneck NNP
+If... NNP
+routine, NN
+but CC
+the DT
+Here's NNP
+Your NNP
+Sign NNP
+is VBZ
+Bill NNP
+Engvall NNP
+. .
+You Might Be a Redneck
+
+
 (In fact, Karen sang quite a bit of back-up on Merchant 's masterpiece Ophelia .).
+(In JJ
+fact, NN
+Karen NNP
+sang VBD
+quite RB
+a DT
+bit NN
+of IN
+back-up NN
+on IN
+Merchant NNP
+'s POS
+masterpiece NN
+Ophelia NNP
+.). NN
+
+
 Shoulda Been Home is another Robert Cray masterpiece that makes it seem like he never went away
+Shoulda NNP
+Been NNP
+Home NNP
+is VBZ
+another DT
+Robert NNP
+Cray NNP
+masterpiece VBD
+that IN
+makes VBZ
+it PRP
+seem VB
+like IN
+he PRP
+never RB
+went VBD
+away RB
+
+
 Premiers Symptomes  is an album by Air .
+Premiers NNS
+Symptomes NNP
+is VBZ
+an DT
+album NN
+by IN
+Air NNP
+. .
+
+
 The song is featured on Sayer 's album, Another Year .
+The DT
+song NN
+is VBZ
+featured VBN
+on IN
+Sayer NNP
+'s POS
+album, NN
+Another DT
+Year NN
+. .
+Another Year
+
+
 He first started writing with Leo Sayer resulting in Leo 's sucessful albums Silverbird and Just a Boy .
+He PRP
+first RB
+started VBD
+writing VBG
+with IN
+Leo NNP
+Sayer NNP
+resulting VBG
+in IN
+Leo NNP
+'s POS
+sucessful JJ
+albums NNS
+Silverbird NNP
+and CC
+Just NNP
+a DT
+Boy NNP
+. .
+Just a Boy
+
+
 Cray is a five-time Grammy Award winning artist whose new release is entitled,   Time Will Tell  
+Cray NNP
+is VBZ
+a DT
+five-time JJ
+Grammy NNP
+Award NNP
+winning VBG
+artist NN
+whose WP$
+new JJ
+release NN
+is VBZ
+entitled, JJ
+Time NNP
+Will NNP
+Tell NNP
+
+
 After last year's surprise hit Welcome Interstate Managers , Fountains of Wayne co-frontman Adam Schlesinger plans to take Broadway next
+After IN
+last JJ
+year's JJ
+surprise NN
+hit VBD
+Welcome JJ
+Interstate NNP
+Managers NNPS
+, ,
+Fountains NNP
+of IN
+Wayne NNP
+co-frontman JJ
+Adam NNP
+Schlesinger NNP
+plans VBZ
+to TO
+take VB
+Broadway NNP
+next JJ
+Welcome Interstate Managers
+Fountains of Wayne
+
+
 Even Aguilera 's Christmas album, My Kind of Christmas , sold more than 1.5 million copies that same year
+Even RB
+Aguilera NNP
+'s POS
+Christmas NNP
+album, NN
+My NNP
+Kind NNP
+of IN
+Christmas NNP
+, ,
+sold VBD
+more JJR
+than IN
+1.5 CD
+million CD
+copies NNS
+that WDT
+same JJ
+year NN
+My Kind of Christmas
+
+
 Robert Cray notched his 11th Grammy nomination for his acclaimed Rykodisc debut, Take Your Shoes Off 
+Robert NNP
+Cray NNP
+notched VBD
+his PRP$
+11th CD
+Grammy NNP
+nomination NN
+for IN
+his PRP$
+acclaimed JJ
+Rykodisc NNP
+debut, NNS
+Take VB
+Your PRP$
+Shoes NNS
+Off IN
+Take Your Shoes Off
+
+
 2003: Streetheart 's DRUGSTORE DANCER is re-released in the US on EMI 
+2003: CD
+Streetheart NNP
+'s POS
+DRUGSTORE NNP
+DANCER NNP
+is VBZ
+re-released JJ
+in IN
+the DT
+US NNP
+on IN
+EMI NNP
+
+
 THE YOUNG GODS album,   Music for Artificial Clouds   was released on intoXygene in march 2004
+THE DT
+YOUNG NNP
+GODS NNP
+album, JJ
+Music NNP
+for IN
+Artificial NNP
+Clouds NNP
+was VBD
+released VBN
+on IN
+intoXygene NN
+in IN
+march NN
+2004 CD
+Music for Artificial Clouds
+
+
 Here?s the official album cover for Christina Aguilera ?s upcoming Greatest Hits album Keeps Gettin' Better- A Decade of Hits album Keeps Gettin' Better- A Decade of Hits .
+Here?s NNP
+the DT
+official JJ
+album NN
+cover NN
+for IN
+Christina NNP
+Aguilera NNP
+?s NNP
+upcoming VBG
+Greatest NNP
+Hits NNP
+album NN
+Keeps NNP
+Gettin' NNP
+Better- NNP
+A NNP
+Decade NNP
+of IN
+Hits NNP
+album NN
+Keeps NNP
+Gettin' NNP
+Better- NNP
+A NNP
+Decade NNP
+of IN
+Hits NNP
+. .
+Keeps Gettin' Better- A Decade of Hits
+Keeps Gettin' Better- A Decade of Hits
+
+
 British magazine Mojo recently put Capossela ?s Ovunque proteggi album second in its world music top ten list.
+British JJ
+magazine NN
+Mojo NNP
+recently RB
+put VBD
+Capossela NNP
+?s NNP
+Ovunque NNP
+proteggi NN
+album NN
+second JJ
+in IN
+its PRP$
+world NN
+music NN
+top JJ
+ten NN
+list. NN
+British
+
+
 Talkie Walkie comes five years after their landmark Moon Safari and Parisian mood-enhancers Air are back doing what they do best.
+Talkie NNP
+Walkie NNP
+comes VBZ
+five CD
+years NNS
+after IN
+their PRP$
+landmark NN
+Moon NNP
+Safari NNP
+and CC
+Parisian JJ
+mood-enhancers NNS
+Air NNP
+are VBP
+back RB
+doing VBG
+what WP
+they PRP
+do VBP
+best. VB
+Parisian
+
+
 The single has drawn favorable comparisons to classic Mafia hits such as   Me Estoy Enamorando ,    Vida ,  and   Para Siempre Contigo .
+The DT
+single JJ
+has VBZ
+drawn VBN
+favorable JJ
+comparisons NNS
+to TO
+classic VB
+Mafia NNP
+hits NNS
+such JJ
+as IN
+Me NNP
+Estoy NNP
+Enamorando NNP
+, ,
+Vida NNP
+, ,
+and CC
+Para NNP
+Siempre NNP
+Contigo NNP
+. .
+
+
 Experience Spring through Hennie Bekker 's eyes in   Spring Rain  , from the best selling Kaleidoscopes series of CD 's.
+Experience NN
+Spring NN
+through IN
+Hennie NNP
+Bekker NNP
+'s POS
+eyes NNS
+in IN
+Spring NN
+Rain NN
+, ,
+from IN
+the DT
+best JJS
+selling NN
+Kaleidoscopes NNP
+series NN
+of IN
+CD NNP
+'s. POS
+
+
 She recorded a duet, You And I , with Elektra labelmate Eddie Rabbitt for his Radio Romance album
+She PRP
+recorded VBD
+a DT
+duet, NN
+You PRP
+And CC
+I PRP
+, ,
+with IN
+Elektra NNP
+labelmate NN
+Eddie NNP
+Rabbitt NNP
+for IN
+his PRP$
+Radio NNP
+Romance NNP
+album NN
+You And I
+
+
 And don't forget to pick up Taylor 's classic Chess sides on 1969's   Koko Taylor   or   What It Takes: The Chess Years  
+And CC
+don't VB
+forget NN
+to TO
+pick VB
+up RP
+Taylor NNP
+'s POS
+classic JJ
+Chess NNP
+sides NNS
+on IN
+1969's CD
+Koko NNP
+Taylor NNP
+or CC
+What WP
+It PRP
+Takes: VBZ
+The DT
+Chess NNP
+Years NNS
+What It Takes: The Chess Years
+
+
 Deep Blue Something Lyrics ? Breakfast At Tiffany's
+Deep NNP
+Blue NNP
+Something VBG
+Lyrics NNS
+? .
+Breakfast NNP
+At IN
+Tiffany's NNP
+Deep Blue Something
+Breakfast At Tiffany's
+
+
 Post Katrina, Irma released After the Rain , which recently garnered a Grammy nomination.
+Post NNP
+Katrina, NNP
+Irma NNP
+released VBD
+After IN
+the DT
+Rain NNP
+, ,
+which WDT
+recently RB
+garnered VBD
+a DT
+Grammy NNP
+nomination. NN
+After the Rain
+
+
 It was less than a year later that Cray ?s breakthrough record   Strong Persuader   was released
+It PRP
+was VBD
+less JJR
+than IN
+a DT
+year NN
+later RB
+that IN
+Cray NNP
+?s NNP
+breakthrough NN
+record NN
+Strong NNP
+Persuader NNP
+was VBD
+released VBN
+
+
 One Life Crew s Crime Ridden Society : The same reasons they are my favorite Clevo band
+One CD
+Life NNP
+Crew NNP
+s NNP
+Crime NNP
+Ridden NNP
+Society NN
+: :
+The DT
+same JJ
+reasons NNS
+they PRP
+are VBP
+my PRP$
+favorite JJ
+Clevo NNP
+band NN
+
+
 Some great insight about Glenn 's new album Edge of the World and the re-release of Baptizm of Fire 
+Some DT
+great JJ
+insight JJ
+about IN
+Glenn NNP
+'s POS
+new JJ
+album NN
+Edge NNP
+of IN
+the DT
+World NNP
+and CC
+the DT
+re-release NN
+of IN
+Baptizm NNP
+of IN
+Fire NNP
+Edge of the World
+Baptizm of Fire
+
+
 The latest Young and Crazy Horse album, Broken Arrow , has received mixed reviews
+The DT
+latest JJS
+Young NN
+and CC
+Crazy NNP
+Horse NNP
+album, VBZ
+Broken NNP
+Arrow NNP
+, ,
+has VBZ
+received VBN
+mixed JJ
+reviews NNS
+
+
 Young was back with Crazy Horse for 1994's Sleeps with Angels , a much darker record
+Young NN
+was VBD
+back RB
+with IN
+Crazy NNP
+Horse NNP
+for IN
+1994's CD
+Sleeps NNS
+with IN
+Angels NNP
+, ,
+a DT
+much RB
+darker NN
+record NN
+Sleeps with Angels
+
+
 The desperate intensity of Separate Ways suggested Thompson was trying too hard to match dads gallows humor
+The DT
+desperate JJ
+intensity NN
+of IN
+Separate NNP
+Ways NNP
+suggested VBD
+Thompson NNP
+was VBD
+trying VBG
+too RB
+hard JJ
+to TO
+match VB
+dads NN
+gallows NNS
+humor NN
+
+
 Live at the Fillmore East features a live set with Crazy Horse including Danny Whitten from 1970
+Live NNP
+at IN
+the DT
+Fillmore NNP
+East NNP
+features VBZ
+a DT
+live JJ
+set NN
+with IN
+Crazy NNP
+Horse NNP
+including VBG
+Danny NNP
+Whitten NNP
+from IN
+1970 CD
+Live at the Fillmore East
+
+
 ?This is a happy record,? Teddy Thompson says of his new Verve Forecast release A Piece of What You Need .
+?This NN
+is VBZ
+a DT
+happy JJ
+record,? NN
+Teddy NNP
+Thompson NNP
+says VBZ
+of IN
+his PRP$
+new JJ
+Verve NNP
+Forecast NNP
+release VB
+A NNP
+Piece NNP
+of IN
+What WP
+You PRP
+Need VBP
+. .
+A Piece of What You Need
+
+
 Lo-tel 's debut album Planet of the Stereos dropped in November 2000 and achieved moderate commercial success
+Lo-tel NNP
+'s POS
+debut NN
+album JJ
+Planet NNP
+of IN
+the DT
+Stereos NNP
+dropped VBD
+in IN
+November NNP
+2000 CD
+and CC
+achieved VBD
+moderate JJ
+commercial JJ
+success NN
+Planet of the Stereos
+
+
 Given her all-conquering media presence, it’s hard to believe that Christina Aguilera ’s current release, Back to Basics , is just…
+Given VBN
+her PRP$
+all-conquering JJ
+media NNS
+presence, NN
+it’s RB
+hard RB
+to TO
+believe VB
+that IN
+Christina NNP
+Aguilera NNP
+’s NNP
+current JJ
+release, NN
+Back NNP
+to TO
+Basics NNP
+, ,
+is VBZ
+just… JJ
+Back to Basics
+
+
 Former Styx frontman Dennis DeYoung 's latest solo album,   One Hundred Years From Now ,  will finally get its US release in April
+Former NNP
+Styx NNP
+frontman NN
+Dennis NNP
+DeYoung NNP
+'s POS
+latest JJS
+solo NN
+album, NN
+One CD
+Hundred CD
+Years NNS
+From IN
+Now RB
+, ,
+will MD
+finally RB
+get VB
+its PRP$
+US NNP
+release NN
+in IN
+April NNP
+One Hundred Years From Now
+
+
 In 2002 a unreleased album was released from 1993 and another Latino Velvet with Baby Beesh called Velvetism .
+In IN
+2002 CD
+a DT
+unreleased JJ
+album NN
+was VBD
+released VBN
+from IN
+1993 CD
+and CC
+another DT
+Latino NNP
+Velvet NNP
+with IN
+Baby NNP
+Beesh NNP
+called VBD
+Velvetism NNP
+. .
+
+
 Adriana Evans speaks about her discography, “Actually, Nomadic came out before Kismet .
+Adriana NNP
+Evans NNP
+speaks VBZ
+about IN
+her PRP$
+discography, NN
+“Actually, NN
+Nomadic NNP
+came VBD
+out RP
+before IN
+Kismet NNP
+. .
+
+
 Lil Rob  is a Chicano rapper from San. thanks to the singles   Summer Nights  ,
+Lil NNP
+Rob NNP
+is VBZ
+a DT
+Chicano NNP
+rapper NN
+from IN
+San. NNP
+thanks NNS
+to TO
+the DT
+singles NNS
+Summer NNP
+Nights NNP
+, ,
+
+
 Neil Young & Crazy Horse then released the utterly brilliant Rust Never Sleeps 
+Neil NNP
+Young NNP
+& CC
+Crazy NNP
+Horse NNP
+then RB
+released VBD
+the DT
+utterly JJ
+brilliant NN
+Rust NNP
+Never NNP
+Sleeps NNP
+
+
 Greendale was recorded with Crazy Horse members Billy Talbot and Ralph Molina 
+Greendale NNP
+was VBD
+recorded VBN
+with IN
+Crazy NNP
+Horse NNP
+members NNS
+Billy NNP
+Talbot NNP
+and CC
+Ralph NNP
+Molina NNP
+
+
 Pascal also appeared in the Broadway production of Cabaret and has released the solo recordings   Model Prisoner   and  Civilian.
+Pascal NNP
+also RB
+appeared VBD
+in IN
+the DT
+Broadway NNP
+production NN
+of IN
+Cabaret NNP
+and CC
+has VBZ
+released VBN
+the DT
+solo NN
+recordings NNS
+Model NNP
+Prisoner NNP
+and CC
+Civilian. NNP
+
+
 Adriana Evans speaks about her discography, “Actually, Nomadic came out before Kismet .
+Adriana NNP
+Evans NNP
+speaks VBZ
+about IN
+her PRP$
+discography, NN
+“Actually, NN
+Nomadic NNP
+came VBD
+out RP
+before IN
+Kismet NNP
+. .
+
+
 Walrus/Groon is a collaborative 12  EP between Merzbow  and Japanese experimental doom band Boris .
+Walrus/Groon NNP
+is VBZ
+a DT
+collaborative JJ
+12 CD
+EP NNP
+between IN
+Merzbow NNP
+and CC
+Japanese JJ
+experimental JJ
+doom NN
+band NN
+Boris NNP
+. .
+Japanese
+
+
 On this latest album   Anicca   released on the excellent British Cold Spring-label, Merzbow presents three pieces of ear-shattering noise
+On IN
+this DT
+latest JJS
+album NN
+Anicca NNP
+released VBN
+on IN
+the DT
+excellent JJ
+British JJ
+Cold NNP
+Spring-label, NNP
+Merzbow NNP
+presents VBZ
+three CD
+pieces NNS
+of IN
+ear-shattering JJ
+noise NN
+British
+
+
