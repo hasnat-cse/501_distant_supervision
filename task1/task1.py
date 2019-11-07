@@ -5,15 +5,16 @@ import sys
 import re
 
 from nltk import pos_tag
-from nltk.tag.stanford import StanfordPOSTagger
+from nltk.corpus import brown
+from nltk.tag import hmm
 
 
 # store information about each sentence in a relation
 class SentenceInformation:
     def __init__(self, sentence, pos_tags, entities, incorrectly_tagged_entities):
-        self.sentence = sentence        # each sentence in a relation
-        self.pos_tags = pos_tags        # list of (word, tag) tuple for each word in the sentence
-        self.entities = entities        # entity list in the sentence
+        self.sentence = sentence  # each sentence in a relation
+        self.pos_tags = pos_tags  # list of (word, tag) tuple for each word in the sentence
+        self.entities = entities  # entity list in the sentence
         self.incorrectly_tagged_entities = incorrectly_tagged_entities  # incorrectly tagged entity list in the sentence
 
 
@@ -64,7 +65,7 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
             for word_tag in pos_tags:
 
                 # if any word of the entity contains pos tag other than NN or NNP then the entity is incorrectly tagged
-                if word == word_tag[0] and len(word_tag[1]) >= 2 and word_tag[1][0:2] != "NN":
+                if word == word_tag[0] and len(word_tag[1]) >= 1 and word_tag[1][0:1] != 'N':
                     incorrectly_tagged_entities.append(entity)
                     non_noun_tag_found = True
                     break
@@ -76,9 +77,9 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
 
 
 # tag each word in a sentence
-def tag_sentence(stanford_tagger, sentence):
+def tag_sentence(tagger, sentence):
     token_list = sentence.split()
-    # return stanford_tagger.tag(token_list)
+    # return tagger.tag(token_list)
     return pos_tag(token_list)
 
 
@@ -96,6 +97,14 @@ def get_file_name_excluding_extension(file_path):
     return filename_without_ext
 
 
+# train hmm tagger using brown corpus tagged sentences
+def train_hmm_tagger():
+    train_data = brown.tagged_sents(categories='news')
+    print(len(train_data))
+    tagger = hmm.HiddenMarkovModelTagger.train(train_data)
+    return tagger
+
+
 def main():
     if len(sys.argv) == 1:
         data_folder_path = input("Enter Folder Path of data files: ")
@@ -103,9 +112,8 @@ def main():
     else:
         data_folder_path = sys.argv[1]
 
-    _path_to_model = 'stanford-postagger/english-bidirectional-distsim.tagger'
-    _path_to_jar = 'stanford-postagger/stanford-postagger.jar'
-    st_tagger = StanfordPOSTagger(model_filename=_path_to_model, path_to_jar=_path_to_jar)
+    # hmm_tagger = train_hmm_tagger()
+    hmm_tagger = None
 
     # process each relation one by one
     for filename in glob.glob(os.path.join(data_folder_path, "*.json")):
@@ -128,7 +136,7 @@ def main():
                 # print(modified_sentence)
 
                 # get pos_tags for each word in the sentence
-                pos_tags = tag_sentence(st_tagger, modified_sentence)
+                pos_tags = tag_sentence(hmm_tagger, modified_sentence)
 
                 # identify incorrectly tagged entities
                 incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)

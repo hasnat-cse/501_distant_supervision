@@ -4947,6 +4947,7 @@ T NNP
 - :
 Series NN
 . .
+T - Series
 
 
 His first position was with Pennzoil E & P until [[ Devon Energy | /m/07vm_j ]] bought the [[ Oil and Gas | /m/03xm3m ]] part of Pennzoil in 1999.
