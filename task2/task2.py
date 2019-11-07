@@ -12,7 +12,7 @@ from spacy import *
 
 nlp = spacy.load("en_core_web_sm")
 
-def dependency_parsing(sentence, subject_name, object_name, relation):
+def find_paths(sentence):
 
 	sentence = nlp(sentence)
 
@@ -20,24 +20,68 @@ def dependency_parsing(sentence, subject_name, object_name, relation):
 
 	b = "OBJECT"
 
-	for token in sentence :
+	i = 0
+
+	subject_path = []
+
+	subject_path.append(a)
+
+	object_path = []
+
+	object_path.append(b)
+
+	while i < len(sentence):
 
 
-		if (token.text == a):
+		if (sentence[i].text == a):
 
-			a_head = token.head.text
+			a_head = sentence[i].head.text
 
-			print (a_head)
+			if (a == a_head):
+
+				break
+
+			else :
+
+				subject_path.append(a_head)
+
+			a = a_head
+
+			i = 0
+
+		else:
+
+			i += 1
 
 
-		if (token.text == b):
+	i = 0
+	while i < len(sentence):
 
-			b_head = token.head.text
 
-			print (b_head)
+		if (sentence[i].text == b):
 
-		
+			b_head = sentence[i].head.text
 
+			if (b == b_head):
+
+				break
+
+			else :
+
+				object_path.append(b_head)
+
+			b = b_head
+
+			i = 0
+
+		else:
+
+			i += 1
+
+
+
+	
+	return subject_path , object_path	
 
 	#displacy.serve(sentence, style='dep')
 
@@ -46,8 +90,13 @@ def dependency_parsing(sentence, subject_name, object_name, relation):
 def pre_process(sentence, subject_tag, object_tag):
 
     # pattern to find '[[ Natural Gas | /m/05k4k ]]'
+
+	mappings = []
+
 	entity_pattern = "\[\[\s*(.+?)\s+\|.+?\]\]"
 	entities = re.findall(entity_pattern, sentence)
+
+	
 
 	tag_pattern = "\[\[\s*.+?\s+\|\s+(.+?)\s+\]\]"
 
@@ -58,26 +107,40 @@ def pre_process(sentence, subject_tag, object_tag):
 	modified_sentence = sentence
 
 	count =	 1
+
+	entity_count = 0
+
 	for tag in tags:
 
         # pattern to find '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas'
 		pattern = "\[\[\s*.+?\s+\|\s+" + tag + "\s+\]\]"
 
+		
+
 		if (tag == subject_tag):
 
 			modified_sentence = re.sub(pattern, "SUBJECT", modified_sentence)
+
+			mappings.append(tuple((entities[entity_count], "SUBJECT")))
 
 		elif (tag == object_tag):
 
 			modified_sentence = re.sub(pattern, "OBJECT", modified_sentence)
 
+			mappings.append(tuple((entities[entity_count], "OBJECT")))
+
+
         # replace '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas' with 'Natural Gas'
 		else :
 			modified_sentence = re.sub(pattern, "ENTITY" + str(count), modified_sentence)
 
+			mappings.append(tuple((entities[entity_count], "ENTITY" + str(count))))
+
 			count += 1
 
-	return modified_sentence
+		entity_count += 1
+
+	return modified_sentence, mappings
 
 
 def main():
@@ -117,12 +180,18 @@ def main():
                 # print(sentence)
 
                 # remove entity tags from each sentence
-                modified_sentence = pre_process(sentence, subject_tag, object_tag)
+                modified_sentence, mappings = pre_process(sentence, subject_tag, object_tag)
                 
 
-                dependency_parsing(modified_sentence, subject_name, object_name, relation)
+                print (mappings)
 
-                break;
+                subject_path, object_path = find_paths(modified_sentence)
+
+                print(subject_path)
+
+                print(object_path)
+
+                
 
         break        
 
