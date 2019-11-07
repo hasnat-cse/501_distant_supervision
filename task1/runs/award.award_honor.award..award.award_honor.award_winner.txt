@@ -1,4 +1,4 @@
-Alan Jackson has been nominated for a Grammy Award for Best Country Collaboration With Vocals for his duet  It Five Olock Somewhere  with Jimmy Buffett
+[[ Alan Jackson | /m/016c8l ]] has been nominated for a [[ Grammy Award for Best Country Collaboration With Vocals | /m/026mfs ]] for his duet  It Five Olock Somewhere  with Jimmy Buffett
 Alan NNP
 Jackson NNP
 has VBZ
@@ -27,7 +27,7 @@ Buffett NNP
 Grammy Award for Best Country Collaboration With Vocals
 
 
-Divini Rae is Playboy Playmate of the Month - Playmate of November, 2003
+[[ Divini Rae | /m/0751n7 ]] is [[ Playboy Playmate | /m/02kgb7 ]] of the Month - Playmate of November, 2003
 Divini NNP
 Rae NNP
 is VBZ
@@ -43,7 +43,7 @@ November, NNP
 2003 CD
 
 
-Lee is the winner of multiple World Fantasy Awards and the August Derleth Award and has been nominated for dozens more.
+[[ Lee | /m/0420qv ]] is the winner of multiple [[ World Fantasy Awards | /m/01wtt7 ]] and the [[ August Derleth Award | /m/0fhmsz ]] and has been nominated for dozens more.
 Lee NNP
 is VBZ
 the DT
@@ -67,7 +67,7 @@ dozens NNS
 more. NNS
 
 
-In February 2007, Nettles and Bon Jovi won a Grammy for Best Country Vocal Collaboration 
+In February 2007, [[ Nettles | /m/0b7tn2 ]] and [[ Bon Jovi | /m/0g_g2 ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best Country Vocal Collaboration | /m/026mfs ]] 
 In IN
 February NNP
 2007, CD
@@ -85,7 +85,7 @@ Vocal NNP
 Collaboration NNP
 
 
-In 1998, Gil won a Grammy for Best World Music Album for ? Quanta Live ?
+In 1998, [[ Gil | /m/01w632f ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best World Music Album | /m/031b91 ]] for ? [[ Quanta Live | /m/0j_0x3c ]] ?
 In IN
 1998, CD
 Gil NNP
@@ -104,7 +104,7 @@ Live NNP
 ? .
 
 
-Fonseca also worked on Gil 's album Quanta Live , which won a Grammy for Best World Music Album in 1998
+Fonseca also worked on [[ Gil | /m/01w632f ]] 's album [[ Quanta Live | /m/0j_0x3c ]] , which won a [[ Grammy | /m/0c4ys ]] for [[ Best World Music Album | /m/031b91 ]] in 1998
 Fonseca NNP
 also RB
 worked VBD
@@ -128,7 +128,7 @@ in IN
 1998 CD
 
 
-Playboy 's Playmate of the Month Hiromi Oshima photographed by Stephen Wayda 
+[[ Playboy | /m/02kgb7 ]] 's Playmate of the Month [[ Hiromi Oshima | /m/0739d7 ]] photographed by [[ Stephen Wayda | /m/0d6xs7 ]] 
 Playboy NNP
 's POS
 Playmate NNP
@@ -143,7 +143,7 @@ Stephen NNP
 Wayda NNP
 
 
-Now Hiromi is Playboy Playmate of the month June 2004.
+Now [[ Hiromi | /m/0739d7 ]] is [[ Playboy Playmate | /m/02kgb7 ]] of the month June 2004.
 Now RB
 Hiromi NNP
 is VBZ
@@ -156,7 +156,7 @@ June NNP
 2004. CD
 
 
-(in addition, Sergeant Quick also won the Navy Cross )
+(in addition, Sergeant [[ Quick | /m/08p8q6 ]] also won the [[ Navy Cross | /m/02d1w_ ]] )
 (in JJ
 addition, NN
 Sergeant NNP
@@ -169,7 +169,7 @@ Cross NNP
 ) )
 
 
-Sergeant John Henry Quick was awarded the Congressional Medal of Honor as well as the Navy Cross on the 13th of December 1898
+Sergeant [[ John Henry Quick | /m/08p8q6 ]] was awarded the [[ Congressional Medal of Honor | /m/015cl6 ]] as well as the [[ Navy Cross | /m/02d1w_ ]] on the 13th of December 1898
 Sergeant NNP
 John NNP
 Henry NNP
@@ -196,7 +196,7 @@ December NNP
 Congressional Medal of Honor
 
 
-Hammer also received Grammy awards for   Best Instrumental Composition   and   Best Pop Instrumental Performance .
+[[ Hammer | /m/02kts3 ]] also received [[ Grammy awards | /m/0c4ys ]] for   [[ Best Instrumental Composition | /m/025m98 ]]   and   [[ Best Pop Instrumental Performance | /m/02gdjb ]] .
 Hammer NNP
 also RB
 received VBD
@@ -214,7 +214,7 @@ Performance NNP
 . .
 
 
-At the Grammy awards in February 1986,   Miami Vice Theme   earned Jan two awards, for   Best Pop Instrumental Performance   and   Best Instrumental Composition .
+At the Grammy awards in February 1986,   [[ Miami Vice Theme | /m/047gln ]]   earned [[ Jan | /m/02kts3 ]] two awards, for   [[ Best Pop Instrumental Performance | /m/02gdjb ]]   and   [[ Best Instrumental Composition | /m/025m98 ]] .
 At IN
 the DT
 Grammy NNP
@@ -241,7 +241,7 @@ Composition NNP
 . .
 
 
-Plus, Jack and Lynn shared a Grammy for Best Country Collaboration With Vocals for one of that album's songs
+Plus, [[ Jack | /m/01vsnff ]] and [[ Lynn | /m/017xm3 ]] shared a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration With Vocals | /m/026mfs ]] for one of that album's songs
 Plus, NNP
 Jack NNP
 and CC
@@ -264,7 +264,7 @@ songs NNS
 Best Country Collaboration With Vocals
 
 
-Eastwood had been the presenter for Best Picture when Ruddy won his first Oscar as producer of   The Godfather   in 1973
+[[ Eastwood | /m/0bwh6 ]] had been the presenter for [[ Best Picture | /m/0gq9h ]] when [[ Ruddy | /m/05bdqt ]] won his first Oscar as producer of   [[ The Godfather | /m/07g1sm ]]   in 1973
 Eastwood NN
 had VBD
 been VBN
@@ -289,7 +289,7 @@ in IN
 The Godfather
 
 
-Over , Eastwood had been the presenter for Best Picture when Ruddy won his first Oscar as producer of 
+Over , [[ Eastwood | /m/0bwh6 ]] had been the presenter for [[ Best Picture | /m/0gq9h ]] when [[ Ruddy | /m/05bdqt ]] won his first [[ Oscar | /m/0gq9h ]] as producer of 
 Over IN
 , ,
 Eastwood NNP
@@ -311,7 +311,7 @@ producer NN
 of IN
 
 
-2005: Clint Eastwood and Albert Ruddy share the Best Picture Oscar for   Million Dollar Baby .
+2005: [[ Clint Eastwood | /m/0bwh6 ]] and [[ Albert Ruddy | /m/05bdqt ]] share the [[ Best Picture Oscar | /m/0gq9h ]] for   [[ Million Dollar Baby | /m/04q827 ]] .
 2005: CD
 Clint NNP
 Eastwood NNP
@@ -331,7 +331,7 @@ Baby NNP
 Best Picture Oscar
 
 
-C20742-26, President Reagan and Nancy Reagan talking with James Cagney , recipient of the Medal of Freedom , in the Blue room 
+C20742-26, President [[ Reagan | /m/059rv ]] and [[ Nancy Reagan | /m/059rv ]] talking with [[ James Cagney | /m/0432b ]] , recipient of the [[ Medal of Freedom | /m/05qck ]] , in the [[ Blue room | /m/0c3nnt ]] 
 C20742-26, NNP
 President NNP
 Reagan NNP
@@ -357,7 +357,7 @@ room NN
 Medal of Freedom
 
 
-On January 20, 1969, Lyndon B. Johnson awarded Bob Hope with the Presidential Medal of Freedom 
+On January 20, 1969, [[ Lyndon B. Johnson | /m/0f7fy ]] awarded [[ Bob Hope | /m/015cbq ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 January NNP
 20, CD
@@ -377,7 +377,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In January 20, 1969, Lyndon B. Johnson awarded Bob Hope with the Presidential Medal of Freedom 
+In January 20, 1969, [[ Lyndon B. Johnson | /m/0f7fy ]] awarded [[ Bob Hope | /m/015cbq ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 January NNP
 20, CD
@@ -397,7 +397,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Mary won the MTV Video Music award for Best R&B Video for ? No More Drama ?! Sanji directed the award winning video.
+[[ Mary | /m/01vvyvk ]] won the [[ MTV Video Music award for Best R&B Video | /m/02f764 ]] for ? [[ No More Drama | /m/094_jq ]] ?! [[ Sanji | /m/08qhn_ ]] directed the award winning video.
 Mary NNP
 won VBD
 the DT
@@ -425,7 +425,7 @@ MTV Video Music award for Best R&B Video
 No More Drama
 
 
-Mary J. Blige Wins Best R&B Video
+[[ Mary J. Blige | /m/01vvyvk ]] Wins [[ Best R&B Video | /m/02f764 ]]
 Mary NNP
 J. NNP
 Blige NNP
@@ -435,7 +435,7 @@ R&B NNP
 Video NNP
 
 
-It could be a contender, but then again, Columbia Pictures isn't the most savvy Oscar studio as of late
+It could be a contender, but then again, [[ Columbia Pictures | /m/017s11 ]] isn't the most savvy [[ Oscar | /m/0gq9h ]] studio as of late
 It PRP
 could MD
 be VB
@@ -457,7 +457,7 @@ of IN
 late JJ
 
 
-In 2004, Palmer received the Presidential Medal of Freedom from George W. Bush during a White House ceremony.
+In 2004, [[ Palmer | /m/0l0cx ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ George W. Bush | /m/09b6zr ]] during a [[ White House | /m/081sq ]] ceremony.
 In IN
 2004, CD
 Palmer NNP
@@ -479,7 +479,7 @@ ceremony. NN
 Presidential Medal of Freedom
 
 
-The Ginetta Sagan Award was established to perpetuate the legacy of 1996 Presidential Medal of Freedom winner Ginetta Sagan .
+The [[ Ginetta Sagan Award | /m/0h_c3y5 ]] was established to perpetuate the legacy of 1996 [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Ginetta Sagan | /m/0h_c3y5 ]] .
 The DT
 Ginetta NNP
 Sagan NNP
@@ -503,7 +503,7 @@ Sagan NNP
 Presidential Medal of Freedom
 
 
-Barzun was awarded a Presidential Medal of Freedom in 2003
+[[ Barzun | /m/01n2pn ]] was awarded a [[ Presidential Medal of Freedom | /m/05qck ]] in 2003
 Barzun NNP
 was VBD
 awarded VBN
@@ -517,7 +517,7 @@ in IN
 Presidential Medal of Freedom
 
 
-George W. Bush , citation accompanying the Presidential Medal of Freedom presented to Jacques Barzun on 23 July 2003
+[[ George W. Bush | /m/09b6zr ]] , citation accompanying the [[ Presidential Medal of Freedom | /m/05qck ]] presented to [[ Jacques Barzun | /m/01n2pn ]] on 23 July 2003
 George NNP
 W. NNP
 Bush NNP
@@ -540,7 +540,7 @@ July NNP
 Presidential Medal of Freedom
 
 
-In 2003, Barzun was awarded the Presidential Medal of Freedom , the country's highest civilian award
+In 2003, [[ Barzun | /m/01n2pn ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the country's highest civilian award
 In IN
 2003, CD
 Barzun NNP
@@ -560,7 +560,7 @@ award NN
 Presidential Medal of Freedom
 
 
-He certainly couldn't be the jerk whose economic policies US Presidential Medal of Freedom holder Václav Havel described as gangster capitalism
+He certainly couldn't be the jerk whose economic policies [[ US | /m/09c7w0 ]] [[ Presidential Medal of Freedom | /m/05qck ]] holder [[ Václav Havel | /m/0h0g1 ]] described as gangster capitalism
 He PRP
 certainly RB
 couldn't RB
@@ -585,7 +585,7 @@ capitalism NN
 Presidential Medal of Freedom
 
 
-Tags: , , ( Havel received a Medal of Freedom in 2003).
+Tags: , , ( [[ Havel | /m/0h0g1 ]] received a [[ Medal of Freedom | /m/05qck ]] in 2003).
 Tags: NNP
 , ,
 , ,
@@ -601,7 +601,7 @@ in IN
 Medal of Freedom
 
 
-Robinson was awarded the Presidential Medal of Freedom and the Congressional Gold Medal for his contributions to the civil rights movement.
+[[ Robinson | /m/0443c ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] and the [[ Congressional Gold Medal | /m/03vs1b ]] for his contributions to the civil rights movement.
 Robinson NNP
 was VBD
 awarded VBN
@@ -626,7 +626,7 @@ movement. NN
 Presidential Medal of Freedom
 
 
-In recognition of his accomplishments, Robinson posthumously received a Congressional Gold Medal and the Presidential Medal of Freedom .[2
+In recognition of his accomplishments, [[ Robinson | /m/0443c ]] posthumously received a [[ Congressional Gold Medal | /m/03vs1b ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] .[2
 In IN
 recognition NN
 of IN
@@ -649,7 +649,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-For his actions in the Belleau Woods, Sergeant Daly received the Navy Cross and the French Croix de Guerre .
+For his actions in the Belleau Woods, Sergeant [[ Daly | /m/04_dd9 ]] received the [[ Navy Cross | /m/02d1w_ ]] and the [[ French Croix de Guerre | /m/01tkpb ]] .
 For IN
 his PRP$
 actions NNS
@@ -673,7 +673,7 @@ Guerre NNP
 French Croix de Guerre
 
 
-Barbara Jordan was buried wearing the Presidential Medal of Freedom .
+[[ Barbara Jordan | /m/01z9yq ]] was buried wearing the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Barbara NNP
 Jordan NNP
 was VBD
@@ -688,7 +688,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Barbara Jordan was buried wearing the Presidential Medal of Freedom 
+[[ Barbara Jordan | /m/01z9yq ]] was buried wearing the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Barbara NNP
 Jordan NNP
 was VBD
@@ -702,7 +702,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-VOICE TWO: Barbara Jordan was buried wearing the Presidential Medal of Freedom 
+VOICE TWO: [[ Barbara Jordan | /m/01z9yq ]] was buried wearing the [[ Presidential Medal of Freedom | /m/05qck ]] 
 VOICE NNP
 TWO: NNP
 Barbara NNP
@@ -718,7 +718,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Honors Cosby received Kennedy Center Honors in 1998 and the Presidential Medal of Freedom in 2002
+Honors [[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002
 Honors NNS
 Cosby NNP
 received VBD
@@ -738,7 +738,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 1998, he was awarded the  The Kennedy Center Honors  . - Bill Cosby was awarded the   Presidential Medal of Freedom  
+In 1998, he was awarded the  The [[ Kennedy Center Honors | /m/025j12 ]]  . - [[ Bill Cosby | /m/014zfs ]] was awarded the   [[ Presidential Medal of Freedom | /m/05qck ]]  
 In IN
 1998, CD
 he PRP
@@ -763,7 +763,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-? Bill Cosby was awarded the Presidential Medal of Freedom , by George W. Bush on July 9, 2202,? 
+? [[ Bill Cosby | /m/014zfs ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , by [[ George W. Bush | /m/09b6zr ]] on July 9, 2202,? 
 ? .
 Bill NNP
 Cosby NNP
@@ -786,7 +786,7 @@ July NNP
 Presidential Medal of Freedom
 
 
-Cosby received Kennedy Center Honors in 1998 and the Presidential Medal of Freedom in 2002.
+[[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002.
 Cosby NNP
 received VBD
 Kennedy NNP
@@ -805,7 +805,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Cosby received Kennedy Center Honors in 1998 and the Presidential Medal of Freedom in 2002
+[[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002
 Cosby NNP
 received VBD
 Kennedy NNP
@@ -824,7 +824,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 2002, Bill Cosby was awarded Presidential Medal of Freedom 
+In 2002, [[ Bill Cosby | /m/014zfs ]] was awarded [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 2002, CD
 Bill NNP
@@ -838,7 +838,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Cosby received Kennedy Center Honors in 1998 and the Presidential Medal of Freedom in 2002. 
+[[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002. 
 Cosby NNP
 received VBD
 Kennedy NNP
@@ -857,7 +857,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 1994, he and Trisha Yearwood won a Grammy for Best Country Collaboration with Vocals for  I Fall to Pieces  .
+In 1994, he and [[ Trisha Yearwood | /m/03yf3z ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration with Vocals | /m/026mfs ]] for  I Fall to [[ Pieces | /m/02qfm_1 ]]  .
 In IN
 1994, CD
 he PRP
@@ -882,7 +882,7 @@ Pieces NNS
 Best Country Collaboration with Vocals
 
 
-In 1994, he and Trisha Yearwood won a Grammy for Best Country Collaboration with Vocals for  I Fall to Pieces  
+In 1994, he and [[ Trisha Yearwood | /m/03yf3z ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration with Vocals | /m/026mfs ]] for  I Fall to [[ Pieces | /m/09gcsdr ]]  
 In IN
 1994, CD
 he PRP
@@ -906,7 +906,7 @@ Pieces NNS
 Best Country Collaboration with Vocals
 
 
-In 1995, Cooney was awarded the Presidential Medal of Freedom , the nations highest civilian order
+In 1995, [[ Cooney | /m/03lpdd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nations highest civilian order
 In IN
 1995, CD
 Cooney NNP
@@ -926,7 +926,7 @@ order NN
 Presidential Medal of Freedom
 
 
-Cooney was awarded the Presidential Medal of Freedom in 1995.
+[[ Cooney | /m/03lpdd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1995.
 Cooney NNP
 was VBD
 awarded VBN
@@ -940,7 +940,7 @@ in IN
 Presidential Medal of Freedom
 
 
-The Deer Hunter was Michael Cimino 's directorial debut, and won five Academy Awards including Best Picture and Best Director
+The [[ Deer Hunter | /m/0jqj5 ]] was [[ Michael Cimino | /m/02l5rm ]] 's directorial debut, and won five [[ Academy Awards | /m/0g_w ]] including [[ Best Picture | /m/0gq9h ]] and Best Director
 The DT
 Deer NNP
 Hunter NNP
@@ -963,7 +963,7 @@ Best NNP
 Director NNP
 
 
-The Deer Hunter  was directed by Michael Cimino , and won an Oscar for him as well as for Best Picture .
+The [[ Deer Hunter | /m/0jqj5 ]]  was directed by [[ Michael Cimino | /m/02l5rm ]] , and won an [[ Oscar | /m/0g_w ]] for him as well as for [[ Best Picture | /m/0gq9h ]] .
 The DT
 Deer NNP
 Hunter NNP
@@ -988,7 +988,7 @@ Picture NN
 . .
 
 
-In 2000, Dr. Krim was awarded the Presidential Medal of Freedom , the nation's highest civilian honor
+In 2000, Dr. [[ Krim | /m/02qg8k7 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 In IN
 2000, CD
 Dr. NNP
@@ -1009,7 +1009,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-Shortly after his death in 1976, Gerald Ford awarded Calder the Presidential Medal of Freedom , the United States ' highest civilian honor
+Shortly after his death in 1976, [[ Gerald Ford | /m/0c_md_ ]] awarded [[ Calder | /m/01f78w ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor
 Shortly RB
 after IN
 his PRP$
@@ -1036,7 +1036,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-In November of that year, Puller earned an unprecedented fifth Navy Cross for action at Chosin Reservoir 
+In November of that year, [[ Puller | /m/015wtp ]] earned an unprecedented fifth [[ Navy Cross | /m/02d1w_ ]] for action at [[ Chosin Reservoir | /m/0d4t1 ]] 
 In IN
 November NNP
 of IN
@@ -1056,7 +1056,7 @@ Chosin NNP
 Reservoir NNP
 
 
-The Marine in that photo was First Sergeant Brad Kasal , who received the Navy Cross for his actions
+The [[ Marine | /m/01skqzw ]] in that photo was First Sergeant [[ Brad Kasal | /m/015wtp ]] , who received the [[ Navy Cross | /m/02d1w_ ]] for his actions
 The DT
 Marine NNP
 in IN
@@ -1078,7 +1078,7 @@ his PRP$
 actions NNS
 
 
-How grateful I am that Mister Rogers received the Presidential Medal of Freedom last year from President Bush .
+How grateful I am that [[ Mister Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] last year from President [[ Bush | /m/09b6zr ]] .
 How WRB
 grateful JJ
 I PRP
@@ -1101,7 +1101,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-In 2002, Mr. Rogers received the Presidential Medal of Freedom for his contributions to children's education.
+In 2002, Mr. [[ Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his contributions to children's education.
 In IN
 2002, CD
 Mr. NNP
@@ -1121,7 +1121,7 @@ education. NN
 Presidential Medal of Freedom
 
 
-On July 9, 2002, Fred Rogers received the Presidential Medal of Freedom for his contributions to children's education
+On July 9, 2002, [[ Fred Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his contributions to children's education
 On IN
 July NNP
 9, CD
@@ -1143,7 +1143,7 @@ education NN
 Presidential Medal of Freedom
 
 
-On July 9, 2002 , Rogers was awarded the Presidential Medal of Freedom , the nation?s highest civilian honor.
+On July 9, 2002 , [[ Rogers | /m/010q36 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor.
 On IN
 July NNP
 9, CD
@@ -1166,7 +1166,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-In 1998, Ms. Mankiller was awarded the Presidential Medal of Freedom
+In 1998, Ms. [[ Mankiller | /m/033dhz ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]]
 In IN
 1998, CD
 Ms. NNP
@@ -1181,7 +1181,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-He is the son of the author and Presidential Medal of Freedom holder Paul Johnson .
+He is the son of the author and [[ Presidential Medal of Freedom | /m/05qck ]] holder [[ Paul Johnson | /m/036x3w ]] .
 He PRP
 is VBZ
 the DT
@@ -1201,7 +1201,7 @@ Johnson NNP
 Presidential Medal of Freedom
 
 
-Medal of Freedom awarded posthumously to Whittaker Chambers , witness to the threat of Communism in America 
+[[ Medal of Freedom | /m/05qck ]] awarded posthumously to [[ Whittaker Chambers | /m/018l4f ]] , witness to the threat of [[ Communism | /m/01m59 ]] in [[ America | /m/0x67 ]] 
 Medal NNP
 of IN
 Freedom NNP
@@ -1222,7 +1222,7 @@ America NNP
 Medal of Freedom
 
 
-Whittaker Chambers received a posthumous Medal of Freedom from Ronald Reagan and was the subject of a major reassessment by Sam Tannenhaus
+[[ Whittaker Chambers | /m/018l4f ]] received a posthumous [[ Medal of Freedom | /m/05qck ]] from [[ Ronald Reagan | /m/06c0j ]] and was the subject of a major reassessment by Sam Tannenhaus
 Whittaker NNP
 Chambers NNP
 received VBD
@@ -1248,7 +1248,7 @@ Tannenhaus NNP
 Medal of Freedom
 
 
--Then, in 1984, Ronald Reagan posthumously awarded Chambers the Presidential Medal of Freedom .
+-Then, in 1984, [[ Ronald Reagan | /m/06c0j ]] posthumously awarded [[ Chambers | /m/018l4f ]] the [[ Presidential Medal of Freedom | /m/05qck ]] .
 -Then, NN
 in IN
 1984, CD
@@ -1266,7 +1266,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Peck has received the Academy 's Jean Hersholt Humanitarian Award and the Medal of Freedom .
+[[ Peck | /m/0k9j_ ]] has received the [[ Academy | /m/09xwz ]] 's [[ Jean Hersholt Humanitarian Award | /m/0c91p ]] and the [[ Medal of Freedom | /m/05qck ]] .
 Peck NNP
 has VBZ
 received VBN
@@ -1286,7 +1286,7 @@ Freedom NNP
 Medal of Freedom
 
 
-In 1969, Lyndon Johnson honored Peck with the Presidential Medal of Freedom , the nation's highest civilian award
+In 1969, [[ Lyndon Johnson | /m/0f7fy ]] honored [[ Peck | /m/0k9j_ ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
 In IN
 1969, CD
 Lyndon NNP
@@ -1308,7 +1308,7 @@ award NN
 Presidential Medal of Freedom
 
 
-In 1969, Lyndon Johnson honored Peck with the Presidential Medal of Freedom , the nation's highest civilian honor
+In 1969, [[ Lyndon Johnson | /m/0f7fy ]] honored [[ Peck | /m/0k9j_ ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 In IN
 1969, CD
 Lyndon NNP
@@ -1330,7 +1330,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-Gregory Peck received the Presidential Medal of Freedom for his lifetime of humanitarian work
+[[ Gregory Peck | /m/0k9j_ ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his lifetime of humanitarian work
 Gregory NNP
 Peck NNP
 received VBD
@@ -1348,7 +1348,7 @@ work NN
 Presidential Medal of Freedom
 
 
-Peck also received the Medal of Freedom and the Academy 's Jean Hersholt Humanitarian Award 
+[[ Peck | /m/0k9j_ ]] also received the [[ Medal of Freedom | /m/05qck ]] and the [[ Academy | /m/09xwz ]] 's [[ Jean Hersholt Humanitarian Award | /m/0c91p ]] 
 Peck NNP
 also RB
 received VBD
@@ -1367,7 +1367,7 @@ Award NNP
 Medal of Freedom
 
 
-In 1968, President Lyndon Johnson awarded Peck the Medal of Freedom , America 's highest civilian award
+In 1968, President [[ Lyndon Johnson | /m/0f7fy ]] awarded [[ Peck | /m/0k9j_ ]] the [[ Medal of Freedom | /m/05qck ]] , [[ America | /m/09c7w0 ]] 's highest civilian award
 In IN
 1968, CD
 President NNP
@@ -1388,7 +1388,7 @@ award NN
 Medal of Freedom
 
 
-Dr. Gregorian is the recipient of the National Humanities Medal and the Presidential Medal of Freedom , the nation's highest civilian honor.
+Dr. [[ Gregorian | /m/06b_g_ ]] is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor.
 Dr. NNP
 Gregorian NNP
 is VBZ
@@ -1414,7 +1414,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-Gregorian is the third president of Carnegie Corporation of New York to be honored with the Presidential Medal of Freedom .
+[[ Gregorian | /m/06b_g_ ]] is the third president of [[ Carnegie Corporation of New York | /m/069d85 ]] to be honored with the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Gregorian NN
 is VBZ
 the DT
@@ -1440,7 +1440,7 @@ Carnegie Corporation of New York
 Presidential Medal of Freedom
 
 
-Gregorian is the recipient of the National Humanities Medal and the Presidential Medal of Freedom .
+[[ Gregorian | /m/06b_g_ ]] is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Gregorian NN
 is VBZ
 the DT
@@ -1460,7 +1460,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Gregorian is the recipient of the National Humanities Medal and the Presidential Medal of Freedom 
+[[ Gregorian | /m/06b_g_ ]] is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Gregorian NN
 is VBZ
 the DT
@@ -1479,7 +1479,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Gregorian is the third president of Carnegie Corporation of New York to be honored with the Presidential Medal of Freedom 
+[[ Gregorian | /m/06b_g_ ]] is the third president of [[ Carnegie Corporation of New York | /m/069d85 ]] to be honored with the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Gregorian NN
 is VBZ
 the DT
@@ -1504,7 +1504,7 @@ Carnegie Corporation of New York
 Presidential Medal of Freedom
 
 
-Dr. Gregorian ?is the recipient of the National Humanities Medal and the Presidential Medal of Freedom , the nation?s highest civilian honor
+Dr. [[ Gregorian | /m/06b_g_ ]] ?is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor
 Dr. NNP
 Gregorian NNP
 ?is VBD
@@ -1530,7 +1530,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-Recent Events Carnegie Corporation of New York holds a Forum on Social Inequality and Corporation president Vartan Gregorian is awarded the Presidential Medal of Freedom 
+Recent Events [[ Carnegie Corporation | /m/069d85 ]] of [[ New York | /m/02_286 ]] holds a Forum on Social Inequality and [[ Corporation | /m/069d85 ]] president [[ Vartan Gregorian | /m/06b_g_ ]] is awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Recent JJ
 Events NNS
 Carnegie NNP
@@ -1559,7 +1559,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Today George W Bush visited the State Department for the last time as President where he presented the Medal of Freedom to Ambassador Ryan Crocker 
+Today [[ George W Bush | /m/09b6zr ]] visited the [[ State Department | /m/07vsl ]] for the last time as President where he presented the [[ Medal of Freedom | /m/05qck ]] to Ambassador [[ Ryan Crocker | /m/01bj_m ]] 
 Today NN
 George NNP
 W NNP
@@ -1588,7 +1588,7 @@ Crocker NNP
 Medal of Freedom
 
 
-Shriver , who was awarded the Presidential Medal of Freedom in 1994, was diagnosed with Alzheimer's disease two years ago
+[[ Shriver | /m/01j29r ]] , who was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1994, was diagnosed with Alzheimer's disease two years ago
 Shriver NNP
 , ,
 who WP
@@ -1612,7 +1612,7 @@ ago RB
 Presidential Medal of Freedom
 
 
-In 1994, Shriver received the Presidential Medal of Freedom , the highest civilian honor in the United States 
+In 1994, [[ Shriver | /m/01j29r ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] 
 In IN
 1994, CD
 Shriver NNP
@@ -1634,7 +1634,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-In 1984, Shriver was awarded the Presidential Medal of Freedom , the nation's highest civilian award
+In 1984, [[ Shriver | /m/01j29r ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
 In IN
 1984, CD
 Shriver NNP
@@ -1654,7 +1654,7 @@ award NN
 Presidential Medal of Freedom
 
 
-His numerous accomplishments culminated in ?1994 when Shriver was awarded the Presidential Medal of Freedom , the United States ' highest civilian honor? 
+His numerous accomplishments culminated in ?1994 when [[ Shriver | /m/01j29r ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor? 
 His PRP$
 numerous JJ
 accomplishments NNS
@@ -1681,7 +1681,7 @@ honor? NN
 Presidential Medal of Freedom
 
 
-Mrs. Johnson later received the Medal of Freedom , the nation highest civilian award in 1977, then the Congressional Gold Medal in 1988
+Mrs. [[ Johnson | /m/01fpkg ]] later received the [[ Medal of Freedom | /m/05qck ]] , the nation highest civilian award in 1977, then the [[ Congressional Gold Medal | /m/03vs1b ]] in 1988
 Mrs. NNP
 Johnson NNP
 later RB
@@ -1708,7 +1708,7 @@ in IN
 Medal of Freedom
 
 
-In December 1992, one month before her death, Hepburn received the Presidential Medal of Freedom for her work with UNICEF 
+In December 1992, one month before her death, [[ Hepburn | /m/0dqcm ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for her work with [[ UNICEF | /m/0fxc0 ]] 
 In IN
 December NNP
 1992, CD
@@ -1732,7 +1732,7 @@ UNICEF NNP
 Presidential Medal of Freedom
 
 
-Ms. Hepburn was awarded the Presidential Medal of Freedom by President Bush last year.
+Ms. [[ Hepburn | /m/0dqcm ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Bush | /m/09b6zr ]] last year.
 Ms. NNP
 Hepburn NNP
 was VBD
@@ -1750,7 +1750,7 @@ year. NN
 Presidential Medal of Freedom
 
 
-Hepburn received the United States ' highest civilian award, the Presidential Medal of Freedom , in December 1992.
+[[ Hepburn | /m/0dqcm ]] received the [[ United States | /m/09c7w0 ]] ' highest civilian award, the [[ Presidential Medal of Freedom | /m/05qck ]] , in December 1992.
 Hepburn NNP
 received VBD
 the DT
@@ -1772,7 +1772,7 @@ December NNP
 Presidential Medal of Freedom
 
 
-... that Audrey Hepburn was given the Presidential Medal of Freedom by President George H. Bush 
+... that [[ Audrey Hepburn | /m/0dqcm ]] was given the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ George H. Bush | /m/034ls ]] 
 ... :
 that DT
 Audrey NNP
@@ -1792,7 +1792,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-In December 1992, one month before her death, Hepburn received the Presidential Medal of Freedom for her work in UNICEF .
+In December 1992, one month before her death, [[ Hepburn | /m/0dqcm ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for her work in [[ UNICEF | /m/0fxc0 ]] .
 In IN
 December NNP
 1992, CD
@@ -1817,7 +1817,7 @@ UNICEF NNP
 Presidential Medal of Freedom
 
 
-Hepburn received the United States ' highest civilian award, the Presidential Medal of Freedom , in December 1992
+[[ Hepburn | /m/0dqcm ]] received the [[ United States | /m/09c7w0 ]] ' highest civilian award, the [[ Presidential Medal of Freedom | /m/05qck ]] , in December 1992
 Hepburn NNP
 received VBD
 the DT
@@ -1839,7 +1839,7 @@ December NNP
 Presidential Medal of Freedom
 
 
-Hepburn was awarded the Presidential Medal of Freedom in 1992, by George Bush 
+[[ Hepburn | /m/0dqcm ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1992, by [[ George Bush | /m/09b6zr ]] 
 Hepburn NNP
 was VBD
 awarded VBN
@@ -1856,7 +1856,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-Marcus received the Navy Cross 
+[[ Marcus | /m/02rwyy8 ]] received the [[ Navy Cross | /m/02d1w_ ]] 
 Marcus NNP
 received VBD
 the DT
@@ -1864,7 +1864,7 @@ Navy NNP
 Cross NNP
 
 
-Luttrell was awarded the Navy Cross by President Bush 
+[[ Luttrell | /m/02rwyy8 ]] was awarded the [[ Navy Cross | /m/02d1w_ ]] by President [[ Bush | /m/09b6zr ]] 
 Luttrell NNP
 was VBD
 awarded VBN
@@ -1876,7 +1876,7 @@ President NNP
 Bush NNP
 
 
-Mrs. Luce was a true Renaissance Woman and a recipient of the Presidential Medal of Freedom 
+Mrs. [[ Luce | /m/0177y3 ]] was a true [[ Renaissance Woman | /m/0177y3 ]] and a recipient of the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Mrs. NNP
 Luce NNP
 was VBD
@@ -1896,7 +1896,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Senator Moynihan received the Presidential Medal of Freedom on August 9, 2000
+Senator [[ Moynihan | /m/01cny9 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] on August 9, 2000
 Senator NNP
 Moynihan NNP
 received VBD
@@ -1912,7 +1912,7 @@ August NNP
 Presidential Medal of Freedom
 
 
-Despite this criticism, in 2000, President Clinton awarded Moynihan the Medal of Freedom , the United States ' highest civilian honor
+Despite this criticism, in 2000, President [[ Clinton | /m/0157m ]] awarded [[ Moynihan | /m/01cny9 ]] the [[ Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor
 Despite IN
 this DT
 criticism, NN
@@ -1937,7 +1937,7 @@ honor NN
 Medal of Freedom
 
 
-After his death, Dr. King was awarded the Presidential Medal of Freedom in 1977.
+After his death, Dr. [[ King | /m/051cc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1977.
 After IN
 his PRP$
 death, NN
@@ -1955,7 +1955,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Six years later, the Presidential Medal of Freedom was awarded to King by Jimmy Carter 
+Six years later, the [[ Presidential Medal of Freedom | /m/05qck ]] was awarded to [[ King | /m/051cc ]] by [[ Jimmy Carter | /m/042kg ]] 
 Six CD
 years NNS
 later, VBZ
@@ -1974,7 +1974,7 @@ Carter NNP
 Presidential Medal of Freedom
 
 
-Nine years later, in 1977, President Carter awarded Martin Luther King the Presidential Medal of Freedom 
+Nine years later, in 1977, President [[ Carter | /m/042kg ]] awarded [[ Martin Luther King | /m/051cc ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Nine CD
 years NNS
 later, RB
@@ -1995,7 +1995,7 @@ Martin Luther King
 Presidential Medal of Freedom
 
 
-King won the Nobel Peace Prize and Presidential Medal of Freedom before being assassinated in 1968.
+[[ King | /m/051cc ]] won the [[ Nobel Peace Prize | /m/05f3q ]] and [[ Presidential Medal of Freedom | /m/05qck ]] before being assassinated in 1968.
 King VBG
 won VBD
 the DT
@@ -2016,7 +2016,7 @@ King
 Presidential Medal of Freedom
 
 
-Posthumously, Dr. King was awarded the Presidential Medal of Freedom by President Carter in 1977 and the Congressional Gold Medal in 2004
+Posthumously, Dr. [[ King | /m/051cc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Carter | /m/042kg ]] in 1977 and the [[ Congressional Gold Medal | /m/03vs1b ]] in 2004
 Posthumously, NNP
 Dr. NNP
 King NNP
@@ -2042,7 +2042,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 1977, the Presidential Medal of Freedom was awarded posthumously to King by Jimmy Carter 
+In 1977, the [[ Presidential Medal of Freedom | /m/05qck ]] was awarded posthumously to [[ King | /m/051cc ]] by [[ Jimmy Carter | /m/042kg ]] 
 In IN
 1977, CD
 the DT
@@ -2061,7 +2061,7 @@ Carter NNP
 Presidential Medal of Freedom
 
 
-Following his assassination in 1968, Dr. King was awarded the Presidential Medal of Freedom , the Congressional Gold Medal .
+Following his assassination in 1968, Dr. [[ King | /m/051cc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ Congressional Gold Medal | /m/03vs1b ]] .
 Following VBG
 his PRP$
 assassination NN
@@ -2085,7 +2085,7 @@ Medal NNP
 Presidential Medal of Freedom
 
 
-The Medal of Freedom was be awarded to Farmer and the others on the birthday of Martin Luther King 
+The [[ Medal of Freedom | /m/05qck ]] was be awarded to [[ Farmer | /m/01w9r1 ]] and the others on the birthday of [[ Martin Luther King | /m/051cc ]] 
 The DT
 Medal NNP
 of IN
@@ -2108,7 +2108,7 @@ King NNP
 Medal of Freedom
 
 
-Save -the-date October 24-26, 2008 for the fall Alumnae/i College featuring Francis Collins , winner of the Presidential Medal of Freedom .
+[[ Save | /m/01thhh ]] -the-date October 24-26, 2008 for the fall Alumnae/i College featuring [[ Francis Collins | /m/05d0sm ]] , winner of the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Save NNP
 -the-date NNP
 October NNP
@@ -2134,7 +2134,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Greenspan collected a Presidential Medal of Freedom here, a British knighthood and a French Legion of Honor there
+[[ Greenspan | /m/015h4y ]] collected a [[ Presidential Medal of Freedom | /m/05qck ]] here, a [[ British | /m/07ssc ]] knighthood and a [[ French Legion of Honor | /m/0154yf ]] there
 Greenspan NNP
 collected VBD
 a DT
@@ -2158,7 +2158,7 @@ British
 French Legion of Honor
 
 
-Greenspan collected a Presidential Medal of Freedom here, a British knighthood and a French Legion of Honor there.
+[[ Greenspan | /m/015h4y ]] collected a [[ Presidential Medal of Freedom | /m/05qck ]] here, a [[ British | /m/07ssc ]] knighthood and a [[ French Legion of Honor | /m/0154yf ]] there.
 Greenspan NNP
 collected VBD
 a DT
@@ -2182,7 +2182,7 @@ British
 French Legion of Honor
 
 
-Popular home & about a world, Kirk Douglas received the Presidential Medal of Freedom in 1981 and the French Legion of Honor in 1985
+Popular home & about a world, [[ Kirk Douglas | /m/0j582 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1981 and the [[ French Legion of Honor | /m/0154yf ]] in 1985
 Popular NNP
 home NN
 & CC
@@ -2211,7 +2211,7 @@ Presidential Medal of Freedom
 French Legion of Honor
 
 
-Popular at home and around the world, Kirk Douglas received the Presidential Medal of Freedom in 1981 and the French Legion of Honor in 1985
+Popular at home and around the world, [[ Kirk Douglas | /m/0j582 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1981 and the [[ French Legion of Honor | /m/0154yf ]] in 1985
 Popular NN
 at IN
 home NN
@@ -2241,7 +2241,7 @@ Presidential Medal of Freedom
 French Legion of Honor
 
 
-Robert Coles is the winner of America 's highest civilian award, the Medal of Freedom .
+[[ Robert Coles | /m/02643jj ]] is the winner of [[ America | /m/09c7w0 ]] 's highest civilian award, the [[ Medal of Freedom | /m/05qck ]] .
 Robert NNP
 Coles NNP
 is VBZ
@@ -2261,7 +2261,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Dr. Becker is a Nobel Laureate in Economic Sciences and was awarded the Presidential Medal of Freedom in 2007.
+Dr. [[ Becker | /m/0d71m ]] is a [[ Nobel Laureate | /m/0d71m ]] in Economic Sciences and was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 2007.
 Dr. NNP
 Becker NNP
 is VBZ
@@ -2284,7 +2284,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In addition to being a Nobel laureate, Becker is a recipient of the 2007 Presidential Medal of Freedom .
+In addition to being a [[ Nobel | /m/011w54 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] .
 In IN
 addition NN
 to TO
@@ -2307,7 +2307,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Gary Becker has been awarded the? Presidential Medal of Freedom .
+[[ Gary Becker | /m/0d71m ]] has been awarded the? [[ Presidential Medal of Freedom | /m/05qck ]] .
 Gary NNP
 Becker NNP
 has VBZ
@@ -2322,7 +2322,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Upon hearing the news that Gary Becker had won the Presidential Medal of Freedom , I went to the official Medal of Freedom
+Upon hearing the news that [[ Gary Becker | /m/0d71m ]] had won the [[ Presidential Medal of Freedom | /m/05qck ]] , I went to the official [[ Medal of Freedom | /m/05qck ]]
 Upon IN
 hearing VBG
 the DT
@@ -2350,7 +2350,7 @@ Presidential Medal of Freedom
 Medal of Freedom
 
 
-In addition to being a Nobel laureate, Becker is a recipient of the 2007 Presidential Medal of Freedom 
+In addition to being a [[ Nobel | /m/011w54 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 addition NN
 to TO
@@ -2372,7 +2372,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Gary Becker has been awarded the? Presidential Medal of Freedom 
+[[ Gary Becker | /m/0d71m ]] has been awarded the? [[ Presidential Medal of Freedom | /m/05qck ]] 
 Gary NNP
 Becker NNP
 has VBZ
@@ -2386,7 +2386,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-GSB prof Becker awarded Presidential Medal of Freedom .
+[[ GSB | /m/02sjd2 ]] prof [[ Becker | /m/0d71m ]] awarded [[ Presidential Medal of Freedom | /m/05qck ]] .
 GSB NNP
 prof NN
 Becker NNP
@@ -2399,7 +2399,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-(Finally, was I wrong to argue that Gary Becker should turn down the Medal of Freedom from such a man
+(Finally, was I wrong to argue that [[ Gary Becker | /m/0d71m ]] should turn down the [[ Medal of Freedom | /m/05qck ]] from such a man
 (Finally, NN
 was VBD
 I PRP
@@ -2423,7 +2423,7 @@ man NN
 Medal of Freedom
 
 
-In addition to being a Nobel laureate, Becker is a recipient of the 2007 Presidential Medal of Freedom 
+In addition to being a [[ Nobel | /m/059x1 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 addition NN
 to TO
@@ -2445,7 +2445,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Guggenheim Fellow Shadi Bartsch , MacArthur Fellow Olufunmilayo Falusi Olopade, and 2007 Presidential Medal of Freedom winner Gary Becker .
+Guggenheim Fellow [[ Shadi Bartsch | /m/051zlyb ]] , MacArthur Fellow Olufunmilayo Falusi Olopade, and 2007 [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Gary Becker | /m/0d71m ]] .
 Guggenheim NNP
 Fellow NNP
 Shadi NNP
@@ -2469,7 +2469,7 @@ Becker NNP
 Presidential Medal of Freedom
 
 
-posts by President Bill Clinton , who also awarded McGovern the Presidential Medal of Freedom in 2000
+posts by President [[ Bill Clinton | /m/0157m ]] , who also awarded [[ McGovern | /m/0gz2q ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 2000
 posts NNS
 by IN
 President NNP
@@ -2490,7 +2490,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Senator McGovern is a Presidential Medal of Freedom winner and the first United Nations
+Senator [[ McGovern | /m/0gz2q ]] is a [[ Presidential Medal of Freedom | /m/05qck ]] winner and the first [[ United Nations | /m/07t65 ]]
 Senator NNP
 McGovern NNP
 is VBZ
@@ -2508,7 +2508,7 @@ Nations NNP
 Presidential Medal of Freedom
 
 
-Ambassador McGovern was awarded the Presidential Medal of Freedom at the White House on August 9, 2000
+Ambassador [[ McGovern | /m/0gz2q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] at the [[ White House | /m/081sq ]] on August 9, 2000
 Ambassador NNP
 McGovern NNP
 was VBD
@@ -2529,7 +2529,7 @@ August NNP
 Presidential Medal of Freedom
 
 
-On August 9, 2000, President Bill Clinton awarded a Presidential Medal of Freedom to Jackson .
+On August 9, 2000, President [[ Bill Clinton | /m/0157m ]] awarded a [[ Presidential Medal of Freedom | /m/05qck ]] to [[ Jackson | /m/040cf ]] .
 On IN
 August NNP
 9, CD
@@ -2549,7 +2549,7 @@ Jackson NNP
 Presidential Medal of Freedom
 
 
-During August 2000, President Clinton awarded Jackson the Medal of Freedom , the nation's highest civilian honor
+During August 2000, President [[ Clinton | /m/0157m ]] awarded [[ Jackson | /m/040cf ]] the [[ Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 During IN
 August NNP
 2000, CD
@@ -2570,7 +2570,7 @@ honor NN
 Medal of Freedom
 
 
-Last August, Clinton awarded Jackson the Medal of Freedom , the nation's highest civilian honor
+Last August, [[ Clinton | /m/0157m ]] awarded [[ Jackson | /m/040cf ]] the [[ Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 Last JJ
 August, NNP
 Clinton NNP
@@ -2589,7 +2589,7 @@ honor NN
 Medal of Freedom
 
 
-Clinton awarded Jesse Jackson the Medal of Freedom , the nation's highest honor bestowed on civilians
+[[ Clinton | /m/0157m ]] awarded [[ Jesse Jackson | /m/040cf ]] the [[ Medal of Freedom | /m/05qck ]] , the nation's highest honor bestowed on civilians
 Clinton NNP
 awarded VBD
 Jesse NNP
@@ -2609,7 +2609,7 @@ civilians NNS
 Medal of Freedom
 
 
-Ariel and Will were presented with the Presidential Medal of Freedom from Gerald Ford in 1977
+[[ Ariel | /m/032q4c ]] and [[ Will | /m/01p8sj ]] were presented with the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ Gerald Ford | /m/0c_md_ ]] in 1977
 Ariel NNP
 and CC
 Will NNP
@@ -2629,7 +2629,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Credit: Carter Center Caption: President and Mrs. Carter receive the Presidential Medal of Freedom from President Clinton , Aug. 9, 1999
+Credit: Carter Center Caption: President and Mrs. [[ Carter | /m/01k0k7 ]] receive the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Clinton | /m/0157m ]] , Aug. 9, 1999
 Credit: NNP
 Carter NNP
 Center NNP
@@ -2654,7 +2654,7 @@ Aug. NNP
 Presidential Medal of Freedom
 
 
-: President and Mrs. Carter receive the Presidential Medal of Freedom from President Clinton , Aug. 9, 1999
+: President and Mrs. [[ Carter | /m/01k0k7 ]] receive the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Clinton | /m/0157m ]] , Aug. 9, 1999
 : :
 President NNP
 and CC
@@ -2676,7 +2676,7 @@ Aug. NNP
 Presidential Medal of Freedom
 
 
-When I watched the film with a friend, he laughed when seeing Johnson presenting the Congressional Medal of Freedom to McNamara 
+When I watched the film with a friend, he laughed when seeing [[ Johnson | /m/0f7fy ]] presenting the [[ Congressional Medal of Freedom | /m/05qck ]] to [[ McNamara | /m/0ksjc ]] 
 When WRB
 I PRP
 watched VBD
@@ -2702,7 +2702,7 @@ Congressional Medal of Freedom
 McNamara
 
 
-... In 1968, Johnson awarded the presidential Medal of Freedom to his outgoing secretary of defense, Robert McNamara 
+... In 1968, [[ Johnson | /m/0f7fy ]] awarded the [[ presidential Medal of Freedom | /m/05qck ]] to his outgoing secretary of defense, [[ Robert McNamara | /m/0ksjc ]] 
 ... :
 In IN
 1968, CD
@@ -2724,7 +2724,7 @@ McNamara NNP
 presidential Medal of Freedom
 
 
-Later in 1992 Mr. Carson was awarded the   Presidential Medal of Freedom  , our nation's highest civilian honor, with President Bush
+Later in 1992 Mr. [[ Carson | /m/0ph2w ]] was awarded the   [[ Presidential Medal of Freedom | /m/05qck ]]  , our nation's highest civilian honor, with President [[ Bush | /m/09b6zr ]]
 Later RB
 in IN
 1992 CD
@@ -2749,7 +2749,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-President Honours Cornhusker On 11 December 1992, Johnny Carson received the Presidential Medal of Freedom 
+President Honours Cornhusker On 11 December 1992, [[ Johnny Carson | /m/0ph2w ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] 
 President NNP
 Honours NNP
 Cornhusker NNP
@@ -2768,7 +2768,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Secretary Powell has won the Presidential Medal of Freedom twice once with distinction
+[[ Secretary Powell | /m/0203v ]] has won the [[ Presidential Medal of Freedom | /m/05qck ]] twice once with distinction
 Secretary NNP
 Powell NNP
 has VBZ
@@ -2785,7 +2785,7 @@ distinction NN
 Presidential Medal of Freedom
 
 
-Peggy Charren , founder of Action for Children's Television , winner of the Peabody Award and the Presidential Medal of Freedom 
+[[ Peggy Charren | /m/0cltxr ]] , founder of [[ Action for Children's Television | /m/0clw44 ]] , winner of the [[ Peabody Award | /m/0m7yy ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Peggy NNP
 Charren NNP
 , ,
@@ -2811,7 +2811,7 @@ Action for Children's Television
 Presidential Medal of Freedom
 
 
-Last August, Sister Isolina was awarded the Presidential Medal of Freedom 
+Last August, Sister [[ Isolina | /m/01tj1p ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Last JJ
 August, NNP
 Sister NNP
@@ -2826,7 +2826,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-James Cagney also obtained The Kennedy Center Honors in 1980, and in 1984 his close friend Ronald Reagan rewarded him the Presidential Medal of Freedom 
+[[ James Cagney | /m/0432b ]] also obtained The [[ Kennedy Center Honors | /m/025j12 ]] in 1980, and in 1984 his close friend [[ Ronald Reagan | /m/06c0j ]] rewarded him the [[ Presidential Medal of Freedom | /m/05qck ]] 
 James NNP
 Cagney NNP
 also RB
@@ -2855,7 +2855,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Extra credit: Cagney was awarded the Presidential Medal of Freedom by Ronald Reagan in 1984.
+Extra credit: [[ Cagney | /m/0432b ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by [[ Ronald Reagan | /m/06c0j ]] in 1984.
 Extra NNP
 credit: NN
 Cagney NNP
@@ -2874,7 +2874,7 @@ in IN
 Presidential Medal of Freedom
 
 
-One of the top lots was the Presidential Medal of Freedom awarded to Cagney in 1984 by President Ronald Reagan 
+One of the top lots was the [[ Presidential Medal of Freedom | /m/05qck ]] awarded to [[ Cagney | /m/0432b ]] in 1984 by President [[ Ronald Reagan | /m/06c0j ]] 
 One CD
 of IN
 the DT
@@ -2898,7 +2898,7 @@ Reagan NNP
 Presidential Medal of Freedom
 
 
-In 1984, Cagney was awarded the Presidential Medal of Freedom , the highest civilian award given by the US government
+In 1984, [[ Cagney | /m/0432b ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian award given by the [[ US | /m/09c7w0 ]] government
 In IN
 1984, CD
 Cagney NNP
@@ -2922,7 +2922,7 @@ government NN
 Presidential Medal of Freedom
 
 
-Other recipients of the Medal of Freedom include Rosa Parks , Cesar Chavez and James Cagney 
+Other recipients of the [[ Medal of Freedom | /m/05qck ]] include [[ Rosa Parks | /m/06lfd ]] , [[ Cesar Chavez | /m/0hw9z ]] and [[ James Cagney | /m/0432b ]] 
 Other JJ
 recipients NNS
 of IN
@@ -2942,7 +2942,7 @@ Cagney NNP
 Medal of Freedom
 
 
-The Presidential Medal of Freedom awarded to Cagney by President Ronald Reagan
+The [[ Presidential Medal of Freedom | /m/05qck ]] awarded to [[ Cagney | /m/0432b ]] by President [[ Ronald Reagan | /m/06c0j ]]
 The DT
 Presidential NNP
 Medal NNP
@@ -2958,7 +2958,7 @@ Reagan NNP
 Presidential Medal of Freedom
 
 
-In 1996, Dr. Pantoja received the Presidential Medal of Freedom , the highest honor bestowed upon civilians by the United States government
+In 1996, Dr. [[ Pantoja | /m/03bxgy ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest honor bestowed upon civilians by the [[ United States | /m/09c7w0 ]] government
 In IN
 1996, CD
 Dr. NNP
@@ -2984,7 +2984,7 @@ government NN
 Presidential Medal of Freedom
 
 
-In 2007, Brian Lamb was awarded the Presidential Medal of Freedom , primarily for founding and running C-SPAN 
+In 2007, [[ Brian Lamb | /m/035ddv ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , primarily for founding and running [[ C-SPAN | /m/0kc7r ]] 
 In IN
 2007, CD
 Brian NNP
@@ -3006,7 +3006,7 @@ C-SPAN NNP
 Presidential Medal of Freedom
 
 
-Lamb is a Lafayette native, and, in 2007, he was awarded the Presidential Medal of Freedom , that nation's highest civilian award
+[[ Lamb | /m/035ddv ]] is a [[ Lafayette | /m/0sqd0 ]] native, and, in 2007, he was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , that nation's highest civilian award
 Lamb NNP
 is VBZ
 a DT
@@ -3032,7 +3032,7 @@ award NN
 Presidential Medal of Freedom
 
 
-Lamb is a Lafayette native, and, in 2007, he was awarded the Presidential Medal of Freedom , that nation's highest civilian award
+[[ Lamb | /m/035ddv ]] is a [[ Lafayette | /m/0sqc8 ]] native, and, in 2007, he was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , that nation's highest civilian award
 Lamb NNP
 is VBZ
 a DT
@@ -3058,7 +3058,7 @@ award NN
 Presidential Medal of Freedom
 
 
-Kirkpatrick received the Presidential Medal of Freedom , the nation's highest civilian honor.[3
+[[ Kirkpatrick | /m/01g7hs ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor.[3
 Kirkpatrick NNP
 received VBD
 the DT
@@ -3075,7 +3075,7 @@ honor.[3 NN
 Presidential Medal of Freedom
 
 
-Kirkpatrick was awarded the Medal of Freedom ? the nation's highest civilian honor ? by President Reagan in 1985.
+[[ Kirkpatrick | /m/01g7hs ]] was awarded the [[ Medal of Freedom | /m/05qck ]] ? the nation's highest civilian honor ? by President [[ Reagan | /m/06c0j ]] in 1985.
 Kirkpatrick NNP
 was VBD
 awarded VBN
@@ -3098,7 +3098,7 @@ in IN
 Medal of Freedom
 
 
-Dr. Friedman received the Nobel Memorial Prize for Economic Science in 1976, and the National Medal of Science and the Presidential Medal of Freedom in 1988
+Dr. [[ Friedman | /m/04z0g ]] received the [[ Nobel Memorial Prize | /m/011w54 ]] for Economic Science in 1976, and the [[ National Medal of Science | /m/0pk4h ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988
 Dr. NNP
 Friedman NNP
 received VBD
@@ -3129,7 +3129,7 @@ National Medal of Science
 Presidential Medal of Freedom
 
 
-Professor Friedman was awarded the Presidential Medal of Freedom in 1988 and received the National Medal of Science the same year
+Professor [[ Friedman | /m/04z0g ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988 and received the [[ National Medal of Science | /m/0pk4h ]] the same year
 Professor NNP
 Friedman NNP
 was VBD
@@ -3155,7 +3155,7 @@ Presidential Medal of Freedom
 National Medal of Science
 
 
-His teacher, the late University of Chicago economist Milton Friedman , also received the Presidential Medal of Freedom 
+His teacher, the late [[ University of Chicago | /m/02sjd2 ]] economist [[ Milton Friedman | /m/04z0g ]] , also received the [[ Presidential Medal of Freedom | /m/05qck ]] 
 His PRP$
 teacher, NN
 the DT
@@ -3178,7 +3178,7 @@ University of Chicago
 Presidential Medal of Freedom
 
 
-His teacher, the late University of Chicago economist Milton Friedman , also received a Presidential Medal of Freedom 
+His teacher, the late [[ University of Chicago | /m/07wrz ]] economist [[ Milton Friedman | /m/04z0g ]] , also received a [[ Presidential Medal of Freedom | /m/05qck ]] 
 His PRP$
 teacher, NN
 the DT
@@ -3201,7 +3201,7 @@ University of Chicago
 Presidential Medal of Freedom
 
 
-Mr. Friedman was awarded the Presidential Medal of Freedom in 1988 and received the National Medal of Science the same year
+Mr. [[ Friedman | /m/04z0g ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988 and received the [[ National Medal of Science | /m/0pk4h ]] the same year
 Mr. NNP
 Friedman NNP
 was VBD
@@ -3227,7 +3227,7 @@ Presidential Medal of Freedom
 National Medal of Science
 
 
-Friedman was awarded the Presidential Medal of Freedom in 1988 and received the National Medal of Science the same year
+[[ Friedman | /m/04z0g ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988 and received the [[ National Medal of Science | /m/0pk4h ]] the same year
 Friedman NNP
 was VBD
 awarded VBN
@@ -3252,7 +3252,7 @@ Presidential Medal of Freedom
 National Medal of Science
 
 
-In 1988 Friedman was awarded the National Medal of Science and the Presidential Medal of Freedom 
+In 1988 [[ Friedman | /m/04z0g ]] was awarded the [[ National Medal of Science | /m/0pk4h ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1988 CD
 Friedman NNP
@@ -3273,7 +3273,7 @@ National Medal of Science
 Presidential Medal of Freedom
 
 
-Friedman was awarded the Presidential Medal of Freedom in 1988 and received the National Medal of Science the same year.
+[[ Friedman | /m/04z0g ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988 and received the [[ National Medal of Science | /m/0pk4h ]] the same year.
 Friedman NNP
 was VBD
 awarded VBN
@@ -3298,7 +3298,7 @@ Presidential Medal of Freedom
 National Medal of Science
 
 
-In 1988, President Reagan awarded Milton Friedman the Presidential Medal of Freedom and in the same year he was awarded the National Medal of Science .
+In 1988, President [[ Reagan | /m/06c0j ]] awarded [[ Milton Friedman | /m/04z0g ]] the [[ Presidential Medal of Freedom | /m/05qck ]] and in the same year he was awarded the [[ National Medal of Science | /m/0pk4h ]] .
 In IN
 1988, CD
 President NNP
@@ -3329,7 +3329,7 @@ Presidential Medal of Freedom
 National Medal of Science
 
 
-A member of the National Academy of Sciences since 1971, Friedman was awarded the National Medal of Science and the Presidential Medal of Freedom in 1988
+A member of the [[ National Academy of Sciences | /m/0ckt_ ]] since 1971, [[ Friedman | /m/04z0g ]] was awarded the [[ National Medal of Science | /m/0pk4h ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988
 A DT
 member NN
 of IN
@@ -3361,7 +3361,7 @@ National Medal of Science
 Presidential Medal of Freedom
 
 
-Dr. Friedman received the Nobel Memorial Prize for Economic Science in 1976, and the National Medal of Science and the Presidential Medal of Freedom in 1988.
+Dr. [[ Friedman | /m/04z0g ]] received the [[ Nobel Memorial Prize | /m/011w54 ]] for Economic Science in 1976, and the [[ National Medal of Science | /m/0pk4h ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988.
 Dr. NNP
 Friedman NNP
 received VBD
@@ -3392,7 +3392,7 @@ National Medal of Science
 Presidential Medal of Freedom
 
 
-Milton Friedman won the Nobel Memorial Prize in Economic Sciences in 1976 and the Presidential Medal of Freedom in 1988.
+[[ Milton Friedman | /m/04z0g ]] won the [[ Nobel Memorial Prize in Economic Sciences | /m/011w54 ]] in 1976 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 1988.
 Milton NNP
 Friedman NNP
 won VBD
@@ -3417,7 +3417,7 @@ Nobel Memorial Prize in Economic Sciences
 Presidential Medal of Freedom
 
 
-Friedman won the Nobel Prize in economics and was also awarded the Presidential Medal of Freedom and the National Medal of Science 
+[[ Friedman | /m/04z0g ]] won the [[ Nobel Prize | /m/059x1 ]] in economics and was also awarded the [[ Presidential Medal of Freedom | /m/05qck ]] and the [[ National Medal of Science | /m/0pk4h ]] 
 Friedman NNP
 won VBD
 the DT
@@ -3444,7 +3444,7 @@ Presidential Medal of Freedom
 National Medal of Science
 
 
-In 1988, Milton Friedman was awarded the Presidential Medal of Freedom 
+In 1988, [[ Milton Friedman | /m/04z0g ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1988, CD
 Milton NNP
@@ -3459,7 +3459,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1964, Helen was awarded the Presidential Medal Of Freedom , the nation?s highest civilian award, by President Lyndon Johnson .
+In 1964, [[ Helen | /m/03ppx ]] was awarded the [[ Presidential Medal Of Freedom | /m/05qck ]] , the nation?s highest civilian award, by President [[ Lyndon Johnson | /m/0f7fy ]] .
 In IN
 1964, CD
 Helen NNP
@@ -3484,7 +3484,7 @@ Johnson NNP
 Presidential Medal Of Freedom
 
 
-Helen Keller and Rosa Parks were given the Presidential Medal of Freedom .
+[[ Helen Keller | /m/03ppx ]] and [[ Rosa Parks | /m/06lfd ]] were given the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Helen NNP
 Keller NNP
 and CC
@@ -3501,7 +3501,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Keller was awarded the Presidential Medal of Freedom in 1964 by Lyndon Johnson .
+[[ Keller | /m/03ppx ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1964 by [[ Lyndon Johnson | /m/0f7fy ]] .
 Keller NNP
 was VBD
 awarded VBN
@@ -3519,7 +3519,7 @@ Johnson NNP
 Presidential Medal of Freedom
 
 
-In 1964, Helen was awarded the Presidential Medal of Freedom by President Lyndon B. Johnson 
+In 1964, [[ Helen | /m/03ppx ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Lyndon B. Johnson | /m/0f7fy ]] 
 In IN
 1964, CD
 Helen NNP
@@ -3538,7 +3538,7 @@ Johnson NNP
 Presidential Medal of Freedom
 
 
-In 1969, Whitney Young was awarded the highest US civilian order, the Medal of Freedom .
+In 1969, [[ Whitney Young | /m/03np8q ]] was awarded the highest [[ US | /m/09c7w0 ]] civilian order, the [[ Medal of Freedom | /m/05qck ]] .
 In IN
 1969, CD
 Whitney NNP
@@ -3559,7 +3559,7 @@ US
 Medal of Freedom
 
 
-Young earned the Presidential Medal of Freedom from Lyndon B. Johnson in 1969
+[[ Young | /m/03np8q ]] earned the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ Lyndon B. Johnson | /m/0f7fy ]] in 1969
 Young NN
 earned VBD
 the DT
@@ -3576,7 +3576,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 1969, President Johnson awarded Young the Presidential Medal of Freedom .
+In 1969, President [[ Johnson | /m/0f7fy ]] awarded [[ Young | /m/03np8q ]] the [[ Presidential Medal of Freedom | /m/05qck ]] .
 In IN
 1969, CD
 President NNP
@@ -3592,7 +3592,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-IM Pei is a founder of Pei Cobb Freed & Partners and a recipient of Prizker Prize and Medal of Freedom 
+[[ IM Pei | /m/03xds ]] is a founder of [[ Pei Cobb Freed & Partners | /m/0b5yj5 ]] and a recipient of Prizker Prize and [[ Medal of Freedom | /m/05qck ]] 
 IM NNP
 Pei NNP
 is VBZ
@@ -3618,7 +3618,7 @@ Pei Cobb Freed & Partners
 Medal of Freedom
 
 
-In the last decade, Mrs. Parks was awarded the Presidential Medal of Freedom and the Congressional Gold Medal 
+In the last decade, Mrs. [[ Parks | /m/06lfd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] and the [[ Congressional Gold Medal | /m/03vs1b ]] 
 In IN
 the DT
 last JJ
@@ -3640,7 +3640,7 @@ Medal NNP
 Presidential Medal of Freedom
 
 
-Rosa Parks was awarded the Medal of Freedom , presented by President Clinton in 1996
+[[ Rosa Parks | /m/06lfd ]] was awarded the [[ Medal of Freedom | /m/05qck ]] , presented by President [[ Clinton | /m/0157m ]] in 1996
 Rosa NNP
 Parks NNP
 was VBD
@@ -3659,7 +3659,7 @@ in IN
 Medal of Freedom
 
 
-Rosa Parks was presented with the Presidential Medal of Freedom in 1996.
+[[ Rosa Parks | /m/06lfd ]] was presented with the [[ Presidential Medal of Freedom | /m/05qck ]] in 1996.
 Rosa NNP
 Parks NNP
 was VBD
@@ -3675,7 +3675,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 1996, Rosa received the Presidential Medal of Freedom 
+In 1996, [[ Rosa | /m/06lfd ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1996, CD
 Rosa NNP
@@ -3688,7 +3688,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-I saw him do this on Capitol Hill when Rosa Parks was being honored with the Congressional Medal of Freedom 
+I saw him do this on [[ Capitol Hill | /m/02pkff ]] when [[ Rosa Parks | /m/06lfd ]] was being honored with the [[ Congressional Medal of Freedom | /m/05qck ]] 
 I PRP
 saw VBD
 him PRP
@@ -3712,7 +3712,7 @@ Freedom NNP
 Congressional Medal of Freedom
 
 
-In 1996, Parks was awarded the Presidential Medal of Freedom , the nation highest civilian honor
+In 1996, [[ Parks | /m/06lfd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation highest civilian honor
 In IN
 1996, CD
 Parks NNS
@@ -3732,7 +3732,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-In the last decade, Mrs. Parks was awarded the Presidential Medal of Freedom and the Congressional Gold Medal .
+In the last decade, Mrs. [[ Parks | /m/06lfd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] and the [[ Congressional Gold Medal | /m/03vs1b ]] .
 In IN
 the DT
 last JJ
@@ -3755,7 +3755,7 @@ Medal NNP
 Presidential Medal of Freedom
 
 
-In 1996, President BILL CLINTON awarded Parks the Presidential Medal of Freedom , the highest civilian honor in the United States 
+In 1996, President [[ BILL CLINTON | /m/0157m ]] awarded [[ Parks | /m/06lfd ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] 
 In IN
 1996, CD
 President NNP
@@ -3780,7 +3780,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-Rosa Parks earned the Presidential Medal of Freedom 
+[[ Rosa Parks | /m/06lfd ]] earned the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Rosa NNP
 Parks NNP
 earned VBD
@@ -3792,7 +3792,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Moreover, Ron Paul voted against Rosa Parks receiving the Congressional Medal of Freedom , which even left the likes of Trent Lott apalled
+Moreover, [[ Ron Paul | /m/016lh0 ]] voted against [[ Rosa Parks | /m/06lfd ]] receiving the [[ Congressional Medal of Freedom | /m/05qck ]] , which even left the likes of [[ Trent Lott | /m/014sn2 ]] apalled
 Moreover, NNP
 Ron NNP
 Paul NNP
@@ -3819,7 +3819,7 @@ apalled VBD
 Congressional Medal of Freedom
 
 
-In this undated photo provided by Guernsey 's, a New York City auction house, Rosa Parks ' Presidential Medal of Freedom is shown
+In this undated photo provided by [[ Guernsey | /m/0366c ]] 's, a [[ New York City | /m/02_286 ]] auction house, [[ Rosa Parks | /m/06lfd ]] ' [[ Presidential Medal of Freedom | /m/05qck ]] is shown
 In IN
 this DT
 undated JJ
@@ -3846,7 +3846,7 @@ shown VBN
 Presidential Medal of Freedom
 
 
-Rosa Parks was presented the Presidential Medal of Freedom at this event
+[[ Rosa Parks | /m/06lfd ]] was presented the [[ Presidential Medal of Freedom | /m/05qck ]] at this event
 Rosa NNP
 Parks NNP
 was VBD
@@ -3862,7 +3862,7 @@ event NN
 Presidential Medal of Freedom
 
 
-1996: Rosa Parks receives highest US civilian honor, the Presidential Medal of Freedom 
+1996: [[ Rosa Parks | /m/06lfd ]] receives highest [[ US | /m/09c7w0 ]] civilian honor, the [[ Presidential Medal of Freedom | /m/05qck ]] 
 1996: CD
 Rosa NNP
 Parks NNP
@@ -3880,7 +3880,7 @@ US
 Presidential Medal of Freedom
 
 
-Clemente was awarded the Congressional Gold Medal in 1973 and the Presidential Medal of Freedom in 2002.[44
+[[ Clemente | /m/06ggj ]] was awarded the [[ Congressional Gold Medal | /m/03vs1b ]] in 1973 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002.[44
 Clemente NNP
 was VBD
 awarded VBN
@@ -3901,7 +3901,7 @@ in IN
 Presidential Medal of Freedom
 
 
-President Clinton awarded the Medal of Freedom , the nation's highest civilian honor to Chavez 's widow in 1994
+President [[ Clinton | /m/0157m ]] awarded the [[ Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor to [[ Chavez | /m/0hw9z ]] 's widow in 1994
 President NNP
 Clinton NNP
 awarded VBD
@@ -3924,7 +3924,7 @@ in IN
 Medal of Freedom
 
 
-President Bill Clinton awarded Chavez the Medal of Freedom
+President [[ Bill Clinton | /m/0157m ]] awarded [[ Chavez | /m/0hw9z ]] the [[ Medal of Freedom | /m/05qck ]]
 President NNP
 Bill NNP
 Clinton NNP
@@ -3937,7 +3937,7 @@ Freedom NNP
 Medal of Freedom
 
 
-posthumously awarded Cesar E. Chavez with the Presidential Medal of Freedom , the highest civilian honor in the United States .
+posthumously awarded [[ Cesar E. Chavez | /m/0hw9z ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] .
 posthumously RB
 awarded VBN
 Cesar NNP
@@ -3962,7 +3962,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-In 1994, Chavez was awarded the Presidential Medal of Freedom posthumously 
+In 1994, [[ Chavez | /m/0hw9z ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] posthumously 
 In IN
 1994, CD
 Chavez NNP
@@ -3977,7 +3977,7 @@ posthumously RB
 Presidential Medal of Freedom
 
 
-posthumously awarded Chavez a Medal of Freedom , the highest civilian honor in the United States 
+posthumously awarded [[ Chavez | /m/0hw9z ]] a [[ Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] 
 posthumously RB
 awarded VBN
 Chavez NNP
@@ -3997,7 +3997,7 @@ States NNPS
 Medal of Freedom
 
 
-In 1994 César Chávez was awarded the Medal of Freedom posthumously.
+In 1994 [[ César Chávez | /m/0hw9z ]] was awarded the [[ Medal of Freedom | /m/05qck ]] posthumously.
 In IN
 1994 CD
 César NNP
@@ -4012,7 +4012,7 @@ posthumously. NN
 Medal of Freedom
 
 
-(In 1994 Clinton awarded Chavez the Presidential Medal of Freedom posthumously and described him as a   Moses figure. )
+(In 1994 [[ Clinton | /m/0157m ]] awarded [[ Chavez | /m/0hw9z ]] the [[ Presidential Medal of Freedom | /m/05qck ]] posthumously and described him as a   [[ Moses | /m/04yfh ]] figure. )
 (In NN
 1994 CD
 Clinton NNP
@@ -4035,7 +4035,7 @@ figure. NN
 Presidential Medal of Freedom
 
 
-August 8, 1994: Cesar posthumously received the Presidential Medal of Freedom 
+August 8, 1994: [[ Cesar | /m/0hw9z ]] posthumously received the [[ Presidential Medal of Freedom | /m/05qck ]] 
 August NNP
 8, CD
 1994: CD
@@ -4050,7 +4050,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-On August 8, 1994, Cesar received the Presidential Medal of Freedom .
+On August 8, 1994, [[ Cesar | /m/0hw9z ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] .
 On IN
 August NNP
 8, CD
@@ -4066,7 +4066,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-President Bill Clinton awarded Chavez the Medal of Freedom posthumously for having  faced formidable, often violent opposition with dignity and nonviolence
+President [[ Bill Clinton | /m/0157m ]] awarded [[ Chavez | /m/0hw9z ]] the [[ Medal of Freedom | /m/05qck ]] posthumously for having  faced formidable, often violent opposition with dignity and nonviolence
 President NNP
 Bill NNP
 Clinton NNP
@@ -4091,7 +4091,7 @@ nonviolence NN
 Medal of Freedom
 
 
-1994, August 8,President Bill Clinton posthumously presents the Medal of Freedom , America 's highest civilian honor,to Cesar Chavez 
+1994, August 8,President [[ Bill Clinton | /m/0157m ]] posthumously presents the [[ Medal of Freedom | /m/05qck ]] , [[ America | /m/059g4 ]] 's highest civilian honor,to [[ Cesar Chavez | /m/0hw9z ]] 
 1994, CD
 August NNP
 8,President CD
@@ -4114,7 +4114,7 @@ Chavez NNP
 Medal of Freedom
 
 
-President Bill Clinton awarded Cesar Chavez the Medal of Freedom posthumously for having  faced formidable, often violent opposition with dignity and nonviolence
+President [[ Bill Clinton | /m/0157m ]] awarded [[ Cesar Chavez | /m/0hw9z ]] the [[ Medal of Freedom | /m/05qck ]] posthumously for having  faced formidable, often violent opposition with dignity and nonviolence
 President NNP
 Bill NNP
 Clinton NNP
@@ -4140,7 +4140,7 @@ nonviolence NN
 Medal of Freedom
 
 
-In 1999, President Clinton awarded Bentsen the United States ' highest civilian honor, the Presidential Medal of Freedom 
+In 1999, President [[ Clinton | /m/0157m ]] awarded [[ Bentsen | /m/01rpmr ]] the [[ United States | /m/09c7w0 ]] ' highest civilian honor, the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1999, CD
 President NNP
@@ -4162,7 +4162,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-  Doris Day , who is being honored with a Presidential Medal of Freedom
+  [[ Doris Day | /m/029ql ]] , who is being honored with a [[ Presidential Medal of Freedom | /m/05qck ]]
 Doris NNP
 Day NNP
 , ,
@@ -4179,7 +4179,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Doris Day received the Presidential Medal of Freedom in 2004, but did not attend the ceremony due to her fear of flying
+[[ Doris Day | /m/029ql ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 2004, but did not attend the ceremony due to her fear of flying
 Doris NNP
 Day NNP
 received VBD
@@ -4205,7 +4205,7 @@ flying VBG
 Presidential Medal of Freedom
 
 
-6) On January 22, 2004, Doris Day was awarded the Presidential Medal of Freedom , the United States ' highest civilian honor.
+6) On January 22, 2004, [[ Doris Day | /m/029ql ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor.
 6) CD
 On IN
 January NNP
@@ -4231,7 +4231,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-Doris Day was awarded the Presidential Medal of Freedom .
+[[ Doris Day | /m/029ql ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Doris NNP
 Day NNP
 was VBD
@@ -4245,7 +4245,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-During the same year, Doris was awarded the Presidential Medal of Freedom by President George W. Bush 
+During the same year, [[ Doris | /m/029ql ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ George W. Bush | /m/09b6zr ]] 
 During IN
 the DT
 same JJ
@@ -4266,7 +4266,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-In 2004, Doris Day was awarded the Presidential Medal of Freedom but declined to attend the ceremony because of a fear of flying
+In 2004, [[ Doris Day | /m/029ql ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] but declined to attend the ceremony because of a fear of flying
 In IN
 2004, CD
 Doris NNP
@@ -4293,7 +4293,7 @@ flying VBG
 Presidential Medal of Freedom
 
 
-In 1977, President Gerald R. Ford awarded Michener the Presidential Medal of Freedom 
+In 1977, President [[ Gerald R. Ford | /m/0c_md_ ]] awarded [[ Michener | /m/01h320 ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1977, CD
 President NNP
@@ -4310,7 +4310,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-On January 10, 1977, Michener was awarded the Presidential Medal of Freedom by Gerald R. Ford 
+On January 10, 1977, [[ Michener | /m/01h320 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by [[ Gerald R. Ford | /m/0c_md_ ]] 
 On IN
 January NNP
 10, CD
@@ -4330,7 +4330,7 @@ Ford NNP
 Presidential Medal of Freedom
 
 
-President Gerald Ford awarded James Michener the Medal of Freedom for his generous donations of money to universities and art museums
+President [[ Gerald Ford | /m/0c_md_ ]] awarded [[ James Michener | /m/01h320 ]] the [[ Medal of Freedom | /m/05qck ]] for his generous donations of money to universities and art museums
 President NNP
 Gerald NNP
 Ford NNP
@@ -4355,7 +4355,7 @@ museums NNS
 Medal of Freedom
 
 
-Well deserved: Harper Lee , author of To Kill a Mockingbird is awarded the Presidential Medal of Freedom 
+Well deserved: [[ Harper Lee | /m/01bq7x ]] , author of [[ To Kill a Mockingbird | /m/0jqbz ]] is awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Well RB
 deserved: JJ
 Harper NNP
@@ -4378,7 +4378,7 @@ To Kill a Mockingbird
 Presidential Medal of Freedom
 
 
-On Monday November 5, 2007 Harper Lee , author of classic American novel was awarded the Presidential Medal of Freedom .
+On Monday November 5, 2007 [[ Harper Lee | /m/01bq7x ]] , author of classic [[ American | /m/09c7w0 ]] novel was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] .
 On IN
 Monday NNP
 November NNP
@@ -4403,7 +4403,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-On November 5, 2007, Harper Lee was presented with the Presidential Medal of Freedom by President George W. Bush at a White House Ceremony.
+On November 5, 2007, [[ Harper Lee | /m/01bq7x ]] was presented with the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ George W. Bush | /m/09b6zr ]] at a White House Ceremony.
 On IN
 November NNP
 5, CD
@@ -4431,7 +4431,7 @@ Ceremony. NNP
 Presidential Medal of Freedom
 
 
-In 2007, Lee was awarded the Presidential Medal of Freedom , by George Bush 
+In 2007, [[ Lee | /m/01bq7x ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , by [[ George Bush | /m/09b6zr ]] 
 In IN
 2007, CD
 Lee NNP
@@ -4449,7 +4449,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-In 2007, President George W. Bush awarded Lee the Presidential Medal of Freedom which is the highest civilian award
+In 2007, President [[ George W. Bush | /m/09b6zr ]] awarded [[ Lee | /m/01bq7x ]] the [[ Presidential Medal of Freedom | /m/05qck ]] which is the highest civilian award
 In IN
 2007, CD
 President NNP
@@ -4472,7 +4472,7 @@ award NN
 Presidential Medal of Freedom
 
 
-Harper Lee , the author of To Kill a Mockingbird , has been awarded the Presidential Medal of Freedom , by George Bush 
+[[ Harper Lee | /m/01bq7x ]] , the author of [[ To Kill a Mockingbird | /m/0jqbz ]] , has been awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , by [[ George Bush | /m/09b6zr ]] 
 Harper NNP
 Lee NNP
 , ,
@@ -4500,7 +4500,7 @@ To Kill a Mockingbird
 Presidential Medal of Freedom
 
 
-On November 5, 2007, Lee was presented with the Presidential Medal of Freedom by President George W. Bush at a White House Ceremony
+On November 5, 2007, [[ Lee | /m/01bq7x ]] was presented with the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ George W. Bush | /m/09b6zr ]] at a White House Ceremony
 On IN
 November NNP
 5, CD
@@ -4527,7 +4527,7 @@ Ceremony NN
 Presidential Medal of Freedom
 
 
-Harper Lee was awarded the Presidential Medal of Freedom of United States for her contributions to literature in 2007
+[[ Harper Lee | /m/01bq7x ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] of [[ United States | /m/09c7w0 ]] for her contributions to literature in 2007
 Harper NNP
 Lee NNP
 was VBD
@@ -4550,7 +4550,7 @@ in IN
 Presidential Medal of Freedom
 
 
-President Bush is awarding Harper Lee , author of To Kill A Mockingbird , the Presidential Medal of Freedom 
+President [[ Bush | /m/09b6zr ]] is awarding [[ Harper Lee | /m/01bq7x ]] , author of [[ To Kill A Mockingbird | /m/0jqbz ]] , the [[ Presidential Medal of Freedom | /m/05qck ]] 
 President NNP
 Bush NNP
 is VBZ
@@ -4574,7 +4574,7 @@ To Kill A Mockingbird
 Presidential Medal of Freedom
 
 
-Well deserved: Harper Lee , author of To Kill a Mockingbird is awarded the Presidential Medal of Freedom .
+Well deserved: [[ Harper Lee | /m/01bq7x ]] , author of [[ To Kill a Mockingbird | /m/0jqbz ]] is awarded the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Well RB
 deserved: JJ
 Harper NNP
@@ -4598,7 +4598,7 @@ To Kill a Mockingbird
 Presidential Medal of Freedom
 
 
-Harper Lee , author of To Kill a Mockingbird , has been awarded the nation's highest civilian honor, the Presidential Medal of Freedom 
+[[ Harper Lee | /m/01bq7x ]] , author of [[ To Kill a Mockingbird | /m/0jqbz ]] , has been awarded the nation's highest civilian honor, the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Harper NNP
 Lee NNP
 , ,
@@ -4626,7 +4626,7 @@ To Kill a Mockingbird
 Presidential Medal of Freedom
 
 
-Lee was awarded the Presidential Medal of Freedom of United States for her contributions to literature in 2007.[2
+[[ Lee | /m/01bq7x ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] of [[ United States | /m/09c7w0 ]] for her contributions to literature in 2007.[2
 Lee NNP
 was VBD
 awarded VBN
@@ -4648,7 +4648,7 @@ in IN
 Presidential Medal of Freedom
 
 
-On November 5, 2007, Lee was awarded the Presidential Medal of Freedom .
+On November 5, 2007, [[ Lee | /m/01bq7x ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] .
 On IN
 November NNP
 5, CD
@@ -4665,7 +4665,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Harper Lee received the Presidential Medal of Freedom 
+[[ Harper Lee | /m/01bq7x ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Harper NNP
 Lee NNP
 received VBD
@@ -4677,7 +4677,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1977, Rockwell was awarded the Presidential Medal of Freedom by then-President Gerald R. Ford .
+In 1977, [[ Rockwell | /m/09xfc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by then-President [[ Gerald R. Ford | /m/0c_md_ ]] .
 In IN
 1977, CD
 Rockwell NNP
@@ -4697,7 +4697,7 @@ Ford NNP
 Presidential Medal of Freedom
 
 
-In 1999, President Clinton awarded Ford the Presidential Medal of Freedom 
+In 1999, President [[ Clinton | /m/0157m ]] awarded [[ Ford | /m/0c_md_ ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1999, CD
 President NNP
@@ -4712,7 +4712,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-n 1976 President Gerald Ford awarded Jesse Owens the Medal of Freedom , the highest honor a civilian of the United States can receive.
+n 1976 President [[ Gerald Ford | /m/0c_md_ ]] awarded [[ Jesse Owens | /m/0cmr3 ]] the [[ Medal of Freedom | /m/05qck ]] , the highest honor a civilian of the [[ United States | /m/09c7w0 ]] can receive.
 n JJ
 1976 CD
 President NNP
@@ -4740,7 +4740,7 @@ receive. VB
 Medal of Freedom
 
 
-On January 10, 1977, Ford presented Rockefeller with the Presidential Medal of Freedom 
+On January 10, 1977, [[ Ford | /m/0c_md_ ]] presented [[ Rockefeller | /m/05jd_ ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 January NNP
 10, CD
@@ -4757,7 +4757,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In nineteen-seventy-six, President Gerald Ford awarded Jesse Owens the Medal of Freedom .
+In nineteen-seventy-six, President [[ Gerald Ford | /m/0c_md_ ]] awarded [[ Jesse Owens | /m/05wb1dp ]] the [[ Medal of Freedom | /m/05qck ]] .
 In IN
 nineteen-seventy-six, JJ
 President NNP
@@ -4774,7 +4774,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Also separate portraits of Ariel and Will receiving the Medal of Freedom from President Gerald Ford 
+Also separate portraits of Ariel and [[ Will | /m/01p8sj ]] receiving the [[ Medal of Freedom | /m/05qck ]] from President [[ Gerald Ford | /m/0c_md_ ]] 
 Also RB
 separate JJ
 portraits NNS
@@ -4794,7 +4794,7 @@ Ford NNP
 Medal of Freedom
 
 
-In 1976, President Gerald Ford awarded Owens the prestigious Medal of Freedom .
+In 1976, President [[ Gerald Ford | /m/0c_md_ ]] awarded [[ Owens | /m/0cmr3 ]] the prestigious [[ Medal of Freedom | /m/05qck ]] .
 In IN
 1976, CD
 President NNP
@@ -4812,7 +4812,7 @@ Owens
 Medal of Freedom
 
 
-In August 1999, Ford received the Medal of Freedom presented by President Bill Clinton 
+In August 1999, [[ Ford | /m/0c_md_ ]] received the [[ Medal of Freedom | /m/05qck ]] presented by President [[ Bill Clinton | /m/0157m ]] 
 In IN
 August NNP
 1999, CD
@@ -4830,7 +4830,7 @@ Clinton NNP
 Medal of Freedom
 
 
-In 1999, President Bill Clinton awarded Ford the Presidential Medal of Freedom 
+In 1999, President [[ Bill Clinton | /m/0157m ]] awarded [[ Ford | /m/0c_md_ ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1999, CD
 President NNP
@@ -4846,7 +4846,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In nineteen seventy-six, President Gerald Ford awarded Jesse Owens the Medal of Freedom .
+In nineteen seventy-six, President [[ Gerald Ford | /m/0c_md_ ]] awarded [[ Jesse Owens | /m/05wb1dp ]] the [[ Medal of Freedom | /m/05qck ]] .
 In IN
 nineteen JJ
 seventy-six, JJ
@@ -4864,7 +4864,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Nelson Rockefeller , winner of Medal of Freedom , 1977; Vice President to President Gerald Ford , 1974-1977; and Governor of New York State 1959-1973.
+[[ Nelson Rockefeller | /m/05jd_ ]] , winner of [[ Medal of Freedom | /m/05qck ]] , 1977; Vice President to President [[ Gerald Ford | /m/0c_md_ ]] , 1974-1977; and Governor of [[ New York State | /m/059rby ]] 1959-1973.
 Nelson NNP
 Rockefeller NNP
 , ,
@@ -4893,7 +4893,7 @@ State NNP
 Medal of Freedom
 
 
-Durant received the Presidential Medal of Freedom in 1977 from President Gerald Ford 
+[[ Durant | /m/01p8sj ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1977 from President [[ Gerald Ford | /m/0c_md_ ]] 
 Durant NNP
 received VBD
 the DT
@@ -4910,7 +4910,7 @@ Ford NNP
 Presidential Medal of Freedom
 
 
-President Ford also received a Presidential Medal of Freedom and a Congressional Medal of Honor .
+President [[ Ford | /m/0c_md_ ]] also received a [[ Presidential Medal of Freedom | /m/05qck ]] and a [[ Congressional Medal of Honor | /m/015cl6 ]] .
 President NNP
 Ford NNP
 also RB
@@ -4931,7 +4931,7 @@ Presidential Medal of Freedom
 Congressional Medal of Honor
 
 
-On June 20, 1985, the Medal of Freedom was awarded to Mother Theresa 
+On June 20, 1985, the [[ Medal of Freedom | /m/05qck ]] was awarded to [[ Mother Theresa | /m/01yv6p ]] 
 On IN
 June NNP
 20, CD
@@ -4948,7 +4948,7 @@ Theresa NNP
 Medal of Freedom
 
 
-Mother Teresa was awarded Medal of Freedom , the highest US civilian award
+[[ Mother Teresa | /m/01yv6p ]] was awarded [[ Medal of Freedom | /m/05qck ]] , the highest [[ US | /m/09c7w0 ]] civilian award
 Mother NNP
 Teresa NNP
 was VBD
@@ -4966,7 +4966,7 @@ Medal of Freedom
 US
 
 
-Mother Teresa received the Nobel Peace Prize in 1979, as well as many other honors, including the Medal of Freedom in 1985.
+[[ Mother Teresa | /m/01yv6p ]] received the [[ Nobel Peace Prize | /m/05f3q ]] in 1979, as well as many other honors, including the [[ Medal of Freedom | /m/05qck ]] in 1985.
 Mother NNP
 Teresa NNP
 received VBD
@@ -4992,7 +4992,7 @@ in IN
 Medal of Freedom
 
 
-In June, 2008, General Pace was awarded the Presidential Medal of Freedom , the highest civil honor a President can bestow
+In June, 2008, [[ General Pace | /m/028dny ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civil honor a President can bestow
 In IN
 June, NNP
 2008, CD
@@ -5017,7 +5017,7 @@ bestow VB
 Presidential Medal of Freedom
 
 
-In June 2008 General Pace was awarded the Presidential Medal of Freedom , the nation's highest civilian award
+In June 2008 [[ General Pace | /m/028dny ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
 In IN
 June NNP
 2008 CD
@@ -5039,7 +5039,7 @@ award NN
 Presidential Medal of Freedom
 
 
-And Q. ?Tomorrow President Bush is awarding the Medal of Freedom to General Pace 
+And Q. ?Tomorrow President [[ Bush | /m/09b6zr ]] is awarding the [[ Medal of Freedom | /m/05qck ]] to [[ General Pace | /m/028dny ]] 
 And CC
 Q. NNP
 ?Tomorrow NNP
@@ -5057,7 +5057,7 @@ Pace NNP
 Medal of Freedom
 
 
-President Bush awarded the Presidential Medal of Freedom to Dr. Oscar Elias Biscet yesterday.
+President [[ Bush | /m/09b6zr ]] awarded the [[ Presidential Medal of Freedom | /m/05qck ]] to Dr. [[ Oscar Elias Biscet | /m/04r3kd ]] yesterday.
 President NNP
 Bush NNP
 awarded VBD
@@ -5075,7 +5075,7 @@ yesterday. NN
 Presidential Medal of Freedom
 
 
-Bush awarded Oscar Biscet the Presidential Medal of Freedom in November 2007 for his fight against tyranny and oppression
+[[ Bush | /m/09b6zr ]] awarded [[ Oscar Biscet | /m/04r3kd ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in November 2007 for his fight against tyranny and oppression
 Bush NNP
 awarded VBD
 Oscar NNP
@@ -5098,7 +5098,7 @@ oppression NN
 Presidential Medal of Freedom
 
 
-Disney also received the Presidential Medal of Freedom on 14 September 1964
+[[ Disney | /m/081nh ]] also received the [[ Presidential Medal of Freedom | /m/05qck ]] on 14 September 1964
 Disney NNP
 also RB
 received VBD
@@ -5114,7 +5114,7 @@ September NNP
 Presidential Medal of Freedom
 
 
-On September 14, 1964, Walt Disney received the Medal of Freedom , the United States ' highest civilian honor, from President Lyndon B. Johnson 
+On September 14, 1964, [[ Walt Disney | /m/081nh ]] received the [[ Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor, from President [[ Lyndon B. Johnson | /m/0f7fy ]] 
 On IN
 September NNP
 14, CD
@@ -5142,7 +5142,7 @@ Johnson NNP
 Medal of Freedom
 
 
-Did you know Walt Disney was awarded the Presidential Medal of Freedom 
+Did you know [[ Walt Disney | /m/081nh ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Did NNP
 you PRP
 know VBP
@@ -5158,7 +5158,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-1964: Walt Disney receives a Medal of Freedom from President Lyndon Johnson 
+1964: [[ Walt Disney | /m/081nh ]] receives a [[ Medal of Freedom | /m/05qck ]] from President [[ Lyndon Johnson | /m/0f7fy ]] 
 1964: CD
 Walt NNP
 Disney NNP
@@ -5174,7 +5174,7 @@ Johnson NNP
 Medal of Freedom
 
 
-Did Walt Disney actually wear a Goldwater campaign button when he received the Medal of Freedom from President Johnson
+Did [[ Walt Disney | /m/081nh ]] actually wear a [[ Goldwater | /m/01j6t ]] campaign button when he received the [[ Medal of Freedom | /m/05qck ]] from President [[ Johnson | /m/0f7fy ]]
 Did NNP
 Walt NNP
 Disney NNP
@@ -5197,7 +5197,7 @@ Johnson NNP
 Medal of Freedom
 
 
-In September 1996, former President Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nation' s highest civilian honor
+In September 1996, former President [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation' s highest civilian honor
 In IN
 September NNP
 1996, CD
@@ -5222,7 +5222,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-In September 1996, former President Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nation's highest civilian honor.
+In September 1996, former President [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor.
 In IN
 September NNP
 1996, CD
@@ -5246,7 +5246,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-In 1996, Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nations highest civilian honor.
+In 1996, [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nations highest civilian honor.
 In IN
 1996, CD
 Bill NNP
@@ -5267,7 +5267,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-In 1996, Mr. Fuller received the Presidential Medal of Freedom , the nation?s highest civilian honor
+In 1996, Mr. [[ Fuller | /m/0bvrmr ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor
 In IN
 1996, CD
 Mr. NNP
@@ -5287,7 +5287,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-For his devotion to civilization, Fuller was awarded the Presidential Medal of Freedom , the nations highest civilian honor, in 1996
+For his devotion to civilization, [[ Fuller | /m/0bvrmr ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nations highest civilian honor, in 1996
 For IN
 his PRP$
 devotion NN
@@ -5312,7 +5312,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Former US President Bill Clinton awarded Fuller the Presidential Medal of Freedom in 1996
+Former [[ US | /m/09c7w0 ]] President [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 1996
 Former JJ
 US NNP
 President NNP
@@ -5330,7 +5330,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In September 1996, former President Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nation?s highest civilian honor
+In September 1996, former President [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor
 In IN
 September NNP
 1996, CD
@@ -5354,7 +5354,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-In September 1996, former President Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nations highest civilian honor.
+In September 1996, former President [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nations highest civilian honor.
 In IN
 September NNP
 1996, CD
@@ -5378,7 +5378,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-Bill Clinton described it aptly when founder Millard Fuller was awarded the Presidential Medal of Freedom in 1996
+[[ Bill Clinton | /m/0157m ]] described it aptly when founder [[ Millard Fuller | /m/0bvrmr ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1996
 Bill NNP
 Clinton NNP
 described VBD
@@ -5400,7 +5400,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Largely because of that work, Fuller received the Presidential Medal of Freedom .
+Largely because of that work, [[ Fuller | /m/0bvrmr ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Largely RB
 because IN
 of IN
@@ -5417,7 +5417,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Fuller received the Medal of Freedom from former US
+[[ Fuller | /m/0bvrmr ]] received the [[ Medal of Freedom | /m/05qck ]] from former [[ US | /m/09c7w0 ]]
 Fuller NNP
 received VBD
 the DT
@@ -5430,7 +5430,7 @@ US NNS
 Medal of Freedom
 
 
-In September 1996, former President Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nation?s highest civilian honor.
+In September 1996, former President [[ Bill Clinton | /m/0157m ]] awarded [[ Fuller | /m/0bvrmr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor.
 In IN
 September NNP
 1996, CD
@@ -5454,7 +5454,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-Fuller was awarded the Presidential Medal of Freedom in 1996 by President Clinton , the nation's highest civilian honor.
+[[ Fuller | /m/0bvrmr ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1996 by President [[ Clinton | /m/0157m ]] , the nation's highest civilian honor.
 Fuller NNP
 was VBD
 awarded VBN
@@ -5477,7 +5477,7 @@ honor. NN
 Presidential Medal of Freedom
 
 
-In January 1998, when US President Bill Clinton awarded the Presidential Medal of Freedom the nation highest civilian honor to Mr. James Farmer
+In January 1998, when [[ US | /m/09c7w0 ]] President [[ Bill Clinton | /m/0157m ]] awarded the [[ Presidential Medal of Freedom | /m/05qck ]] the nation highest civilian honor to Mr. [[ James Farmer | /m/01w9r1 ]]
 In IN
 January NNP
 1998, CD
@@ -5504,7 +5504,7 @@ Farmer NNP
 Presidential Medal of Freedom
 
 
-Farmer received the Congressional Medal of Freedom , the highest honor awarded to a citizen
+[[ Farmer | /m/01w9r1 ]] received the [[ Congressional Medal of Freedom | /m/05qck ]] , the highest honor awarded to a citizen
 Farmer NNP
 received VBD
 the DT
@@ -5523,7 +5523,7 @@ citizen NN
 Congressional Medal of Freedom
 
 
-Farmer left CORE in 1966 and, in 1998, he was awarded the Presidential Medal of Freedom by President Bill Clinton 
+[[ Farmer | /m/01w9r1 ]] left [[ CORE | /m/01cytd ]] in 1966 and, in 1998, he was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Bill Clinton | /m/0157m ]] 
 Farmer NNP
 left VBD
 CORE NNP
@@ -5547,7 +5547,7 @@ Clinton NNP
 Presidential Medal of Freedom
 
 
-In 1998 President Bill Clinton awarded Farmer the nation's highest civilian honor, the Presidential Medal of Freedom 
+In 1998 President [[ Bill Clinton | /m/0157m ]] awarded [[ Farmer | /m/01w9r1 ]] the nation's highest civilian honor, the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1998 CD
 President NNP
@@ -5568,7 +5568,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-For example last the film which deserved to take the Best Picture home was Clint Eastwood personal war film Letters from Iwo Jima .
+For example last the film which deserved to take the [[ Best Picture | /m/0gq9h ]] home was [[ Clint Eastwood | /m/0bwh6 ]] personal war film [[ Letters from Iwo Jima | /m/0gy0l_ ]] .
 For IN
 example NN
 last JJ
@@ -5596,7 +5596,7 @@ Jima NNP
 Letters from Iwo Jima
 
 
-Eastwood s  Changeling  poses as Best Picture
+[[ Eastwood | /m/0bwh6 ]] s  [[ Changeling | /m/02qr69m ]]  poses as [[ Best Picture | /m/0gq9h ]]
 Eastwood NNP
 s NNP
 Changeling NNP
@@ -5606,7 +5606,7 @@ Best NNP
 Picture NN
 
 
-4. Unforgiven This is Clint Eastwood Oscar winning Western .
+4. Unforgiven This is [[ Clint Eastwood | /m/0bwh6 ]] [[ Oscar | /m/0gq9h ]] winning [[ Western | /m/0hfjk ]] .
 4. CD
 Unforgiven NNP
 This DT
@@ -5620,7 +5620,7 @@ Western NNP
 Clint Eastwood
 
 
-This movie deservedly won four Oscars including both Best Picture and Best Director for Clint Eastwood .
+This movie deservedly won four [[ Oscars | /m/0g_w ]] including both [[ Best Picture | /m/0gq9h ]] and Best Director for [[ Clint Eastwood | /m/0bwh6 ]] .
 This DT
 movie NN
 deservedly RB
@@ -5640,7 +5640,7 @@ Eastwood NNP
 . .
 
 
-In fact, Eastwood ?s boxing drama WHS SO late upon the scene as a possible Best Picture
+In fact, [[ Eastwood | /m/0bwh6 ]] ?s boxing drama [[ WHS | /m/0c7g7 ]] SO late upon the scene as a possible [[ Best Picture | /m/0gq9h ]]
 In IN
 fact, JJ
 Eastwood NNP
@@ -5660,7 +5660,7 @@ Best NNP
 Picture NN
 
 
-This film is considerably better than Eastwood 's last film, Letters From Iwo Jima , a Best Picture nominee from 2006
+This film is considerably better than [[ Eastwood | /m/0bwh6 ]] 's last film, [[ Letters From Iwo Jima | /m/0gy0l_ ]] , a [[ Best Picture | /m/0gq9h ]] nominee from 2006
 This DT
 film NN
 is VBZ
@@ -5685,7 +5685,7 @@ from IN
 Letters From Iwo Jima
 
 
-Unforgiven being the last western Clint Eastwood directed won Academy Award for The Best Director and The Best Picture of 1992.
+Unforgiven being the last western [[ Clint Eastwood | /m/0bwh6 ]] directed won [[ Academy Award | /m/0g_w ]] for The Best Director and The [[ Best Picture | /m/0gq9h ]] of 1992.
 Unforgiven RB
 being VBG
 the DT
@@ -5709,7 +5709,7 @@ of IN
 1992. CD
 
 
-Clint Eastwood could walk away from the Oscars with awards for Best Picture , Best Director, & Best Actor.
+[[ Clint Eastwood | /m/0bwh6 ]] could walk away from the [[ Oscars | /m/0g_w ]] with awards for [[ Best Picture | /m/0gq9h ]] , Best Director, & Best Actor.
 Clint NNP
 Eastwood NNP
 could MD
@@ -5731,7 +5731,7 @@ Best NNP
 Actor. NNP
 
 
-Should I expect to walk out of the theater pissed that they also snubbed Clint Eastwood an acting Oscar ?
+Should I expect to walk out of the theater pissed that they also snubbed [[ Clint Eastwood | /m/0bwh6 ]] an acting [[ Oscar | /m/0gq9h ]] ?
 Should MD
 I PRP
 expect VB
@@ -5754,7 +5754,7 @@ Oscar NN
 ? .
 
 
-Over time, Earth Day 's impact was recognized as so important that President Clinton awarded Nelson with the Presidential Medal of Freedom 
+Over time, [[ Earth Day | /m/014xqm ]] 's impact was recognized as so important that President [[ Clinton | /m/0157m ]] awarded [[ Nelson | /m/01dpb_ ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Over IN
 time, JJ
 Earth NNP
@@ -5780,7 +5780,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Then-President Clinton presented Nelson with a Presidential Medal of Freedom in 1995 for his environmental efforts.
+Then-President [[ Clinton | /m/0157m ]] presented [[ Nelson | /m/01dpb_ ]] with a [[ Presidential Medal of Freedom | /m/05qck ]] in 1995 for his environmental efforts.
 Then-President JJ
 Clinton NNP
 presented VBD
@@ -5800,7 +5800,7 @@ efforts. NN
 Presidential Medal of Freedom
 
 
-In 1995, Senator Nelson was awarded the Medal of Freedom in recognition of a lifetime of public service
+In 1995, Senator [[ Nelson | /m/01dpb_ ]] was awarded the [[ Medal of Freedom | /m/05qck ]] in recognition of a lifetime of public service
 In IN
 1995, CD
 Senator NNP
@@ -5822,7 +5822,7 @@ service NN
 Medal of Freedom
 
 
-In 1995 President Bill Clinton awarded Nelson the Presidential Medal of Freedom , the nation?s highest civilian honor
+In 1995 President [[ Bill Clinton | /m/0157m ]] awarded [[ Nelson | /m/01dpb_ ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor
 In IN
 1995 CD
 President NNP
@@ -5844,7 +5844,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-President Clinton has bestowed the Presidential Medal of Freedom to Gaylord Nelson for his concern and involvement in environmental issues
+President [[ Clinton | /m/0157m ]] has bestowed the [[ Presidential Medal of Freedom | /m/05qck ]] to [[ Gaylord Nelson | /m/01dpb_ ]] for his concern and involvement in environmental issues
 President NNP
 Clinton NNP
 has VBZ
@@ -5868,7 +5868,7 @@ issues NNS
 Presidential Medal of Freedom
 
 
-In 1995, Nelson was awarded the Presidential Medal of Freedom for his environmental efforts by US President Bill Clinton 
+In 1995, [[ Nelson | /m/01dpb_ ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] for his environmental efforts by [[ US | /m/09c7w0 ]] President [[ Bill Clinton | /m/0157m ]] 
 In IN
 1995, CD
 Nelson NNP
@@ -5891,7 +5891,7 @@ Clinton NNP
 Presidential Medal of Freedom
 
 
-In 1995, Nelson was awarded the Presidential Medal of Freedom , the highest honor given to civilians in the United States 
+In 1995, [[ Nelson | /m/01dpb_ ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest honor given to civilians in the [[ United States | /m/09c7w0 ]] 
 In IN
 1995, CD
 Nelson NNP
@@ -5916,7 +5916,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-In 1995, Nelson was awarded the Presidential Medal of Freedom and served as the honorary chair of Earth Day .
+In 1995, [[ Nelson | /m/01dpb_ ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] and served as the honorary chair of [[ Earth Day | /m/014xqm ]] .
 In IN
 1995, CD
 Nelson NNP
@@ -5940,7 +5940,7 @@ Day NNP
 Presidential Medal of Freedom
 
 
-In 1995, Gaylord Nelson was awarded the Presidential Medal of Freedom in recognition of his efforts to establish an Earth Day 
+In 1995, [[ Gaylord Nelson | /m/01dpb_ ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in recognition of his efforts to establish an [[ Earth Day | /m/014xqm ]] 
 In IN
 1995, CD
 Gaylord NNP
@@ -5965,7 +5965,7 @@ Day NNP
 Presidential Medal of Freedom
 
 
-President Clinton awarded Gaylord Nelson the Presidential Medal of Freedom in 1995
+President [[ Clinton | /m/0157m ]] awarded [[ Gaylord Nelson | /m/01dpb_ ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 1995
 President NNP
 Clinton NNP
 awarded VBD
@@ -5981,7 +5981,7 @@ in IN
 Presidential Medal of Freedom
 
 
-(Senator Nelson was being awarded the Presidential Medal of Freedom ).
+(Senator [[ Nelson | /m/01dpb_ ]] was being awarded the [[ Presidential Medal of Freedom | /m/05qck ]] ).
 (Senator NN
 Nelson NNP
 was VBD
@@ -5996,7 +5996,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-When Senator Nelson received the Presidential Medal of Freedom in 1995, President Clinton
+When Senator [[ Nelson | /m/01dpb_ ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1995, President [[ Clinton | /m/0157m ]]
 When WRB
 Senator NNP
 Nelson NNP
@@ -6013,7 +6013,7 @@ Clinton NNP
 Presidential Medal of Freedom
 
 
-President John F. Kennedy also recognized White ?s writing with a Presidential Medal of Freedom in 1963
+President [[ John F. Kennedy | /m/0d3k14 ]] also recognized [[ White | /m/02nj6 ]] ?s writing with a [[ Presidential Medal of Freedom | /m/05qck ]] in 1963
 President NNP
 John NNP
 F. NNP
@@ -6034,7 +6034,7 @@ in IN
 Presidential Medal of Freedom
 
 
-President John F. Kennedy formally established the Medal of Freedom honor by executive order in 1963.
+President [[ John F. Kennedy | /m/0d3k14 ]] formally established the [[ Medal of Freedom | /m/05qck ]] honor by executive order in 1963.
 President NNP
 John NNP
 F. NNP
@@ -6054,7 +6054,7 @@ in IN
 Medal of Freedom
 
 
-In 1963 President Kennedy awarded Ralph Bunche the Medal of Freedom 
+In 1963 President [[ Kennedy | /m/0d3k14 ]] awarded [[ Ralph Bunche | /m/01tyq5 ]] the [[ Medal of Freedom | /m/05qck ]] 
 In IN
 1963 CD
 President NNP
@@ -6069,7 +6069,7 @@ Freedom NNP
 Medal of Freedom
 
 
-An honored leader, Bunche was given the Medal of Freedom by President John F. Kennedy in 1963
+An honored leader, [[ Bunche | /m/0x67 ]] was given the [[ Medal of Freedom | /m/05qck ]] by President [[ John F. Kennedy | /m/0d3k14 ]] in 1963
 An DT
 honored JJ
 leader, NN
@@ -6090,7 +6090,7 @@ in IN
 Medal of Freedom
 
 
-He survived it and received the Medal of Freedom from fellow WWII veteran John F. Kennedy 
+He survived it and received the [[ Medal of Freedom | /m/05qck ]] from fellow [[ WWII | /m/081pw ]] veteran [[ John F. Kennedy | /m/0d3k14 ]] 
 He PRP
 survived VBD
 it PRP
@@ -6110,7 +6110,7 @@ Kennedy NNP
 Medal of Freedom
 
 
-ceremony when Kennedy awarded the Medal of Freedom to George Gobel
+ceremony when [[ Kennedy | /m/0d3k14 ]] awarded the [[ Medal of Freedom | /m/05qck ]] to George Gobel
 ceremony NN
 when WRB
 Kennedy NNP
@@ -6125,7 +6125,7 @@ Gobel NNP
 Medal of Freedom
 
 
-In 1963 Conant was awarded the Presidential Medal of Freedom by President John F. Kennedy 
+In 1963 [[ Conant | /m/01zrjk ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ John F. Kennedy | /m/0d3k14 ]] 
 In IN
 1963 CD
 Conant NNP
@@ -6144,7 +6144,7 @@ Kennedy NNP
 Presidential Medal of Freedom
 
 
-Wyeth received the Presidential Medal of Freedom from President Kennedy in 1963, and President Nixon
+[[ Wyeth | /m/02nnn_ ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Kennedy | /m/0d3k14 ]] in 1963, and President [[ Nixon | /m/06c97 ]]
 Wyeth NNP
 received VBD
 the DT
@@ -6163,7 +6163,7 @@ Nixon NNP
 Presidential Medal of Freedom
 
 
-President Kennedy was given the Presidential Medal of Freedom after his death
+President [[ Kennedy | /m/0d3k14 ]] was given the [[ Presidential Medal of Freedom | /m/05qck ]] after his death
 President NNP
 Kennedy NNP
 was VBD
@@ -6179,7 +6179,7 @@ death NN
 Presidential Medal of Freedom
 
 
-Kennedy inaugurated the Presidential Medal of Freedom for musicians
+[[ Kennedy | /m/0d3k14 ]] inaugurated the [[ Presidential Medal of Freedom | /m/05qck ]] for musicians
 Kennedy NNP
 inaugurated VBD
 the DT
@@ -6192,7 +6192,7 @@ musicians NNS
 Presidential Medal of Freedom
 
 
-Also, President Johnson awarded the Presidential Medal of Freedom posthumously to President John Fitzgerald Kennedy .
+Also, President [[ Johnson | /m/04xkpd ]] awarded the [[ Presidential Medal of Freedom | /m/05qck ]] posthumously to President [[ John Fitzgerald Kennedy | /m/0d3k14 ]] .
 Also, NNP
 President NNP
 Johnson NNP
@@ -6212,7 +6212,7 @@ Kennedy NNP
 Presidential Medal of Freedom
 
 
-President John F. Kennedy awarded Wyeth the Presidential Medal of Freedom in 1963, and in 1970, President Richard Nixon
+President [[ John F. Kennedy | /m/0d3k14 ]] awarded [[ Wyeth | /m/02nnn_ ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 1963, and in 1970, President [[ Richard Nixon | /m/06c97 ]]
 President NNP
 John NNP
 F. NNP
@@ -6235,7 +6235,7 @@ Nixon NNP
 Presidential Medal of Freedom
 
 
-In 2000, Edelman received the Presidential Medal of Freedom , the nation's highest civilian award, and the Robert F. Kennedy
+In 2000, [[ Edelman | /m/03bgw3 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award, and the [[ Robert F. Kennedy | /m/06hx2 ]]
 In IN
 2000, CD
 Edelman NNP
@@ -6259,7 +6259,7 @@ Kennedy NNP
 Presidential Medal of Freedom
 
 
-In 2000, President BILL CLINTON awarded Edelman the Presidential Medal of Freedom , the nation's highest civilian award
+In 2000, President [[ BILL CLINTON | /m/0157m ]] awarded [[ Edelman | /m/03bgw3 ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
 In IN
 2000, CD
 President NNP
@@ -6281,7 +6281,7 @@ award NN
 Presidential Medal of Freedom
 
 
-O'Keeffe received the Presidential Medal of Freedom from in 1977 and the National Medal of Arts from in 1985
+[[ O'Keeffe | /m/01t807 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from in 1977 and the [[ National Medal of Arts | /m/03fkrc ]] from in 1985
 O'Keeffe NNP
 received VBD
 the DT
@@ -6305,7 +6305,7 @@ Presidential Medal of Freedom
 National Medal of Arts
 
 
-2005: Paul Harvey  receives the Medal of Freedom 
+2005: [[ Paul Harvey | /m/027qnb ]]  receives the [[ Medal of Freedom | /m/05qck ]] 
 2005: CD
 Paul NNP
 Harvey NNP
@@ -6317,7 +6317,7 @@ Freedom NNP
 Medal of Freedom
 
 
-The boycott announcement specifically cites radio legend and Presidential Medal of Freedom winner Paul Harvey , as well as popular talker Doug McIntyre .
+The boycott announcement specifically cites radio legend and [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Paul Harvey | /m/027qnb ]] , as well as popular talker [[ Doug McIntyre | /m/04x60n ]] .
 The DT
 boycott NN
 announcement NN
@@ -6345,7 +6345,7 @@ McIntyre NNP
 Presidential Medal of Freedom
 
 
-The boycott announcement specifically cites radio legend and Presidential Medal of Freedom winner Paul Harvey , as well as popular talker Doug McIntyre 
+The boycott announcement specifically cites radio legend and [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Paul Harvey | /m/027qnb ]] , as well as popular talker [[ Doug McIntyre | /m/04x60n ]] 
 The DT
 boycott NN
 announcement NN
@@ -6372,7 +6372,7 @@ McIntyre NNP
 Presidential Medal of Freedom
 
 
-President Reagan awarded Eric Hoffer the Presidential Medal of Freedom in 1983.
+President [[ Reagan | /m/06c0j ]] awarded [[ Eric Hoffer | /m/02lzx ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 1983.
 President NNP
 Reagan NNP
 awarded VBD
@@ -6388,7 +6388,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Hoffer received the Presidential Medal of Freedom for his work.
+[[ Hoffer | /m/02lzx ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his work.
 Hoffer NNP
 received VBD
 the DT
@@ -6402,7 +6402,7 @@ work. NN
 Presidential Medal of Freedom
 
 
-In 1973, President Ronald Reagan awarded Hoffer the Presidential Medal of Freedom .
+In 1973, President [[ Ronald Reagan | /m/06c0j ]] awarded [[ Hoffer | /m/02lzx ]] the [[ Presidential Medal of Freedom | /m/05qck ]] .
 In IN
 1973, CD
 President NNP
@@ -6419,7 +6419,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Eric Hoffer , American Philosopher and Author was awarded the Presidential Medal of Freedom by President Ronald Reagan in 1983.
+[[ Eric Hoffer | /m/02lzx ]] , American Philosopher and [[ Author | /m/0kyk ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Ronald Reagan | /m/06c0j ]] in 1983.
 Eric NNP
 Hoffer NNP
 , ,
@@ -6443,7 +6443,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Steinbeck was awarded the Nobel Prize for literature in 1962 and received the Presidential Medal of Freedom from President Lyndon B. Johnson in 1964
+[[ Steinbeck | /m/04107 ]] was awarded the [[ Nobel Prize | /m/059x1 ]] for literature in 1962 and received the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Lyndon B. Johnson | /m/0f7fy ]] in 1964
 Steinbeck NNP
 was VBD
 awarded VBN
@@ -6471,7 +6471,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In September of 1964, Steinbeck was awarded the United States Medal of Freedom by President Lyndon B. Johnson
+In September of 1964, [[ Steinbeck | /m/04107 ]] was awarded the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Lyndon B. Johnson | /m/0f7fy ]]
 In IN
 September NNP
 of IN
@@ -6493,7 +6493,7 @@ Johnson NNP
 United States Medal of Freedom
 
 
-In 1964, Steinbeck was awarded the United States Medal of Freedom by President Johnson .
+In 1964, [[ Steinbeck | /m/04107 ]] was awarded the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Johnson | /m/04xkpd ]] .
 In IN
 1964, CD
 Steinbeck NNP
@@ -6512,7 +6512,7 @@ Johnson NNP
 United States Medal of Freedom
 
 
-Earlier, in September 1964, Steinbeck had been awarded the United States Medal of Freedom by President Johnson
+Earlier, in September 1964, [[ Steinbeck | /m/04107 ]] had been awarded the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Johnson | /m/0f7fy ]]
 Earlier, NNP
 in IN
 September NNP
@@ -6533,7 +6533,7 @@ Johnson NNP
 United States Medal of Freedom
 
 
-In 1964, Steinbeck was awarded the United States Medal of Freedom by President Johnson 
+In 1964, [[ Steinbeck | /m/04107 ]] was awarded the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Johnson | /m/0f7fy ]] 
 In IN
 1964, CD
 Steinbeck NNP
@@ -6551,7 +6551,7 @@ Johnson NNP
 United States Medal of Freedom
 
 
-Steinbeck received the Nobel Prize in Literature in 1962, and, in 1964, he was presented with the United States Medal of Freedom by President Lyndon B. Johnson 
+[[ Steinbeck | /m/04107 ]] received the [[ Nobel Prize in Literature | /m/0ddd9 ]] in 1962, and, in 1964, he was presented with the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Lyndon B. Johnson | /m/0f7fy ]] 
 Steinbeck NNP
 received VBD
 the DT
@@ -6583,7 +6583,7 @@ Nobel Prize in Literature
 United States Medal of Freedom
 
 
-In 1964, Steinbeck was awarded the United States Medal of Freedom by President Johnson .
+In 1964, [[ Steinbeck | /m/04107 ]] was awarded the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Johnson | /m/0f7fy ]] .
 In IN
 1964, CD
 Steinbeck NNP
@@ -6602,7 +6602,7 @@ Johnson NNP
 United States Medal of Freedom
 
 
-Steinbeck received the Nobel Prize in Literature in 1962 and in 1964 he was presented with the United States Medal of Freedom by President Lyndon B. Johnson 
+[[ Steinbeck | /m/04107 ]] received the [[ Nobel Prize in Literature | /m/0ddd9 ]] in 1962 and in 1964 he was presented with the [[ United States Medal of Freedom | /m/05qck ]] by President [[ Lyndon B. Johnson | /m/0f7fy ]] 
 Steinbeck NNP
 received VBD
 the DT
@@ -6634,7 +6634,7 @@ Nobel Prize in Literature
 United States Medal of Freedom
 
 
-In '00, Taylor was awarded the Presidential Medal of Freedom .
+In '00, [[ Taylor | /m/027c3hv ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] .
 In IN
 '00, CD
 Taylor NNP
@@ -6649,7 +6649,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Rev. Taylor receiving the Medal of Freedom in 2000
+Rev. [[ Taylor | /m/027c3hv ]] receiving the [[ Medal of Freedom | /m/05qck ]] in 2000
 Rev. NNP
 Taylor NNP
 receiving VBG
@@ -6662,7 +6662,7 @@ in IN
 Medal of Freedom
 
 
-On August 9, Galbraith went to Washington to receive a Presidential Medal of Freedom 
+On August 9, [[ Galbraith | /m/0lgrs ]] went to [[ Washington | /m/0rh6k ]] to receive a [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 August NNP
 9, CD
@@ -6680,7 +6680,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Dr. Patz received the Presidential Medal of Freedom from President Bush in June.
+Dr. [[ Patz | /m/0bmj5m5 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Bush | /m/09b6zr ]] in June.
 Dr. NNP
 Patz NNP
 received VBD
@@ -6697,7 +6697,7 @@ June. NNP
 Presidential Medal of Freedom
 
 
-Dr. Patz recently received the Presidential Medal of Freedom from President Bush .
+Dr. [[ Patz | /m/0bmj5m5 ]] recently received the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Bush | /m/09b6zr ]] .
 Dr. NNP
 Patz NNP
 recently RB
@@ -6714,7 +6714,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-Two-time Newbery Honor author Alice Dalgliesh makes history come alive in this accessible story of America 's birthday.
+Two-time [[ Newbery Honor | /m/01cd7p ]] author [[ Alice Dalgliesh | /m/0288kjb ]] makes history come alive in this accessible story of [[ America | /m/01pq12 ]] 's birthday.
 Two-time JJ
 Newbery NNP
 Honor NNP
@@ -6735,7 +6735,7 @@ America NNP
 birthday. NN
 
 
-About this title: Two-time Newbery Honor author Alice Dalgliesh makes history come alive in this accessible story of America 's birthday.
+About this title: Two-time [[ Newbery Honor | /m/01cd7p ]] author [[ Alice Dalgliesh | /m/0288kjb ]] makes history come alive in this accessible story of [[ America | /m/09c7w0 ]] 's birthday.
 About IN
 this DT
 title: JJ
@@ -6759,7 +6759,7 @@ America NNP
 birthday. NN
 
 
-That year, President Jimmy Carter awarded Cronkite the Presidential Medal of Freedom 
+That year, President [[ Jimmy Carter | /m/042kg ]] awarded [[ Cronkite | /m/016bxh ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 That DT
 year, VBZ
 President NNP
@@ -6775,7 +6775,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Hyde received the Presidential Medal of Freedom , the nation's highest civilian honor, on November 5, 2007 shortly after his retirement.
+[[ Hyde | /m/0256fy ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor, on November 5, 2007 shortly after his retirement.
 Hyde NNP
 received VBD
 the DT
@@ -6800,7 +6800,7 @@ retirement. NN
 Presidential Medal of Freedom
 
 
-Hyde received the Presidential Medal of Freedom , the nation?s highest civilian honor, on November 5, 2007 shortly after his retirement
+[[ Hyde | /m/0256fy ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor, on November 5, 2007 shortly after his retirement
 Hyde NNP
 received VBD
 the DT
@@ -6825,7 +6825,7 @@ retirement NN
 Presidential Medal of Freedom
 
 
-President Bush awarded Hyde with the Presidential Medal of Freedom just a few weeks ago, on Nov. 5.
+President [[ Bush | /m/09b6zr ]] awarded [[ Hyde | /m/0256fy ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] just a few weeks ago, on Nov. 5.
 President NNP
 Bush NNP
 awarded VBD
@@ -6847,7 +6847,7 @@ Nov. NNP
 Presidential Medal of Freedom
 
 
-Sennett was awarded an honorary Academy Award in 1937  for his lasting contribution to the comedy technique of the screen. 
+[[ Sennett | /m/04rg6 ]] was awarded an [[ honorary Academy Award | /m/018v4d ]] in 1937  for his lasting contribution to the comedy technique of the screen. 
 Sennett NNP
 was VBD
 awarded VBN
@@ -6871,7 +6871,7 @@ screen. NN
 honorary Academy Award
 
 
-Nixon celebrates Duke Ellington 's birthday and awards Ellington the Presidential Medal of Freedom 
+[[ Nixon | /m/06c97 ]] celebrates [[ Duke Ellington | /m/0bdlj ]] 's birthday and awards [[ Ellington | /m/0bdlj ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Nixon NNP
 celebrates VBZ
 Duke NNP
@@ -6889,7 +6889,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Nixon also awarded Ellington the Medal of Freedom that night
+[[ Nixon | /m/06c97 ]] also awarded [[ Ellington | /m/0bdlj ]] the [[ Medal of Freedom | /m/05qck ]] that night
 Nixon NNP
 also RB
 awarded VBD
@@ -6903,7 +6903,7 @@ night NN
 Medal of Freedom
 
 
-In 1969, during his 70th birthday party at the White House , President Nixon awarded Duke Ellington the Presidential Medal of Freedom 
+In 1969, during his 70th birthday party at the [[ White House | /m/081sq ]] , President [[ Nixon | /m/06c97 ]] awarded [[ Duke Ellington | /m/0bdlj ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1969, CD
 during IN
@@ -6929,7 +6929,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1980 Rachel Carson was posthumously awarded the Presidential Medal of Freedom , the highest civilian award in America .
+In 1980 [[ Rachel Carson | /m/0kzfp ]] was posthumously awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian award in [[ America | /m/09c7w0 ]] .
 In IN
 1980 CD
 Rachel NNP
@@ -6953,7 +6953,7 @@ America NNP
 Presidential Medal of Freedom
 
 
-In 1980, Carson was awarded the Presidential Medal of Freedom , posthumously
+In 1980, [[ Carson | /m/0kzfp ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , posthumously
 In IN
 1980, CD
 Carson NNP
@@ -6969,7 +6969,7 @@ posthumously RB
 Presidential Medal of Freedom
 
 
-One of those books they will be reading for history is the Newberry Honor book The Golden Goblet , by Eloise Jarvis McGraw .
+One of those books they will be reading for history is the [[ Newberry Honor | /m/01cd7p ]] book [[ The Golden Goblet | /m/02q0zr6 ]] , by [[ Eloise Jarvis McGraw | /m/02s3lq ]] .
 One CD
 of IN
 those DT
@@ -6997,7 +6997,7 @@ McGraw NNP
 The Golden Goblet
 
 
-books, including The Rundlestone of Oz by Newbery Honor author Eloise McGraw .
+books, including The Rundlestone of [[ Oz | /m/02z3196 ]] by [[ Newbery Honor | /m/01cd7p ]] author [[ Eloise McGraw | /m/02s3lq ]] .
 books, NN
 including VBG
 The DT
@@ -7013,7 +7013,7 @@ McGraw NNP
 . .
 
 
-Frankel is again a finalist for the Eclipse Award for Outstanding Trainer for 2008
+[[ Frankel | /m/04g_41 ]] is again a finalist for the [[ Eclipse Award for Outstanding Trainer | /m/0f7s60 ]] for 2008
 Frankel NNP
 is VBZ
 again RB
@@ -7031,7 +7031,7 @@ for IN
 Eclipse Award for Outstanding Trainer
 
 
-In 1950 the Academy of Motion Picture Arts and Sciences awarded Kodak with a Scientific and Technical Academy Award  for the safer triacetate stock.[28
+In 1950 the [[ Academy of Motion Picture Arts and Sciences | /m/09xwz ]] awarded [[ Kodak | /m/0ftdd ]] with a [[ Scientific and Technical Academy Award | /m/058zj8 ]]  for the safer triacetate stock.[28
 In IN
 1950 CD
 the DT
@@ -7060,7 +7060,7 @@ Academy of Motion Picture Arts and Sciences
 Scientific and Technical Academy Award
 
 
-In 1950 the Academy of Motion Picture Arts and Sciences awarded Kodak with a Scientific and Technical Academy Award  for the safer triacetate stock.28
+In 1950 the [[ Academy of Motion Picture Arts and Sciences | /m/09xwz ]] awarded [[ Kodak | /m/0ftdd ]] with a [[ Scientific and Technical Academy Award | /m/058zj8 ]]  for the safer triacetate stock.28
 In IN
 1950 CD
 the DT
@@ -7089,7 +7089,7 @@ Academy of Motion Picture Arts and Sciences
 Scientific and Technical Academy Award
 
 
-  On December 15, 2006, President George W. Bush awarded King the Presidential Medal of Freedom 
+  On December 15, 2006, President [[ George W. Bush | /m/09b6zr ]] awarded [[ King | /m/01w60_p ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 December NNP
 15, CD
@@ -7109,7 +7109,7 @@ King
 Presidential Medal of Freedom
 
 
-On December 15, 2006, President George W. Bush awarded King the Presidential Medal of Freedom 
+On December 15, 2006, President [[ George W. Bush | /m/09b6zr ]] awarded [[ King | /m/01w60_p ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 December NNP
 15, CD
@@ -7129,7 +7129,7 @@ King
 Presidential Medal of Freedom
 
 
-Last, President Bush awarded BB King the Presidential Medal of Freedom for his musical contributions.
+Last, President [[ Bush | /m/09b6zr ]] awarded [[ BB King | /m/01w60_p ]] the [[ Presidential Medal of Freedom | /m/05qck ]] for his musical contributions.
 Last, NNP
 President NNP
 Bush NNP
@@ -7148,7 +7148,7 @@ contributions. NN
 Presidential Medal of Freedom
 
 
-BB King has been awarded the Medal of Freedom 
+[[ BB King | /m/01w60_p ]] has been awarded the [[ Medal of Freedom | /m/05qck ]] 
 BB NNP
 King NNP
 has VBZ
@@ -7161,7 +7161,7 @@ Freedom NNP
 Medal of Freedom
 
 
-BB King has been awarded the Medal of Freedom .
+[[ BB King | /m/01w60_p ]] has been awarded the [[ Medal of Freedom | /m/05qck ]] .
 BB NNP
 King NNP
 has VBZ
@@ -7175,7 +7175,7 @@ Freedom NNP
 Medal of Freedom
 
 
-President George Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work
+President [[ George Bush | /m/09b6zr ]] awarded [[ Cerf | /m/07z23 ]] and [[ Kahn | /m/01_z5v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] for their work
 President NNP
 George NNP
 Bush NNP
@@ -7194,7 +7194,7 @@ work NN
 Presidential Medal of Freedom
 
 
-November also saw Bob Kahn and Vinton Cerf awarded the Presidential Medal of Freedom for their pioneering work on Internet protocols.
+November also saw [[ Bob Kahn | /m/01_z5v ]] and [[ Vinton Cerf | /m/07z23 ]] awarded the [[ Presidential Medal of Freedom | /m/05qck ]] for their pioneering work on Internet protocols.
 November NNP
 also RB
 saw VBD
@@ -7219,7 +7219,7 @@ protocols. NN
 Presidential Medal of Freedom
 
 
-Im Jahr 2005 erhielten Vinton Cerf und Robert Kahn die h?chste zivile Ehrung der USA , die Presidential Medal of Freedom 
+Im Jahr 2005 erhielten [[ Vinton Cerf | /m/07z23 ]] und [[ Robert Kahn | /m/01_z5v ]] die h?chste zivile Ehrung der [[ USA | /m/09c7w0 ]] , die [[ Presidential Medal of Freedom | /m/05qck ]] 
 Im NNP
 Jahr NNP
 2005 CD
@@ -7244,7 +7244,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In November 2005, President George W. Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work
+In November 2005, President [[ George W. Bush | /m/09b6zr ]] awarded [[ Cerf | /m/07z23 ]] and [[ Kahn | /m/01_z5v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] for their work
 In IN
 November NNP
 2005, CD
@@ -7267,7 +7267,7 @@ work NN
 Presidential Medal of Freedom
 
 
-On November 9, 2005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture.
+On November 9, 2005 [[ Kahn | /m/01_z5v ]] and [[ Cerf | /m/07z23 ]] were presented with the [[ Presidential Medal of Freedom | /m/05qck ]] for their contribution to [[ American | /m/09c7w0 ]] culture.
 On IN
 November NNP
 9, CD
@@ -7292,7 +7292,7 @@ culture. NN
 Presidential Medal of Freedom
 
 
-George Bush announced that Robert Kahn and Vint Cerf will receive the Presidential Medal of Freedom , which is the nation?s highest civil award
+[[ George Bush | /m/09b6zr ]] announced that [[ Robert Kahn | /m/01_z5v ]] and [[ Vint Cerf | /m/07z23 ]] will receive the [[ Presidential Medal of Freedom | /m/05qck ]] , which is the nation?s highest civil award
 George NNP
 Bush NNP
 announced VBD
@@ -7320,7 +7320,7 @@ award NN
 Presidential Medal of Freedom
 
 
-Kahn and Cerf were honored with the Presidential Medal of Freedom on November 9, 2005 for their contribution to American culture
+[[ Kahn | /m/01_z5v ]] and [[ Cerf | /m/07z23 ]] were honored with the [[ Presidential Medal of Freedom | /m/05qck ]] on November 9, 2005 for their contribution to [[ American | /m/09c7w0 ]] culture
 Kahn NNP
 and CC
 Cerf NNP
@@ -7346,7 +7346,7 @@ Presidential Medal of Freedom
 American
 
 
-Cerf co-wrote the TCP/IP protocol with Robert Kahn , who also received the Medal of Freedom this year.
+[[ Cerf | /m/07z23 ]] co-wrote the TCP/IP protocol with [[ Robert Kahn | /m/01_z5v ]] , who also received the [[ Medal of Freedom | /m/05qck ]] this year.
 Cerf NNP
 co-wrote VBP
 the DT
@@ -7368,7 +7368,7 @@ year. NN
 Medal of Freedom
 
 
-On November 9, 2005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture
+On November 9, 2005 [[ Kahn | /m/01_z5v ]] and [[ Cerf | /m/07z23 ]] were presented with the [[ Presidential Medal of Freedom | /m/05qck ]] for their contribution to [[ American | /m/09c7w0 ]] culture
 On IN
 November NNP
 9, CD
@@ -7394,7 +7394,7 @@ Presidential Medal of Freedom
 American
 
 
-In November 2005, President George Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work.
+In November 2005, President [[ George Bush | /m/09b6zr ]] awarded [[ Cerf | /m/07z23 ]] and [[ Kahn | /m/01_z5v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] for their work.
 In IN
 November NNP
 2005, CD
@@ -7416,7 +7416,7 @@ work. NN
 Presidential Medal of Freedom
 
 
-On November 92005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture
+On November 92005 [[ Kahn | /m/01_z5v ]] and [[ Cerf | /m/07z23 ]] were presented with the [[ Presidential Medal of Freedom | /m/05qck ]] for their contribution to [[ American | /m/09c7w0 ]] culture
 On IN
 November NNP
 92005 CD
@@ -7441,7 +7441,7 @@ Presidential Medal of Freedom
 American
 
 
-In November 2005, President George Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work
+In November 2005, President [[ George Bush | /m/09b6zr ]] awarded [[ Cerf | /m/07z23 ]] and [[ Kahn | /m/01_z5v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] for their work
 In IN
 November NNP
 2005, CD
@@ -7463,7 +7463,7 @@ work NN
 Presidential Medal of Freedom
 
 
-Anyway, Amazon keeps recommending Rules by Cynthia Lord , which was a recent Newbery Honor Book .
+Anyway, [[ Amazon | /m/01cd7p ]] keeps recommending Rules by [[ Cynthia Lord | /m/027w6p1 ]] , which was a recent [[ Newbery Honor Book | /m/01cd7p ]] .
 Anyway, NNP
 Amazon NNP
 keeps VBZ
@@ -7483,7 +7483,7 @@ Book NNP
 . .
 
 
-Cynthia Lord has a Newbery HONOR and a Schneider Family Book Award.
+[[ Cynthia Lord | /m/027w6p1 ]] has a [[ Newbery HONOR | /m/01cd7p ]] and a Schneider Family Book Award.
 Cynthia NNP
 Lord NNP
 has VBZ
@@ -7498,7 +7498,7 @@ Book NNP
 Award. NNP
 
 
-Others, most notably our wonderful faculty like Newbery Honor winner? Cynthia Lord
+Others, most notably our wonderful faculty like [[ Newbery Honor | /m/01cd7p ]] winner? [[ Cynthia Lord | /m/027w6p1 ]]
 Others, NNP
 most RBS
 notably RB
@@ -7513,7 +7513,7 @@ Cynthia NNP
 Lord NNP
 
 
-The Witch of Blackbird Pond is a novel by Elizabeth George Speare that was awarded the Newbery Medal in 1959.
+The [[ Witch of Blackbird Pond | /m/07w6yt ]] is a novel by [[ Elizabeth George Speare | /m/027vv8 ]] that was awarded the [[ Newbery Medal | /m/01cd7p ]] in 1959.
 The DT
 Witch NNP
 of IN
@@ -7537,7 +7537,7 @@ in IN
 Witch of Blackbird Pond
 
 
-(by Newbery Medal winner Elizabeth George Speare )
+(by [[ Newbery Medal | /m/01cd7p ]] winner [[ Elizabeth George Speare | /m/027vv8 ]] )
 (by JJ
 Newbery NNP
 Medal NNP
@@ -7548,7 +7548,7 @@ Speare NNP
 ) )
 
 
-Sinatra received honors at the Kennedy Center in 1983 and the Presidential Medal of Freedom in 1995.
+[[ Sinatra | /m/02_fj ]] received honors at the [[ Kennedy Center | /m/021jng ]] in 1983 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 1995.
 Sinatra NNP
 received VBD
 honors NNS
@@ -7569,7 +7569,7 @@ in IN
 Presidential Medal of Freedom
 
 
-When Frank Sinatra was awarded the Medal of Freedom , Trudeau ran a series on the singer's mob ties
+When [[ Frank Sinatra | /m/02_fj ]] was awarded the [[ Medal of Freedom | /m/05qck ]] , [[ Trudeau | /m/037w1 ]] ran a series on the singer's mob ties
 When WRB
 Frank NNP
 Sinatra NNP
@@ -7592,7 +7592,7 @@ ties NNS
 Medal of Freedom
 
 
-Louisville defensive end Elvis Dumervil won the 2005 Bronko Nagurski Trophy .
+[[ Louisville | /m/0f__1 ]] defensive end [[ Elvis Dumervil | /m/0cx098 ]] won the 2005 [[ Bronko Nagurski Trophy | /m/022tpt ]] .
 Louisville NNP
 defensive JJ
 end NN
@@ -7607,7 +7607,7 @@ Trophy NNP
 . .
 
 
-Last season Louisville end Elvis Dumervil won the coveted Bronko Nagurski Trophy during the 11th season the FWAA has named a Defensive Player of the Year 
+Last season [[ Louisville | /m/0f__1 ]] end [[ Elvis Dumervil | /m/0cx098 ]] won the coveted [[ Bronko Nagurski Trophy | /m/022tpt ]] during the 11th season the FWAA has named a [[ Defensive Player of the Year | /m/031mv0 ]] 
 Last JJ
 season NN
 Louisville NNP
@@ -7637,7 +7637,7 @@ Year NN
 Defensive Player of the Year
 
 
-Louisville defensive end Elvis Dumervil made the team as the Bronko Nagurski Trophy winner 
+[[ Louisville | /m/03tzky ]] defensive end [[ Elvis Dumervil | /m/0cx098 ]] made the team as the [[ Bronko Nagurski Trophy | /m/022tpt ]] winner 
 Louisville NNP
 defensive JJ
 end NN
@@ -7654,7 +7654,7 @@ Trophy NNP
 winner NN
 
 
-Dr. Hamburg received the American Psychiatric Association 's Distinguished Service Award in 199l and the Presidential Medal of Freedom in 1996.
+Dr. [[ Hamburg | /m/05l1yr0 ]] received the [[ American Psychiatric Association | /m/01595g ]] 's Distinguished Service Award in 199l and the [[ Presidential Medal of Freedom | /m/05qck ]] in 1996.
 Dr. NNP
 Hamburg NNP
 received VBD
@@ -7679,7 +7679,7 @@ in IN
 Presidential Medal of Freedom
 
 
-The Illustrated Mum  by Jacqueline Wilson won the Children's Book of the Year prize  and the Guardian Children's Fiction Award .
+The Illustrated Mum  by [[ Jacqueline Wilson | /m/04b3ym ]] won the [[ Children's Book | /m/0dwly ]] of the Year prize  and the [[ Guardian Children's Fiction Award | /m/02r0d0 ]] .
 The DT
 Illustrated NNP
 Mum NNP
@@ -7703,7 +7703,7 @@ Award NNP
 . .
 
 
-Elvis 's live recording of   How Great Thou Art   in 1975 receives the Grammy for Best Inspirational Performance 
+[[ Elvis | /m/02jq1 ]] 's live recording of   [[ How Great Thou Art | /m/0263q_g ]]   in 1975 receives the [[ Grammy | /m/0c4ys ]] for [[ Best Inspirational Performance | /m/02f7pm ]] 
 Elvis NNP
 's POS
 live JJ
@@ -7724,7 +7724,7 @@ Inspirational NNP
 Performance NN
 
 
-In 2004, under Carruthers ' leadership, All My Children earned an Outstanding Drama Series nomination at the Daytime Emmys .
+In 2004, under [[ Carruthers | /m/02608mt ]] ' leadership, [[ All My Children | /m/0gj50 ]] earned an [[ Outstanding Drama Series | /m/027qq9b ]] nomination at the [[ Daytime Emmys | /m/035nn3 ]] .
 In IN
 2004, CD
 under IN
@@ -7747,7 +7747,7 @@ Emmys NNP
 . .
 
 
-To his credit, Mr Tony Blair struck a mildly hangdog look as the Presidential Medal of Freedom was placed around his neck
+To his credit, Mr [[ Tony Blair | /m/0948xk ]] struck a mildly hangdog look as the [[ Presidential Medal of Freedom | /m/05qck ]] was placed around his neck
 To TO
 his PRP$
 credit, NN
@@ -7773,7 +7773,7 @@ neck NN
 Presidential Medal of Freedom
 
 
-To his credit, Mr Tony Blair struck a mildly hangdog look as the Presidential Medal of Freedom was placed around his neck.
+To his credit, Mr [[ Tony Blair | /m/0948xk ]] struck a mildly hangdog look as the [[ Presidential Medal of Freedom | /m/05qck ]] was placed around his neck.
 To TO
 his PRP$
 credit, NN
@@ -7799,7 +7799,7 @@ neck. NN
 Presidential Medal of Freedom
 
 
-Yesterday, Tony Blair was given the Medal of Freedom by President Bush , but there was an awkward moment.
+Yesterday, [[ Tony Blair | /m/0948xk ]] was given the [[ Medal of Freedom | /m/05qck ]] by President [[ Bush | /m/09b6zr ]] , but there was an awkward moment.
 Yesterday, NNP
 Tony NNP
 Blair NNP
@@ -7822,7 +7822,7 @@ moment. NN
 Medal of Freedom
 
 
-Oh and to top it off, Tony Blair receives the Medal of Freedom from frat-boy this week.
+Oh and to top it off, [[ Tony Blair | /m/0948xk ]] receives the [[ Medal of Freedom | /m/05qck ]] from frat-boy this week.
 Oh UH
 and CC
 to TO
@@ -7843,7 +7843,7 @@ week. NN
 Medal of Freedom
 
 
-Tony Blair will receive America 's highest civilian award - the Presidential Medal of Freedom - from George Bush next week.
+[[ Tony Blair | /m/0948xk ]] will receive [[ America | /m/09c7w0 ]] 's highest civilian award - the [[ Presidential Medal of Freedom | /m/05qck ]] - from [[ George Bush | /m/09b6zr ]] next week.
 Tony NNP
 Blair NNP
 will MD
@@ -7868,7 +7868,7 @@ week. NN
 Presidential Medal of Freedom
 
 
-Prime Minister Tony Blair and former Australian leader John Howard was given the Presidential Medal of Freedom
+Prime Minister [[ Tony Blair | /m/0948xk ]] and former [[ Australian | /m/0chghy ]] leader [[ John Howard | /m/0chh05 ]] was given the [[ Presidential Medal of Freedom | /m/05qck ]]
 Prime NNP
 Minister NNP
 Tony NNP
@@ -7890,7 +7890,7 @@ Australian
 Presidential Medal of Freedom
 
 
-Does Tony Blair deserve the Presidential Medal of Freedom 
+Does [[ Tony Blair | /m/0948xk ]] deserve the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Does NNP
 Tony NNP
 Blair NNP
@@ -7903,7 +7903,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-President George W Bush will present Tony Blair with the   Presidential Medal of Freedom  .
+President [[ George W Bush | /m/09b6zr ]] will present [[ Tony Blair | /m/0948xk ]] with the   [[ Presidential Medal of Freedom | /m/05qck ]]  .
 President NNP
 George NNP
 W NNP
@@ -7922,7 +7922,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-George Bush describes Tony Blair as a 'true friend of the US ' as he awards him the Presidential Medal of Freedom .
+[[ George Bush | /m/09b6zr ]] describes [[ Tony Blair | /m/0948xk ]] as a 'true friend of the [[ US | /m/09c7w0 ]] ' as he awards him the [[ Presidential Medal of Freedom | /m/05qck ]] .
 George NNP
 Bush NNP
 describes VBZ
@@ -7949,7 +7949,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Former British prime minister Tony Blair is to become a recipient of the Presidential Medal of Freedom 
+Former [[ British | /m/07ssc ]] prime minister [[ Tony Blair | /m/0948xk ]] is to become a recipient of the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Former JJ
 British JJ
 prime JJ
@@ -7971,7 +7971,7 @@ British
 Presidential Medal of Freedom
 
 
-Mr Blair is very popular in the US and was awarded the Presidential Medal of Freedom 
+Mr [[ Blair | /m/0948xk ]] is very popular in the [[ US | /m/09c7w0 ]] and was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Mr NNP
 Blair NNP
 is VBZ
@@ -7991,7 +7991,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Next week, Blair will arrive in the White House to receive the Presidential Medal of Freedom 
+Next week, [[ Blair | /m/0948xk ]] will arrive in the [[ White House | /m/081sq ]] to receive the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Next JJ
 week, NN
 Blair NNP
@@ -8011,7 +8011,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Does Tony Blair deserve the Presidential Medal of Freedom ?
+Does [[ Tony Blair | /m/0948xk ]] deserve the [[ Presidential Medal of Freedom | /m/05qck ]] ?
 Does NNP
 Tony NNP
 Blair NNP
@@ -8025,7 +8025,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Blair will be presented with the Presidential Medal of Freedom at a White House ceremony on Jan. 13, during President George W. Bush
+[[ Blair | /m/0948xk ]] will be presented with the [[ Presidential Medal of Freedom | /m/05qck ]] at a [[ White House | /m/081sq ]] ceremony on Jan. 13, during President [[ George W. Bush | /m/09b6zr ]]
 Blair NNP
 will MD
 be VB
@@ -8052,7 +8052,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-George Bush presents Tony Blair with the   Presidential Medal of Freedom   and a cracking pair of 38DD implants to play with whenever he visits.
+[[ George Bush | /m/09b6zr ]] presents [[ Tony Blair | /m/0948xk ]] with the   [[ Presidential Medal of Freedom | /m/05qck ]]   and a cracking pair of 38DD implants to play with whenever he visits.
 George NNP
 Bush NNP
 presents VBZ
@@ -8080,7 +8080,7 @@ visits. VBD
 Presidential Medal of Freedom
 
 
-George Bush presents Tony Blair with the   Presidential Medal of Freedom   and a cracking pair of 38DD implants to play with whenever he visits
+[[ George Bush | /m/09b6zr ]] presents [[ Tony Blair | /m/0948xk ]] with the   [[ Presidential Medal of Freedom | /m/05qck ]]   and a cracking pair of 38DD implants to play with whenever he visits
 George NNP
 Bush NNP
 presents VBZ
@@ -8108,7 +8108,7 @@ visits VBZ
 Presidential Medal of Freedom
 
 
-(as opposed to the Presidential Medal of Freedom that Blair picks up at the White House on Tuesday).
+(as opposed to the [[ Presidential Medal of Freedom | /m/05qck ]] that [[ Blair | /m/0948xk ]] picks up at the [[ White House | /m/081sq ]] on Tuesday).
 (as NNS
 opposed VBN
 to TO
@@ -8130,7 +8130,7 @@ Tuesday). NNP
 Presidential Medal of Freedom
 
 
-? President Bush will present Tony Blair with the Medal of Freedom today.
+? President [[ Bush | /m/014k7d ]] will present [[ Tony Blair | /m/0948xk ]] with the [[ Medal of Freedom | /m/05qck ]] today.
 ? .
 President NNP
 Bush NNP
@@ -8147,7 +8147,7 @@ today. NN
 Medal of Freedom
 
 
-Blair is in DC to receive the Medal of Freedom 
+[[ Blair | /m/0948xk ]] is in [[ DC | /m/0rh6k ]] to receive the [[ Medal of Freedom | /m/05qck ]] 
 Blair NNP
 is VBZ
 in IN
@@ -8161,7 +8161,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Here is the citation for the award of the Presidential Medal of Freedom deservedly presented to Tony Blair by President Bush
+Here is the citation for the award of the [[ Presidential Medal of Freedom | /m/05qck ]] deservedly presented to [[ Tony Blair | /m/0948xk ]] by President [[ Bush | /m/09b6zr ]]
 Here RB
 is VBZ
 the DT
@@ -8186,7 +8186,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-Tony Blair received the Presidential Medal of Freedom this week at a quiet ceremony in the East Room of the White House 
+[[ Tony Blair | /m/0948xk ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] this week at a quiet ceremony in the [[ East Room | /m/06_w7p ]] of the [[ White House | /m/081sq ]] 
 Tony NNP
 Blair NNP
 received VBD
@@ -8212,7 +8212,7 @@ House NNP
 Presidential Medal of Freedom
 
 
-Former UK Prime Minister Tony Blair has received the United States ' highest civil award - the Medal of Freedom .
+Former [[ UK | /m/07ssc ]] Prime Minister [[ Tony Blair | /m/0948xk ]] has received the [[ United States | /m/09c7w0 ]] ' highest civil award - the [[ Medal of Freedom | /m/05qck ]] .
 Former NNP
 UK NNP
 Prime NNP
@@ -8237,7 +8237,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Should Tony Blair receive the Presidential Medal of Freedom for aiding the  war on terror ?
+Should [[ Tony Blair | /m/0948xk ]] receive the [[ Presidential Medal of Freedom | /m/05qck ]] for aiding the  war on terror ?
 Should MD
 Tony NNP
 Blair NNP
@@ -8257,7 +8257,7 @@ terror NN
 Presidential Medal of Freedom
 
 
-Next week, Mr Blair will be presented with the Presidential Medal of Freedom by George Bush at the White House .
+Next week, Mr [[ Blair | /m/0948xk ]] will be presented with the [[ Presidential Medal of Freedom | /m/05qck ]] by [[ George Bush | /m/09b6zr ]] at the [[ White House | /m/081sq ]] .
 Next JJ
 week, NN
 Mr NNP
@@ -8282,7 +8282,7 @@ House NNP
 Presidential Medal of Freedom
 
 
-Former PM Tony Blair receives the United States ' highest civil award - the Medal of Freedom - in Washington .
+Former PM [[ Tony Blair | /m/0948xk ]] receives the [[ United States | /m/09c7w0 ]] ' highest civil award - the [[ Medal of Freedom | /m/05qck ]] - in [[ Washington | /m/0rh6k ]] .
 Former NNP
 PM NNP
 Tony NNP
@@ -8307,7 +8307,7 @@ Washington NNP
 Medal of Freedom
 
 
-Philip Pullman joins Japanese illustrator Ryoji Arai as winner of the 2005 Astrid Lindgren Memorial Award 
+[[ Philip Pullman | /m/098sx ]] joins [[ Japanese | /m/03_3d ]] illustrator [[ Ryoji Arai | /m/02qzwgg ]] as winner of the 2005 [[ Astrid Lindgren Memorial Award | /m/02tzwd ]] 
 Philip NNP
 Pullman NNP
 joins VBZ
@@ -8327,7 +8327,7 @@ Award NNP
 Japanese
 
 
-Swiss poet and novelist Carl Spitteler is awarded the Nobel Prize for Literature 
+[[ Swiss | /m/06mzp ]] poet and novelist [[ Carl Spitteler | /m/01jb_2 ]] is awarded the [[ Nobel Prize for Literature | /m/0ddd9 ]] 
 Swiss JJ
 poet NN
 and CC
@@ -8345,7 +8345,7 @@ Swiss
 Nobel Prize for Literature
 
 
-In 1991, President George HW Bush awarded Buckley the Presidential Medal of Freedom 
+In 1991, President [[ George HW Bush | /m/034ls ]] awarded [[ Buckley | /m/01rtf1 ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1991, CD
 President NNP
@@ -8362,7 +8362,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1991, Buckley received the Presidential Medal of Freedom from President George HW Bush 
+In 1991, [[ Buckley | /m/01rtf1 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ George HW Bush | /m/034ls ]] 
 In IN
 1991, CD
 Buckley NNP
@@ -8380,7 +8380,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-As a result of his accomplishments, Sam Walton eventually received the Presidential Medal of Freedom from George HW Bush in 1992
+As a result of his accomplishments, [[ Sam Walton | /m/014brt ]] eventually received the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ George HW Bush | /m/034ls ]] in 1992
 As IN
 a DT
 result NN
@@ -8405,7 +8405,7 @@ in IN
 Presidential Medal of Freedom
 
 
-President George HW Bush awarded Train the Presidential Medal of Freedom in 1991
+President [[ George HW Bush | /m/034ls ]] awarded [[ Train | /m/07jdr ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 1991
 President NNP
 George NNP
 HW NNP
@@ -8422,7 +8422,7 @@ in IN
 Presidential Medal of Freedom
 
 
-George HW Bush awarded Brinkley the Presidential Medal of Freedom , the nation's highest civilian honor
+[[ George HW Bush | /m/034ls ]] awarded [[ Brinkley | /m/01kfth ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 George NNP
 HW NNP
 Bush NNP
@@ -8442,7 +8442,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-For this dedicated service, Vice President Cheney was awarded the Presidential Medal of Freedom by President George HW Bush 
+For this dedicated service, Vice President [[ Cheney | /m/0d0vj4 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ George HW Bush | /m/034ls ]] 
 For IN
 this DT
 dedicated JJ
@@ -8465,7 +8465,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-On January 13, 1993 President George HW Bush awarded Reagan the Presidential Medal of Freedom 
+On January 13, 1993 President [[ George HW Bush | /m/034ls ]] awarded [[ Reagan | /m/06c0j ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 January NNP
 13, CD
@@ -8484,7 +8484,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Also, right after the incident, Clinton awarded Clark the Presidential Medal of Freedom .
+Also, right after the incident, [[ Clinton | /m/0157m ]] awarded [[ Clark | /m/01l64q ]] the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Also, NNP
 right NN
 after IN
@@ -8502,7 +8502,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-WASHINGTON , August 9, 2000 ? Retired Gen. Wesley Clark will receive the Presidential Medal of Freedom from President Bill Clinton
+[[ WASHINGTON | /m/0rh6k ]] , August 9, 2000 ? Retired Gen. [[ Wesley Clark | /m/01l64q ]] will receive the [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Bill Clinton | /m/0157m ]]
 WASHINGTON NNP
 , ,
 August NNP
@@ -8527,7 +8527,7 @@ Clinton NNP
 Presidential Medal of Freedom
 
 
-In 2000, Clark was awarded the Presidential Medal of Freedom , this nation's highest honor
+In 2000, [[ Clark | /m/01l64q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , this nation's highest honor
 In IN
 2000, CD
 Clark NNP
@@ -8546,7 +8546,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-On Aug. 9, in a White House ceremony, Clark was awarded the Presidential Medal of Freedom , the nation's highest civilian honor
+On Aug. 9, in a [[ White House | /m/081sq ]] ceremony, [[ Clark | /m/01l64q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 On IN
 Aug. NNP
 9, CD
@@ -8572,7 +8572,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-In 2000, Clark receives the Presidential Medal of Freedom , the highest award that can be granted to a civilian
+In 2000, [[ Clark | /m/01l64q ]] receives the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest award that can be granted to a civilian
 In IN
 2000, CD
 Clark NNP
@@ -8596,7 +8596,7 @@ civilian JJ
 Presidential Medal of Freedom
 
 
-In 2000, Clark was awarded the Presidential Medal of Freedom , the highest civilian award for distinguished Americans , by President Bill Clinton 
+In 2000, [[ Clark | /m/01l64q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian award for distinguished [[ Americans | /m/09c7w0 ]] , by President [[ Bill Clinton | /m/0157m ]] 
 In IN
 2000, CD
 Clark NNP
@@ -8623,7 +8623,7 @@ Clinton NNP
 Presidential Medal of Freedom
 
 
-Clark was awarded the Presidential Medal of Freedom in August 2000, the nations highest civilian honor
+[[ Clark | /m/01l64q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in August 2000, the nations highest civilian honor
 Clark NNP
 was VBD
 awarded VBN
@@ -8643,7 +8643,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-The Presidential Medal of Freedom , the highest civilian honor in the United States , was awarded to Korematsu in 1998
+The [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] , was awarded to [[ Korematsu | /m/05bn6v ]] in 1998
 The DT
 Presidential NNP
 Medal NNP
@@ -8668,7 +8668,7 @@ in IN
 Presidential Medal of Freedom
 
 
-Five years later, President Bill Clinton awarded Korematsu the nation's highest civilian award, the Presidential Medal of Freedom 
+Five years later, President [[ Bill Clinton | /m/0157m ]] awarded [[ Korematsu | /m/05bn6v ]] the nation's highest civilian award, the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Five CD
 years NNS
 later, RBR
@@ -8690,7 +8690,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Five years later, President Bill Clinton awarded Korematsu the nation's highest civilian award, the Presidential Medal of Freedom .
+Five years later, President [[ Bill Clinton | /m/0157m ]] awarded [[ Korematsu | /m/05bn6v ]] the nation's highest civilian award, the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Five CD
 years NNS
 later, RBR
@@ -8713,7 +8713,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
- In a way, it's a vindication of his position,  Irons said of Korematsu receiving the Medal of Freedom 
+ In a way, it's a vindication of his position,  [[ Irons | /m/02zsmp ]] said of [[ Korematsu | /m/05bn6v ]] receiving the [[ Medal of Freedom | /m/05qck ]] 
 In IN
 a DT
 way, NN
@@ -8735,7 +8735,7 @@ Freedom NNP
 Medal of Freedom
 
 
-In 1998, Fred Korematsu was awarded the Presidential Medal of Freedom , the nation's highest civilian honor
+In 1998, [[ Fred Korematsu | /m/05bn6v ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 In IN
 1998, CD
 Fred NNP
@@ -8756,7 +8756,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-Fred Korematsu receives the Presidential Medal of Freedom by President Clinton on January 15, 1998.
+[[ Fred Korematsu | /m/05bn6v ]] receives the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Clinton | /m/0157m ]] on January 15, 1998.
 Fred NNP
 Korematsu NNP
 receives VBZ
@@ -8775,7 +8775,7 @@ January NNP
 Presidential Medal of Freedom
 
 
-Fred Korematsu receives Presidential Medal of Freedom from President Bill Clinton 
+[[ Fred Korematsu | /m/05bn6v ]] receives [[ Presidential Medal of Freedom | /m/05qck ]] from President [[ Bill Clinton | /m/0157m ]] 
 Fred NNP
 Korematsu NNP
 receives VBZ
@@ -8790,7 +8790,7 @@ Clinton NNP
 Presidential Medal of Freedom
 
 
-In 1998, Fred Korematsu was awarded the Presidential Medal of Freedom by President Bill Clinton ; he died in 2005
+In 1998, [[ Fred Korematsu | /m/05bn6v ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Bill Clinton | /m/0157m ]] ; he died in 2005
 In IN
 1998, CD
 Fred NNP
@@ -8814,7 +8814,7 @@ in IN
 Presidential Medal of Freedom
 
 
-President Clinton awarded Fred Korematsu the Medal of Freedom in 1998
+President [[ Clinton | /m/0157m ]] awarded [[ Fred Korematsu | /m/05bn6v ]] the [[ Medal of Freedom | /m/05qck ]] in 1998
 President NNP
 Clinton NNP
 awarded VBD
@@ -8829,7 +8829,7 @@ in IN
 Medal of Freedom
 
 
-Presidential Medal of Freedom awarded to Fred Korematsu .
+[[ Presidential Medal of Freedom | /m/05qck ]] awarded to [[ Fred Korematsu | /m/05bn6v ]] .
 Presidential JJ
 Medal NNP
 of IN
@@ -8842,7 +8842,7 @@ Korematsu NNP
 Presidential Medal of Freedom
 
 
-President Bill Clinton awarded Fred the Presidential Medal of Freedom 
+President [[ Bill Clinton | /m/0157m ]] awarded [[ Fred | /m/05bn6v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 President NNP
 Bill NNP
 Clinton NNP
@@ -8856,7 +8856,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1998, Fred Korematsu was awarded Presidential Medal of Freedom award, the nation's highest civilian honor
+In 1998, [[ Fred Korematsu | /m/05bn6v ]] was awarded [[ Presidential Medal of Freedom | /m/05qck ]] award, the nation's highest civilian honor
 In IN
 1998, CD
 Fred NNP
@@ -8876,7 +8876,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-In 1998, President Clinton awarded Korematsu the Presidential Medal of Freedom for challenging the Japanese internment
+In 1998, President [[ Clinton | /m/0157m ]] awarded [[ Korematsu | /m/05bn6v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] for challenging the [[ Japanese | /m/03_3d ]] internment
 In IN
 1998, CD
 President NNP
@@ -8897,7 +8897,7 @@ Presidential Medal of Freedom
 Japanese
 
 
-In 1998, Korematsu received the Presidential Medal of Freedom , the nation's highest civilian award
+In 1998, [[ Korematsu | /m/05bn6v ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
 In IN
 1998, CD
 Korematsu NNP
@@ -8916,7 +8916,7 @@ award NN
 Presidential Medal of Freedom
 
 
-1998: Fred Korematsu receives Presidential Medal of Freedom 
+1998: [[ Fred Korematsu | /m/05bn6v ]] receives [[ Presidential Medal of Freedom | /m/05qck ]] 
 1998: CD
 Fred NNP
 Korematsu NNP
@@ -8928,7 +8928,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1998, President Clinton awarded Korematsu the Presidential Medal of Freedom 
+In 1998, President [[ Clinton | /m/0157m ]] awarded [[ Korematsu | /m/05bn6v ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 1998, CD
 President NNP
@@ -8943,7 +8943,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1999, Fred Korematsu was awarded the Presidential Medal of Freedom , the highest civilian honor that anyone can receive
+In 1999, [[ Fred Korematsu | /m/05bn6v ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor that anyone can receive
 In IN
 1999, CD
 Fred NNP
@@ -8967,7 +8967,7 @@ receive VB
 Presidential Medal of Freedom
 
 
-Fred Korematsu stands with President Clinton in January 1998, after Korematsu received the Presidential Medal of Freedom 
+[[ Fred Korematsu | /m/05bn6v ]] stands with President [[ Clinton | /m/0157m ]] in January 1998, after [[ Korematsu | /m/05bn6v ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Fred NNP
 Korematsu NNP
 stands VBZ
@@ -8988,7 +8988,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Mr. Korematsu is also a recipient of the Presidential Medal of Freedom 
+Mr. [[ Korematsu | /m/05bn6v ]] is also a recipient of the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Mr. NNP
 Korematsu NNP
 is VBZ
@@ -9004,7 +9004,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-The Westing Game is a book by Ellen Raskin that was awarded the Newbery Medal in 1979
+The [[ Westing Game | /m/07w5b0 ]] is a book by [[ Ellen Raskin | /m/0556s_ ]] that was awarded the [[ Newbery Medal | /m/01cd7p ]] in 1979
 The DT
 Westing NNP
 Game NNP
@@ -9024,7 +9024,7 @@ in IN
 1979 CD
 
 
-... The Westing Game is a book by Ellen Raskin that was awarded the Newbery Medal in 1979
+... The [[ Westing Game | /m/07w5b0 ]] is a book by [[ Ellen Raskin | /m/0556s_ ]] that was awarded the [[ Newbery Medal | /m/01cd7p ]] in 1979
 ... :
 The DT
 Westing NNP
@@ -9045,7 +9045,7 @@ in IN
 1979 CD
 
 
-The Westing Game is a novel by Ellen Raskin that was awarded the Newbery Medal in 1979.
+[[ The Westing Game | /m/0kv479 ]] is a novel by [[ Ellen Raskin | /m/0556s_ ]] that was awarded the [[ Newbery Medal | /m/01cd7p ]] in 1979.
 The DT
 Westing NNP
 Game NNP
@@ -9066,7 +9066,7 @@ in IN
 The Westing Game
 
 
-Clarke won the Bancroft Prize for the best book on American history in 2005.
+[[ Clarke | /m/05w16qq ]] won the [[ Bancroft Prize | /m/0223xd ]] for the best book on [[ American | /m/09c7w0 ]] history in 2005.
 Clarke NNP
 won VBD
 the DT
@@ -9084,7 +9084,7 @@ in IN
 American
 
 
-Bancroft Prize winners  Erskine Clarke , Odd Arne Westad , and Sean Wilentz 
+[[ Bancroft Prize | /m/0223xd ]] winners  [[ Erskine Clarke | /m/05w16qq ]] , [[ Odd Arne Westad | /m/0gnm6w ]] , and [[ Sean Wilentz | /m/0d2glr ]] 
 Bancroft NNP
 Prize NNP
 winners NNS
@@ -9100,7 +9100,7 @@ Sean NNP
 Wilentz NNP
 
 
-Jack Temple Kirby and Robert D. Richardson have won the prestigious Bancroft Prize for 2007
+[[ Jack Temple Kirby | /m/07k9ycr ]] and [[ Robert D. Richardson | /m/09rv09q ]] have won the prestigious [[ Bancroft Prize | /m/0223xd ]] for 2007
 Jack NNP
 Temple NNP
 Kirby NNP
@@ -9118,7 +9118,7 @@ for IN
 2007 CD
 
 
-President Jimmy Carter awarded Goldberg the prestigious Medal of Freedom in 1978.
+President [[ Jimmy Carter | /m/042kg ]] awarded [[ Goldberg | /m/02mptr ]] the prestigious [[ Medal of Freedom | /m/05qck ]] in 1978.
 President NNP
 Jimmy NNP
 Carter NNP
@@ -9134,7 +9134,7 @@ in IN
 Medal of Freedom
 
 
-Former President Jimmy Carter has called Muhammad Mr. International Friendship and, in 2005, Muhammad was awarded the Presidential Medal of Freedom .
+Former President [[ Jimmy Carter | /m/042kg ]] has called Muhammad Mr. International Friendship and, in 2005, [[ Muhammad | /m/0h353 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] .
 Former NNP
 President NNP
 Jimmy NNP
@@ -9160,7 +9160,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-In 1981, President Jimmy Carter awarded Roger Nash Baldwin the Medal of Freedom .
+In 1981, President [[ Jimmy Carter | /m/042kg ]] awarded [[ Roger Nash Baldwin | /m/04sgs2 ]] the [[ Medal of Freedom | /m/05qck ]] .
 In IN
 1981, CD
 President NNP
@@ -9178,7 +9178,7 @@ Freedom NNP
 Medal of Freedom
 
 
-President Jimmy Carter awarded Mitchell the Medal of Freedom in 1980 for his lifetime battle for civil rights
+President [[ Jimmy Carter | /m/042kg ]] awarded [[ Mitchell | /m/0x67 ]] the [[ Medal of Freedom | /m/05qck ]] in 1980 for his lifetime battle for civil rights
 President NNP
 Jimmy NNP
 Carter NNP
@@ -9200,7 +9200,7 @@ rights NNS
 Medal of Freedom
 
 
-Tuttle was awarded the Presidential Medal of Freedom by President Jimmy Carter in 1980.
+[[ Tuttle | /m/02yrkk ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Jimmy Carter | /m/042kg ]] in 1980.
 Tuttle NNP
 was VBD
 awarded VBN
@@ -9218,7 +9218,7 @@ in IN
 Presidential Medal of Freedom
 
 
-In 1980, President Carter awarded Ansel Adams the Presidential Medal of Freedom , the nation's highest civilian honor
+In 1980, President [[ Carter | /m/042kg ]] awarded [[ Ansel Adams | /m/0lgx0 ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 In IN
 1980, CD
 President NNP
@@ -9240,7 +9240,7 @@ honor NN
 Presidential Medal of Freedom
 
 
-President Jimmy Carter awarded Mitchell the Medal of Freedom in 1980 for his lifetime battle for civil rights.
+President [[ Jimmy Carter | /m/042kg ]] awarded [[ Mitchell | /m/0x67 ]] the [[ Medal of Freedom | /m/05qck ]] in 1980 for his lifetime battle for civil rights.
 President NNP
 Jimmy NNP
 Carter NNP
@@ -9262,7 +9262,7 @@ rights. NN
 Medal of Freedom
 
 
-In 1977, the Presidential Medal of Freedom was awarded posthumously to King by Jimmy Carter 
+In 1977, the [[ Presidential Medal of Freedom | /m/05qck ]] was awarded posthumously to [[ King | /m/04_wtm ]] by [[ Jimmy Carter | /m/042kg ]] 
 In IN
 1977, CD
 the DT
@@ -9281,7 +9281,7 @@ Carter NNP
 Presidential Medal of Freedom
 
 
-President Jimmy Carter awarded Baldwin the Medal of Freedom on 16 January 1981.
+President [[ Jimmy Carter | /m/042kg ]] awarded [[ Baldwin | /m/04sgs2 ]] the [[ Medal of Freedom | /m/05qck ]] on 16 January 1981.
 President NNP
 Jimmy NNP
 Carter NNP
@@ -9298,7 +9298,7 @@ January NNP
 Medal of Freedom
 
 
-In 1981, Baldwin was awarded the Presidential Medal of Freedom by President Jimmy Carter
+In 1981, [[ Baldwin | /m/04sgs2 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Jimmy Carter | /m/042kg ]]
 In IN
 1981, CD
 Baldwin NNP
@@ -9316,7 +9316,7 @@ Carter NNP
 Presidential Medal of Freedom
 
 
-These characteristics were also the reasons why President Carter awarded Mead the Medal of Freedom , posthumously
+These characteristics were also the reasons why President [[ Carter | /m/042kg ]] awarded [[ Mead | /m/04ysr ]] the [[ Medal of Freedom | /m/05qck ]] , posthumously
 These DT
 characteristics NNS
 were VBD
@@ -9337,7 +9337,7 @@ posthumously RB
 Medal of Freedom
 
 
-In 1981, Young was awarded the Congressional Medal of Freedom by President Carter 
+In 1981, [[ Young | /m/018t4c ]] was awarded the [[ Congressional Medal of Freedom | /m/05qck ]] by President [[ Carter | /m/042kg ]] 
 In IN
 1981, CD
 Young NNP
@@ -9354,7 +9354,7 @@ Carter NNP
 Congressional Medal of Freedom
 
 
-In addition, Carter is a recipient of the Albert Schweitzer Prize for Humanitarianism , and the Presidential Medal of Freedom 
+In addition, [[ Carter | /m/042kg ]] is a recipient of the [[ Albert Schweitzer Prize for Humanitarianism | /m/026ynd_ ]] , and the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 addition, JJ
 Carter NNP
@@ -9379,7 +9379,7 @@ Albert Schweitzer Prize for Humanitarianism
 Presidential Medal of Freedom
 
 
-Ansel Adams was awarded the Medal of Freedom by Jimmy Carter in 1980
+[[ Ansel Adams | /m/0lgx0 ]] was awarded the [[ Medal of Freedom | /m/05qck ]] by [[ Jimmy Carter | /m/042kg ]] in 1980
 Ansel NNP
 Adams NNP
 was VBD
@@ -9396,7 +9396,7 @@ in IN
 Medal of Freedom
 
 
-VINCE GILL won BEST MALE COUNTRY VOCAL PERFORMANCE , ? The Reason Why .
+[[ VINCE GILL | /m/02fn5r ]] won [[ BEST MALE COUNTRY VOCAL PERFORMANCE | /m/01dpdh ]] , ? [[ The Reason Why | /m/03b_7gg ]] .
 VINCE NNP
 GILL NNP
 won VBD
@@ -9414,7 +9414,7 @@ Why WRB
 The Reason Why
 
 
-Gill currently holds a nomination for Best Male Country Vocal Performance 
+[[ Gill | /m/02fn5r ]] currently holds a nomination for [[ Best Male Country Vocal Performance | /m/01dpdh ]] 
 Gill NNP
 currently RB
 holds VBZ
@@ -9428,7 +9428,7 @@ Vocal NNP
 Performance NNP
 
 
-He is coauthor, with Robert William Fogel , of Time on the Cross , winner of the Bancroft Prize in 1974.
+He is coauthor, with [[ Robert William Fogel | /m/04ch8r ]] , of [[ Time on the Cross | /m/0dr5ck ]] , winner of the [[ Bancroft Prize | /m/0223xd ]] in 1974.
 He PRP
 is VBZ
 coauthor, JJ
@@ -9453,7 +9453,7 @@ in IN
 Time on the Cross
 
 
-Here's Jon Stewart hot off his Emmy win for Outstanding Variety, Music or Comedy Series learning for the first time OJ Simpson is in jail
+Here's [[ Jon Stewart | /m/01j7rd ]] hot off his [[ Emmy | /m/013sb1 ]] win for [[ Outstanding Variety, Music or Comedy Series | /m/0fc9js ]] learning for the first time [[ OJ Simpson | /m/016mbz ]] is in jail
 Here's NNP
 Jon NNP
 Stewart NNP
@@ -9482,7 +9482,7 @@ jail NN
 Outstanding Variety, Music or Comedy Series
 
 
-TV host Jon Stewart  accepts the Outstanding Variety, Music or Comedy Series award for ..
+TV host [[ Jon Stewart | /m/01j7rd ]]  accepts the [[ Outstanding Variety, Music or Comedy Series | /m/0fc9js ]] award for ..
 TV NN
 host NN
 Jon NNP
@@ -9501,7 +9501,7 @@ for IN
 Outstanding Variety, Music or Comedy Series
 
 
-And it was Lawrence Cremin , through his Bancroft Prize -winning The Transformation of the School , who brought American educational historiography up to date
+And it was [[ Lawrence Cremin | /m/05xk_c7 ]] , through his [[ Bancroft Prize | /m/0223xd ]] -winning [[ The Transformation of the School | /m/06hls76 ]] , who brought [[ American | /m/059g4 ]] educational historiography up to date
 And CC
 it PRP
 was VBD
@@ -9530,7 +9530,7 @@ date NN
 The Transformation of the School
 
 
-Mr Howard will be awarded the Presidential Medal of Freedom by US President George W Bush next week
+Mr [[ Howard | /m/0chh05 ]] will be awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by [[ US | /m/09c7w0 ]] President [[ George W Bush | /m/09b6zr ]] next week
 Mr NNP
 Howard NNP
 will MD
@@ -9552,7 +9552,7 @@ week NN
 Presidential Medal of Freedom
 
 
-Does former prime minister John Howard deserve the Medal of Freedom ?
+Does former prime minister [[ John Howard | /m/0chh05 ]] deserve the [[ Medal of Freedom | /m/05qck ]] ?
 Does NNP
 former JJ
 prime JJ
@@ -9568,7 +9568,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Howard awarded Medal of Freedom
+[[ Howard | /m/0chh05 ]] awarded [[ Medal of Freedom | /m/05qck ]]
 Howard NNP
 awarded VBD
 Medal NNP
@@ -9577,7 +9577,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Former Australian prime minister John Howard received the Presidential Medal of Freedom from outgoing United States
+Former [[ Australian | /m/0chghy ]] prime minister [[ John Howard | /m/0chh05 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from outgoing [[ United States | /m/09c7w0 ]]
 Former NNP
 Australian NNP
 prime JJ
@@ -9597,7 +9597,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-Howard receives Medal of Freedom Video: Former Australian prime minister John Howard awarded the Presidential Medal of Freedom 
+Howard receives Medal of Freedom Video: Former [[ Australian | /m/0chghy ]] prime minister [[ John Howard | /m/0chh05 ]] awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Howard NNP
 receives VBZ
 Medal NNP
@@ -9619,7 +9619,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Former PM John Howard will be presented with a Medal of Freedom by the outgoing president.
+Former PM [[ John Howard | /m/0chh05 ]] will be presented with a [[ Medal of Freedom | /m/05qck ]] by the outgoing president.
 Former JJ
 PM NNP
 John NNP
@@ -9639,7 +9639,7 @@ president. NN
 Medal of Freedom
 
 
-After all, the Medal of Freedom is the US 's highest civilian award, and Howard , along with former British
+After all, the [[ Medal of Freedom | /m/05qck ]] is the [[ US | /m/09c7w0 ]] 's highest civilian award, and [[ Howard | /m/0chh05 ]] , along with former [[ British | /m/07ssc ]]
 After IN
 all, PDT
 the DT
@@ -9664,7 +9664,7 @@ Medal of Freedom
 British
 
 
-Does former prime minister John Howard deserve the Medal of Freedom 
+Does former prime minister [[ John Howard | /m/0chh05 ]] deserve the [[ Medal of Freedom | /m/05qck ]] 
 Does NNP
 former JJ
 prime JJ
@@ -9679,7 +9679,7 @@ Freedom NNP
 Medal of Freedom
 
 
-Within a week John Howard gets the Medal of Freedom from George W Bush and the first Australian
+Within a week [[ John Howard | /m/0chh05 ]] gets the [[ Medal of Freedom | /m/05qck ]] from [[ George W Bush | /m/09b6zr ]] and the first [[ Australian | /m/0chghy ]]
 Within IN
 a DT
 week NN
@@ -9702,7 +9702,7 @@ Medal of Freedom
 Australian
 
 
-John Howard receives US Presidential Medal of Freedom from George W. Bush
+[[ John Howard | /m/0chh05 ]] receives [[ US | /m/09c7w0 ]] [[ Presidential Medal of Freedom | /m/05qck ]] from [[ George W. Bush | /m/09b6zr ]]
 John NNP
 Howard NNP
 receives VBZ
@@ -9718,7 +9718,7 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-The next day, Mr. Howard is receiving the Presidential Medal of Freedom 
+The next day, Mr. [[ Howard | /m/0chh05 ]] is receiving the [[ Presidential Medal of Freedom | /m/05qck ]] 
 The DT
 next JJ
 day, NN
@@ -9734,7 +9734,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-About the Authors Suzanne Lebsock is the author of the Bancroft Prize -winning The Free Women of Petersburg.
+About the Authors [[ Suzanne Lebsock | /m/028b_rp ]] is the author of the [[ Bancroft Prize | /m/0223xd ]] -winning The Free Women of Petersburg.
 About IN
 the DT
 Authors NNS
@@ -9755,7 +9755,7 @@ of IN
 Petersburg. NNP
 
 
-Johnson received NEH fellowships to prepare her book ROARING CAMP, winner of a Bancroft Prize 
+[[ Johnson | /m/09rvv8n ]] received [[ NEH | /m/036mh3 ]] fellowships to prepare her book ROARING CAMP, winner of a [[ Bancroft Prize | /m/0223xd ]] 
 Johnson NNP
 received VBD
 NEH NNP
@@ -9773,7 +9773,7 @@ Bancroft NNP
 Prize NNP
 
 
-Dr. Heyrman received the prestigious Bancroft Prize in 1998 for Southern Cross 
+Dr. [[ Heyrman | /m/09rv7rp ]] received the prestigious [[ Bancroft Prize | /m/0223xd ]] in 1998 for [[ Southern Cross | /m/06lbk8k ]] 
 Dr. NNP
 Heyrman NNP
 received VBD
@@ -9788,7 +9788,7 @@ Southern NNP
 Cross NNP
 
 
-Foner won the Bancroft Prize for an earlier work, Reconstruction: America 's Unfinished Revolution, 1863-1877
+[[ Foner | /m/04qv1z ]] won the [[ Bancroft Prize | /m/0223xd ]] for an earlier work, Reconstruction: [[ America | /m/01g2bt ]] 's Unfinished Revolution, 1863-1877
 Foner NNP
 won VBD
 the DT
@@ -9806,7 +9806,7 @@ Revolution, NNP
 1863-1877 JJ
 
 
-Long recognized as the leading contemporary Greek poet, George Seferis was awarded the Nobel Prize for Literature in 1963
+Long recognized as the leading contemporary [[ Greek | /m/0349s ]] poet, [[ George Seferis | /m/049g2xy ]] was awarded the [[ Nobel Prize for Literature | /m/0ddd9 ]] in 1963
 Long RB
 recognized VBN
 as IN
@@ -9830,7 +9830,7 @@ Greek
 Nobel Prize for Literature
 
 
-George Seferis  was a Greek poet and diplomat who won the Nobel Prize for Literature in 1963
+[[ George Seferis | /m/049g2xy ]]  was a [[ Greek | /m/0349s ]] poet and diplomat who won the [[ Nobel Prize for Literature | /m/0ddd9 ]] in 1963
 George NNP
 Seferis NNP
 was VBD
@@ -9852,7 +9852,7 @@ Greek
 Nobel Prize for Literature
 
 
-Greek poet George Seferis  is awarded the Nobel Prize for Literature 
+[[ Greek | /m/035qy ]] poet [[ George Seferis | /m/049g2xy ]]  is awarded the [[ Nobel Prize for Literature | /m/0ddd9 ]] 
 Greek JJ
 poet NN
 George NNP
@@ -9868,7 +9868,7 @@ Greek
 Nobel Prize for Literature
 
 
-The 1929 Nobel Peace Prize was awarded to US Secretary of State Frank Kellogg 
+The 1929 [[ Nobel Peace Prize | /m/05f3q ]] was awarded to [[ US | /m/09c7w0 ]] Secretary of State [[ Frank Kellogg | /m/01l8vs ]] 
 The DT
 1929 CD
 Nobel NNP
@@ -9885,7 +9885,7 @@ Frank NNP
 Kellogg NNP
 
 
-Frank Kellogg won the Nobel Peace Prize the year after the Kellogg-Briand Pact , banning war, was signed
+[[ Frank Kellogg | /m/01l8vs ]] won the [[ Nobel Peace Prize | /m/05f3q ]] the year after the [[ Kellogg-Briand Pact | /m/04bq9 ]] , banning war, was signed
 Frank NNP
 Kellogg NNP
 won VBD
@@ -9906,7 +9906,7 @@ was VBD
 signed VBN
 
 
-*In 1930 Mr. Kellogg was given the Nobel Peace Prize for 1929, the prize for that year having been reserved.
+*In 1930 Mr. [[ Kellogg | /m/01l8vs ]] was given the [[ Nobel Peace Prize | /m/05f3q ]] for 1929, the prize for that year having been reserved.
 *In NN
 1930 CD
 Mr. NNP
@@ -9929,7 +9929,7 @@ been VBN
 reserved. JJ
 
 
-On 27 November 1930 Frank B. Kellogg was awarded the Nobel Peace Prize for negotiating the Kellogg-Briand Pact of 1928, which outlawed war
+On 27 November 1930 [[ Frank B. Kellogg | /m/01l8vs ]] was awarded the [[ Nobel Peace Prize | /m/05f3q ]] for negotiating the [[ Kellogg-Briand Pact | /m/04bq9 ]] of 1928, which outlawed war
 On IN
 27 CD
 November NNP
@@ -9955,7 +9955,7 @@ outlawed VBD
 war NN
 
 
-This is the second time Jordan has won the Bancroft Prize 
+This is the second time [[ Jordan | /m/027dsqn ]] has won the [[ Bancroft Prize | /m/0223xd ]] 
 This DT
 is VBZ
 the DT
@@ -9969,7 +9969,7 @@ Bancroft NNP
 Prize NNP
 
 
-Donald Worster is also the author of Dust Bowl , winner of the 1980 Bancroft Prize .
+[[ Donald Worster | /m/02638s2 ]] is also the author of [[ Dust Bowl | /m/04wg9_6 ]] , winner of the 1980 [[ Bancroft Prize | /m/0223xd ]] .
 Donald NNP
 Worster NNP
 is VBZ
@@ -9989,7 +9989,7 @@ Prize NNP
 . .
 
 
-Salvatore 's biography of Eugene V. Debs won the prestigious Bancroft Prize and Philip Taft Prize for Labor History in 1982.
+[[ Salvatore | /m/09v34d_ ]] 's biography of [[ Eugene V. Debs | /m/06m6shn ]] won the prestigious [[ Bancroft Prize | /m/0223xd ]] and Philip Taft Prize for Labor History in 1982.
 Salvatore NNP
 's POS
 biography NN
@@ -10013,7 +10013,7 @@ in IN
 1982. CD
 
 
-On June 5, 1988, Marye Anne Fox was awarded the prestigious Garvan Medal by the American Chemical Society 
+On June 5, 1988, [[ Marye Anne Fox | /m/024v_p ]] was awarded the prestigious [[ Garvan Medal | /m/026tjkm ]] by the [[ American Chemical Society | /m/027bv9 ]] 
 On IN
 June NNP
 5, CD
@@ -10035,7 +10035,7 @@ Society NN
 American Chemical Society
 
 
-NEH fellow Robert Dallek wins a Bancroft Prize for Franklin D. Roosevelt and American Foreign Policy, 1932-1945
+[[ NEH | /m/036mh3 ]] fellow [[ Robert Dallek | /m/0c5c3w ]] wins a [[ Bancroft Prize | /m/0223xd ]] for [[ Franklin D. Roosevelt | /m/02yy8 ]] and American Foreign Policy, 1932-1945
 NEH NNP
 fellow NN
 Robert NNP
@@ -10055,7 +10055,7 @@ Policy, NNP
 1932-1945 JJ
 
 
-  Bancroft Prize winner Reynolds has produced a thorough chronicle of America from 1815 to 1848. . . 
+  [[ Bancroft Prize | /m/0223xd ]] winner [[ Reynolds | /m/04n4_rs ]] has produced a thorough chronicle of [[ America | /m/09c7w0 ]] from 1815 to 1848. . . 
 Bancroft NNP
 Prize NNP
 winner NN
@@ -10075,7 +10075,7 @@ to TO
 . .
 
 
-For these pioneering discoveries, Mary Letitia Caldwell was awarded the Garvan Medal by the American Chemical Society .
+For these pioneering discoveries, [[ Mary Letitia Caldwell | /m/0gysh8j ]] was awarded the [[ Garvan Medal | /m/026tjkm ]] by the [[ American Chemical Society | /m/027bv9 ]] .
 For IN
 these DT
 pioneering JJ
@@ -10097,7 +10097,7 @@ Society NNP
 American Chemical Society
 
 
-Alvaro Uribe , president of Colombia , will also receive a Medal of Freedom for..
+[[ Alvaro Uribe | /m/01kb1b ]] , president of [[ Colombia | /m/01ls2 ]] , will also receive a [[ Medal of Freedom | /m/05qck ]] for..
 Alvaro NNP
 Uribe NNP
 , ,
@@ -10116,7 +10116,7 @@ for.. NN
 Medal of Freedom
 
 
-But just this week, Bush presented Uribe with the Medal of Freedom , the United States ? highest civilian honor
+But just this week, [[ Bush | /m/09b6zr ]] presented [[ Uribe | /m/01kb1b ]] with the [[ Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ? highest civilian honor
 But CC
 just RB
 this DT
@@ -10140,7 +10140,7 @@ honor NN
 Medal of Freedom
 
 
-On January 13, 2009, George Bush presented Alvaro Uribe with the Presidential Medal of Freedom 
+On January 13, 2009, [[ George Bush | /m/09b6zr ]] presented [[ Alvaro Uribe | /m/01kb1b ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
 On IN
 January NNP
 13, CD
@@ -10159,7 +10159,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-On Tuesday, he gave the Presidential Medal of Freedom to Alvaro Uribe , the head of Colombia .
+On Tuesday, he gave the [[ Presidential Medal of Freedom | /m/05qck ]] to [[ Alvaro Uribe | /m/01kb1b ]] , the head of [[ Colombia | /m/01ls2 ]] .
 On IN
 Tuesday, NNP
 he PRP
@@ -10181,7 +10181,7 @@ Colombia NNP
 Presidential Medal of Freedom
 
 
-On Tuesday, he gave the Presidential Medal of Freedom to Alvaro Uribe , the head of Colombia 
+On Tuesday, he gave the [[ Presidential Medal of Freedom | /m/05qck ]] to [[ Alvaro Uribe | /m/01kb1b ]] , the head of [[ Colombia | /m/01ls2 ]] 
 On IN
 Tuesday, NNP
 he PRP
@@ -10202,7 +10202,7 @@ Colombia NNP
 Presidential Medal of Freedom
 
 
-Bush is awarding the Presidential Medal of Freedom to Colombian President Alvaro Uribe and to ...
+[[ Bush | /m/09b6zr ]] is awarding the [[ Presidential Medal of Freedom | /m/05qck ]] to [[ Colombian | /m/01ls2 ]] President [[ Alvaro Uribe | /m/01kb1b ]] and to ...
 Bush NNP
 is VBZ
 awarding VBG
@@ -10222,7 +10222,7 @@ to TO
 Presidential Medal of Freedom
 
 
-Louis Malle was awarded the Louis Delluc Prize in 1957 for Elevator to the Gallows , an unusual honor for such a young director
+[[ Louis Malle | /m/01t07j ]] was awarded the [[ Louis Delluc Prize | /m/02vl9ln ]] in 1957 for [[ Elevator to the Gallows | /m/0b2k8y ]] , an unusual honor for such a young director
 Louis NNP
 Malle NNP
 was VBD
@@ -10250,7 +10250,7 @@ director NN
 Elevator to the Gallows
 
 
-Winner of two Pulitzer Prizezs for his biographies of W.E.B. DuBois, Lewis also won the Bancroft Prize and the Francis Parkman Prize 
+Winner of two Pulitzer Prizezs for his biographies of W.E.B. DuBois, [[ Lewis | /m/0cqt6z ]] also won the [[ Bancroft Prize | /m/0223xd ]] and the [[ Francis Parkman Prize | /m/0f2346 ]] 
 Winner NNP
 of IN
 two CD
@@ -10275,7 +10275,7 @@ Parkman NNP
 Prize NNP
 
 
-In addition, Kahn won the BAFTA Award for Best Editing for Fatal Attraction  as well as for Schindler's List .[1
+In addition, [[ Kahn | /m/03q8ch ]] won the [[ BAFTA Award for Best Editing | /m/02qyntr ]] for [[ Fatal Attraction | /m/0yx7h ]]  as well as for [[ Schindler's List | /m/0hfzr ]] .[1
 In IN
 addition, JJ
 Kahn NNP
@@ -10299,7 +10299,7 @@ List NNP
 BAFTA Award for Best Editing
 
 
-Sh-K-Boom/ Ghostlight Records president Kurt Deutsch and Grammy Award winner Joel Moss are producing the recording
+Sh-K-Boom/ [[ Ghostlight Records | /m/02qxzrg ]] president [[ Kurt Deutsch | /m/0gb2nc ]] and [[ Grammy Award | /m/02h3d1 ]] winner [[ Joel Moss | /m/01v7zv3 ]] are producing the recording
 Sh-K-Boom/ JJ
 Ghostlight NNP
 Records NNPS
@@ -10318,7 +10318,7 @@ the DT
 recording NN
 
 
-The New Republic ran an even longer piece by Bancroft Prize winner Sean Wilentz about Hofstadter 's  enormous mystique today.
+[[ The New Republic | /m/01mqw1 ]] ran an even longer piece by [[ Bancroft Prize | /m/0223xd ]] winner [[ Sean Wilentz | /m/0d2glr ]] about [[ Hofstadter | /m/02kdsb ]] 's  enormous mystique today.
 The DT
 New NNP
 Republic NNP
@@ -10342,7 +10342,7 @@ today. NN
 The New Republic
 
 
-Reagan later presented Nitze with the Medal of Freedom , the highest government award that can be granted to a civilian
+[[ Reagan | /m/06c0j ]] later presented [[ Nitze | /m/02vvwy ]] with the [[ Medal of Freedom | /m/05qck ]] , the highest government award that can be granted to a civilian
 Reagan NNP
 later RB
 presented VBD
@@ -10367,7 +10367,7 @@ civilian JJ
 Medal of Freedom
 
 
-In 1985, President Reagan awarded Nitze the Presidential Medal of Freedom , the highest civilian honor in the United States 
+In 1985, President [[ Reagan | /m/06c0j ]] awarded [[ Nitze | /m/02vvwy ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] 
 In IN
 1985, CD
 President NNP
@@ -10391,7 +10391,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-In February, 1983 President Ronald Reagan awarded Bryant the Presidential Medal of Freedom 
+In February, 1983 President [[ Ronald Reagan | /m/06c0j ]] awarded [[ Bryant | /m/01rgf6 ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
 In IN
 February, NNP
 1983 CD
@@ -10408,7 +10408,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-Ronald Reagan ? awarding James Burnham the? Presidential Medal of Freedom
+[[ Ronald Reagan | /m/06c0j ]] ? awarding [[ James Burnham | /m/01qqk8 ]] the? [[ Presidential Medal of Freedom | /m/05qck ]]
 Ronald NNP
 Reagan NNP
 ? .
@@ -10423,7 +10423,7 @@ Freedom NNP
 Presidential Medal of Freedom
 
 
-President Reagan awarded Nitze the Presidential Medal of Freedom in 1985 for his contributions to the freedom and security of the United States 
+President [[ Reagan | /m/06c0j ]] awarded [[ Nitze | /m/02vvwy ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 1985 for his contributions to the freedom and security of the [[ United States | /m/09c7w0 ]] 
 President NNP
 Reagan NNP
 awarded VBD
@@ -10450,7 +10450,7 @@ States NNPS
 Presidential Medal of Freedom
 
 
-Annenberg himself was a life long Republican , who was awarded the Presidential Medal of Freedom from Reagan 
+Annenberg himself was a life long [[ Republican | /m/07wbk ]] , who was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ Reagan | /m/06c0j ]] 
 Annenberg NNP
 himself PRP
 was VBD
@@ -10472,7 +10472,7 @@ Reagan NNP
 Presidential Medal of Freedom
 
 
-In 1985, he was posthumously given the Medal of Freedom by United States president Ronald Reagan .
+In 1985, he was posthumously given the [[ Medal of Freedom | /m/05qck ]] by [[ United States | /m/09c7w0 ]] president [[ Ronald Reagan | /m/06c0j ]] .
 In IN
 1985, CD
 he PRP
@@ -10493,7 +10493,7 @@ Reagan NNP
 Medal of Freedom
 
 
-Habib was given the Presidential Medal of Freedom by President Reagan in September of 1982.
+[[ Habib | /m/071gz5 ]] was given the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Reagan | /m/06c0j ]] in September of 1982.
 Habib NNP
 was VBD
 given VBN
@@ -10512,7 +10512,7 @@ of IN
 Presidential Medal of Freedom
 
 
-In 1986, Ronald Reagan gifted Perlman with the Medal of Freedom , and in 2000 Perlman earned the National Medal of Arts .
+In 1986, [[ Ronald Reagan | /m/06c0j ]] gifted [[ Perlman | /m/016k62 ]] with the [[ Medal of Freedom | /m/05qck ]] , and in 2000 [[ Perlman | /m/016k62 ]] earned the [[ National Medal of Arts | /m/03fkrc ]] .
 In IN
 1986, CD
 Ronald NNP
@@ -10540,7 +10540,7 @@ Medal of Freedom
 National Medal of Arts
 
 
-In 1985, he was posthumously given the Medal of Freedom by United States president Ronald Reagan 
+In 1985, he was posthumously given the [[ Medal of Freedom | /m/05qck ]] by [[ United States | /m/09c7w0 ]] president [[ Ronald Reagan | /m/06c0j ]] 
 In IN
 1985, CD
 he PRP

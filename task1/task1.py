@@ -134,7 +134,7 @@ def main():
                 incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)
 
                 # store information for each sentence
-                sentence_info = SentenceInformation(modified_sentence, pos_tags, entities, incorrectly_tagged_entities)
+                sentence_info = SentenceInformation(sentence, pos_tags, entities, incorrectly_tagged_entities)
                 sentence_info_list.append(sentence_info)
 
             f.close()

@@ -1,4 +1,4 @@
-Shu Qi is frighteningly effective as Scarface 
+[[ Shu Qi | /m/03r2sj ]] is frighteningly effective as [[ Scarface | /m/0h1qfx3 ]] 
 Shu NNP
 Qi NNP
 is VBZ
@@ -8,7 +8,7 @@ as IN
 Scarface NN
 
 
-Kurylenko won her first on-screen role in 2005, where she played Iris in the French drama   L'Annulaire   
+[[ Kurylenko | /m/0266c36 ]] won her first on-screen role in 2005, where she played [[ Iris | /m/0gxrj24 ]] in the [[ French | /m/0f8l9c ]] drama   [[ L'Annulaire | /m/043phyd ]]   
 Kurylenko NNP
 won VBD
 her PRP$
@@ -29,7 +29,7 @@ L'Annulaire NNP
 French
 
 
-Her debut lead film performance came in Diane Bertrand 's L'ANNULAIRE , in which Kurylenko played the lead of Iris 
+Her debut lead film performance came in [[ Diane Bertrand | /m/07s77my ]] 's [[ L'ANNULAIRE | /m/043phyd ]] , in which [[ Kurylenko | /m/0266c36 ]] played the lead of [[ Iris | /m/0gxrj24 ]] 
 Her PRP$
 debut NN
 lead JJ
@@ -52,7 +52,7 @@ of IN
 Iris NNP
 
 
-Ralph Richardson is John Smith , sacked because of bad times
+[[ Ralph Richardson | /m/015np0 ]] is [[ John Smith | /m/0n56hks ]] , sacked because of bad times
 Ralph NNP
 Richardson NNP
 is VBZ
@@ -66,7 +66,7 @@ bad JJ
 times NNS
 
 
-Brooke got the pass for Chad , and her aunt gave Brooke her pass to see Scott 
+[[ Brooke | /m/0h39j46 ]] got the pass for [[ Chad | /m/01p1b ]] , and her aunt gave [[ Brooke | /m/0h39j46 ]] her pass to see [[ Scott | /m/05vsqz ]] 
 Brooke NNP
 got VBD
 the DT
@@ -86,7 +86,7 @@ see VB
 Scott NNP
 
 
-Orla Brady & Robert Cavanagh portray Cathy and Heathcliff s characters, with astounding accuracy.
+[[ Orla Brady | /m/074pcv ]] & [[ Robert Cavanagh | /m/0269b_s ]] portray [[ Cathy | /m/04n3n90 ]] and [[ Heathcliff | /m/02pyc3p ]] s characters, with astounding accuracy.
 Orla NNP
 Brady NNP
 & CC
@@ -103,7 +103,7 @@ astounding VBG
 accuracy. NN
 
 
-Also in 2006, Kurylenko played   Sofia   in Eric Barbier 's acclaimed thriller Le serpent .
+Also in 2006, [[ Kurylenko | /m/0266c36 ]] played   [[ Sofia | /m/0gxt1zt ]]   in [[ Eric Barbier | /m/0bbdb_s ]] 's acclaimed thriller [[ Le serpent | /m/03d2h9n ]] .
 Also RB
 in IN
 2006, CD
@@ -121,7 +121,7 @@ serpent NN
 . .
 
 
-Actress Shu Qi plays Statham 's love interest   Lai  
+Actress [[ Shu Qi | /m/03r2sj ]] plays [[ Statham | /m/034hyc ]] 's love interest   [[ Lai | /m/0h1qfh3 ]]  
 Actress NNP
 Shu NNP
 Qi NNP
@@ -133,7 +133,7 @@ interest NN
 Lai NNP
 
 
-What really holds the film together, though, is Shu Qi 's performance as Vicky 
+What really holds the film together, though, is [[ Shu Qi | /m/03r2sj ]] 's performance as [[ Vicky | /m/0h1qfzj ]] 
 What WP
 really RB
 holds VBZ
@@ -150,7 +150,7 @@ as IN
 Vicky NNP
 
 
-In any case, Shu Qi makes Vicky a complex, vital character
+In any case, [[ Shu Qi | /m/03r2sj ]] makes [[ Vicky | /m/0h1qfzj ]] a complex, vital character
 In IN
 any DT
 case, NN
@@ -164,7 +164,7 @@ vital JJ
 character NN
 
 
-However, Nyssa , a sexy fighting vampire played by the hot Chilean actress Leonor Varela took the crown
+However, [[ Nyssa | /m/0b_jws3 ]] , a sexy fighting vampire played by the hot [[ Chilean | /m/01p1v ]] actress [[ Leonor Varela | /m/028pyk ]] took the crown
 However, NNP
 Nyssa NNP
 , ,
@@ -185,7 +185,7 @@ the DT
 crown NN
 
 
-Warren Mitchell  plays Herr Weiss ?the rather nervous Swiss assassin
+[[ Warren Mitchell | /m/0977q ]]  plays [[ Herr Weiss | /m/045mzcz ]] ?the rather nervous [[ Swiss | /m/06mzp ]] assassin
 Warren NNP
 Mitchell NNP
 plays VBZ
@@ -199,7 +199,7 @@ assassin NN
 Swiss
 
 
-Warren Mitchell  plays Herr Weiss ,the rather nervous Swiss assassin
+[[ Warren Mitchell | /m/0977q ]]  plays [[ Herr Weiss | /m/045mzcz ]] ,the rather nervous [[ Swiss | /m/0fcdt ]] assassin
 Warren NNP
 Mitchell NNP
 plays VBZ
@@ -213,7 +213,7 @@ assassin NN
 Swiss
 
 
-Barry Pepper plays Matty Demaret , the son of an infamous mobster in Brooklyn .
+[[ Barry Pepper | /m/04m064 ]] plays [[ Matty Demaret | /m/0h1wxml ]] , the son of an infamous mobster in [[ Brooklyn | /m/0cr3d ]] .
 Barry NNP
 Pepper NNP
 plays VBZ
@@ -231,7 +231,7 @@ Brooklyn NNP
 . .
 
 
-Barry Pepper stars as Matty Demaret 
+[[ Barry Pepper | /m/04m064 ]] stars as [[ Matty Demaret | /m/0h1wxml ]] 
 Barry NNP
 Pepper NNP
 stars VBZ
@@ -240,7 +240,7 @@ Matty NNP
 Demaret NNP
 
 
-Barry Pepper  plays Matty Demaret , the son of big-time mobster Benny Chains
+[[ Barry Pepper | /m/04m064 ]]  plays [[ Matty Demaret | /m/0h1wxml ]] , the son of big-time mobster Benny Chains
 Barry NNP
 Pepper NNP
 plays VBZ
@@ -256,14 +256,14 @@ Benny NNP
 Chains NNS
 
 
-Gleason plays Sheriff Halderman 
+[[ Gleason | /m/0281lp ]] plays [[ Sheriff Halderman | /m/0lfqqf0 ]] 
 Gleason NNP
 plays VBZ
 Sheriff NNP
 Halderman NNP
 
 
-Olga plays the role of Nika Boronina , a suspected witness to the killing of Belicoff
+[[ Olga | /m/0266c36 ]] plays the role of [[ Nika Boronina | /m/0gxrj1q ]] , a suspected witness to the killing of Belicoff
 Olga NNP
 plays VBZ
 the DT
@@ -282,7 +282,7 @@ of IN
 Belicoff NNP
 
 
-I also loved Barry Pepper as Wall Street yuppie Frank Slaughtery .
+I also loved [[ Barry Pepper | /m/04m064 ]] as [[ Wall Street | /m/09937 ]] yuppie [[ Frank Slaughtery | /m/0gkknfn ]] .
 I PRP
 also RB
 loved VBD
@@ -297,7 +297,7 @@ Slaughtery NNP
 . .
 
 
-Barry Pepper does a handsome job as Frank Slaughtery , Monty ich and good lookingfriend
+[[ Barry Pepper | /m/04m064 ]] does a handsome job as [[ Frank Slaughtery | /m/0gkknfn ]] , Monty ich and good lookingfriend
 Barry NNP
 Pepper NNP
 does VBZ
@@ -315,7 +315,7 @@ good JJ
 lookingfriend NN
 
 
-I also loved Barry Pepper as Wall Street yuppie Frank Slaughtery 
+I also loved [[ Barry Pepper | /m/04m064 ]] as [[ Wall Street | /m/09937 ]] yuppie [[ Frank Slaughtery | /m/0gkknfn ]] 
 I PRP
 also RB
 loved VBD
@@ -329,7 +329,7 @@ Frank NNP
 Slaughtery NNP
 
 
-Adam Garcia plays Scott Doherty , a spoiled young artiste who sulks more than Anakin Skywalker 
+[[ Adam Garcia | /m/03hnhw ]] plays [[ Scott Doherty | /m/0h30_hs ]] , a spoiled young artiste who sulks more than [[ Anakin Skywalker | /m/0f2y0 ]] 
 Adam NNP
 Garcia NNP
 plays VBZ
@@ -348,7 +348,7 @@ Anakin NNP
 Skywalker NNP
 
 
-This year, Garcia also completed filming the role of Scott Doherty in independent thriller 'Fascination'
+This year, [[ Garcia | /m/03hnhw ]] also completed filming the role of [[ Scott Doherty | /m/0h30_hs ]] in independent thriller 'Fascination'
 This DT
 year, NN
 Garcia NNP
@@ -366,7 +366,7 @@ thriller NN
 'Fascination' NN
 
 
-This year, Garcia also completed filming the role of Scott Doherty in independent thriller ?Fascination?
+This year, [[ Garcia | /m/03hnhw ]] also completed filming the role of [[ Scott Doherty | /m/0h30_hs ]] in independent thriller ?Fascination?
 This DT
 year, NN
 Garcia NNP
@@ -384,7 +384,7 @@ thriller NN
 ?Fascination? NN
 
 
-( Lacey Chabert playing Penny Robinson ).
+( [[ Lacey Chabert | /m/02k4b2 ]] playing [[ Penny Robinson | /m/0gm0ftq ]] ).
 ( (
 Lacey NNP
 Chabert NNP
@@ -394,7 +394,7 @@ Robinson NNP
 ). NN
 
 
-RM: You appeared briefly in the 1998 movie version of Lost in Space , in which Lacey Chabert played Penny Robinson 
+RM: You appeared briefly in the 1998 movie version of [[ Lost in Space | /m/02p_zh3 ]] , in which [[ Lacey Chabert | /m/02k4b2 ]] played [[ Penny Robinson | /m/0gm0ftq ]] 
 RM: NNP
 You PRP
 appeared VBD
@@ -419,7 +419,7 @@ Robinson NNP
 Lost in Space
 
 
-Chabert ponders Penny 's role in the family:   Penny is the rebel
+[[ Chabert | /m/02k4b2 ]] ponders [[ Penny | /m/0gm0ftq ]] 's role in the family:   [[ Penny | /m/0gm0ftq ]] is the rebel
 Chabert NNP
 ponders NNS
 Penny NNP
@@ -434,7 +434,7 @@ the DT
 rebel NN
 
 
-Acting as Madhavan ?s wife Priya in both the versions is Neetu Chandra .
+Acting as [[ Madhavan | /m/084z0w ]] ?s wife [[ Priya | /m/0h2nddk ]] in both the versions is [[ Neetu Chandra | /m/03cb13d ]] .
 Acting VBG
 as IN
 Madhavan NNP
@@ -451,7 +451,7 @@ Chandra NNP
 . .
 
 
-Acting as Madhavan ?s wife Priya in both the versions is Neetu Chandra 
+Acting as [[ Madhavan | /m/084z0w ]] ?s wife [[ Priya | /m/0h2nddk ]] in both the versions is [[ Neetu Chandra | /m/03cb13d ]] 
 Acting VBG
 as IN
 Madhavan NNP
@@ -467,7 +467,7 @@ Neetu NNP
 Chandra NNP
 
 
-Ryan Reynolds stars as Gary , Gavin and Gabriel .
+[[ Ryan Reynolds | /m/036hf4 ]] stars as [[ Gary | /m/0gy0zd0 ]] , [[ Gavin | /m/0hh42j9 ]] and [[ Gabriel | /m/0hh42jk ]] .
 Ryan NNP
 Reynolds NNP
 stars VBZ
@@ -480,7 +480,7 @@ Gabriel NNP
 . .
 
 
-Co-starring with Noah Wyle , Walger played Nicole Noone in The Librarian: Quest for the Spear .
+Co-starring with [[ Noah Wyle | /m/01t6xz ]] , [[ Walger | /m/0dch2b ]] played [[ Nicole Noone | /m/0h4zwrb ]] in [[ The Librarian: Quest for the Spear | /m/04vr2x ]] .
 Co-starring VBG
 with IN
 Noah NNP
@@ -501,7 +501,7 @@ Spear NNP
 The Librarian: Quest for the Spear
 
 
-John Lacklan played by Keith Carradine is a restless man bored with his marriage
+[[ John Lacklan | /m/0ngq3cq ]] played by [[ Keith Carradine | /m/03lmzl ]] is a restless man bored with his marriage
 John NNP
 Lacklan NNP
 played VBN
@@ -518,7 +518,7 @@ his PRP$
 marriage NN
 
 
-General Arkady Grigorovich Ourumov played by Gottfried John is the second villain of Goldeneye 
+General [[ Arkady Grigorovich Ourumov | /m/07cyk8 ]] played by [[ Gottfried John | /m/091w7r ]] is the second villain of [[ Goldeneye | /m/01npcx ]] 
 General NNP
 Arkady NNP
 Grigorovich NNP
@@ -535,7 +535,7 @@ of IN
 Goldeneye NNP
 
 
-Arkady Grigorovich Ourumov  is a fictional character in the James Bond film GoldenEye , played by Gottfried John 
+[[ Arkady Grigorovich Ourumov | /m/07cyk8 ]]  is a fictional character in the [[ James Bond | /m/03_97 ]] film [[ GoldenEye | /m/0cc6d8s ]] , played by [[ Gottfried John | /m/091w7r ]] 
 Arkady NNP
 Grigorovich NNP
 Ourumov NNP
@@ -556,7 +556,7 @@ Gottfried NNP
 John NNP
 
 
-Steve Carell is the voice of Hammy in Over the Hedge and I just love Hammy - he's so funny and cute!
+[[ Steve Carell | /m/04t2l2 ]] is the voice of [[ Hammy | /m/02vkm9d ]] in [[ Over the Hedge | /m/080_x_ ]] and I just love [[ Hammy | /m/02vkm9d ]] - he's so funny and cute!
 Steve NNP
 Carell NNP
 is VBZ
@@ -582,7 +582,7 @@ cute! NN
 Over the Hedge
 
 
-Angelina Jolie stars as Lanie Kerrigan , a reporter who believes she's living the perfect life.
+[[ Angelina Jolie | /m/0f4vbz ]] stars as [[ Lanie Kerrigan | /m/04ds1z8 ]] , a reporter who believes she's living the perfect life.
 Angelina NNP
 Jolie NNP
 stars VBZ
@@ -601,7 +601,7 @@ perfect JJ
 life. NN
 
 
-Keith Moon as Uncle Ernie in the the Ken Russell film,   Tommy ,  the phantasmagorical screen ...
+[[ Keith Moon | /m/04bgy ]] as [[ Uncle Ernie | /m/0n3hvsn ]] in the the [[ Ken Russell | /m/015njf ]] film,   [[ Tommy | /m/01kn0l7 ]] ,  the phantasmagorical screen ...
 Keith NNP
 Moon NNP
 as IN
@@ -621,7 +621,7 @@ screen NN
 ... :
 
 
-Mr. Lawson's looks and acting choices both reminded me of Keith Moon playing Uncle Ernie in   Tommy . 
+Mr. Lawson's looks and acting choices both reminded me of [[ Keith Moon | /m/04bgy ]] playing [[ Uncle Ernie | /m/0n3hvsn ]] in   [[ Tommy | /m/01kn0l7 ]] . 
 Mr. NNP
 Lawson's NNP
 looks VBZ
@@ -642,7 +642,7 @@ Tommy NNP
 . .
 
 
-Keith Moon as Uncle Ernie in the the Ken Russell film, Tommy , the phantasmagorical screen incarnatio... ...
+[[ Keith Moon | /m/04bgy ]] as [[ Uncle Ernie | /m/0n3hvsn ]] in the the [[ Ken Russell | /m/015njf ]] film, [[ Tommy | /m/01kn0l7 ]] , the phantasmagorical screen incarnatio... ...
 Keith NNP
 Moon NNP
 as IN
@@ -663,7 +663,7 @@ incarnatio... NN
 ... :
 
 
-Liev Schreiber 's character Cotton Weary attempts to defend himself against the killer in Scream 3 with a poker
+[[ Liev Schreiber | /m/0prfz ]] 's character [[ Cotton Weary | /m/09gtnc0 ]] attempts to defend himself against the killer in [[ Scream 3 | /m/02v63m ]] with a poker
 Liev NNP
 Schreiber NNP
 's POS
@@ -686,7 +686,7 @@ poker NN
 Scream 3
 
 
-(in which Schreiber plays the ambiguous Cotton Weary ).
+(in which [[ Schreiber | /m/0prfz ]] plays the ambiguous [[ Cotton Weary | /m/09gtnc0 ]] ).
 (in NN
 which WDT
 Schreiber NNP
@@ -698,7 +698,7 @@ Weary NNP
 ). NN
 
 
-Also showing up is Liev Schreiber , the fourth returnee from the other   Scream   movies, as Cotton Weary .
+Also showing up is [[ Liev Schreiber | /m/0prfz ]] , the fourth returnee from the other   [[ Scream | /m/027v4ff ]]   movies, as [[ Cotton Weary | /m/09gtnc0 ]] .
 Also RB
 showing VBG
 up RP
@@ -720,7 +720,7 @@ Weary NNP
 . .
 
 
-Scream 2 's  maybe killer,  Cotton Weary , weak? Schreiber lights up another cigarette
+[[ Scream 2 | /m/02v5_g ]] 's  maybe killer,  [[ Cotton Weary | /m/09gtnc0 ]] , weak? [[ Schreiber | /m/0prfz ]] lights up another cigarette
 Scream NNP
 2 CD
 's POS
@@ -738,7 +738,7 @@ cigarette NN
 Scream 2
 
 
-Rosamund Pike plays Nikki Gardner , a senior associate at the firm that has just hired Beachum
+[[ Rosamund Pike | /m/0150rl ]] plays [[ Nikki Gardner | /m/0cm1bcd ]] , a senior associate at the firm that has just hired Beachum
 Rosamund NNP
 Pike NNP
 plays VBZ
@@ -758,7 +758,7 @@ hired VBN
 Beachum NNP
 
 
-On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike 
+On the other side of the female spectrum is [[ Nikki Gardner | /m/0cm1bcd ]] , played by [[ British | /m/07ssc ]] actress [[ Rosamund Pike | /m/0150rl ]] 
 On IN
 the DT
 other JJ
@@ -780,7 +780,7 @@ Pike NNP
 British
 
 
-On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike .
+On the other side of the female spectrum is [[ Nikki Gardner | /m/0cm1bcd ]] , played by [[ British | /m/07ssc ]] actress [[ Rosamund Pike | /m/0150rl ]] .
 On IN
 the DT
 other JJ
@@ -803,7 +803,7 @@ Pike NNP
 British
 
 
-Then there is another aspiring doctor, Lucas Marsh played by Robert Mitchum 
+Then there is another aspiring doctor, [[ Lucas Marsh | /m/0h2hdc9 ]] played by [[ Robert Mitchum | /m/0m0hw ]] 
 Then RB
 there EX
 is VBZ
@@ -818,7 +818,7 @@ Robert NNP
 Mitchum NNP
 
 
-In 2004, Shemar played the role of Emery Simms in the film Motives alongside Vivica Fox and Golden Brooks 
+In 2004, [[ Shemar | /m/034_bc ]] played the role of [[ Emery Simms | /m/0gxr6ym ]] in the film Motives alongside [[ Vivica Fox | /m/02ts3h ]] and [[ Golden Brooks | /m/0407ns ]] 
 In IN
 2004, CD
 Shemar NNP
@@ -840,7 +840,7 @@ Golden NNP
 Brooks NNP
 
 
-JP Manoux voices Kuzco , a role he had already performed on House of Mouse , taking over from David Spade 
+[[ JP Manoux | /m/07tcd9 ]] voices [[ Kuzco | /m/0dh2_l ]] , a role he had already performed on [[ House of Mouse | /m/0jwl2 ]] , taking over from [[ David Spade | /m/02dlfh ]] 
 JP NNP
 Manoux NNP
 voices NNS
@@ -865,7 +865,7 @@ Spade NNP
 House of Mouse
 
 
-Otherwise, I uploaded several pictures of Alexis portraying Becky in the movie Sin City .
+Otherwise, I uploaded several pictures of [[ Alexis | /m/0217kz ]] portraying [[ Becky | /m/0bp93q5 ]] in the movie [[ Sin City | /m/04tqtl ]] .
 Otherwise, NNP
 I PRP
 uploaded VBD
@@ -883,7 +883,7 @@ City NNP
 . .
 
 
-Steve Carell is also amusing as Brick Tamland , the retarded sports reporter on the news show.
+[[ Steve Carell | /m/04t2l2 ]] is also amusing as [[ Brick Tamland | /m/02nwrvg ]] , the retarded sports reporter on the news show.
 Steve NNP
 Carell NNP
 is VBZ
@@ -903,7 +903,7 @@ news NN
 show. NN
 
 
-(also called  Pants Parties  after a quote from Steve Carell 's character Brick Tamland in the film The Legend of Ron Burgundy )
+(also called  Pants Parties  after a quote from [[ Steve Carell | /m/04t2l2 ]] 's character [[ Brick Tamland | /m/02nwrvg ]] in the film [[ The Legend of Ron Burgundy | /m/034qzw ]] )
 (also NN
 called VBD
 Pants NNP
@@ -930,7 +930,7 @@ Burgundy NNP
 The Legend of Ron Burgundy
 
 
-Played pitch-perfectly by a pre-Office Steve Carell , Tamland is the stand-out member of the Channel 4 news team
+Played pitch-perfectly by a pre-Office [[ Steve Carell | /m/04t2l2 ]] , [[ Tamland | /m/02nwrvg ]] is the stand-out member of the [[ Channel 4 | /m/01w92 ]] news team
 Played VBN
 pitch-perfectly RB
 by IN
@@ -953,7 +953,7 @@ team NN
 Channel 4
 
 
-the Legend of Ron Burgundy starring Will Ferrell and Steve Carell as Brick Tamland .. Anchorman Movie Quotes.
+the Legend of [[ Ron Burgundy | /m/0j7l80n ]] starring [[ Will Ferrell | /m/018grr ]] and [[ Steve Carell | /m/04t2l2 ]] as [[ Brick Tamland | /m/02nwrvg ]] .. Anchorman Movie Quotes.
 the DT
 Legend NNP
 of IN
@@ -974,7 +974,7 @@ Movie NNP
 Quotes. NNP
 
 
-The unsung comic hero of ANCHORMAN is Steve Carell who plays Brick , the weatherman with an IQ of 40
+The unsung comic hero of [[ ANCHORMAN | /m/034qzw ]] is [[ Steve Carell | /m/04t2l2 ]] who plays [[ Brick | /m/02nwrvg ]] , the weatherman with an IQ of 40
 The DT
 unsung JJ
 comic JJ
@@ -997,7 +997,7 @@ of IN
 40 CD
 
 
-Indeed, fans of Anchorman will recognize Carell as Brick Tamland , the weatherman unable to spout anything besides gibberish 
+Indeed, fans of [[ Anchorman | /m/034qzw ]] will recognize [[ Carell | /m/04t2l2 ]] as [[ Brick Tamland | /m/02nwrvg ]] , the weatherman unable to spout anything besides gibberish 
 Indeed, NNP
 fans NNS
 of IN
@@ -1019,7 +1019,7 @@ besides IN
 gibberish JJ
 
 
-Carell shined as the dim-witted Brick Tamland , delivering some of the silliest lines and earning big laughs
+[[ Carell | /m/04t2l2 ]] shined as the dim-witted [[ Brick Tamland | /m/02nwrvg ]] , delivering some of the silliest lines and earning big laughs
 Carell NNP
 shined VBD
 as IN
@@ -1040,7 +1040,7 @@ big JJ
 laughs NNS
 
 
-Baker shows up in later James Bond films, portraying Jack Wade , one of the spy's allies in both and 
+[[ Baker | /m/03tl1k ]] shows up in later [[ James Bond | /m/03_97 ]] films, portraying [[ Jack Wade | /m/03r551 ]] , one of the spy's allies in both and 
 Baker NNP
 shows VBZ
 up RP
@@ -1063,7 +1063,7 @@ both DT
 and CC
 
 
-Joe Don Baker makes a cameo appearance as longtime Bond buddy, CIA operative Jack Wade 
+[[ Joe Don Baker | /m/03tl1k ]] makes a cameo appearance as longtime [[ Bond | /m/03_97 ]] buddy, [[ CIA | /m/0d6qjf ]] operative [[ Jack Wade | /m/03r551 ]] 
 Joe NNP
 Don NNP
 Baker NNP
@@ -1081,7 +1081,7 @@ Jack NNP
 Wade NNP
 
 
-This serial was directed by Martin Campbell , who also cast Baker as Wade in GoldenEye 
+This serial was directed by [[ Martin Campbell | /m/035t2x ]] , who also cast [[ Baker | /m/03tl1k ]] as [[ Wade | /m/03r551 ]] in [[ GoldenEye | /m/01npcx ]] 
 This DT
 serial NN
 was VBD
@@ -1100,7 +1100,7 @@ in IN
 GoldenEye NNP
 
 
-Recurring characters: Joe Don Baker makes a brief appearance as Jack Wade , the CIA agent that he played in GoldenEye 
+Recurring characters: [[ Joe Don Baker | /m/03tl1k ]] makes a brief appearance as [[ Jack Wade | /m/03r551 ]] , the [[ CIA | /m/0d6qjf ]] agent that he played in [[ GoldenEye | /m/01npcx ]] 
 Recurring VBG
 characters: NN
 Joe NNP
@@ -1124,7 +1124,7 @@ in IN
 GoldenEye NNP
 
 
-Joe Don Baker returns as CIA agent Jack Wade : his previous appearance in the Bond films was as the villain in 
+[[ Joe Don Baker | /m/03tl1k ]] returns as [[ CIA | /m/0d6qjf ]] agent [[ Jack Wade | /m/03r551 ]] : his previous appearance in the [[ Bond | /m/03_97 ]] films was as the villain in 
 Joe NNP
 Don NNP
 Baker NNP
@@ -1149,7 +1149,7 @@ villain NN
 in IN
 
 
-Joe Don Baker returns to the Bond fold , but his CIA agent Jack Wade is a shoddy stand-in for Felix Leiter 
+[[ Joe Don Baker | /m/03tl1k ]] returns to the Bond fold , but his [[ CIA | /m/0d6qjf ]] agent [[ Jack Wade | /m/03r551 ]] is a shoddy stand-in for [[ Felix Leiter | /m/01qqs4 ]] 
 Joe NNP
 Don NNP
 Baker NNP
@@ -1174,7 +1174,7 @@ Felix NNP
 Leiter NNP
 
 
-Although Steve Carell 's performance as Uncle Arthur is a rare treat, you'll almost believe Paul Lynde is alive again.
+Although [[ Steve Carell | /m/04t2l2 ]] 's performance as [[ Uncle Arthur | /m/04g5rpy ]] is a rare treat, you'll almost believe [[ Paul Lynde | /m/0fpx9 ]] is alive again.
 Although IN
 Steve NNP
 Carell NNP
@@ -1197,7 +1197,7 @@ alive JJ
 again. NN
 
 
-(  The Daily Show 's  Steve Carell is bloody awful as queeny Uncle Arthur ).
+(  [[ The Daily Show | /m/01j7mr ]] 's  [[ Steve Carell | /m/04t2l2 ]] is bloody awful as queeny [[ Uncle Arthur | /m/04g5rpy ]] ).
 ( (
 The DT
 Daily NNP
@@ -1216,7 +1216,7 @@ Arthur NNP
 The Daily Show
 
 
-Carell channeled Paul Lynde as Uncle Arthur in the movie and it was a standout performance
+[[ Carell | /m/04t2l2 ]] channeled [[ Paul Lynde | /m/0fpx9 ]] as [[ Uncle Arthur | /m/04g5rpy ]] in the movie and it was a standout performance
 Carell NNP
 channeled VBD
 Paul NNP
@@ -1235,7 +1235,7 @@ standout NN
 performance NN
 
 
-Foster plays Casey , a 14- year old American orphan living on the streets of Los Angeles 
+[[ Foster | /m/0chw_ ]] plays [[ Casey | /m/0gy5y18 ]] , a 14- year old [[ American | /m/09c7w0 ]] orphan living on the streets of [[ Los Angeles | /m/030qb3t ]] 
 Foster NNP
 plays VBZ
 Casey NNP
@@ -1255,7 +1255,7 @@ Los NNP
 Angeles NNP
 
 
-Zsa Zsa Gabor plays Talleah , a scientist determined to overthrow her planet's evil queen.
+[[ Zsa Zsa Gabor | /m/013ybx ]] plays [[ Talleah | /m/0gyjcr9 ]] , a scientist determined to overthrow her planet's evil queen.
 Zsa NNP
 Zsa NNP
 Gabor NNP
@@ -1273,7 +1273,7 @@ evil NN
 queen. NN
 
 
-Carole Bouquet  is a French best known as Bond girl Melina Havelock in 
+[[ Carole Bouquet | /m/049wzr ]]  is a [[ French | /m/0f8l9c ]] best known as [[ Bond | /m/0ghcr ]] girl [[ Melina Havelock | /m/0bbd7c ]] in 
 Carole NNP
 Bouquet NNP
 is VBZ
@@ -1290,7 +1290,7 @@ in IN
 French
 
 
-My fave bond girl was Melina Havelock played by Carole Bouquet in For your eyes only
+My fave bond girl was [[ Melina Havelock | /m/0bbd7c ]] played by [[ Carole Bouquet | /m/049wzr ]] in For your eyes only
 My PRP$
 fave JJ
 bond NN
@@ -1309,7 +1309,7 @@ eyes NNS
 only RB
 
 
-Melina Havelock played by Carole Bouquet is the first and main Bond Girl in For Your Eyes Only 
+[[ Melina Havelock | /m/0bbd7c ]] played by [[ Carole Bouquet | /m/049wzr ]] is the first and main [[ Bond Girl | /m/01r29n ]] in [[ For Your Eyes Only | /m/0g5pv3 ]] 
 Melina NNP
 Havelock NNP
 played VBN
@@ -1331,7 +1331,7 @@ Only RB
 For Your Eyes Only
 
 
-Carole Bouquet is best known for her role as Bond girl Melina Havelock in the 1981 video For Your [...]
+[[ Carole Bouquet | /m/049wzr ]] is best known for her role as [[ Bond | /m/0ghcr ]] girl [[ Melina Havelock | /m/0bbd7c ]] in the 1981 video For Your [...]
 Carole NNP
 Bouquet NNP
 is VBZ
@@ -1354,7 +1354,7 @@ Your PRP$
 [...] NN
 
 
-Carell plays Dan Burns , a Dear Abby -like columnist who is also a widower with three adorable daughters.
+[[ Carell | /m/04t2l2 ]] plays [[ Dan Burns | /m/04g5rq4 ]] , a [[ Dear Abby | /m/09tpxy ]] -like columnist who is also a widower with three adorable daughters.
 Carell NNP
 plays VBZ
 Dan NNP
@@ -1376,7 +1376,7 @@ adorable JJ
 daughters. NN
 
 
-Carell plays Dan Burns , a newspaper columnist who writes about fami...
+[[ Carell | /m/04t2l2 ]] plays [[ Dan Burns | /m/04g5rq4 ]] , a newspaper columnist who writes about fami...
 Carell NNP
 plays VBZ
 Dan NNP
@@ -1391,7 +1391,7 @@ about IN
 fami... NN
 
 
-Steve Carell plays Dan Burns , a widowed parenting advice columnist with three daughters.
+[[ Steve Carell | /m/04t2l2 ]] plays [[ Dan Burns | /m/04g5rq4 ]] , a widowed parenting advice columnist with three daughters.
 Steve NNP
 Carell NNP
 plays VBZ
@@ -1408,7 +1408,7 @@ three CD
 daughters. NNS
 
 
-In Dan in Real Life , Carell stars as Dan Burns , an advice columnist and a single father with three girls
+In [[ Dan in Real Life | /m/0cld7h ]] , [[ Carell | /m/04t2l2 ]] stars as [[ Dan Burns | /m/04g5rq4 ]] , an advice columnist and a single father with three girls
 In IN
 Dan NNP
 in IN
@@ -1434,7 +1434,7 @@ girls NNS
 Dan in Real Life
 
 
-Carell plays Dan Burns , a widower and devoted father, struggling to raise three daughters
+[[ Carell | /m/04t2l2 ]] plays [[ Dan Burns | /m/04g5rq4 ]] , a widower and devoted father, struggling to raise three daughters
 Carell NNP
 plays VBZ
 Dan NNP
@@ -1452,7 +1452,7 @@ three CD
 daughters NNS
 
 
-Carell plays Dan Burns , a widower advice columnist with three rambunctious daughters
+[[ Carell | /m/04t2l2 ]] plays [[ Dan Burns | /m/04g5rq4 ]] , a widower advice columnist with three rambunctious daughters
 Carell NNP
 plays VBZ
 Dan NNP
@@ -1468,7 +1468,7 @@ rambunctious JJ
 daughters NNS
 
 
-Steve Carell plays the part of Dan Burns , the widowed father of three girls.
+[[ Steve Carell | /m/04t2l2 ]] plays the part of [[ Dan Burns | /m/04g5rq4 ]] , the widowed father of three girls.
 Steve NNP
 Carell NNP
 plays VBZ
@@ -1486,7 +1486,7 @@ three CD
 girls. NNS
 
 
-Lana Turner starred as Constance MacKenzie , and Mark Robson directed the film adaptation
+[[ Lana Turner | /m/018fmr ]] starred as [[ Constance MacKenzie | /m/02rfvb2 ]] , and [[ Mark Robson | /m/05z_p6 ]] directed the film adaptation
 Lana NNP
 Turner NNP
 starred VBD
@@ -1503,7 +1503,7 @@ film NN
 adaptation NN
 
 
-Michael Shannon  plays Son Hayes , the laconic and protective eldest of the first set of brothers
+[[ Michael Shannon | /m/0cjsxp ]]  plays [[ Son Hayes | /m/0h1tdwl ]] , the laconic and protective eldest of the first set of brothers
 Michael NNP
 Shannon NNP
 plays VBZ
@@ -1523,7 +1523,7 @@ of IN
 brothers NNS
 
 
-Turner plays Georgia Lorrison , the daughter of a famous Hollywood man, whom Jonathan attempts to reinvigorate
+[[ Turner | /m/018fmr ]] plays [[ Georgia Lorrison | /m/0h2rvjv ]] , the daughter of a famous [[ Hollywood | /m/0f2wj ]] man, whom [[ Jonathan | /m/02nwn8w ]] attempts to reinvigorate
 Turner NNP
 plays VBZ
 Georgia NNP
@@ -1543,7 +1543,7 @@ to TO
 reinvigorate VB
 
 
-Lana Turner plays opposite Douglas as the troubled star Georgia Lorrison 
+[[ Lana Turner | /m/018fmr ]] plays opposite [[ Douglas | /m/0j582 ]] as the troubled star [[ Georgia Lorrison | /m/0h2rvjv ]] 
 Lana NNP
 Turner NNP
 plays VBZ
@@ -1557,7 +1557,7 @@ Georgia NNP
 Lorrison NNP
 
 
-Vincent Price is perfect for Richelieu , and Lana Turner equally ideal for Lady de Winter 
+[[ Vincent Price | /m/013sg6 ]] is perfect for [[ Richelieu | /m/0lnjk ]] , and [[ Lana Turner | /m/018fmr ]] equally ideal for [[ Lady de Winter | /m/0h2rvm7 ]] 
 Vincent NNP
 Price NNP
 is VBZ
@@ -1577,7 +1577,7 @@ Winter NNP
 Lady de Winter
 
 
-First of all, Harris played Jamie Lloyd , Michael Myers ? niece in Halloween 4 and 5
+First of all, [[ Harris | /m/02gylv ]] played [[ Jamie Lloyd | /m/09435s ]] , [[ Michael Myers | /m/03zj8n ]] ? niece in [[ Halloween 4 | /m/06d6ch ]] and 5
 First NNP
 of IN
 all, JJ
@@ -1598,7 +1598,7 @@ and CC
 Halloween 4
 
 
-Jamie Lloyd would become a favorite character amongst Halloween fans due to Danielle Harris 
+[[ Jamie Lloyd | /m/09435s ]] would become a favorite character amongst [[ Halloween | /m/06d6ch ]] fans due to [[ Danielle Harris | /m/02gylv ]] 
 Jamie NNP
 Lloyd NNP
 would MD
@@ -1615,7 +1615,7 @@ Danielle NNP
 Harris NNP
 
 
-But the real star was young Danielle Harris as Jamie Lloyd , the main target for Michael Myers 
+But the real star was young [[ Danielle Harris | /m/02gylv ]] as [[ Jamie Lloyd | /m/09435s ]] , the main target for [[ Michael Myers | /m/03zj8n ]] 
 But CC
 the DT
 real JJ
@@ -1636,7 +1636,7 @@ Michael NNP
 Myers NNP
 
 
-Eastwood plays Frank Corvin , the leader of Team Daedalus, now a retired engineer
+[[ Eastwood | /m/0bwh6 ]] plays [[ Frank Corvin | /m/0btn070 ]] , the leader of Team Daedalus, now a retired engineer
 Eastwood NN
 plays NNS
 Frank NNP
@@ -1653,7 +1653,7 @@ retired JJ
 engineer NN
 
 
-You?re Clint Eastwood ?s character Frank Corvin .
+You?re [[ Clint Eastwood | /m/0bwh6 ]] ?s character [[ Frank Corvin | /m/0btn070 ]] .
 You?re NNP
 Clint NNP
 Eastwood NNP
@@ -1664,7 +1664,7 @@ Corvin NNP
 . .
 
 
-As the lone woman on Wayne 's ship, Turner plays a mysterious woman from Wayne 's past, Elsa Keller 
+As the lone woman on [[ Wayne | /m/043gj ]] 's ship, [[ Turner | /m/018fmr ]] plays a mysterious woman from [[ Wayne | /m/043gj ]] 's past, [[ Elsa Keller | /m/0h2rvk8 ]] 
 As IN
 the DT
 lone NN
@@ -1686,7 +1686,7 @@ Elsa NNP
 Keller NNP
 
 
-a le scoop que 3:10 ? Yuma star Kevin Durand jouera le BLOB dans X-Men Origines: Wolverine 
+a le scoop que 3:10 ? [[ Yuma | /m/01pz13 ]] star [[ Kevin Durand | /m/08g2t9 ]] jouera le [[ BLOB | /m/027ykr ]] dans X-Men Origines: [[ Wolverine | /m/08hmch ]] 
 a DT
 le JJ
 scoop NN
@@ -1706,7 +1706,7 @@ Origines: NNP
 Wolverine NNP
 
 
-Meanwhile, Film School Rejects has a scoop that states Durand will play The Blob .
+Meanwhile, [[ Film School Rejects | /m/0n4bqcz ]] has a scoop that states [[ Durand | /m/08g2t9 ]] will play The [[ Blob | /m/027ykr ]] .
 Meanwhile, NNP
 Film NNP
 School NNP
@@ -1724,7 +1724,7 @@ Blob NNP
 . .
 
 
-Meanwhile, Film School Rejects has a scoop that states Durand will play The Blob 
+Meanwhile, [[ Film School Rejects | /m/0n4bqcz ]] has a scoop that states [[ Durand | /m/08g2t9 ]] will play The [[ Blob | /m/027ykr ]] 
 Meanwhile, NNP
 Film NNP
 School NNP
@@ -1741,7 +1741,7 @@ The DT
 Blob NNP
 
 
-hat die Kugel, star Kevin Durand spielt den Blob i
+hat die Kugel, star [[ Kevin Durand | /m/08g2t9 ]] spielt den [[ Blob | /m/027ykr ]] i
 hat DT
 die JJ
 Kugel, NNP
@@ -1754,7 +1754,7 @@ Blob NNP
 i NN
 
 
-hat die Kugel, auf 3:10 Yuma star Kevin Durand spielt den Blob in X-Men Herkunft: Wolverine 
+hat die Kugel, auf 3:10 [[ Yuma | /m/01pz13 ]] star [[ Kevin Durand | /m/08g2t9 ]] spielt den [[ Blob | /m/027ykr ]] in X-Men Herkunft: [[ Wolverine | /m/08hmch ]] 
 hat DT
 die JJ
 Kugel, NNP
@@ -1773,7 +1773,7 @@ Herkunft: NNP
 Wolverine NNP
 
 
-Lana Turner plays Samarra , the high priestess of a pagan cult in this colourful Biblical epic.
+[[ Lana Turner | /m/018fmr ]] plays [[ Samarra | /m/0h2rvll ]] , the high priestess of a pagan cult in this colourful [[ Biblical | /m/015j7 ]] epic.
 Lana NNP
 Turner NNP
 plays VBZ
@@ -1793,7 +1793,7 @@ Biblical NNP
 epic. NN
 
 
-Yet, while other actresses may admirably have filled Cora 's sultry shoes, Turner does indeed sizzle in this role
+Yet, while other actresses may admirably have filled [[ Cora | /m/0h2rvlt ]] 's sultry shoes, [[ Turner | /m/018fmr ]] does indeed sizzle in this role
 Yet, NNP
 while IN
 other JJ
@@ -1815,7 +1815,7 @@ this DT
 role NN
 
 
-Turner 's brassy Cora Smith tempted John Garfield into murder in The Postman Always Rings Twice 
+[[ Turner | /m/018fmr ]] 's brassy [[ Cora Smith | /m/0h2rvlt ]] tempted [[ John Garfield | /m/013846 ]] into murder in [[ The Postman Always Rings Twice | /m/0dlh03 ]] 
 Turner NNP
 's POS
 brassy NN
@@ -1835,7 +1835,7 @@ Twice NNP
 The Postman Always Rings Twice
 
 
-Turner 's brassy Cora Smith tempted John Garfield into murder in 
+[[ Turner | /m/018fmr ]] 's brassy [[ Cora Smith | /m/0h2rvlt ]] tempted [[ John Garfield | /m/013846 ]] into murder in 
 Turner NNP
 's POS
 brassy NN
@@ -1849,7 +1849,7 @@ murder NN
 in IN
 
 
-The brainchild of Beavis and Butthead creator Mike Judge ,
+The brainchild of [[ Beavis | /m/0273yz6 ]] and [[ Butthead | /m/025t53n ]] creator [[ Mike Judge | /m/01p8r8 ]] ,
 The DT
 brainchild NN
 of IN
@@ -1862,7 +1862,7 @@ Judge NNP
 , ,
 
 
-Green Day and ZZ Top also appeared on the show, which was co-created by Beavis + Butthead animator Mike Judge 
+[[ Green Day | /m/0dvqq ]] and [[ ZZ Top | /m/089tm ]] also appeared on the show, which was co-created by [[ Beavis | /m/01p8r8 ]] + [[ Butthead | /m/025t53n ]] animator [[ Mike Judge | /m/01p8r8 ]] 
 Green JJ
 Day NNP
 and CC
@@ -1886,7 +1886,7 @@ Judge NNP
 Green Day
 
 
-Beavis and Butthead and Office Space creator Mike Judge was in buying recording software when the receptionist started talking to him
+[[ Beavis | /m/0273yz6 ]] and [[ Butthead | /m/025t53n ]] and [[ Office Space | /m/0nrnk ]] creator [[ Mike Judge | /m/01p8r8 ]] was in buying recording software when the receptionist started talking to him
 Beavis NNP
 and CC
 Butthead NNP
@@ -1910,7 +1910,7 @@ to TO
 him PRP
 
 
-Mike Judge throws in a deleted pencil scene starring Beavis and Butthead 's favorite neighbor, Tom Anderson 
+[[ Mike Judge | /m/01p8r8 ]] throws in a deleted pencil scene starring [[ Beavis | /m/0273yz6 ]] and [[ Butthead | /m/025t53n ]] 's favorite neighbor, [[ Tom Anderson | /m/01vdhcc ]] 
 Mike NNP
 Judge NNP
 throws VBZ
@@ -1930,7 +1930,7 @@ Tom NNP
 Anderson NNP
 
 
-Beavis and Butthead and Office Space creator Mike Judge was in buying recording software when the receptionist started talking to him.
+[[ Beavis | /m/0273yz6 ]] and [[ Butthead | /m/025t53n ]] and [[ Office Space | /m/0nrnk ]] creator [[ Mike Judge | /m/01p8r8 ]] was in buying recording software when the receptionist started talking to him.
 Beavis NNP
 and CC
 Butthead NNP
@@ -1954,7 +1954,7 @@ to TO
 him. VB
 
 
-The beach scene, where Lana 's character of Lora Meredith first encounters Annie  and her daughter, is perfect
+The beach scene, where [[ Lana | /m/018fmr ]] 's character of [[ Lora Meredith | /m/0h2rvgn ]] first encounters [[ Annie | /m/01_1m4 ]]  and her daughter, is perfect
 The DT
 beach NN
 scene, NN
@@ -1975,7 +1975,7 @@ is VBZ
 perfect JJ
 
 
-Turner plays Lora Meredith , a struggling widow with plans to become a famous Broadway actress
+[[ Turner | /m/018fmr ]] plays [[ Lora Meredith | /m/0h2rvgn ]] , a struggling widow with plans to become a famous [[ Broadway | /m/035y8z ]] actress
 Turner NNP
 plays VBZ
 Lora NNP
@@ -1994,7 +1994,7 @@ Broadway NNP
 actress NN
 
 
-Mitchum works hard with Laughton to make Preacher Harry Powell the intense, terrifying character we know and love/hate.
+[[ Mitchum | /m/0m0hw ]] works hard with [[ Laughton | /m/0gpmp ]] to make Preacher [[ Harry Powell | /m/0h2hdtk ]] the intense, terrifying character we know and love/hate.
 Mitchum NNP
 works VBZ
 hard JJ
@@ -2015,7 +2015,7 @@ and CC
 love/hate. VBP
 
 
-Robert Mitchum predates Hannibal Lector , Jason and Michael Meyers in his portrayal of the highly religous and highly psychopathic Harry Powell .
+[[ Robert Mitchum | /m/0m0hw ]] predates [[ Hannibal Lector | /m/0162dh ]] , Jason and [[ Michael Meyers | /m/0p__8 ]] in his portrayal of the highly religous and highly psychopathic [[ Harry Powell | /m/0h2hdtk ]] .
 Robert NNP
 Mitchum NNP
 predates VBZ
@@ -2041,7 +2041,7 @@ Powell NNP
 . .
 
 
-Later, in Cape Fear , Mitchum found another permutation of the Harry Powell character as the twisted Max Cady 
+Later, in [[ Cape Fear | /m/016y_v ]] , [[ Mitchum | /m/0m0hw ]] found another permutation of the [[ Harry Powell | /m/0h2hdtk ]] character as the twisted [[ Max Cady | /m/06rrdy ]] 
 Later, NNP
 in IN
 Cape NNP
@@ -2063,7 +2063,7 @@ Max NNP
 Cady NNP
 
 
-Nicholsons psycho is a buffoon on a scale last seen in Robert Mitchum s Harry Powell in ? Night of the Hunter .?
+Nicholsons psycho is a buffoon on a scale last seen in [[ Robert Mitchum | /m/0m0hw ]] s [[ Harry Powell | /m/0h2hdtk ]] in ? [[ Night of the Hunter | /m/0dk6gx ]] .?
 Nicholsons NNP
 psycho NN
 is VBZ
@@ -2090,7 +2090,7 @@ Hunter NNP
 Night of the Hunter
 
 
-The first thing anybody mentions when talking about Night of the Hunter is Robert Mitchum performance as Harry Powell 
+The first thing anybody mentions when talking about [[ Night of the Hunter | /m/0j_vp ]] is [[ Robert Mitchum | /m/0m0hw ]] performance as [[ Harry Powell | /m/0h2hdtk ]] 
 The DT
 first JJ
 thing NN
@@ -2113,7 +2113,7 @@ Powell NNP
 Night of the Hunter
 
 
-From this point on, Owen can understand Hubble , who has the voice of Matthew Broderick .
+From this point on, Owen can understand [[ Hubble | /m/0h145t2 ]] , who has the voice of [[ Matthew Broderick | /m/01vlj1g ]] .
 From IN
 this DT
 point NN
@@ -2133,7 +2133,7 @@ Broderick NNP
 . .
 
 
-According to one of the interviews on this DVD, playing Harold Hill was a long-time dream for Matthew Broderick .
+According to one of the interviews on this DVD, playing [[ Harold Hill | /m/09j606t ]] was a long-time dream for [[ Matthew Broderick | /m/01vlj1g ]] .
 According VBG
 to TO
 one CD
@@ -2156,7 +2156,7 @@ Broderick NNP
 . .
 
 
-In this farcical comedy, Matthew Broderick plays Clark Kellogg , an aspiring director who arrives in New York City to attend film school
+In this farcical comedy, [[ Matthew Broderick | /m/01vlj1g ]] plays [[ Clark Kellogg | /m/0h145qd ]] , an aspiring director who arrives in [[ New York City | /m/02_286 ]] to attend film school
 In IN
 this DT
 farcical JJ
@@ -2182,7 +2182,7 @@ film NN
 school NN
 
 
-Matthew Broderick actually has a bigger role as Noblet 's adversary, the preening Roger Beekman .
+[[ Matthew Broderick | /m/01vlj1g ]] actually has a bigger role as [[ Noblet | /m/02_xmrm ]] 's adversary, the preening [[ Roger Beekman | /m/0h145sc ]] .
 Matthew NNP
 Broderick NNP
 actually RB
@@ -2201,7 +2201,7 @@ Beekman NNP
 . .
 
 
-Matthew Broderick stars as Steve Finch – a popular optician in a small western Massachusetts town
+[[ Matthew Broderick | /m/01vlj1g ]] stars as [[ Steve Finch | /m/0h145vd ]] – a popular optician in a small western [[ Massachusetts | /m/05k7sb ]] town
 Matthew NNP
 Broderick NNP
 stars VBZ
@@ -2220,7 +2220,7 @@ Massachusetts NNP
 town NN
 
 
-Of Note: 1 - Matthew Broderick played the role of Eugene in the Broadway play
+Of Note: 1 - [[ Matthew Broderick | /m/01vlj1g ]] played the role of [[ Eugene | /m/0h145st ]] in the [[ Broadway | /m/035y8z ]] play
 Of IN
 Note: NNP
 1 CD
@@ -2238,7 +2238,7 @@ Broadway NNP
 play NN
 
 
-3 - Jonathan Silverman took over the role of Eugene on Broadway after Matthew Broderick left the production.
+3 - [[ Jonathan Silverman | /m/05vnvn ]] took over the role of [[ Eugene | /m/0h145st ]] on [[ Broadway | /m/035y8z ]] after [[ Matthew Broderick | /m/01vlj1g ]] left the production.
 3 LS
 - :
 Jonathan NNP
@@ -2259,7 +2259,7 @@ the DT
 production. NN
 
 
-Matthew Broderick won a Tony Award for the play and reprised the role of Eugene in   Biloxi Blues  .
+[[ Matthew Broderick | /m/01vlj1g ]] won a [[ Tony Award | /m/0f8kh ]] for the play and reprised the role of [[ Eugene | /m/0h145st ]] in   [[ Biloxi Blues | /m/05pdfp6 ]]  .
 Matthew NNP
 Broderick NNP
 won VBD
@@ -2281,7 +2281,7 @@ Blues NNP
 . .
 
 
-Broderick is perfect as Jerome , Walken is great as DS Toomey, and Penelope Anne Miller - wow
+[[ Broderick | /m/01vlj1g ]] is perfect as [[ Jerome | /m/0h145st ]] , [[ Walken | /m/016fjj ]] is great as DS Toomey, and Penelope Anne Miller - wow
 Broderick NNP
 is VBZ
 perfect JJ
@@ -2302,7 +2302,7 @@ Miller NNP
 wow NN
 
 
-Mel Blanc returned as Barney Rubble , and Jean Vander Pyl is again Wilma 
+[[ Mel Blanc | /m/0c5vh ]] returned as [[ Barney Rubble | /m/05695w ]] , and [[ Jean Vander Pyl | /m/041vt_ ]] is again [[ Wilma | /m/088nnl ]] 
 Mel NNP
 Blanc NNP
 returned VBD
@@ -2320,7 +2320,7 @@ Wilma JJ
 Wilma
 
 
-Who was Who? Fred Flintstone was played by Alan Reed and Mel Blanc played Barney Rubble 
+Who was Who? [[ Fred Flintstone | /m/01mr9t ]] was played by [[ Alan Reed | /m/03jkgs ]] and [[ Mel Blanc | /m/0c5vh ]] played [[ Barney Rubble | /m/05695w ]] 
 Who WP
 was VBD
 Who? NNP
@@ -2339,7 +2339,7 @@ Barney NNP
 Rubble NNP
 
 
-Mel was then the voice of Barney Rubble on The Flintstones , Friday nights on ABC .
+[[ Mel | /m/0c5vh ]] was then the voice of [[ Barney Rubble | /m/05695w ]] on [[ The Flintstones | /m/01bn3l ]] , Friday nights on [[ ABC | /m/0gsg7 ]] .
 Mel NNP
 was VBD
 then RB
@@ -2360,7 +2360,7 @@ ABC NNP
 The Flintstones
 
 
-Legendary voice artist Mel Blanc gave life to Barney Rubble and Dino throughout the program's run
+Legendary voice artist [[ Mel Blanc | /m/0c5vh ]] gave life to [[ Barney Rubble | /m/05695w ]] and [[ Dino | /m/079ld6 ]] throughout the program's run
 Legendary JJ
 voice NN
 artist NN
@@ -2379,7 +2379,7 @@ program's NN
 run VB
 
 
-6) Veteran voice actor Mel Blanc was the voice of Barney Rubble .
+6) Veteran voice actor [[ Mel Blanc | /m/0c5vh ]] was the voice of [[ Barney Rubble | /m/05695w ]] .
 6) CD
 Veteran NNP
 voice NN
@@ -2395,7 +2395,7 @@ Rubble NNP
 . .
 
 
-Infinity with Matthew Broderick portraying Richard Feynman .
+Infinity with [[ Matthew Broderick | /m/01vlj1g ]] portraying [[ Richard Feynman | /m/02xlxh3 ]] .
 Infinity NN
 with IN
 Matthew NNP
@@ -2406,7 +2406,7 @@ Feynman NNP
 . .
 
 
-Barker is a bland choice for Tarzan , especially in Johnny Weissmuller 's shadow
+[[ Barker | /m/01tz8h ]] is a bland choice for [[ Tarzan | /m/07lk3 ]] , especially in [[ Johnny Weissmuller | /m/04709 ]] 's shadow
 Barker NNP
 is VBZ
 a DT
@@ -2423,7 +2423,7 @@ Weissmuller NNP
 shadow NN
 
 
-In the bitch category is Block 's ex-wife, Joan , played by Kirstie Alley in her now-signature pig-screeching manner
+In the bitch category is [[ Block | /m/05_7r3 ]] 's ex-wife, [[ Joan | /m/0cc0_1f ]] , played by [[ Kirstie Alley | /m/01wc7p ]] in her now-signature pig-screeching manner
 In IN
 the DT
 bitch NN
@@ -2445,7 +2445,7 @@ pig-screeching JJ
 manner NN
 
 
-Matthew Broderick does the voice of Barry 's pal Adam , in the passenger seat above.
+[[ Matthew Broderick | /m/01vlj1g ]] does the voice of [[ Barry | /m/016jfw ]] 's pal [[ Adam | /m/0h145rh ]] , in the passenger seat above.
 Matthew NNP
 Broderick NNP
 does VBZ
@@ -2464,7 +2464,7 @@ seat NN
 above. NN
 
 
-Matthew Broderick is perfect as Steven Schats , an aspiring director
+[[ Matthew Broderick | /m/01vlj1g ]] is perfect as [[ Steven Schats | /m/0h145q5 ]] , an aspiring director
 Matthew NNP
 Broderick NNP
 is VBZ
@@ -2478,7 +2478,7 @@ aspiring VBG
 director NN
 
 
-Matthew Broderick and Jonathan Taylor Thomas  provide the voice for Simba 
+[[ Matthew Broderick | /m/01vlj1g ]] and [[ Jonathan Taylor Thomas | /m/02n8yh ]]  provide the voice for [[ Simba | /m/03wjyj ]] 
 Matthew NNP
 Broderick NNP
 and CC
@@ -2492,7 +2492,7 @@ for IN
 Simba NNP
 
 
-Did you know that Matthew Broderick is the voice of Simba ?
+Did you know that [[ Matthew Broderick | /m/01vlj1g ]] is the voice of [[ Simba | /m/03wjyj ]] ?
 Did NNP
 you PRP
 know VBP
@@ -2507,7 +2507,7 @@ Simba NNP
 ? .
 
 
-Young   Home Improvement   star Jonathan Taylor Thomas voiced young Simba , with Matthew Broderick as the adult Simba 
+Young   [[ Home Improvement | /m/03j2w ]]   star [[ Jonathan Taylor Thomas | /m/02n8yh ]] voiced young [[ Simba | /m/03wjyj ]] , with [[ Matthew Broderick | /m/01vlj1g ]] as the adult [[ Simba | /m/03wjyj ]] 
 Young NNP
 Home NNP
 Improvement NNP
@@ -2528,7 +2528,7 @@ adult NN
 Simba NNP
 
 
-Or rather the voice of the adult Simba from the original animated Lion King film, Matthew Broderick 
+Or rather the voice of the adult [[ Simba | /m/03wjyj ]] from the original animated [[ Lion King | /m/0m63c ]] film, [[ Matthew Broderick | /m/01vlj1g ]] 
 Or CC
 rather RB
 the DT
@@ -2548,7 +2548,7 @@ Matthew NNP
 Broderick NNP
 
 
-Rob Pattinson carried Twilight , and Jacob will carry New Moon 
+[[ Rob Pattinson | /m/062dn7 ]] carried [[ Twilight | /m/03nm_fh ]] , and [[ Jacob | /m/0c1sgkp ]] will carry [[ New Moon | /m/05pdh86 ]] 
 Rob NNP
 Pattinson NNP
 carried VBD
@@ -2562,7 +2562,7 @@ New NNP
 Moon NNP
 
 
-Jacob will join Robert Pattinson 's Edward in wooing Kristen Stewart 's Bella 
+[[ Jacob | /m/0c1sgkp ]] will join [[ Robert Pattinson | /m/062dn7 ]] 's Edward in wooing [[ Kristen Stewart | /m/07swvb ]] 's [[ Bella | /m/027b7y9 ]] 
 Jacob NNP
 will MD
 join VB
@@ -2578,7 +2578,7 @@ Stewart NNP
 Bella NN
 
 
-Just Rob is Edward to the fans Taylor is Jacob 
+Just [[ Rob | /m/062dn7 ]] is Edward to the fans [[ Taylor | /m/041397m ]] is [[ Jacob | /m/0c1sgkp ]] 
 Just RB
 Rob NNP
 is VBZ
@@ -2591,7 +2591,7 @@ is VBZ
 Jacob NNP
 
 
-Rob is definitely Edward, Kristin is definitely Bella and Taylor is definitely Jacob .
+[[ Rob | /m/062dn7 ]] is definitely Edward, Kristin is definitely [[ Bella | /m/027b7y9 ]] and [[ Taylor | /m/041397m ]] is definitely [[ Jacob | /m/0c1sgkp ]] .
 Rob NNP
 is VBZ
 definitely RB
@@ -2608,7 +2608,7 @@ Jacob NNP
 . .
 
 
-im team Taylor not team Rob and I?m team Edward not team Jacob 
+im team [[ Taylor | /m/07ldhs ]] not team [[ Rob | /m/062dn7 ]] and I?m team Edward not team [[ Jacob | /m/0c1sgkp ]] 
 im NN
 team NN
 Taylor NNP
@@ -2624,7 +2624,7 @@ team RB
 Jacob NNP
 
 
-Hayden is also the voice of Suri in Disney ?s, Dinosaurs.
+[[ Hayden | /m/02jyhv ]] is also the voice of [[ Suri | /m/0dkbfnt ]] in [[ Disney | /m/01795t ]] ?s, Dinosaurs.
 Hayden NNP
 is VBZ
 also RB
@@ -2638,7 +2638,7 @@ Disney NNP
 Dinosaurs. NNP
 
 
-Hayden Panettiere plays Haylei Sims in the 1982 show 
+[[ Hayden Panettiere | /m/02jyhv ]] plays [[ Haylei Sims | /m/0gj5bts ]] in the 1982 show 
 Hayden NNP
 Panettiere NNP
 plays VBZ
@@ -2650,7 +2650,7 @@ the DT
 show NN
 
 
-For the 1950 movie , Hayden Panettiere plays Young Susan 'Suzie' Stone / Alice Stone , Susan's niece
+For the 1950 movie , [[ Hayden Panettiere | /m/02jyhv ]] plays [[ Young Susan 'Suzie' Stone | /m/0gxbtmj ]] / [[ Alice Stone | /m/0gxbtlt ]] , Susan's niece
 For IN
 the DT
 1950 CD
@@ -2672,7 +2672,7 @@ niece NN
 Young Susan 'Suzie' Stone
 
 
-For the 1950 release of , Hayden Panettiere stars as Audrey Davis 
+For the 1950 release of , [[ Hayden Panettiere | /m/02jyhv ]] stars as [[ Audrey Davis | /m/0cglykd ]] 
 For IN
 the DT
 1950 CD
@@ -2687,7 +2687,7 @@ Audrey NNP
 Davis NNP
 
 
-Hayden , who stars as Britney Allen , sure is getting some experience at this cheerleader thing!
+[[ Hayden | /m/02jyhv ]] , who stars as [[ Britney Allen | /m/0gj5btd ]] , sure is getting some experience at this cheerleader thing!
 Hayden NNP
 , ,
 who WP
@@ -2707,7 +2707,7 @@ cheerleader NN
 thing! NN
 
 
-Brian Andrews plays Tommy Doyle , the little boy who knows better than his babysitter what the Boogeyman is all about
+[[ Brian Andrews | /m/09c_0f ]] plays [[ Tommy Doyle | /m/05287fn ]] , the little boy who knows better than his babysitter what the Boogeyman is all about
 Brian JJ
 Andrews NNP
 plays VBZ
@@ -2732,7 +2732,7 @@ about IN
 Brian Andrews
 
 
-One of the few missteps in Carlito's Way is the miscasting of Penelope Ann Miller as Gail , Carlito 's love interest.
+One of the few missteps in [[ Carlito's Way | /m/0337wr ]] is the miscasting of [[ Penelope Ann Miller | /m/02rrsz ]] as [[ Gail | /m/0h34tq7 ]] , [[ Carlito | /m/027m0ff ]] 's love interest.
 One CD
 of IN
 the DT
@@ -2757,7 +2757,7 @@ love NN
 interest. NN
 
 
-Lotte Lenya is excellent as Rosa Klebb 
+[[ Lotte Lenya | /m/01vcfq ]] is excellent as [[ Rosa Klebb | /m/05p43l ]] 
 Lotte NNP
 Lenya NNP
 is VBZ
@@ -2767,7 +2767,7 @@ Rosa NNP
 Klebb NNP
 
 
-Lotte Lenya plays Rosa Klebb , the defecting Russian agent
+[[ Lotte Lenya | /m/01vcfq ]] plays [[ Rosa Klebb | /m/05p43l ]] , the defecting [[ Russian | /m/06bnz ]] agent
 Lotte NNP
 Lenya NNP
 plays VBZ
@@ -2781,7 +2781,7 @@ agent NN
 Russian
 
 
-Lotte Lenya portrays Rosa Klebb , the former SMERSH agent who has defected to SPECTRE and become their number three agent
+[[ Lotte Lenya | /m/01vcfq ]] portrays [[ Rosa Klebb | /m/05p43l ]] , the former [[ SMERSH | /m/03nvqy ]] agent who has defected to [[ SPECTRE | /m/0m6__ ]] and become their number three agent
 Lotte NNP
 Lenya NNP
 portrays VBZ
@@ -2805,7 +2805,7 @@ three CD
 agent NN
 
 
-Rosa Klebb played by Lotte Lenya is the fifth Villain of From Russia With Love 
+[[ Rosa Klebb | /m/05p43l ]] played by [[ Lotte Lenya | /m/01vcfq ]] is the fifth Villain of [[ From Russia With Love | /m/025twgt ]] 
 Rosa NNP
 Klebb NNP
 played VBN
@@ -2824,7 +2824,7 @@ Love NNP
 From Russia With Love
 
 
-The only weakness in the film is Lori Martin as Sam 's prepubescent daughter Nancy Bowden 
+The only weakness in the film is [[ Lori Martin | /m/0h249b ]] as [[ Sam | /m/05nd8pj ]] 's prepubescent daughter [[ Nancy Bowden | /m/0bhhn7j ]] 
 The DT
 only JJ
 weakness NN
@@ -2843,7 +2843,7 @@ Nancy NNP
 Bowden NNP
 
 
-Trivia note: voicing Dot is Hayden Pannetiere , in her pre-cheerleader days.
+Trivia note: voicing [[ Dot | /m/05t2dqc ]] is [[ Hayden Pannetiere | /m/02jyhv ]] , in her pre-cheerleader days.
 Trivia NNP
 note: NN
 voicing VBG
@@ -2858,7 +2858,7 @@ pre-cheerleader NN
 days. NN
 
 
-In The Ringer , Heigl plays Lynn Sheridan , a Special Olympics volunteer
+In [[ The Ringer | /m/08j6_m ]] , [[ Heigl | /m/025b5y ]] plays [[ Lynn Sheridan | /m/04fgys7 ]] , a [[ Special Olympics | /m/0bqs4 ]] volunteer
 In IN
 The DT
 Ringer NNP
@@ -2876,7 +2876,7 @@ The Ringer
 Special Olympics
 
 
-Tracy Flick enemy Jim McAllister is represented by a career best performance from Matthew Broderick .
+[[ Tracy Flick | /m/0d06js ]] enemy [[ Jim McAllister | /m/0g4t9bl ]] is represented by a career best performance from [[ Matthew Broderick | /m/01vlj1g ]] .
 Tracy NNP
 Flick NNP
 enemy NN
@@ -2895,7 +2895,7 @@ Broderick NNP
 . .
 
 
-Matthew Broderick plays Jim McAllister , a high school teacher, and Reese Witherspoon as Tracy Flick , your average high school over-achiever.
+[[ Matthew Broderick | /m/01vlj1g ]] plays [[ Jim McAllister | /m/0g4t9bl ]] , a high school teacher, and [[ Reese Witherspoon | /m/0n6f8 ]] as [[ Tracy Flick | /m/0d06js ]] , your average high school over-achiever.
 Matthew NNP
 Broderick NNP
 plays VBZ
@@ -2921,7 +2921,7 @@ over-achiever. NN
 Reese Witherspoon
 
 
-Matthew Broderick plays Jim McAllister , 3-time Teacher of the Year at Carver High School.
+[[ Matthew Broderick | /m/01vlj1g ]] plays [[ Jim McAllister | /m/0g4t9bl ]] , 3-time [[ Teacher of the Year | /m/0b7cy4 ]] at Carver High School.
 Matthew NNP
 Broderick NNP
 plays VBZ
@@ -2940,7 +2940,7 @@ School. NNP
 Teacher of the Year
 
 
-Poitier 's memorable character Virgil Tibbs appeared in two more pictures,   They Call Me Mister Tibbs   and   The Organization . 
+[[ Poitier | /m/0cgzj ]] 's memorable character [[ Virgil Tibbs | /m/0g0pzc ]] appeared in two more pictures,   [[ They Call Me Mister Tibbs | /m/06fdp_ ]]   and   [[ The Organization | /m/04f19f7 ]] . 
 Poitier NNP
 's POS
 memorable JJ
@@ -2965,7 +2965,7 @@ They Call Me Mister Tibbs
 The Organization
 
 
-Maybe they were trying to make him perfect in the way Sidney Poitier played Virgil Tibbs in In The Heat Of The Night
+Maybe they were trying to make him perfect in the way [[ Sidney Poitier | /m/0cgzj ]] played [[ Virgil Tibbs | /m/0g0pzc ]] in [[ In The Heat Of The Night | /m/0p7rd ]]
 Maybe RB
 they PRP
 were VBD
@@ -2992,7 +2992,7 @@ Night NNP
 In The Heat Of The Night
 
 
-Poitier does a suitable job as Virgil Tibbs .
+[[ Poitier | /m/0cgzj ]] does a suitable job as [[ Virgil Tibbs | /m/0g0pzc ]] .
 Poitier NNP
 does VBZ
 a DT
@@ -3004,7 +3004,7 @@ Tibbs NNP
 . .
 
 
-Hayden Panettiere plays Sheryl Yoast in the 2002 show 
+[[ Hayden Panettiere | /m/02jyhv ]] plays [[ Sheryl Yoast | /m/0gy8zv7 ]] in the 2002 show 
 Hayden NNP
 Panettiere NNP
 plays VBZ
@@ -3016,7 +3016,7 @@ the DT
 show NN
 
 
-A younger and still stoic looking Mads Mikkelsen stars as Horst in the 2002 film, Wilbur Wants to Kill Himself .
+A younger and still stoic looking [[ Mads Mikkelsen | /m/076svb ]] stars as [[ Horst | /m/0bydxhl ]] in the 2002 film, [[ Wilbur Wants to Kill Himself | /m/0g9wv5 ]] .
 A DT
 younger JJR
 and CC
@@ -3041,7 +3041,7 @@ Himself NNP
 Wilbur Wants to Kill Himself
 
 
-Mads Mikkelsen plays Christoffer , journeying to...
+[[ Mads Mikkelsen | /m/076svb ]] plays [[ Christoffer | /m/0h39rcb ]] , journeying to...
 Mads NNP
 Mikkelsen NNP
 plays VBZ
@@ -3051,7 +3051,7 @@ journeying NN
 to... NN
 
 
-Mads Mikkelsen plays Christoffer , journeying to Prague with his wife Maja  to claim his deceased father's body.
+[[ Mads Mikkelsen | /m/076svb ]] plays [[ Christoffer | /m/0h39rcb ]] , journeying to [[ Prague | /m/0c85_zs ]] with his wife [[ Maja | /m/0hzxffn ]]  to claim his deceased father's body.
 Mads NNP
 Mikkelsen NNP
 plays VBZ
@@ -3072,7 +3072,7 @@ father's NN
 body. NN
 
 
-Carell reprises his role as Evan Baxter , the loose-lipped jerk newscaster from Bruce Almighty .
+[[ Carell | /m/04t2l2 ]] reprises his role as [[ Evan Baxter | /m/02nwc6h ]] , the loose-lipped jerk newscaster from [[ Bruce Almighty | /m/01jft4 ]] .
 Carell NNP
 reprises VBZ
 his PRP$
@@ -3091,7 +3091,7 @@ Almighty NNP
 . .
 
 
-Given Steve Carell s successful turn in Bruce Almighty , he will return as Evan Baxter in the 2007 sequel, Evan Almighty 
+Given [[ Steve Carell | /m/04t2l2 ]] s successful turn in [[ Bruce Almighty | /m/01jft4 ]] , he will return as [[ Evan Baxter | /m/02nwc6h ]] in the 2007 sequel, [[ Evan Almighty | /m/07p62k ]] 
 Given VBN
 Steve NNP
 Carell NNP
@@ -3116,7 +3116,7 @@ Evan NNP
 Almighty NNP
 
 
-If you saw Bruce Almighty , you probably remember Steve Carell ?s cameo as Evan Baxter 
+If you saw [[ Bruce Almighty | /m/01jft4 ]] , you probably remember [[ Steve Carell | /m/04t2l2 ]] ?s cameo as [[ Evan Baxter | /m/02nwc6h ]] 
 If IN
 you PRP
 saw VBD
@@ -3135,7 +3135,7 @@ Evan NNP
 Baxter NNP
 
 
-Steve Carell  plays Evan Baxter .
+[[ Steve Carell | /m/04t2l2 ]]  plays [[ Evan Baxter | /m/02nwc6h ]] .
 Steve NNP
 Carell NNP
 plays VBZ
@@ -3144,7 +3144,7 @@ Baxter NNP
 . .
 
 
-  Evan Almighty   stars Steve Carell in a reprise of his role as newscaster Evan Baxter from the 2003 release   Bruce Almighty .
+  [[ Evan Almighty | /m/07p62k ]]   stars [[ Steve Carell | /m/04t2l2 ]] in a reprise of his role as newscaster [[ Evan Baxter | /m/02nwc6h ]] from the 2003 release   [[ Bruce Almighty | /m/01jft4 ]] .
 Evan NNP
 Almighty NNP
 stars NNS
@@ -3169,7 +3169,7 @@ Almighty NNP
 . .
 
 
-Steve Carell stars as Evan Baxter , a recently elected congressman.
+[[ Steve Carell | /m/04t2l2 ]] stars as [[ Evan Baxter | /m/02nwc6h ]] , a recently elected congressman.
 Steve NNP
 Carell NNP
 stars VBZ
@@ -3183,7 +3183,7 @@ elected VBN
 congressman. NN
 
 
-40 Year Old Virgin star, Steve Carell reprises his role as the polished, preening newscaster Evan Baxter of Bruce Almighty 
+40 Year Old [[ Virgin | /m/0n85g ]] star, [[ Steve Carell | /m/04t2l2 ]] reprises his role as the polished, preening newscaster [[ Evan Baxter | /m/02nwc6h ]] of [[ Bruce Almighty | /m/01jft4 ]] 
 40 CD
 Year JJ
 Old NNP
@@ -3206,7 +3206,7 @@ Bruce NNP
 Almighty NNP
 
 
-. Steve Carell reprises his role from , Evan Baxter , who is instructed by God  to build an ark
+. [[ Steve Carell | /m/04t2l2 ]] reprises his role from , [[ Evan Baxter | /m/02nwc6h ]] , who is instructed by [[ God | /m/0d05l6 ]]  to build an ark
 . .
 Steve NNP
 Carell NNP
@@ -3229,7 +3229,7 @@ an DT
 ark NN
 
 
-Planned for release in 2007, this film projects the career of Steve Carrell ?s character Evan Baxter  into the future
+Planned for release in 2007, this film projects the career of [[ Steve Carrell | /m/04t2l2 ]] ?s character [[ Evan Baxter | /m/02nwc6h ]]  into the future
 Planned VBN
 for IN
 release NN
@@ -3252,7 +3252,7 @@ the DT
 future NN
 
 
-This quality that Mel Blanc imbued upon Porky was perhaps the swine's most memorable trait
+This quality that [[ Mel Blanc | /m/0c5vh ]] imbued upon [[ Porky | /m/0dngm ]] was perhaps the swine's most memorable trait
 This DT
 quality NN
 that WDT
@@ -3270,7 +3270,7 @@ memorable JJ
 trait NN
 
 
-Mel Blanc is the best-known Porky voice, as in the trademark all Folks!  .
+Mel [[ Blanc | /m/0c5vh ]] is the best-known [[ Porky | /m/0dngm ]] voice, as in the trademark all Folks!  .
 Mel NNP
 Blanc NNP
 is VBZ
@@ -3287,7 +3287,7 @@ Folks! NNP
 . .
 
 
-Barrier: I was wondering if Blanc gave the Porky voice new twists
+Barrier: I was wondering if [[ Blanc | /m/0c5vh ]] gave the [[ Porky | /m/0dngm ]] voice new twists
 Barrier: NNP
 I PRP
 was VBD
@@ -3302,7 +3302,7 @@ new JJ
 twists NNS
 
 
-In 1937 Mel Blanc became the voice of Porky and continued the stutter as a comedic effect
+In 1937 [[ Mel Blanc | /m/0c5vh ]] became the voice of [[ Porky | /m/0dngm ]] and continued the stutter as a comedic effect
 In IN
 1937 CD
 Mel NNP
@@ -3322,7 +3322,7 @@ comedic JJ
 effect NN
 
 
-Think of the specific voice Mel gave Daffy Duck or Bugs Bunny or Porky Pig … It’s just astonishing.
+Think of the specific voice [[ Mel | /m/0c5vh ]] gave [[ Daffy Duck | /m/0dng4 ]] or [[ Bugs Bunny | /m/0d9kl ]] or [[ Porky Pig | /m/0dngm ]] … It’s just astonishing.
 Think NN
 of IN
 the DT
@@ -3344,7 +3344,7 @@ just RB
 astonishing. VB
 
 
-Also included is cartoon speaker Mel Blanc performing as Bugs Bunny , Daffy Duck , and Porky Pig 
+Also included is cartoon speaker [[ Mel Blanc | /m/0c5vh ]] performing as [[ Bugs Bunny | /m/0d9kl ]] , [[ Daffy Duck | /m/0dng4 ]] , and [[ Porky Pig | /m/0dngm ]] 
 Also RB
 included VBN
 is VBZ
@@ -3365,7 +3365,7 @@ Porky NNP
 Pig NNP
 
 
-It is also the first appearance of a Daffy Duck prototype, and the first time Mel Blanc voiced Porky Pig 
+It is also the first appearance of a [[ Daffy Duck | /m/0dng4 ]] prototype, and the first time [[ Mel Blanc | /m/0c5vh ]] voiced [[ Porky Pig | /m/0dngm ]] 
 It PRP
 is VBZ
 also RB
@@ -3388,7 +3388,7 @@ Porky NNP
 Pig NNP
 
 
-Mel Blanc always voiced Porky Pig , right
+[[ Mel Blanc | /m/0c5vh ]] always voiced [[ Porky Pig | /m/0dngm ]] , right
 Mel NNP
 Blanc NNP
 always RB
@@ -3399,7 +3399,7 @@ Pig NNP
 right NN
 
 
-Mel Blanc is the best-known Porky voice, as in the trademark  Th-th-th-that's all Folks!
+[[ Mel Blanc | /m/0c5vh ]] is the best-known [[ Porky | /m/0dngm ]] voice, as in the trademark  Th-th-th-that's all Folks!
 Mel NNP
 Blanc NNP
 is VBZ
@@ -3416,7 +3416,7 @@ all DT
 Folks! NNP
 
 
-cartoon , but it also marks the first short where Porky is voiced by Mel Blanc .
+cartoon , but it also marks the first short where [[ Porky | /m/0dngm ]] is voiced by [[ Mel Blanc | /m/0c5vh ]] .
 cartoon NN
 , ,
 but CC
@@ -3436,7 +3436,7 @@ Blanc NNP
 . .
 
 
-Jenna then played Anna Riley in the 2000 comedy Keeping the Faith , which marked Edward Norton 's directorial debut
+[[ Jenna | /m/0320cg ]] then played [[ Anna Riley | /m/0bj8hcc ]] in the 2000 comedy [[ Keeping the Faith | /m/0697_g ]] , which marked [[ Edward Norton | /m/01515w ]] 's directorial debut
 Jenna NNP
 then RB
 played VBD
@@ -3460,7 +3460,7 @@ debut NN
 Keeping the Faith
 
 
-Also onstage will be First Jason, featuring original Jason Voorhees actor Ari Lehman , and the Razorblade Dolls
+Also onstage will be First Jason, featuring original [[ Jason Voorhees | /m/01wmhq ]] actor [[ Ari Lehman | /m/0crt01 ]] , and the Razorblade Dolls
 Also RB
 onstage NN
 will MD
@@ -3481,7 +3481,7 @@ Razorblade NNP
 Dolls NNP
 
 
-Ari Lehman portrayed young Jason in the original FRIDAY THE 13th (1980)
+[[ Ari Lehman | /m/0crt01 ]] portrayed young [[ Jason | /m/01wmhq ]] in the original [[ FRIDAY THE 13th | /m/016mng ]] (1980)
 Ari NNP
 Lehman NNP
 portrayed VBD
@@ -3497,7 +3497,7 @@ THE NNP
 FRIDAY THE 13th
 
 
-Ken Kirzinger won the role of Jason Voorhees , but the decision to not have Hodder
+[[ Ken Kirzinger | /m/07qgr8 ]] won the role of [[ Jason Voorhees | /m/01wmhq ]] , but the decision to not have [[ Hodder | /m/033xr_ ]]
 Ken NNP
 Kirzinger NNP
 won VBD
@@ -3516,7 +3516,7 @@ have VB
 Hodder NNP
 
 
-Ken was Kane Hodder 's stunt double in Friday The 13th Part VIII: Jason Takes Manhattan , and so, he knows how to do Jason
+[[ Ken | /m/07qgr8 ]] was [[ Kane Hodder | /m/033xr_ ]] 's stunt double in [[ Friday The 13th Part VIII: Jason Takes Manhattan | /m/075xrl ]] , and so, he knows how to do [[ Jason | /m/01wmhq ]]
 Ken NNP
 was VBD
 Kane NNP
@@ -3545,7 +3545,7 @@ Jason NNP
 Friday The 13th Part VIII: Jason Takes Manhattan
 
 
-Ken Kirzinger will likely reprise the Role of Jason 
+[[ Ken Kirzinger | /m/07qgr8 ]] will likely reprise the Role of [[ Jason | /m/01wmhq ]] 
 Ken NNP
 Kirzinger NNP
 will MD
@@ -3557,7 +3557,7 @@ of IN
 Jason NNP
 
 
-Ken Kirzinger plays Jason , and while he good, I have to say this shoulde been Kane Hodder
+[[ Ken Kirzinger | /m/07qgr8 ]] plays [[ Jason | /m/01wmhq ]] , and while he good, I have to say this shoulde been [[ Kane Hodder | /m/033xr_ ]]
 Ken NNP
 Kirzinger NNP
 plays VBZ
@@ -3578,7 +3578,7 @@ Kane NNP
 Hodder NNP
 
 
-Kirzinger has appeared as Voorhees in ? Freddy vs Jason ?.
+[[ Kirzinger | /m/07qgr8 ]] has appeared as [[ Voorhees | /m/01wmhq ]] in ? [[ Freddy vs Jason | /m/0353tm ]] ?.
 Kirzinger NNP
 has VBZ
 appeared VBN
@@ -3593,7 +3593,7 @@ Jason NNP
 Freddy vs Jason
 
 
-Kirzinger replaced Kane Hodder , which Hodder Originally Played Jason Voorhees in the last Four Friday the 13th Series
+[[ Kirzinger | /m/07qgr8 ]] replaced [[ Kane Hodder | /m/033xr_ ]] , which [[ Hodder | /m/033xr_ ]] Originally Played [[ Jason Voorhees | /m/01wmhq ]] in the last Four Friday the 13th Series
 Kirzinger NNP
 replaced VBD
 Kane NNP
@@ -3615,7 +3615,7 @@ the DT
 Series NN
 
 
-In 1908, Mel Blanc , the voice of Bugs Bunny and Daffy Duck , was born
+In 1908, [[ Mel Blanc | /m/0c5vh ]] , the voice of [[ Bugs Bunny | /m/0d9kl ]] and [[ Daffy Duck | /m/0dng4 ]] , was born
 In IN
 1908, CD
 Mel NNP
@@ -3634,7 +3634,7 @@ was VBD
 born VBN
 
 
-Mel Blanc , the voice of Bugs Bunny and Daffy Duck , also died
+[[ Mel Blanc | /m/0c5vh ]] , the voice of [[ Bugs Bunny | /m/0d9kl ]] and [[ Daffy Duck | /m/0dng4 ]] , also died
 Mel NNP
 Blanc NNP
 , ,
@@ -3651,7 +3651,7 @@ also RB
 died VBD
 
 
-That's a lot of  pork chops! ( Blanc was the  voice of Bugs Bunny , Daffy Duck and many others)
+That's a lot of  pork chops! ( [[ Blanc | /m/0c5vh ]] was the  voice of [[ Bugs Bunny | /m/0d9kl ]] , [[ Daffy Duck | /m/0dng4 ]] and many others)
 That's VB
 a DT
 lot NN
@@ -3674,7 +3674,7 @@ many JJ
 others) NNS
 
 
-Could anyone other than Mel Blanc have voiced Bugs Bunny or Daffy Duck 
+Could anyone other than [[ Mel Blanc | /m/0c5vh ]] have voiced [[ Bugs Bunny | /m/0d9kl ]] or [[ Daffy Duck | /m/0dng4 ]] 
 Could NNP
 anyone NN
 other JJ
@@ -3690,7 +3690,7 @@ Daffy NNP
 Duck NNP
 
 
-I've always liked Mel Blanc , but Woody was just too much like Daffy .
+I've always liked [[ Mel Blanc | /m/0c5vh ]] , but [[ Woody | /m/03f6yx9 ]] was just too much like [[ Daffy | /m/0dng4 ]] .
 I've NNP
 always RB
 liked VBD
@@ -3708,7 +3708,7 @@ Daffy NNP
 . .
 
 
-As usual, Mel Blanc provides the voice of Daffy here, while Casper was performed by Jack Lescoulie 
+As usual, [[ Mel Blanc | /m/0c5vh ]] provides the voice of [[ Daffy | /m/0dng4 ]] here, while [[ Casper | /m/0k39j ]] was performed by [[ Jack Lescoulie | /m/0fzwcm ]] 
 As IN
 usual, JJ
 Mel NNP
@@ -3728,7 +3728,7 @@ Jack NNP
 Lescoulie NNP
 
 
-In 1988, Blanc performed a bit part as Daffy Duck in the wildly successful film feature,   Who Framed Roger Rabbit ?
+In 1988, [[ Blanc | /m/0c5vh ]] performed a bit part as [[ Daffy Duck | /m/0dng4 ]] in the wildly successful film feature,   [[ Who Framed Roger Rabbit | /m/0k2sk ]] ?
 In IN
 1988, CD
 Blanc NNP
@@ -3752,7 +3752,7 @@ Rabbit NNP
 ? .
 
 
-Mel Blanc is doing Daffy 's voice here in one of his final performances as the LT characters
+[[ Mel Blanc | /m/0c5vh ]] is doing [[ Daffy | /m/0dng4 ]] 's voice here in one of his final performances as the [[ LT | /m/0d9l1 ]] characters
 Mel NNP
 Blanc NNP
 is VBZ
@@ -3773,7 +3773,7 @@ LT NNP
 characters NNS
 
 
-Voice artist Mel Blanc gave Tweety and Daffy Duck their voices through altered pitch 
+Voice artist [[ Mel Blanc | /m/0c5vh ]] gave [[ Tweety | /m/0n2w_ ]] and [[ Daffy Duck | /m/0dng4 ]] their voices through altered pitch 
 Voice NNP
 artist NN
 Mel NNP
@@ -3790,7 +3790,7 @@ altered VBN
 pitch NN
 
 
-Mel Blanc is doing Daffy 's voice here in one of his final performances as the LT characters.
+[[ Mel Blanc | /m/0c5vh ]] is doing [[ Daffy | /m/0dng4 ]] 's voice here in one of his final performances as the [[ LT | /m/0d9l1 ]] characters.
 Mel NNP
 Blanc NNP
 is VBZ
@@ -3811,7 +3811,7 @@ LT NNP
 characters. NN
 
 
-And repeated every line that Mel Blanc said as Bugs Bunny or Daffy Duck 
+And repeated every line that [[ Mel Blanc | /m/0c5vh ]] said as [[ Bugs Bunny | /m/0d9kl ]] or [[ Daffy Duck | /m/0dng4 ]] 
 And CC
 repeated VBN
 every DT
@@ -3828,7 +3828,7 @@ Daffy NNP
 Duck NNP
 
 
-Caroline played by Serena Gordon is the first Bond Girl of Goldeneye .
+[[ Caroline | /m/0p7rcw7 ]] played by [[ Serena Gordon | /m/027r25y ]] is the first [[ Bond Girl | /m/01r29n ]] of [[ Goldeneye | /m/01npcx ]] .
 Caroline NNP
 played VBN
 by IN
@@ -3844,7 +3844,7 @@ Goldeneye NNP
 . .
 
 
-MGM Grand headliner Cristal Connors , played by Gina Gershon , and auditioning for the show at her suggestion
+[[ MGM Grand | /m/033vpy ]] headliner [[ Cristal Connors | /m/02nwm45 ]] , played by [[ Gina Gershon | /m/01l1hr ]] , and auditioning for the show at her suggestion
 MGM NNP
 Grand NNP
 headliner NN
@@ -3866,7 +3866,7 @@ her PRP$
 suggestion NN
 
 
-Zuniga seems especially good as the uptight Alison 
+[[ Zuniga | /m/03204v ]] seems especially good as the uptight [[ Alison | /m/0h5rrnl ]] 
 Zuniga NNP
 seems VBZ
 especially RB
@@ -3877,7 +3877,7 @@ uptight JJ
 Alison NNP
 
 
-Shiftlessly succumbing to Maurice s charms is Jodie Whittaker s Jessie , the grand-niece of a friend.
+Shiftlessly succumbing to [[ Maurice | /m/0c0nfxk ]] s charms is [[ Jodie Whittaker | /m/027gc_g ]] s [[ Jessie | /m/0c0nfx3 ]] , the grand-niece of a friend.
 Shiftlessly RB
 succumbing VBG
 to TO
@@ -3897,7 +3897,7 @@ a DT
 friend. NN
 
 
-(  Notting Hill ,    The Mother  ). ( Whittaker gives Jessie the uneducated accent of  Absolutely Fabulous's  Bubble)
+(  [[ Notting Hill | /m/01cz7r ]] ,    [[ The Mother | /m/048qfd ]]  ). ( [[ Whittaker | /m/027gc_g ]] gives [[ Jessie | /m/0c0nfx3 ]] the uneducated accent of  Absolutely Fabulous's  Bubble)
 ( (
 Notting VBG
 Hill NNP
@@ -3920,7 +3920,7 @@ Notting Hill
 The Mother
 
 
-Argento is a perfect Vellini , at once carnal and terrifying but also sensual and alluring.
+[[ Argento | /m/028pzq ]] is a perfect [[ Vellini | /m/0h2l6vf ]] , at once carnal and terrifying but also sensual and alluring.
 Argento NNP
 is VBZ
 a DT
@@ -3939,7 +3939,7 @@ and CC
 alluring. JJ
 
 
-Pan Yuliang is played by Gong Li , China 's best known movie star
+[[ Pan Yuliang | /m/0h2c5jw ]] is played by [[ Gong Li | /m/0139t1 ]] , [[ China | /m/0fbp0 ]] 's best known movie star
 Pan NNP
 Yuliang NNP
 is VBZ
@@ -3956,7 +3956,7 @@ movie NN
 star NN
 
 
-Alley rose to prominence in the 1982 movie , playing Vulcan officer Saavik .
+[[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] .
 Alley NNP
 rose VBD
 to TO
@@ -3974,7 +3974,7 @@ Saavik NNP
 Vulcan
 
 
-Robin Curtis takes over the role of Saavik , and makes you forget that Kirstie Alley originated the character
+[[ Robin Curtis | /m/02lddf ]] takes over the role of [[ Saavik | /m/02469f ]] , and makes you forget that [[ Kirstie Alley | /m/01wc7p ]] originated the character
 Robin NNP
 Curtis NNP
 takes VBZ
@@ -3996,7 +3996,7 @@ the DT
 character NN
 
 
-Kirstie Alley did play Saavik one other time, in a play set between ST II and ST III
+[[ Kirstie Alley | /m/01wc7p ]] did play [[ Saavik | /m/02469f ]] one other time, in a play set between ST II and ST III
 Kirstie NNP
 Alley NNP
 did VBD
@@ -4017,7 +4017,7 @@ ST NNP
 III NNP
 
 
-Kirstie Alley played Saavik in Treks II and III.
+[[ Kirstie Alley | /m/01wc7p ]] played [[ Saavik | /m/02469f ]] in Treks II and III.
 Kirstie NNP
 Alley NNP
 played VBD
@@ -4029,7 +4029,7 @@ and CC
 III. NNP
 
 
-Alley rose to prominence in the 1982 movie Star Trek: The Wrath of Khan , playing Vulcan officer Saavik .
+[[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie [[ Star Trek: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] .
 Alley NNP
 rose VBD
 to TO
@@ -4054,7 +4054,7 @@ Star Trek: The Wrath of Khan
 Vulcan
 
 
-Alley won a supporting role in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Lieutenant Saavik 
+[[ Alley | /m/01wc7p ]] won a supporting role in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Lieutenant Saavik | /m/02469f ]] 
 Alley NNP
 won VBD
 a DT
@@ -4081,7 +4081,7 @@ Star Trek II: The Wrath of Khan
 Vulcan
 
 
-Kirstie Alley  played Saavik in Star Trek II: The Wrath of Khan .
+[[ Kirstie Alley | /m/01wc7p ]]  played [[ Saavik | /m/02469f ]] in [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] .
 Kirstie NNP
 Alley NNP
 played VBD
@@ -4098,7 +4098,7 @@ Khan NNP
 Star Trek II: The Wrath of Khan
 
 
-The film is notable for being the first major role for Kirstie Alley , who played Lieutenant Saavik 
+The film is notable for being the first major role for [[ Kirstie Alley | /m/01wc7p ]] , who played [[ Lieutenant Saavik | /m/02469f ]] 
 The DT
 film NN
 is VBZ
@@ -4119,7 +4119,7 @@ Lieutenant NNP
 Saavik NNP
 
 
-Alley rose to prominence in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Saavik 
+[[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] 
 Alley NNP
 rose VBD
 to TO
@@ -4144,7 +4144,7 @@ Star Trek II: The Wrath of Khan
 Vulcan
 
 
-The final six season after Saavik Kirstie Alley replaced Shelley Long were never quite the same.
+The final six season after [[ Saavik | /m/02469f ]] [[ Kirstie Alley | /m/01wc7p ]] replaced [[ Shelley Long | /m/02r_km ]] were never quite the same.
 The DT
 final JJ
 six CD
@@ -4163,7 +4163,7 @@ the DT
 same. NN
 
 
-Oh, and Robin Curtis played Saavik after Kirstie Alley 
+Oh, and [[ Robin Curtis | /m/02lddf ]] played [[ Saavik | /m/02469f ]] after [[ Kirstie Alley | /m/01wc7p ]] 
 Oh, NNP
 and CC
 Robin NNP
@@ -4175,7 +4175,7 @@ Kirstie NNP
 Alley NNP
 
 
-Career Alley won a supporting role in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Lieutenant Saavik 
+Career [[ Alley | /m/01wc7p ]] won a supporting role in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Lieutenant Saavik | /m/02469f ]] 
 Career NNP
 Alley NNP
 won VBD
@@ -4203,7 +4203,7 @@ Star Trek II: The Wrath of Khan
 Vulcan
 
 
-Alley rose to prominence in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Saavik .
+[[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] .
 Alley NNP
 rose VBD
 to TO
@@ -4229,7 +4229,7 @@ Star Trek II: The Wrath of Khan
 Vulcan
 
 
-Jordan did put Kirstie Alley ?s Saavik at 17 and Ashley Judd ?s Ens
+[[ Jordan | /m/03__y ]] did put [[ Kirstie Alley | /m/01wc7p ]] ?s [[ Saavik | /m/02469f ]] at 17 and [[ Ashley Judd | /m/0btxr ]] ?s Ens
 Jordan NN
 did VBD
 put VB
@@ -4246,7 +4246,7 @@ Judd NNP
 Ens NNP
 
 
-Mads Mikkelsen , who played the villain in the most recent James Bond film, is a very human man named Jacob 
+[[ Mads Mikkelsen | /m/076svb ]] , who played the villain in the most recent [[ James Bond | /m/03_97 ]] film, is a very human man named [[ Jacob | /m/0h39r88 ]] 
 Mads NNP
 Mikkelsen NNP
 , ,
@@ -4270,7 +4270,7 @@ named VBN
 Jacob NNP
 
 
-Mads Mikkelsen plays Jacob who works at an orphanage in India .
+[[ Mads Mikkelsen | /m/076svb ]] plays [[ Jacob | /m/0h39r88 ]] who works at an orphanage in [[ India | /m/03rk0 ]] .
 Mads NNP
 Mikkelsen NNP
 plays VBZ
@@ -4285,7 +4285,7 @@ India NNP
 . .
 
 
-Casino Royale ?s Mads Mikkelsen  plays Jacob , a Dane who runs an orphanage in India 
+[[ Casino Royale | /m/03r0g9 ]] ?s [[ Mads Mikkelsen | /m/076svb ]]  plays [[ Jacob | /m/0h39r88 ]] , a Dane who runs an orphanage in [[ India | /m/03rk0 ]] 
 Casino NNP
 Royale NNP
 ?s NNP
@@ -4304,7 +4304,7 @@ in IN
 India NNP
 
 
-Mads Mikkelsen  stars as Jacob , an angry, unhappy man who helps run an orphanage in India 
+[[ Mads Mikkelsen | /m/076svb ]]  stars as [[ Jacob | /m/0h39r88 ]] , an angry, unhappy man who helps run an orphanage in [[ India | /m/03rk0 ]] 
 Mads NNP
 Mikkelsen NNP
 stars VBZ
@@ -4324,7 +4324,7 @@ in IN
 India NNP
 
 
-, who?s a much better writer than the playwright David Shayne played by John Cusack 
+, who?s a much better writer than the playwright [[ David Shayne | /m/0gyl37_ ]] played by [[ John Cusack | /m/01gkmx ]] 
 , ,
 who?s VBZ
 a DT
@@ -4342,7 +4342,7 @@ John NNP
 Cusack NNP
 
 
-John Cusack plays David Shayne , a youthful, intellectual playwright seeking to get his play staged and directed by himself.
+[[ John Cusack | /m/01gkmx ]] plays [[ David Shayne | /m/0gyl37_ ]] , a youthful, intellectual playwright seeking to get his play staged and directed by himself.
 John NNP
 Cusack NNP
 plays VBZ
@@ -4365,7 +4365,7 @@ by IN
 himself. NN
 
 
-John Cusack  stars as David Shayne , an idealistic young writer who'll do anything to get his first Broadway
+[[ John Cusack | /m/01gkmx ]]  stars as [[ David Shayne | /m/0gyl37_ ]] , an idealistic young writer who'll do anything to get his first [[ Broadway | /m/035y8z ]]
 John NNP
 Cusack NNP
 stars VBZ
@@ -4387,7 +4387,7 @@ first JJ
 Broadway NNP
 
 
-Ashley portrays Brooke Tippit , captain of the cheerleading squad
+[[ Ashley | /m/06qw3f ]] portrays [[ Brooke Tippit | /m/0gyf547 ]] , captain of the cheerleading squad
 Ashley NNP
 portrays NNS
 Brooke NNP
@@ -4400,7 +4400,7 @@ cheerleading NN
 squad NN
 
 
-Battlestar Galactica cast member Alessandro Juliani , who plays Felix Gaeta , is also in the film as a character named ?Tattoos.?
+[[ Battlestar Galactica | /m/08b3p3 ]] cast member [[ Alessandro Juliani | /m/073lr9 ]] , who plays [[ Felix Gaeta | /m/09rrdk ]] , is also in the film as a character named ?Tattoos.?
 Battlestar NNP
 Galactica NNP
 cast VBD
@@ -4425,7 +4425,7 @@ named VBN
 ?Tattoos.? NN
 
 
-Lieutenant Felix Gaeta is portrayed by Alessandro Juliani on the series 
+Lieutenant [[ Felix Gaeta | /m/09rrdk ]] is portrayed by [[ Alessandro Juliani | /m/073lr9 ]] on the series 
 Lieutenant JJ
 Felix NNP
 Gaeta NNP
@@ -4439,7 +4439,7 @@ the DT
 series NN
 
 
-Bernadette Peters also won a Golden Globe Awards for her portrayal of the role of Eileen in another comedy, Pennies From Heaven in 1981.
+[[ Bernadette Peters | /m/01ccr8 ]] also won a [[ Golden Globe Awards | /m/011_7_ ]] for her portrayal of the role of [[ Eileen | /m/0cf00qs ]] in another comedy, [[ Pennies From Heaven | /m/025v0rv ]] in 1981.
 Bernadette NNP
 Peters NNP
 also RB
@@ -4466,7 +4466,7 @@ in IN
 1981. CD
 
 
-Teresa Wright offers capable support as Eleanor Gehrig 
+[[ Teresa Wright | /m/018qr9 ]] offers capable support as [[ Eleanor Gehrig | /m/02nwq33 ]] 
 Teresa NNP
 Wright NNP
 offers VBZ
@@ -4477,7 +4477,7 @@ Eleanor NNP
 Gehrig NNP
 
 
-Kattan plays the title role in Disney ?s feature film comedy ? Corky Romano ?  with Peter Falk .
+[[ Kattan | /m/02rwns ]] plays the title role in [[ Disney | /m/09b3v ]] ?s feature film comedy ? [[ Corky Romano | /m/0h5h6k5 ]] ?  with [[ Peter Falk | /m/05xpv ]] .
 Kattan NNP
 plays VBZ
 the DT
@@ -4499,7 +4499,7 @@ Falk NNP
 . .
 
 
-Potente plays Paula Henning , a medical student who gets into an exclusive school in Heidelberg .
+[[ Potente | /m/02c23m ]] plays [[ Paula Henning | /m/0h2_dph ]] , a medical student who gets into an exclusive school in [[ Heidelberg | /m/0pmcz ]] .
 Potente NNP
 plays VBZ
 Paula NNP
@@ -4519,7 +4519,7 @@ Heidelberg NNP
 . .
 
 
-Amy Sedaris  plays Jerri , who describes herself in the show's opening.
+[[ Amy Sedaris | /m/024rx_ ]]  plays [[ Jerri | /m/02_xmr8 ]] , who describes herself in the show's opening.
 Amy NNP
 Sedaris NNP
 plays VBZ
@@ -4534,7 +4534,7 @@ show's NN
 opening. NN
 
 
-(as Amy dressed as Jerri ).
+(as [[ Amy | /m/024rx_ ]] dressed as [[ Jerri | /m/02_xmr8 ]] ).
 (as JJ
 Amy NNP
 dressed VBD
@@ -4543,7 +4543,7 @@ Jerri NNP
 ). NN
 
 
-Although Jerri Blank is Sedaris
+Although [[ Jerri Blank | /m/02_xmr8 ]] is [[ Sedaris | /m/024rx_ ]]
 Although IN
 Jerri NNP
 Blank NNP
@@ -4551,7 +4551,7 @@ is VBZ
 Sedaris NNP
 
 
-Amy Sedaris is an absolute riot as the clueless Jerri Blank 
+[[ Amy Sedaris | /m/024rx_ ]] is an absolute riot as the clueless [[ Jerri Blank | /m/02_xmr8 ]] 
 Amy NNP
 Sedaris NNP
 is VBZ
@@ -4565,7 +4565,7 @@ Jerri NNP
 Blank NNP
 
 
-Jerri Blank will never die as long as Amy Sedaris is making talk-show appearances.
+[[ Jerri Blank | /m/02_xmr8 ]] will never die as long as [[ Amy Sedaris | /m/024rx_ ]] is making talk-show appearances.
 Jerri NNP
 Blank NNP
 will MD
@@ -4582,7 +4582,7 @@ talk-show JJ
 appearances. NN
 
 
-Amy Sedaris said of Jerri Blank that  she's like a rash; you never know when she's going to pop up. [7
+[[ Amy Sedaris | /m/024rx_ ]] said of [[ Jerri Blank | /m/02_xmr8 ]] that  she's like a rash; you never know when she's going to pop up. [7
 Amy NNP
 Sedaris NNP
 said VBD
@@ -4606,7 +4606,7 @@ up. JJ
 [7 NN
 
 
-Looking a *lot* like Jerri Blank , Amy Sedaris 's character in Strangers with Candy .
+Looking a *lot* like [[ Jerri Blank | /m/02_xmr8 ]] , [[ Amy Sedaris | /m/024rx_ ]] 's character in [[ Strangers with Candy | /m/093jsy ]] .
 Looking VBG
 a DT
 *lot* NN
@@ -4626,7 +4626,7 @@ Candy NNP
 Strangers with Candy
 
 
-Although Jerri Blank is Sedaris ' most well known character, she's far from her only enduring creation
+Although [[ Jerri Blank | /m/02_xmr8 ]] is [[ Sedaris | /m/024rx_ ]] ' most well known character, she's far from her only enduring creation
 Although IN
 Jerri NNP
 Blank NNP
@@ -4646,7 +4646,7 @@ enduring NN
 creation NN
 
 
-Amy Sedaris appears as Jerri Blank in this 2005 anti-fur ad for 
+[[ Amy Sedaris | /m/024rx_ ]] appears as [[ Jerri Blank | /m/02_xmr8 ]] in this 2005 anti-fur ad for 
 Amy NNP
 Sedaris NNP
 appears VBZ
@@ -4661,7 +4661,7 @@ ad NN
 for IN
 
 
-Sedaris plays Jerri Blank , a 46-year-old ex-junkie, ex-con, that goes back to high school to start her life over.
+[[ Sedaris | /m/024rx_ ]] plays [[ Jerri Blank | /m/02_xmr8 ]] , a 46-year-old ex-junkie, ex-con, that goes back to high school to start her life over.
 Sedaris NNP
 plays VBZ
 Jerri NNP
@@ -4684,7 +4684,7 @@ life NN
 over. NN
 
 
-Case in point is Sedaris ' portrayal of Jerri Blank , the anti-heroine of Strangers With Candy 
+Case in point is [[ Sedaris | /m/024rx_ ]] ' portrayal of [[ Jerri Blank | /m/02_xmr8 ]] , the anti-heroine of [[ Strangers With Candy | /m/026_5y ]] 
 Case NN
 in IN
 point NN
@@ -4705,7 +4705,7 @@ Candy NNP
 Strangers With Candy
 
 
-John Turturro played Pete in the movie
+[[ John Turturro | /m/01swck ]] played [[ Pete | /m/0gyn94q ]] in the movie
 John NNP
 Turturro NNP
 played VBD
@@ -4715,7 +4715,7 @@ the DT
 movie NN
 
 
-Rebecca Howe & The Righteous Brothers - Kirstie Alley played Rebecca Howe , a frustrated business woman on the sitcom CHEERS/ NBC /1982-93
+[[ Rebecca Howe | /m/03f6b_ ]] & The [[ Righteous Brothers | /m/06h_5 ]] - [[ Kirstie Alley | /m/01wc7p ]] played [[ Rebecca Howe | /m/03f6b_ ]] , a frustrated business woman on the sitcom CHEERS/ [[ NBC | /m/03fbx5 ]] /1982-93
 Rebecca NNP
 Howe NNP
 & CC
@@ -4741,7 +4741,7 @@ NBC NNP
 /1982-93 NN
 
 
-Alley became known to millions of television viewers as Rebecca Howe in the hit NBC series Cheers 
+[[ Alley | /m/01wc7p ]] became known to millions of television viewers as [[ Rebecca Howe | /m/03f6b_ ]] in the hit [[ NBC | /m/05gnf ]] series [[ Cheers | /m/01s81 ]] 
 Alley NNP
 became VBD
 known VBN
@@ -4761,7 +4761,7 @@ series NN
 Cheers NNP
 
 
-B.J. Hunnicut  , and Cheers, with Shelley Long as Diane Chambers  swapped out for Kirstie Alley as Rebecca Howe 
+B.J. Hunnicut  , and Cheers, with [[ Shelley Long | /m/02r_km ]] as [[ Diane Chambers | /m/02y6xv ]]  swapped out for [[ Kirstie Alley | /m/01wc7p ]] as [[ Rebecca Howe | /m/03f6b_ ]] 
 B.J. NNP
 Hunnicut NNP
 , ,
@@ -4783,7 +4783,7 @@ Rebecca NNP
 Howe NNP
 
 
-Kirstie Alley played Rebecca Howe on the long-running sitcom Cheers 
+[[ Kirstie Alley | /m/01wc7p ]] played [[ Rebecca Howe | /m/03f6b_ ]] on the long-running sitcom [[ Cheers | /m/01s81 ]] 
 Kirstie NNP
 Alley NNP
 played VBD
@@ -4796,7 +4796,7 @@ sitcom NN
 Cheers NNS
 
 
-The main Bond girl Camille , played by Olga Kurylenko , was an interesting psychological counter to Bond 
+The main [[ Bond | /m/03nb2p ]] girl [[ Camille | /m/043pxc_ ]] , played by [[ Olga Kurylenko | /m/0266c36 ]] , was an interesting psychological counter to [[ Bond | /m/03nb2p ]] 
 The DT
 main JJ
 Bond NNP
@@ -4819,7 +4819,7 @@ Bond
 Bond
 
 
-Ukrainian -born actress Olga Kurylenko , known to many fans as Bond girl? Camille
+[[ Ukrainian | /m/07t21 ]] -born actress [[ Olga Kurylenko | /m/0266c36 ]] , known to many fans as [[ Bond | /m/03_97 ]] girl? [[ Camille | /m/043pxc_ ]]
 Ukrainian JJ
 -born NNP
 actress NN
@@ -4837,7 +4837,7 @@ Camille NNP
 Ukrainian
 
 
-Get the style of Olga Kurylenko , as Bond girl Camille , with this great bubble hem skirt.
+Get the style of [[ Olga Kurylenko | /m/0266c36 ]] , as [[ Bond | /m/0ghcr ]] girl [[ Camille | /m/043pxc_ ]] , with this great bubble hem skirt.
 Get VB
 the DT
 style NN
@@ -4858,7 +4858,7 @@ hem NN
 skirt. NN
 
 
-as the personal car of leading lady Olga Kurylenko , who plays Bond 's ally Camille
+as the personal car of leading lady [[ Olga Kurylenko | /m/0266c36 ]] , who plays [[ Bond | /m/03_97 ]] 's ally [[ Camille | /m/043pxc_ ]]
 as IN
 the DT
 personal JJ
@@ -4877,7 +4877,7 @@ ally NN
 Camille NNP
 
 
-Kurylenko explained what sets Camille apart from the pack:  I don't think Camille is a typical Bond girl
+[[ Kurylenko | /m/0266c36 ]] explained what sets [[ Camille | /m/043pxc_ ]] apart from the pack:  I don't think [[ Camille | /m/043pxc_ ]] is a typical [[ Bond | /m/01r29n ]] girl
 Kurylenko NNP
 explained VBD
 what WP
@@ -4898,7 +4898,7 @@ Bond NNP
 girl NN
 
 
-Olga Kurylenko plays Camille , the new Bond
+[[ Olga Kurylenko | /m/0266c36 ]] plays [[ Camille | /m/043pxc_ ]] , the new [[ Bond | /m/02bx4q ]]
 Olga NNP
 Kurylenko NNP
 plays VBZ
@@ -4909,7 +4909,7 @@ new JJ
 Bond NN
 
 
-In case you havent met her, this is Olga Kurylenko , who plays Camille in the movie.
+In case you havent met her, this is [[ Olga Kurylenko | /m/0266c36 ]] , who plays [[ Camille | /m/043pxc_ ]] in the movie.
 In IN
 case NN
 you PRP
@@ -4929,7 +4929,7 @@ the DT
 movie. NN
 
 
-Ukrainian -born actress Olga Kurylenko plays Bond 's latest sidekick, Camille 
+[[ Ukrainian | /m/07t21 ]] -born actress [[ Olga Kurylenko | /m/0266c36 ]] plays [[ Bond | /m/03_97 ]] 's latest sidekick, [[ Camille | /m/043pxc_ ]] 
 Ukrainian JJ
 -born NNP
 actress NN
@@ -4944,7 +4944,7 @@ Camille NNP
 Ukrainian
 
 
-In Quantum , Olga plays Daniel Craig ?s seductive sidekick Camille , who is ? surprise
+In [[ Quantum | /m/08gsvw ]] , [[ Olga | /m/0266c36 ]] plays [[ Daniel Craig | /m/04shbh ]] ?s seductive sidekick [[ Camille | /m/043pxc_ ]] , who is ? surprise
 In IN
 Quantum NNP
 , ,
@@ -4963,7 +4963,7 @@ is VBZ
 surprise NN
 
 
-Kurylenko played Camille and Arterton played Strawberry Fields .
+[[ Kurylenko | /m/0266c36 ]] played [[ Camille | /m/043pxc_ ]] and [[ Arterton | /m/03gtlj5 ]] played [[ Strawberry Fields | /m/04stm9r ]] .
 Kurylenko NNP
 played VBD
 Camille NNP
@@ -4975,7 +4975,7 @@ Fields NNP
 . .
 
 
-The Ukrainian -born Kurylenko plays the fiesty Camille , who's driven by revenge.
+The [[ Ukrainian | /m/07t21 ]] -born [[ Kurylenko | /m/0266c36 ]] plays the fiesty [[ Camille | /m/043pxc_ ]] , who's driven by revenge.
 The DT
 Ukrainian JJ
 -born NNP
@@ -4992,7 +4992,7 @@ revenge. NN
 Ukrainian
 
 
-Kurylenko as Camille plays an excellent stereotypical Bond girl.
+[[ Kurylenko | /m/0266c36 ]] as [[ Camille | /m/043pxc_ ]] plays an excellent stereotypical [[ Bond | /m/03_97 ]] girl.
 Kurylenko NNP
 as IN
 Camille NNP
@@ -5004,7 +5004,7 @@ Bond NNP
 girl. NN
 
 
-Twenty-eight-year-old Olga portrays Camille , who is ?very driven.
+Twenty-eight-year-old [[ Olga | /m/0266c36 ]] portrays [[ Camille | /m/043pxc_ ]] , who is ?very driven.
 Twenty-eight-year-old JJ
 Olga NNP
 portrays NNS
@@ -5016,7 +5016,7 @@ is VBZ
 driven. NN
 
 
-Camille Montes is played by Olga Kurylenko in .
+[[ Camille Montes | /m/043pxc_ ]] is played by [[ Olga Kurylenko | /m/0266c36 ]] in .
 Camille NNP
 Montes NNP
 is VBZ
@@ -5028,7 +5028,7 @@ in IN
 . .
 
 
-? Olga Kurylenko ?s character, Camille , is half Ukrainian and half South American .
+? [[ Olga Kurylenko | /m/0266c36 ]] ?s character, [[ Camille | /m/043pxc_ ]] , is half [[ Ukrainian | /m/07t21 ]] and half [[ South American | /m/06n3y ]] .
 ? .
 Olga NNP
 Kurylenko NNP
@@ -5048,7 +5048,7 @@ Ukrainian
 South American
 
 
-Olga Kurylenko will play  the dangerously alluring Camille   in the new working-titled   Bond 22 .
+[[ Olga Kurylenko | /m/0266c36 ]] will play  the dangerously alluring [[ Camille | /m/043pxc_ ]]   in the new working-titled   [[ Bond 22 | /m/08gsvw ]] .
 Olga NNP
 Kurylenko NNP
 will MD
@@ -5067,7 +5067,7 @@ Bond NN
 Bond 22
 
 
-Kurylenko plays? th?e lates?t Bond girl Camille in? th?e film.
+[[ Kurylenko | /m/0266c36 ]] plays? th?e lates?t [[ Bond | /m/03_97 ]] girl [[ Camille | /m/043pxc_ ]] in? th?e film.
 Kurylenko NNP
 plays? NN
 th?e NN
@@ -5080,7 +5080,7 @@ th?e NN
 film. NN
 
 
-As 007 gets deeper into Dominc's dealings, he encounters the beautiful Camille , played by Russian actress Olga Kurylenko .
+As 007 gets deeper into Dominc's dealings, he encounters the beautiful [[ Camille | /m/043pxc_ ]] , played by [[ Russian | /m/06bnz ]] actress [[ Olga Kurylenko | /m/0266c36 ]] .
 As IN
 007 CD
 gets VBZ
@@ -5104,7 +5104,7 @@ Kurylenko NNP
 Russian
 
 
-Olga Kurylenko Reveals Quantum of Solace Spoiler Olga Kurylenko portrays Camille in Quantum of Solace 
+Olga Kurylenko Reveals Quantum of Solace Spoiler [[ Olga Kurylenko | /m/0266c36 ]] portrays [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] 
 Olga NNP
 Kurylenko NNP
 Reveals NNP
@@ -5123,7 +5123,7 @@ Solace NNP
 Quantum of Solace
 
 
-Olga Kurylenko , who played Camille , was born with six fingers on each hand.
+[[ Olga Kurylenko | /m/0266c36 ]] , who played [[ Camille | /m/043pxc_ ]] , was born with six fingers on each hand.
 Olga NNP
 Kurylenko NNP
 , ,
@@ -5141,7 +5141,7 @@ each DT
 hand. NN
 
 
-Source: Mi6.co.uk Ukranian actress Olga Kurylenko told press last week that her character Camille has  a masculine spirit. 
+Source: Mi6.co.uk [[ Ukranian | /m/012f86 ]] actress [[ Olga Kurylenko | /m/0266c36 ]] told press last week that her character [[ Camille | /m/043pxc_ ]] has  a masculine spirit. 
 Source: NNP
 Mi6.co.uk NNP
 Ukranian NNP
@@ -5162,7 +5162,7 @@ masculine NN
 spirit. NN
 
 
-On the other hand, the beautiful Kurylenko plays a stunning Camille who is tough-as-nails
+On the other hand, the beautiful [[ Kurylenko | /m/0266c36 ]] plays a stunning [[ Camille | /m/043pxc_ ]] who is tough-as-nails
 On IN
 the DT
 other JJ
@@ -5179,7 +5179,7 @@ is VBZ
 tough-as-nails NNS
 
 
-In the movie the Ka is driven by Camille , the beautiful but feisty leading lady, played by Olga Kurylenko 
+In the movie the [[ Ka | /m/027rb7 ]] is driven by [[ Camille | /m/043pxc_ ]] , the beautiful but feisty leading lady, played by [[ Olga Kurylenko | /m/0266c36 ]] 
 In IN
 the DT
 movie NN
@@ -5202,7 +5202,7 @@ Olga NNP
 Kurylenko NNP
 
 
-Someone who might return, though, is Olga Kurylenko , who plays Camille in Quantum of Solace .
+Someone who might return, though, is [[ Olga Kurylenko | /m/0266c36 ]] , who plays [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] .
 Someone NN
 who WP
 might MD
@@ -5223,7 +5223,7 @@ Solace NNP
 Quantum of Solace
 
 
-As Camille , Olga Kurylenko is a special Bond
+As [[ Camille | /m/043pxc_ ]] , [[ Olga Kurylenko | /m/0266c36 ]] is a special [[ Bond | /m/03_97 ]]
 As IN
 Camille NNP
 , ,
@@ -5235,7 +5235,7 @@ special JJ
 Bond NN
 
 
-Along this path of retribution, he meets the sultry, spirited Camille  rendered by equally sultry Eurasian actress Olga Kurylenko .
+Along this path of retribution, he meets the sultry, spirited [[ Camille | /m/043pxc_ ]]  rendered by equally sultry [[ Eurasian | /m/02qkt ]] actress [[ Olga Kurylenko | /m/0266c36 ]] .
 Along IN
 this DT
 path NN
@@ -5259,7 +5259,7 @@ Kurylenko NNP
 Eurasian
 
 
-Olga Kurylenko portrays the character of Camille in Quantum of Solace .
+[[ Olga Kurylenko | /m/0266c36 ]] portrays the character of [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] .
 Olga NNP
 Kurylenko NNP
 portrays VBZ
@@ -5275,7 +5275,7 @@ Solace NNP
 Quantum of Solace
 
 
-Olga Kurylenko Dishes on Bond Girl Status Olga Kurylenko plays Camille in Quantum of Solace .
+Olga Kurylenko Dishes on Bond Girl Status [[ Olga Kurylenko | /m/0266c36 ]] plays [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] .
 Olga NNP
 Kurylenko NNP
 Dishes NNP
@@ -5295,7 +5295,7 @@ Solace NNP
 Quantum of Solace
 
 
-Olga Kurylenko plays the gorgeous Camille in the new James Bond
+[[ Olga Kurylenko | /m/0266c36 ]] plays the gorgeous [[ Camille | /m/043pxc_ ]] in the new [[ James Bond | /m/03_97 ]]
 Olga NNP
 Kurylenko NNP
 plays VBZ
@@ -5309,7 +5309,7 @@ James NNP
 Bond NNP
 
 
-Olga Kurylenko plays Camille , who has inherited the new mantle of tough-as-nails Bond Girls .
+[[ Olga Kurylenko | /m/0266c36 ]] plays [[ Camille | /m/043pxc_ ]] , who has inherited the new mantle of tough-as-nails [[ Bond Girls | /m/01r29n ]] .
 Olga NNP
 Kurylenko NNP
 plays VBZ
@@ -5328,7 +5328,7 @@ Girls NNP
 . .
 
 
-Olga Kurylenko plays Camille and I thought she looked over tanned.
+[[ Olga Kurylenko | /m/0266c36 ]] plays [[ Camille | /m/043pxc_ ]] and I thought she looked over tanned.
 Olga NNP
 Kurylenko NNP
 plays VBZ
@@ -5342,7 +5342,7 @@ over IN
 tanned. NN
 
 
-In the Disney animated film , Patrick Warburton played a doltish henchman named Kronk
+In the [[ Disney | /m/09b3v ]] animated film , [[ Patrick Warburton | /m/02tqkf ]] played a doltish henchman named [[ Kronk | /m/0dh04p ]]
 In IN
 the DT
 Disney NNP
@@ -5359,7 +5359,7 @@ named VBN
 Kronk NNP
 
 
-Spade and Goodman have great chemistry, but Patrick Warburton  really steals the show as the lovable Kronk .
+[[ Spade | /m/02dlfh ]] and [[ Goodman | /m/01nm3s ]] have great chemistry, but [[ Patrick Warburton | /m/02tqkf ]]  really steals the show as the lovable [[ Kronk | /m/0dh04p ]] .
 Spade NN
 and CC
 Goodman NNP
@@ -5380,7 +5380,7 @@ Kronk NNP
 . .
 
 
-Despite my distaste for these cheapquels, Patrick Warburton s performance as Kronk makes this thing worth watching
+Despite my distaste for these cheapquels, [[ Patrick Warburton | /m/02tqkf ]] s performance as [[ Kronk | /m/0dh04p ]] makes this thing worth watching
 Despite IN
 my PRP$
 distaste NN
@@ -5400,7 +5400,7 @@ worth NN
 watching VBG
 
 
-In the Disney animated film The Emperor's New Groove , Patrick Warburton played a doltish henchman named Kronk
+In the [[ Disney | /m/09b3v ]] animated film [[ The Emperor's New Groove | /m/01xv4x ]] , [[ Patrick Warburton | /m/02tqkf ]] played a doltish henchman named [[ Kronk | /m/0dh04p ]]
 In IN
 the DT
 Disney NNP
@@ -5422,7 +5422,7 @@ Kronk NNP
 The Emperor's New Groove
 
 
-In both films and the show, Kronk is voiced by Patrick Warburton 
+In both films and the show, [[ Kronk | /m/0dh04p ]] is voiced by [[ Patrick Warburton | /m/02tqkf ]] 
 In IN
 both DT
 films NNS
@@ -5437,7 +5437,7 @@ Patrick NNP
 Warburton NNP
 
 
-But the one that gets me to well up is this TV movie starring James Caan as Chicago Bears hero Brian Piccolo 
+But the one that gets me to well up is this TV movie starring [[ James Caan | /m/0252fh ]] as [[ Chicago Bears | /m/01y3v ]] hero [[ Brian Piccolo | /m/0h14421 ]] 
 But CC
 the DT
 one NN
@@ -5462,7 +5462,7 @@ Brian NNP
 Piccolo NNP
 
 
-Caan also garnered an Emmy Award nomination for his role as football star Brian Piccolo in the original Brian's Song .
+[[ Caan | /m/0252fh ]] also garnered an [[ Emmy Award | /m/013sb1 ]] nomination for his role as football star [[ Brian Piccolo | /m/0h14421 ]] in the original [[ Brian's Song | /m/07kd1n5 ]] .
 Caan NNP
 also RB
 garnered VBD
@@ -5486,7 +5486,7 @@ Song NNP
 . .
 
 
-The relationship between Brian Piccolo and Gale Sayers was performed beautifully by James Caan and Billy Dee Williams .
+The relationship between [[ Brian Piccolo | /m/0h14421 ]] and [[ Gale Sayers | /m/0h2rn47 ]] was performed beautifully by [[ James Caan | /m/0252fh ]] and [[ Billy Dee Williams | /m/027_sn ]] .
 The DT
 relationship NN
 between IN
@@ -5508,7 +5508,7 @@ Williams NNP
 . .
 
 
-Caan also garnered an Emmy Award nomination for his role as football star Brian Piccolo in the original   Brian's Song . 
+[[ Caan | /m/0252fh ]] also garnered an [[ Emmy Award | /m/013sb1 ]] nomination for his role as football star [[ Brian Piccolo | /m/0h14421 ]] in the original   [[ Brian's Song | /m/07kd1n5 ]] . 
 Caan NNP
 also RB
 garnered VBD
@@ -5532,7 +5532,7 @@ Song NNP
 . .
 
 
-Garlin plays James Aaron , a middle-aged actor who lives with his mom and hasn't gotten laid in five years.
+[[ Garlin | /m/04pz5c ]] plays [[ James Aaron | /m/0h4_ctv ]] , a middle-aged actor who lives with his mom and hasn't gotten laid in five years.
 Garlin NNP
 plays VBZ
 James NNP
@@ -5555,7 +5555,7 @@ five CD
 years. NNS
 
 
-Berkley 's character Nomi Malone is a rude, thoroughly unlikable bitch in every scene we see her.
+[[ Berkley | /m/01j6fq ]] 's character [[ Nomi Malone | /m/098klm0 ]] is a rude, thoroughly unlikable bitch in every scene we see her.
 Berkley NNP
 's POS
 character NN
@@ -5575,7 +5575,7 @@ see VBP
 her. JJ
 
 
-Elizabeth Berkley is simply fantastic as Nomi Malone .
+[[ Elizabeth Berkley | /m/01j6fq ]] is simply fantastic as [[ Nomi Malone | /m/098klm0 ]] .
 Elizabeth NNP
 Berkley NNP
 is VBZ
@@ -5587,7 +5587,7 @@ Malone NNP
 . .
 
 
-Berkley plays the role of Nomi Malone , a drifter that made her way from a stripper to a showgirl
+[[ Berkley | /m/01j6fq ]] plays the role of [[ Nomi Malone | /m/098klm0 ]] , a drifter that made her way from a stripper to a showgirl
 Berkley NNP
 plays VBZ
 the DT
@@ -5610,7 +5610,7 @@ a DT
 showgirl NN
 
 
-Elizabeth Berkley  is Nomi Malone , a mysterious, sassy, emotional basket case with a dream.
+[[ Elizabeth Berkley | /m/01j6fq ]]  is [[ Nomi Malone | /m/098klm0 ]] , a mysterious, sassy, emotional basket case with a dream.
 Elizabeth NNP
 Berkley NNP
 is VBZ
@@ -5628,7 +5628,7 @@ a DT
 dream. NN
 
 
-spazztastic Nomi Malone played by Elizabeth Berkely .. STILLS: More Lost Odyssey video game stills for the Xbox 360 ..
+spazztastic [[ Nomi Malone | /m/098klm0 ]] played by [[ Elizabeth Berkely | /m/01j6fq ]] .. STILLS: More Lost Odyssey video game stills for the [[ Xbox 360 | /m/02plp2 ]] ..
 spazztastic JJ
 Nomi NNP
 Malone NNP
@@ -5652,7 +5652,7 @@ Xbox NNP
 Xbox 360
 
 
-is to say - absolutely none... spend our first eight minutes with spazztastic Nomi Malone played by Elizabeth Berkely .
+is to say - absolutely none... spend our first eight minutes with spazztastic [[ Nomi Malone | /m/098klm0 ]] played by [[ Elizabeth Berkely | /m/01j6fq ]] .
 is VBZ
 to TO
 say VB
@@ -5675,7 +5675,7 @@ Berkely NNP
 . .
 
 
-Elizabeth Berkley  plays  Nomi Malone , a top-heavy young  innocent  who hitchhikes to Las Vegas to become a showgirl diva
+[[ Elizabeth Berkley | /m/01j6fq ]]  plays  [[ Nomi Malone | /m/098klm0 ]] , a top-heavy young  innocent  who hitchhikes to [[ Las Vegas | /m/0310dp ]] to become a showgirl diva
 Elizabeth NNP
 Berkley NNP
 plays VBZ
@@ -5698,7 +5698,7 @@ showgirl JJ
 diva NN
 
 
-Elizabeth Berkley plays Nomi Malone , a woman who goes to Las Vegas to become a dancer and who is.
+[[ Elizabeth Berkley | /m/01j6fq ]] plays [[ Nomi Malone | /m/098klm0 ]] , a woman who goes to [[ Las Vegas | /m/0cv3w ]] to become a dancer and who is.
 Elizabeth NNP
 Berkley NNP
 plays VBZ
@@ -5721,7 +5721,7 @@ who WP
 is. VBP
 
 
-Elizabeth Berkley  plays impetuous Nomi Malone , a young girl who heads into Las Vegas
+[[ Elizabeth Berkley | /m/01j6fq ]]  plays impetuous [[ Nomi Malone | /m/098klm0 ]] , a young girl who heads into [[ Las Vegas | /m/0cv3w ]]
 Elizabeth NNP
 Berkley NNP
 plays VBZ
@@ -5739,7 +5739,7 @@ Las NNP
 Vegas NNP
 
 
-Elizabeth Berkley played Nomi Malone in which of the following movies?
+[[ Elizabeth Berkley | /m/01j6fq ]] played [[ Nomi Malone | /m/098klm0 ]] in which of the following movies?
 Elizabeth NNP
 Berkley NNP
 played VBD
@@ -5753,7 +5753,7 @@ following JJ
 movies? NN
 
 
-This time round   Planet Of The Apes   star Mark Whalberg replaces Michael Caine to take on the role of master thief Charlie Croker .
+This time round   [[ Planet Of The Apes | /m/047wh1 ]]   star [[ Mark Whalberg | /m/0gy6z9 ]] replaces [[ Michael Caine | /m/0gnbw ]] to take on the role of master thief [[ Charlie Croker | /m/05d4fq ]] .
 This DT
 time NN
 round JJ
@@ -5781,7 +5781,7 @@ Croker NNP
 Planet Of The Apes
 
 
-Sir Michael 's character Charlie Croker utters the immortal last words:   Hang on a minute, lads.
+Sir [[ Michael | /m/0gnbw ]] 's character [[ Charlie Croker | /m/05d4fq ]] utters the immortal last words:   [[ Hang | /m/01yrd5 ]] on a minute, lads.
 Sir NNP
 Michael NNP
 's POS
@@ -5800,7 +5800,7 @@ minute, NN
 lads. NN
 
 
-Half crook and half suave secret agent, Caine turns Croker into a charismatic and likable rogue.
+Half crook and half suave secret agent, [[ Caine | /m/0gnbw ]] turns [[ Croker | /m/05d4fq ]] into a charismatic and likable rogue.
 Half NNP
 crook NN
 and CC
@@ -5819,7 +5819,7 @@ likable JJ
 rogue. NN
 
 
-Michael Caine plays the lead charater as Charlie Croker , Noel Coward as Mr. Bridger and Benny Hill as Professor Simon Peach.
+[[ Michael Caine | /m/0gnbw ]] plays the lead charater as [[ Charlie Croker | /m/05d4fq ]] , [[ Noel Coward | /m/0crg9 ]] as Mr. Bridger and [[ Benny Hill | /m/01pmqs3 ]] as Professor Simon Peach.
 Michael NNP
 Caine NNP
 plays VBZ
@@ -5844,7 +5844,7 @@ Simon NNP
 Peach. NNP
 
 
-Michael Caine plays the part of Charlie Croker , a cheeky criminal who has just been released from prison.
+[[ Michael Caine | /m/0gnbw ]] plays the part of [[ Charlie Croker | /m/05d4fq ]] , a cheeky criminal who has just been released from prison.
 Michael NNP
 Caine NNP
 plays VBZ
@@ -5866,7 +5866,7 @@ from IN
 prison. NN
 
 
-Additionally, Uma Thurman plays Anne de Montausier , the King 's favorite  lady-in-waiting 
+Additionally, [[ Uma Thurman | /m/0kjrx ]] plays [[ Anne de Montausier | /m/0gxtwlg ]] , the [[ King | /m/0jt90f5 ]] 's favorite  lady-in-waiting 
 Additionally, NNP
 Uma NNP
 Thurman NNP
@@ -5883,7 +5883,7 @@ lady-in-waiting NN
 Anne de Montausier
 
 
-Uma Thurman plays Anne de Montausier , the queen's attendant, who is courted by both Lauzin and Louis himself.
+[[ Uma Thurman | /m/0kjrx ]] plays [[ Anne de Montausier | /m/0gxtwlg ]] , the queen's attendant, who is courted by both Lauzin and [[ Louis | /m/04pwg ]] himself.
 Uma NNP
 Thurman NNP
 plays VBZ
@@ -5906,7 +5906,7 @@ himself. NN
 Anne de Montausier
 
 
-Unfortunately, Josh Hartnett plays Tom .
+Unfortunately, [[ Josh Hartnett | /m/01kgv4 ]] plays [[ Tom | /m/0gyd18c ]] .
 Unfortunately, NNP
 Josh NNP
 Hartnett NNP
@@ -5915,7 +5915,7 @@ Tom NNP
 . .
 
 
-Hartnett gives a fairly complex portrayal of Tom 
+[[ Hartnett | /m/01kgv4 ]] gives a fairly complex portrayal of [[ Tom | /m/0gyd18c ]] 
 Hartnett NNP
 gives VBZ
 a DT
@@ -5926,7 +5926,7 @@ of IN
 Tom NNP
 
 
-Synopsis: Josh Hartnett plays Tom Sterling , an Internet sycophant who thinks enthusiastic use of..
+Synopsis: [[ Josh Hartnett | /m/01kgv4 ]] plays [[ Tom Sterling | /m/0gyd18c ]] , an [[ Internet | /m/03rlt ]] sycophant who thinks enthusiastic use of..
 Synopsis: NNP
 Josh NNP
 Hartnett NNP
@@ -5944,7 +5944,7 @@ use NN
 of.. NN
 
 
-The story progresses as he hires Leo Bloom played by Matthew Broderick as his accountant.
+The story progresses as he hires [[ Leo Bloom | /m/02x01nt ]] played by [[ Matthew Broderick | /m/01vlj1g ]] as his accountant.
 The DT
 story NN
 progresses VBZ
@@ -5962,7 +5962,7 @@ his PRP$
 accountant. NN
 
 
-Nathan Lane is hysterical as always and Matthew Brodrick plays a fair Leo Bloom .
+[[ Nathan Lane | /m/01nxzv ]] is hysterical as always and [[ Matthew Brodrick | /m/01vlj1g ]] plays a fair [[ Leo Bloom | /m/02x01nt ]] .
 Nathan NNP
 Lane NNP
 is VBZ
@@ -5980,7 +5980,7 @@ Bloom NNP
 . .
 
 
-Nathan Lane is really good as Max Bialystock , but Matthew Broderick is FANTASTIC as Leo Bloom .
+[[ Nathan Lane | /m/01nxzv ]] is really good as [[ Max Bialystock | /m/0d778t ]] , but [[ Matthew Broderick | /m/01vlj1g ]] is FANTASTIC as [[ Leo Bloom | /m/02x01nt ]] .
 Nathan NNP
 Lane NNP
 is VBZ
@@ -6001,7 +6001,7 @@ Bloom NNP
 . .
 
 
-In the travelling production Alan Ruck  plays the role of Leo Bloom , Matthew Broderick 's role in NY .
+In the travelling production [[ Alan Ruck | /m/02y2_9 ]]  plays the role of [[ Leo Bloom | /m/02x01nt ]] , [[ Matthew Broderick | /m/01vlj1g ]] 's role in [[ NY | /m/059rby ]] .
 In IN
 the DT
 travelling NN
@@ -6024,7 +6024,7 @@ NY NNP
 . .
 
 
-Broderick tried hard to channel Gene Wilder , who played the original Leo Bloom , but gets only a B grade
+[[ Broderick | /m/01vlj1g ]] tried hard to channel [[ Gene Wilder | /m/027l0b ]] , who played the original [[ Leo Bloom | /m/02x01nt ]] , but gets only a B grade
 Broderick NNP
 tried VBD
 hard JJ
@@ -6048,7 +6048,7 @@ B NNP
 grade NN
 
 
-Burkell is better suited to the role of Bloom than Matthew Broderick , who played the role on Broadway 
+Burkell is better suited to the role of [[ Bloom | /m/02x01nt ]] than [[ Matthew Broderick | /m/01vlj1g ]] , who played the role on [[ Broadway | /m/035y8z ]] 
 Burkell NNP
 is VBZ
 better RB
@@ -6070,7 +6070,7 @@ on IN
 Broadway NNP
 
 
-Mathew Broderick plays Leo Bloom , the nervous accountant
+[[ Mathew Broderick | /m/01vlj1g ]] plays [[ Leo Bloom | /m/02x01nt ]] , the nervous accountant
 Mathew NNP
 Broderick NNP
 plays VBZ
@@ -6082,7 +6082,7 @@ nervous JJ
 accountant NN
 
 
-Nathan Lane and Matthew Broderick lead the way as Bialystock and Bloom respectively
+[[ Nathan Lane | /m/01nxzv ]] and [[ Matthew Broderick | /m/01vlj1g ]] lead the way as [[ Bialystock | /m/0d778t ]] and [[ Bloom | /m/02x01nt ]] respectively
 Nathan NNP
 Lane NNP
 and CC
@@ -6098,7 +6098,7 @@ Bloom NNP
 respectively RB
 
 
-Nathan Lane is hysterical as always and Matthew Brodrick plays a fair Leo Bloom 
+[[ Nathan Lane | /m/01nxzv ]] is hysterical as always and [[ Matthew Brodrick | /m/01vlj1g ]] plays a fair [[ Leo Bloom | /m/02x01nt ]] 
 Nathan NNP
 Lane NNP
 is VBZ
@@ -6115,7 +6115,7 @@ Leo NNP
 Bloom NNP
 
 
-Matthew Broderick gives Leo Bloom a nice sense of innocence, even while pulling off the ultimate scheme
+[[ Matthew Broderick | /m/01vlj1g ]] gives [[ Leo Bloom | /m/02x01nt ]] a nice sense of innocence, even while pulling off the ultimate scheme
 Matthew NNP
 Broderick NNP
 gives VBZ
@@ -6135,7 +6135,7 @@ ultimate JJ
 scheme NN
 
 
-Broderick tried hard to channel Gene Wilder , who played the original Leo Bloom , but gets only a B grade.
+[[ Broderick | /m/01vlj1g ]] tried hard to channel [[ Gene Wilder | /m/027l0b ]] , who played the original [[ Leo Bloom | /m/02x01nt ]] , but gets only a B grade.
 Broderick NNP
 tried VBD
 hard JJ
@@ -6159,7 +6159,7 @@ B NNP
 grade. NN
 
 
-(even though I felt that Broderick wasn't quite as good as Leo Bloom as Lane was as Max Bialystock 
+(even though I felt that [[ Broderick | /m/01vlj1g ]] wasn't quite as good as [[ Leo Bloom | /m/02x01nt ]] as [[ Lane | /m/01nxzv ]] was as [[ Max Bialystock | /m/0d778t ]] 
 (even RB
 though IN
 I PRP
@@ -6181,7 +6181,7 @@ Max NNP
 Bialystock NNP
 
 
-Writer, director and occasional Silent Bob actor Kevin Smith said it best during his ?An evening with Kevin Smith ? DVD.
+Writer, director and occasional [[ Silent Bob | /m/0468rdk ]] actor [[ Kevin Smith | /m/0gd9k ]] said it best during his ?An evening with [[ Kevin Smith | /m/0gd9k ]] ? DVD.
 Writer, NNP
 director NN
 and CC
@@ -6205,7 +6205,7 @@ Smith NNP
 DVD. NNP
 
 
-As a sidenote, Mary is played by Emily Watson , whose performance was nothing short of a sidenote.
+As a sidenote, [[ Mary | /m/0h2z9f9 ]] is played by [[ Emily Watson | /m/02l4pj ]] , whose performance was nothing short of a sidenote.
 As IN
 a DT
 sidenote, NN
@@ -6226,7 +6226,7 @@ a DT
 sidenote. NN
 
 
-;) ( Han Keiko , who voiced Luna in the anime, has returned to reprise her role).
+;) ( [[ Han Keiko | /m/03bdbl ]] , who voiced [[ Luna | /m/01h2s2 ]] in the anime, has returned to reprise her role).
 ;) NN
 ( (
 Han NNP
@@ -6246,7 +6246,7 @@ her PRP$
 role). NN
 
 
-October 03, 2003 :: The New Actors & Actresses: The voice of Luna will be Han Keiko
+October 03, 2003 :: The New Actors & Actresses: The voice of [[ Luna | /m/01h2s2 ]] will be [[ Han Keiko | /m/03bdbl ]]
 October NNP
 03, CD
 2003 CD
@@ -6266,7 +6266,7 @@ Han NNP
 Keiko NNP
 
 
-Tom Hanks was great as Robert , and I really didn give a crap about his hair
+[[ Tom Hanks | /m/0bxtg ]] was great as [[ Robert | /m/02ghwh ]] , and I really didn give a crap about his hair
 Tom NNP
 Hanks NNP
 was VBD
@@ -6286,7 +6286,7 @@ his PRP$
 hair NN
 
 
-And yeah, Tom Hanks wasn?t the best Robert Langdon , even though I do love Tom .
+And yeah, [[ Tom Hanks | /m/0bxtg ]] wasn?t the best [[ Robert Langdon | /m/02ghwh ]] , even though I do love [[ Tom | /m/0bxtg ]] .
 And CC
 yeah, PRP
 Tom NNP
@@ -6306,7 +6306,7 @@ Tom NNP
 . .
 
 
-Tom Hank is playing Robert Langdon and the movie is directed by Ron Howard .
+[[ Tom Hank | /m/0bxtg ]] is playing [[ Robert Langdon | /m/02ghwh ]] and the movie is directed by [[ Ron Howard | /m/0g2lq ]] .
 Tom NNP
 Hank NNP
 is VBZ
@@ -6324,7 +6324,7 @@ Howard NNP
 . .
 
 
-Tom Hanks reprises his role as Harvard religious expert Robert Langdon , who once again finds that...
+[[ Tom Hanks | /m/0bxtg ]] reprises his role as [[ Harvard | /m/03ksy ]] religious expert [[ Robert Langdon | /m/02ghwh ]] , who once again finds that...
 Tom NNP
 Hanks NNP
 reprises VBZ
@@ -6344,7 +6344,7 @@ finds NNS
 that... VBP
 
 
-Tom Hanks reprises his role as Harvard religious expert Robert Langdon , who once again finds that forces with ancient roots...
+[[ Tom Hanks | /m/0bxtg ]] reprises his role as [[ Harvard | /m/03ksy ]] religious expert [[ Robert Langdon | /m/02ghwh ]] , who once again finds that forces with ancient roots...
 Tom NNP
 Hanks NNP
 reprises VBZ
@@ -6368,7 +6368,7 @@ ancient NN
 roots... NN
 
 
-Tom Hanks returns as Robert Langdon along with Ron Howard , who will direct the movie.
+[[ Tom Hanks | /m/0bxtg ]] returns as [[ Robert Langdon | /m/02ghwh ]] along with [[ Ron Howard | /m/0g2lq ]] , who will direct the movie.
 Tom NNP
 Hanks NNP
 returns VBZ
@@ -6387,7 +6387,7 @@ the DT
 movie. NN
 
 
-Hey Tom Hanks is back as Robert Langdon then I am seeing it.
+Hey [[ Tom Hanks | /m/0bxtg ]] is back as [[ Robert Langdon | /m/02ghwh ]] then I am seeing it.
 Hey NNP
 Tom NNP
 Hanks NNP
@@ -6403,7 +6403,7 @@ seeing VBG
 it. NN
 
 
-Tom Hanks will reprise his role  as the Harvard religious expert Robert Langdon .
+[[ Tom Hanks | /m/0bxtg ]] will reprise his role  as the [[ Harvard | /m/03ksy ]] religious expert [[ Robert Langdon | /m/02ghwh ]] .
 Tom NNP
 Hanks NNP
 will MD
@@ -6420,7 +6420,7 @@ Langdon NNP
 . .
 
 
-This book will soon be turned into a movie and Tom Hanks will play Robert Langdon .
+This book will soon be turned into a movie and [[ Tom Hanks | /m/0bxtg ]] will play [[ Robert Langdon | /m/02ghwh ]] .
 This DT
 book NN
 will MD
@@ -6440,7 +6440,7 @@ Langdon NNP
 . .
 
 
-Two interesting things today: 1) Tom Hanks might star as Robert Langdon in the movie version of The Da Vinici Code.
+Two interesting things today: 1) [[ Tom Hanks | /m/0bxtg ]] might star as [[ Robert Langdon | /m/02ghwh ]] in the movie version of The Da Vinici Code.
 Two CD
 interesting JJ
 things NNS
@@ -6464,7 +6464,7 @@ Vinici NNP
 Code. NNP
 
 
-And what about Tom Hanks jumping back into Robert Langdon
+And what about [[ Tom Hanks | /m/0bxtg ]] jumping back into [[ Robert Langdon | /m/02ghwh ]]
 And CC
 what WP
 about IN
@@ -6477,7 +6477,7 @@ Robert NNP
 Langdon NNP
 
 
-( Robert Langdon will still be played by Tom Hanks ).
+( [[ Robert Langdon | /m/02ghwh ]] will still be played by [[ Tom Hanks | /m/0bxtg ]] ).
 ( (
 Robert NNP
 Langdon NNP
@@ -6491,7 +6491,7 @@ Hanks NNP
 ). NN
 
 
-Tom Hanks returns as Robert Langdon in the film that also lifted from the works of Dan Brown novel is.
+[[ Tom Hanks | /m/0bxtg ]] returns as [[ Robert Langdon | /m/02ghwh ]] in the film that also lifted from the works of [[ Dan Brown | /m/02988h ]] novel is.
 Tom NNP
 Hanks NNP
 returns VBZ
@@ -6514,7 +6514,7 @@ novel NN
 is. NN
 
 
-Tom Hanks will play Robert Langdon , Harvard  professor of symbology .
+[[ Tom Hanks | /m/0bxtg ]] will play [[ Robert Langdon | /m/02ghwh ]] , [[ Harvard | /m/03ksy ]]  professor of symbology .
 Tom NNP
 Hanks NNP
 will MD
@@ -6529,7 +6529,7 @@ symbology NN
 . .
 
 
-Hanks himself has no personality, so Hanks playing Langdon seems the worst possible choice.
+[[ Hanks | /m/0bxtg ]] himself has no personality, so [[ Hanks | /m/0bxtg ]] playing [[ Langdon | /m/02ghwh ]] seems the worst possible choice.
 Hanks NNS
 himself PRP
 has VBZ
@@ -6546,7 +6546,7 @@ possible JJ
 choice. NN
 
 
-Tom Hanks was not right for Robert Langdon .
+[[ Tom Hanks | /m/0bxtg ]] was not right for [[ Robert Langdon | /m/02ghwh ]] .
 Tom NNP
 Hanks NNP
 was VBD
@@ -6558,7 +6558,7 @@ Langdon NNP
 . .
 
 
-( Kamal Kapoor , who looks an awful lot like Narang ).
+( [[ Kamal Kapoor | /m/0gc0x6x ]] , who looks an awful lot like [[ Narang | /m/0h5v87t ]] ).
 ( (
 Kamal NNP
 Kapoor NNP
@@ -6573,7 +6573,7 @@ Narang NNP
 ). NNP
 
 
-For most of his life, Evan Handler has been no Harry Goldenblatt 
+For most of his life, [[ Evan Handler | /m/07blrf ]] has been no [[ Harry Goldenblatt | /m/05lmdrm ]] 
 For IN
 most JJS
 of IN
@@ -6588,7 +6588,7 @@ Harry NNP
 Goldenblatt NNP
 
 
-According to Evan Handler , who plays Charlotte 's husband Harry Goldenblatt , there could be a death in the city
+According to [[ Evan Handler | /m/07blrf ]] , who plays [[ Charlotte | /m/0fsb8 ]] 's husband [[ Harry Goldenblatt | /m/05lmdrm ]] , there could be a death in the city
 According VBG
 to TO
 Evan NNP
@@ -6612,7 +6612,7 @@ the DT
 city NN
 
 
-Evan Handler is better known to Sex and the City fans as Charlotte 's husband, Harry Goldenblatt .
+[[ Evan Handler | /m/07blrf ]] is better known to [[ Sex and the City | /m/0l76z ]] fans as [[ Charlotte | /m/0fsb8 ]] 's husband, [[ Harry Goldenblatt | /m/05lmdrm ]] .
 Evan NNP
 Handler NNP
 is VBZ
@@ -6634,7 +6634,7 @@ Goldenblatt NNP
 Sex and the City
 
 
-According to Evan Handler , who plays Charlotte ?s husband Harry Goldenblatt , there could be a death in the city
+According to [[ Evan Handler | /m/07blrf ]] , who plays [[ Charlotte | /m/0fsb8 ]] ?s husband [[ Harry Goldenblatt | /m/05lmdrm ]] , there could be a death in the city
 According VBG
 to TO
 Evan NNP
@@ -6658,7 +6658,7 @@ the DT
 city NN
 
 
-Binoche plays the Miriam as a watchdog but rather, as BEE SEASON grows more renascent, increase it.
+[[ Binoche | /m/0fbx6 ]] plays the [[ Miriam | /m/0bqx7bm ]] as a watchdog but rather, as [[ BEE SEASON | /m/0cndck ]] grows more renascent, increase it.
 Binoche NNP
 plays VBZ
 the DT
@@ -6678,7 +6678,7 @@ increase NN
 it. NN
 
 
-Also a shock to my system: French beauty JULIETTE BINOCHE as the kleptomaniacal, Brillo-haired, pear-shaped mother, Miriam 
+Also a shock to my system: [[ French | /m/0f8l9c ]] beauty [[ JULIETTE BINOCHE | /m/0fbx6 ]] as the kleptomaniacal, Brillo-haired, pear-shaped mother, [[ Miriam | /m/0bqx7bm ]] 
 Also RB
 a DT
 shock NN
@@ -6699,7 +6699,7 @@ Miriam NNP
 French
 
 
-Also a shock to my system: French beauty JULIETTE BINOCHE as the kleptomaniacal, Brillo-haired, pear-shaped mother, Miriam .
+Also a shock to my system: [[ French | /m/0f8l9c ]] beauty [[ JULIETTE BINOCHE | /m/0fbx6 ]] as the kleptomaniacal, Brillo-haired, pear-shaped mother, [[ Miriam | /m/0bqx7bm ]] .
 Also RB
 a DT
 shock NN
@@ -6721,7 +6721,7 @@ Miriam NNP
 French
 
 
-Juliette Binoche character, Miriam , is a lawyer in the book
+[[ Juliette Binoche | /m/0fbx6 ]] character, [[ Miriam | /m/0bqx7bm ]] , is a lawyer in the book
 Juliette NNP
 Binoche NNP
 character, NN
@@ -6735,7 +6735,7 @@ the DT
 book NN
 
 
-Arness later found steady work in Dodge City as Marshal Matt Dillon 
+[[ Arness | /m/036jp8 ]] later found steady work in [[ Dodge City | /m/0t6rl ]] as Marshal [[ Matt Dillon | /m/06mb_y ]] 
 Arness RB
 later RB
 found VBN
@@ -6751,7 +6751,7 @@ Dillon NNP
 Arness
 
 
-Gunsmoke was a popular radio show and moved easily onto camera with James Arness replacing William Conrad as Matt Dillon 
+[[ Gunsmoke | /m/017j6t ]] was a popular radio show and moved easily onto camera with [[ James Arness | /m/036jp8 ]] replacing [[ William Conrad | /m/02w872 ]] as [[ Matt Dillon | /m/06mb_y ]] 
 Gunsmoke NNP
 was VBD
 a DT
@@ -6774,7 +6774,7 @@ Matt NNP
 Dillon NNP
 
 
-Besides James Arness , who played Matt Dillon on ''Gunsmoke,'' Milburn Stone played Doc Adams on that show for 20 years
+Besides [[ James Arness | /m/036jp8 ]] , who played [[ Matt Dillon | /m/06mb_y ]] on ''Gunsmoke,'' [[ Milburn Stone | /m/03xn5k ]] played Doc Adams on that show for 20 years
 Besides IN
 James NNP
 Arness NNP
@@ -6798,7 +6798,7 @@ for IN
 years NNS
 
 
-[On early episodes James Arness as Matt Dillon narrated this short sermon from Boot Hill outside of Dodge City :]
+[On early episodes [[ James Arness | /m/036jp8 ]] as [[ Matt Dillon | /m/06mb_y ]] narrated this short sermon from [[ Boot Hill | /m/049tmp ]] outside of [[ Dodge City | /m/0t6rl ]] :]
 [On RB
 early JJ
 episodes NNS
@@ -6821,7 +6821,7 @@ City NNP
 :] NN
 
 
-Actors asked to play Matt Dillon on TV before Arness included John Wayne and Denver Pyle 
+Actors asked to play [[ Matt Dillon | /m/06mb_y ]] on TV before [[ Arness | /m/036jp8 ]] included [[ John Wayne | /m/043gj ]] and [[ Denver Pyle | /m/036t_f ]] 
 Actors NNS
 asked VBD
 to TO
@@ -6840,7 +6840,7 @@ Denver NNP
 Pyle NNP
 
 
-In fact, Wayne recommended Arness for the role of Matt Dillon 
+In fact, [[ Wayne | /m/043gj ]] recommended [[ Arness | /m/036jp8 ]] for the role of [[ Matt Dillon | /m/06mb_y ]] 
 In IN
 fact, JJ
 Wayne NNP
@@ -6854,7 +6854,7 @@ Matt NNP
 Dillon NNP
 
 
-Fellow record holders include James Arness of 50?s western series   Gunsmoke  , who also played Marshall Dillon for 20 years straight
+Fellow record holders include [[ James Arness | /m/036jp8 ]] of 50?s western series   [[ Gunsmoke | /m/017j6t ]]  , who also played [[ Marshall Dillon | /m/06mb_y ]] for 20 years straight
 Fellow NNP
 record NN
 holders NNS
@@ -6878,7 +6878,7 @@ years NNS
 straight VBD
 
 
-Matt Dillon played by James Arness comes to mind.
+[[ Matt Dillon | /m/06mb_y ]] played by [[ James Arness | /m/036jp8 ]] comes to mind.
 Matt NNP
 Dillon NNP
 played VBN
@@ -6890,7 +6890,7 @@ to TO
 mind. VB
 
 
-As a matter of fact, Wayne recommended Arness for the role of Matt Dillon 
+As a matter of fact, [[ Wayne | /m/043gj ]] recommended [[ Arness | /m/036jp8 ]] for the role of [[ Matt Dillon | /m/06mb_y ]] 
 As IN
 a DT
 matter NN
@@ -6907,7 +6907,7 @@ Matt NNP
 Dillon NNP
 
 
-James Arness played Matt Dillon throughout the series
+[[ James Arness | /m/036jp8 ]] played [[ Matt Dillon | /m/06mb_y ]] throughout the series
 James NNP
 Arness NNP
 played VBD
@@ -6918,7 +6918,7 @@ the DT
 series NN
 
 
-James Arness  is an Emmy -nominated American actor best known for portraying Marshal Matt Dillon on Gunsmoke for 20 years
+[[ James Arness | /m/036jp8 ]]  is an [[ Emmy | /m/013sb1 ]] -nominated [[ American | /m/09c7w0 ]] actor best known for portraying Marshal [[ Matt Dillon | /m/06mb_y ]] on Gunsmoke for 20 years
 James NNP
 Arness NNP
 is VBZ
@@ -6942,7 +6942,7 @@ years NNS
 American
 
 
-. On   Gunsmoke  , James Arness played Matt Dillon and Amanda Blake played Miss Kitty 
+. On   [[ Gunsmoke | /m/017j6t ]]  , [[ James Arness | /m/036jp8 ]] played [[ Matt Dillon | /m/06mb_y ]] and [[ Amanda Blake | /m/038zzp ]] played [[ Miss Kitty | /m/038zzp ]] 
 . .
 On IN
 Gunsmoke NNP
@@ -6960,7 +6960,7 @@ Miss NNP
 Kitty NNP
 
 
-Troy Baker plays Pea Eye Parker , previously played by Timothy Scott and Sam Shepard 
+[[ Troy Baker | /m/0fzvpp ]] plays [[ Pea Eye Parker | /m/02844vz ]] , previously played by [[ Timothy Scott | /m/0bq9y5p ]] and [[ Sam Shepard | /m/016yzz ]] 
 Troy NNP
 Baker NNP
 plays VBZ
@@ -6978,7 +6978,7 @@ Sam NNP
 Shepard NNP
 
 
-Sam Shepard as Pea Eye Parker is a considerable improvement over Tim Scott , the original Pea Eye
+[[ Sam Shepard | /m/016yzz ]] as [[ Pea Eye Parker | /m/02844vz ]] is a considerable improvement over [[ Tim Scott | /m/0bq9y5p ]] , the original Pea Eye
 Sam NNP
 Shepard NNP
 as IN
@@ -6999,7 +6999,7 @@ Pea NNP
 Eye NNP
 
 
-Keira Knightley at the premiere of her boyfriend Rupert Friend ?s film Cheri in Germany last night
+[[ Keira Knightley | /m/01l2fn ]] at the premiere of her boyfriend [[ Rupert Friend | /m/06d1v8 ]] ?s film [[ Cheri | /m/05svjs1 ]] in [[ Germany | /m/0345h ]] last night
 Keira NNP
 Knightley NNP
 at IN
@@ -7019,7 +7019,7 @@ last JJ
 night NN
 
 
-Keira Knightley at the premiere of her boyfriend Rupert Friend ?s film Cheri in Germany last night.
+[[ Keira Knightley | /m/01l2fn ]] at the premiere of her boyfriend [[ Rupert Friend | /m/06d1v8 ]] ?s film [[ Cheri | /m/05svjs1 ]] in [[ Germany | /m/0345h ]] last night.
 Keira NNP
 Knightley NNP
 at IN
@@ -7039,7 +7039,7 @@ last JJ
 night. NN
 
 
-Cheri looks phenomenal, and supposedly Rupert Friend is fantastic in The Young Victoria .
+[[ Cheri | /m/05svjs1 ]] looks phenomenal, and supposedly [[ Rupert Friend | /m/06d1v8 ]] is fantastic in [[ The Young Victoria | /m/02z0f6l ]] .
 Cheri NNP
 looks VBZ
 phenomenal, NN
@@ -7057,7 +7057,7 @@ Victoria NNP
 The Young Victoria
 
 
-Keira Knightley ?at?the premiere of her boyfriend Rupert Friend ?s film Cheri in Germany last night.
+[[ Keira Knightley | /m/01l2fn ]] ?at?the premiere of her boyfriend [[ Rupert Friend | /m/06d1v8 ]] ?s film [[ Cheri | /m/05svjs1 ]] in [[ Germany | /m/0345h ]] last night.
 Keira NNP
 Knightley NNP
 ?at?the NNP
@@ -7076,7 +7076,7 @@ last JJ
 night. NN
 
 
-Keira Knightley ?at?the premiere of her boyfriend Rupert Friend ?s film Cheri in Germany last night
+[[ Keira Knightley | /m/01l2fn ]] ?at?the premiere of her boyfriend [[ Rupert Friend | /m/06d1v8 ]] ?s film [[ Cheri | /m/05svjs1 ]] in [[ Germany | /m/0345h ]] last night
 Keira NNP
 Knightley NNP
 ?at?the NNP
@@ -7095,7 +7095,7 @@ last JJ
 night NN
 
 
-Will Q and Moneypenny Be Coming Back To Bond ?
+Will [[ Q | /m/0gjt2 ]] and [[ Moneypenny | /m/01hk60 ]] Be Coming Back To [[ Bond | /m/03pknm ]] ?
 Will MD
 Q NNP
 and CC
@@ -7108,7 +7108,7 @@ Bond NNP
 ? .
 
 
-Bond producer Cubby Broccoli offered her the Miss Moneypenny role
+[[ Bond | /m/03pknm ]] producer [[ Cubby Broccoli | /m/02n6n_ ]] offered her the Miss [[ Moneypenny | /m/01hk60 ]] role
 Bond NN
 producer NN
 Cubby NNP
@@ -7121,7 +7121,7 @@ Moneypenny NNP
 role NN
 
 
-Is it really true that Q and Moneypenny will be coming back for the next Bond
+Is it really true that [[ Q | /m/0gjt2 ]] and [[ Moneypenny | /m/01hk60 ]] will be coming back for the next [[ Bond | /m/03pknm ]]
 Is VBZ
 it PRP
 really RB
@@ -7140,7 +7140,7 @@ next JJ
 Bond NN
 
 
-Appearing only once in a Bond film, Miss Smallbone appears as Moneypenny 's assistant in Octopussy 
+Appearing only once in a [[ Bond | /m/03pknm ]] film, Miss Smallbone appears as [[ Moneypenny | /m/01hk60 ]] 's assistant in [[ Octopussy | /m/02n72k ]] 
 Appearing VBG
 only RB
 once RB
@@ -7159,7 +7159,7 @@ in IN
 Octopussy NNP
 
 
-Samantha Bond , who starred as Miss Moneypenny in the Bond ..
+[[ Samantha Bond | /m/03pknm ]] , who starred as [[ Miss Moneypenny | /m/01hk60 ]] in the [[ Bond | /m/03pknm ]] ..
 Samantha NNP
 Bond NNP
 , ,
@@ -7174,7 +7174,7 @@ Bond NNP
 .. NN
 
 
-And back when she first got the renewed Moneypenny role, Samantha Bond would have made an interesting Westbrook 
+And back when she first got the renewed [[ Moneypenny | /m/01hk60 ]] role, [[ Samantha Bond | /m/03pknm ]] would have made an interesting [[ Westbrook | /m/0gxtqg ]] 
 And CC
 back RB
 when WRB
@@ -7195,7 +7195,7 @@ interesting JJ
 Westbrook NN
 
 
-SAMANTHA BOND is the aptly-named actress who takes over the role of M 's able assistant Miss Moneypenny 
+[[ SAMANTHA BOND | /m/03pknm ]] is the aptly-named actress who takes over the role of [[ M | /m/01lxy7 ]] 's able assistant [[ Miss Moneypenny | /m/01hk60 ]] 
 SAMANTHA NNP
 BOND NNP
 is VBZ
@@ -7216,7 +7216,7 @@ Miss NNP
 Moneypenny NNP
 
 
-/ / Will Q and Moneypenny Be Coming Back To Bond 
+/ / Will [[ Q | /m/0gjt2 ]] and [[ Moneypenny | /m/01hk60 ]] Be Coming Back To [[ Bond | /m/03pknm ]] 
 / NN
 / NN
 Will NNP
@@ -7231,7 +7231,7 @@ Bond VB
 Bond
 
 
-He appeared alongside Samantha Bond , who played Miss Moneypenny in the Bond films during the Pierce Brosnan era.
+He appeared alongside [[ Samantha Bond | /m/03pknm ]] , who played [[ Miss Moneypenny | /m/01hk60 ]] in the [[ Bond | /m/03_97 ]] films during the [[ Pierce Brosnan | /m/018p4y ]] era.
 He PRP
 appeared VBD
 alongside RB
@@ -7253,7 +7253,7 @@ Brosnan NNP
 era. NN
 
 
-Bye! Then came the Brosnan years and the role of Moneypenny was given to Samantha Bond 
+Bye! Then came the [[ Brosnan | /m/018p4y ]] years and the role of [[ Moneypenny | /m/01hk60 ]] was given to [[ Samantha Bond | /m/03pknm ]] 
 Bye! NNP
 Then RB
 came VBD
@@ -7272,7 +7272,7 @@ Samantha NNP
 Bond NNP
 
 
-Samantha , who played Miss Moneypenny in the James Bond ...
+[[ Samantha | /m/03pknm ]] , who played [[ Miss Moneypenny | /m/01hk60 ]] in the [[ James Bond | /m/03_97 ]] ...
 Samantha NNP
 , ,
 who WP
@@ -7286,7 +7286,7 @@ Bond NNP
 ... :
 
 
-Samantha Bond played Miss Moneypenny during Pierce Brosnan 's time as Agent 007 and is of my generation, BUT...
+[[ Samantha Bond | /m/03pknm ]] played [[ Miss Moneypenny | /m/01hk60 ]] during [[ Pierce Brosnan | /m/018p4y ]] 's time as [[ Agent 007 | /m/0clpml ]] and is of my generation, BUT...
 Samantha NNP
 Bond NNP
 played VBD
@@ -7309,7 +7309,7 @@ BUT... NNP
 Agent 007
 
 
-Samantha Bond als Moneypenny hat eine unbezahlbare Szene und Michael Madsen  hat einen eher kurzen Auftritt .
+[[ Samantha Bond | /m/03pknm ]] als [[ Moneypenny | /m/01hk60 ]] hat eine unbezahlbare [[ Szene | /m/02zyy4 ]] und [[ Michael Madsen | /m/02zyy4 ]]  hat einen eher kurzen [[ Auftritt | /m/037cxlc ]] .
 Samantha NNP
 Bond NNP
 als NNS
@@ -7329,7 +7329,7 @@ Auftritt NNP
 . .
 
 
-Samantha , who played Miss Moneypenny in the James Bond film Die..
+[[ Samantha | /m/03pknm ]] , who played [[ Miss Moneypenny | /m/01hk60 ]] in the [[ James Bond | /m/03_97 ]] film Die..
 Samantha NNP
 , ,
 who WP
@@ -7344,7 +7344,7 @@ film NN
 Die.. NNP
 
 
-Judi Dench is strong as the new   M  , but Samantha Bond seems too cutesy and lacks substance as Moneypenny .
+[[ Judi Dench | /m/0lpjn ]] is strong as the new   [[ M | /m/01lxy7 ]]  , but [[ Samantha Bond | /m/03pknm ]] seems too cutesy and lacks substance as [[ Moneypenny | /m/01hk60 ]] .
 Judi NNP
 Dench NNP
 is VBZ
@@ -7368,7 +7368,7 @@ Moneypenny NNP
 . .
 
 
-He appeared alongside Samantha Bond , who played Miss Moneypenny in the Pierce Brosnan series of Bond films
+He appeared alongside [[ Samantha Bond | /m/03pknm ]] , who played [[ Miss Moneypenny | /m/01hk60 ]] in the [[ Pierce Brosnan | /m/018p4y ]] series of [[ Bond | /m/03_97 ]] films
 He PRP
 appeared VBD
 alongside RB
@@ -7389,7 +7389,7 @@ Bond NNP
 films NNS
 
 
-Bye! Then came the Brosnan years and the role of Moneypenny was given to Samantha Bond 
+Bye! Then came the Brosnan years and the role of [[ Moneypenny | /m/01hk60 ]] was given to [[ Samantha Bond | /m/03pknm ]] 
 Bye! NNP
 Then RB
 came VBD
@@ -7408,7 +7408,7 @@ Samantha NNP
 Bond NNP
 
 
-He appeared alongside Samantha Bond , who played Miss Moneypenny in the Bond films during the Pierce Brosnan era
+He appeared alongside [[ Samantha Bond | /m/03pknm ]] , who played [[ Miss Moneypenny | /m/01hk60 ]] in the [[ Bond | /m/03_97 ]] films during the [[ Pierce Brosnan | /m/018p4y ]] era
 He PRP
 appeared VBD
 alongside RB
@@ -7430,7 +7430,7 @@ Brosnan NNP
 era NN
 
 
-Travolta rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter James Ubriacco in Amy Heckerling 's low-budget comedy Look Who's Talking 
+[[ Travolta | /m/0f502 ]] rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter [[ James Ubriacco | /m/0gxw7gp ]] in [[ Amy Heckerling | /m/03vlgt ]] 's low-budget comedy [[ Look Who's Talking | /m/03gn80 ]] 
 Travolta NNP
 rebounded VBD
 his PRP$
@@ -7454,7 +7454,7 @@ Who's NNP
 Talking NNP
 
 
-Kurita has managed to capture though not completely recreate Yamada 's voice for Lupin .
+[[ Kurita | /m/0b4mj2 ]] has managed to capture though not completely recreate [[ Yamada | /m/0b4mg_ ]] 's voice for [[ Lupin | /m/01pxpp ]] .
 Kurita NNP
 has VBZ
 managed VBN
@@ -7472,7 +7472,7 @@ Lupin NNP
 . .
 
 
-Though Danny Devito was quite a natural choice for Max Fairbanks .
+Though [[ Danny Devito | /m/0q9kd ]] was quite a natural choice for [[ Max Fairbanks | /m/0h12jl0 ]] .
 Though IN
 Danny NNP
 Devito NNP
@@ -7487,7 +7487,7 @@ Fairbanks NNP
 . .
 
 
-Sykes played a sarcastic maid in Earth and a hooker, Biggie Shorty , in Pootie Tang 
+[[ Sykes | /m/02wr2r ]] played a sarcastic maid in [[ Earth | /m/02j71 ]] and a hooker, [[ Biggie Shorty | /m/0h2ljy7 ]] , in [[ Pootie Tang | /m/04hlzh ]] 
 Sykes NNP
 played VBD
 a DT
@@ -7506,7 +7506,7 @@ Pootie NNP
 Tang NNP
 
 
-Danny played Max Feldman , a holocaust survivor, who had told his children very little about his past.
+[[ Danny | /m/02h48 ]] played [[ Max Feldman | /m/0h332zg ]] , a holocaust survivor, who had told his children very little about his past.
 Danny NNP
 played VBD
 Max NNP
@@ -7527,7 +7527,7 @@ his PRP$
 past. NN
 
 
-Danny Kaye portrays the fictional   Max Feldman  , a Holocaust survivor. .
+[[ Danny Kaye | /m/02h48 ]] portrays the fictional   [[ Max Feldman | /m/0h332zg ]]  , a [[ Holocaust | /m/03hzt ]] survivor. .
 Danny NNP
 Kaye NNP
 portrays VBZ
@@ -7542,7 +7542,7 @@ survivor. NN
 . .
 
 
-The original Velma was Nicole Jaffe 
+The original [[ Velma | /m/03r0h4 ]] was [[ Nicole Jaffe | /m/07cn9j ]] 
 The DT
 original JJ
 Velma NNP
@@ -7551,7 +7551,7 @@ Nicole NNP
 Jaffe NNP
 
 
-The role of Velma was originated by Nicole Jaffe in the original, Scooby Doo, Where Are You series.
+The role of [[ Velma | /m/03r0h4 ]] was originated by [[ Nicole Jaffe | /m/07cn9j ]] in the original, [[ Scooby Doo, Where Are You | /m/07rjc7 ]] series.
 The DT
 role NN
 of IN
@@ -7573,7 +7573,7 @@ series. VBP
 Scooby Doo, Where Are You
 
 
-(This was also when Nicole Jaffe , the first voice for Velma disappeared from Hanna Barbera )
+(This was also when [[ Nicole Jaffe | /m/07cn9j ]] , the first voice for [[ Velma | /m/03r0h4 ]] disappeared from [[ Hanna Barbera | /m/0fmm8 ]] )
 (This NN
 was VBD
 also RB
@@ -7593,7 +7593,7 @@ Barbera NNP
 ) )
 
 
-Group leader Freddy was played by Frank Welker , while Nicole Jaffe voiced the intellectual Velma 
+Group leader [[ Freddy | /m/04bw_2 ]] was played by [[ Frank Welker | /m/02gf_l ]] , while [[ Nicole Jaffe | /m/07cn9j ]] voiced the intellectual [[ Velma | /m/03r0h4 ]] 
 Group NNP
 leader NN
 Freddy NNP
@@ -7612,7 +7612,7 @@ intellectual JJ
 Velma NNP
 
 
-James Marsden plays Prince Edward , looking and acting like a rubber-faced cartoon handsome prince
+[[ James Marsden | /m/042ly5 ]] plays [[ Prince Edward | /m/02nwdm3 ]] , looking and acting like a rubber-faced cartoon handsome prince
 James NNP
 Marsden NNP
 plays VBZ
@@ -7630,7 +7630,7 @@ handsome NN
 prince NN
 
 
-James Marsden is funny as the clueless Prince Edward and Susan Sarandon captures the evil that becomes the villainous Queen .
+[[ James Marsden | /m/042ly5 ]] is funny as the clueless [[ Prince Edward | /m/02nwdm3 ]] and [[ Susan Sarandon | /m/01vwllw ]] captures the evil that becomes the villainous [[ Queen | /m/0d1_f ]] .
 James NNP
 Marsden NNP
 is VBZ
@@ -7654,7 +7654,7 @@ Queen NNP
 . .
 
 
-James Marsden is hilarious as Prince Edward 
+[[ James Marsden | /m/042ly5 ]] is hilarious as [[ Prince Edward | /m/02nwdm3 ]] 
 James NNP
 Marsden NNP
 is VBZ
@@ -7664,7 +7664,7 @@ Prince NNP
 Edward NNP
 
 
-Marsden fantastically plays Prince Edward , Giselle ?s love in her fairy tale world
+[[ Marsden | /m/042ly5 ]] fantastically plays [[ Prince Edward | /m/02nwdm3 ]] , [[ Giselle | /m/02vnzhs ]] ?s love in her fairy tale world
 Marsden NNP
 fantastically RB
 plays VBZ
@@ -7681,7 +7681,7 @@ tale NN
 world NN
 
 
-James Marsden , who played Prince Edward in the film, was on Regis and Kelly yesterday
+[[ James Marsden | /m/042ly5 ]] , who played [[ Prince Edward | /m/02nwdm3 ]] in the film, was on [[ Regis | /m/03f1r6t ]] and Kelly yesterday
 James NNP
 Marsden NNP
 , ,
@@ -7700,7 +7700,7 @@ Kelly NNP
 yesterday NN
 
 
-While Amy Adams is delightful, and James Marsden plays Prince Edward with a fine comedic style the movie still feels too formulaic
+While [[ Amy Adams | /m/0b25vg ]] is delightful, and [[ James Marsden | /m/042ly5 ]] plays [[ Prince Edward | /m/02nwdm3 ]] with a fine comedic style the movie still feels too formulaic
 While IN
 Amy NNP
 Adams NNP
@@ -7725,7 +7725,7 @@ too RB
 formulaic JJ
 
 
-James Marsden , who plays Prince Edward , stars in , and the movie, , based off the Broadway Production.
+[[ James Marsden | /m/042ly5 ]] , who plays [[ Prince Edward | /m/02nwdm3 ]] , stars in , and the movie, , based off the Broadway Production.
 James NNP
 Marsden NNP
 , ,
@@ -7748,7 +7748,7 @@ Broadway NNP
 Production. NNP
 
 
-However, the true find of this flick is James Marsden , who plays Prince Edward .
+However, the true find of this flick is [[ James Marsden | /m/042ly5 ]] , who plays [[ Prince Edward | /m/02nwdm3 ]] .
 However, NNP
 the DT
 true JJ
@@ -7767,7 +7767,7 @@ Edward NNP
 . .
 
 
-James Marsden of X-Men and the recent Superman Returns plays the perfect Prince Edward , singing his way to boastful perfection.
+[[ James Marsden | /m/042ly5 ]] of [[ X-Men | /m/0d90m ]] and the recent [[ Superman Returns | /m/044g_k ]] plays the perfect [[ Prince Edward | /m/02nwdm3 ]] , singing his way to boastful perfection.
 James NNP
 Marsden NNP
 of IN
@@ -7791,7 +7791,7 @@ boastful VB
 perfection. NN
 
 
-The intra-band dynamic and cross-generational hijinks intrigued Emma Stone , who portrays Amelia .
+The intra-band dynamic and cross-generational hijinks intrigued [[ Emma Stone | /m/09yhzs ]] , who portrays [[ Amelia | /m/0gklzyp ]] .
 The DT
 intra-band JJ
 dynamic JJ
@@ -7808,7 +7808,7 @@ Amelia NNP
 . .
 
 
-Stone delivers a solid performance as the perpetually dour Amelia , and Gad 's delightful awkwardness is splendid
+[[ Stone | /m/09yhzs ]] delivers a solid performance as the perpetually dour [[ Amelia | /m/0gklzyp ]] , and [[ Gad | /m/02w7dfv ]] 's delightful awkwardness is splendid
 Stone NN
 delivers VBZ
 a DT
@@ -7829,7 +7829,7 @@ is VBZ
 splendid JJ
 
 
-Unfortunately Hayden 's character Jammer doesn't have a t-shirt yet but hopefully that will be fixed soon
+Unfortunately [[ Hayden | /m/0f276 ]] 's character [[ Jammer | /m/07z7z9l ]] doesn't have a t-shirt yet but hopefully that will be fixed soon
 Unfortunately RB
 Hayden NNP
 's POS
@@ -7849,7 +7849,7 @@ fixed VBN
 soon RB
 
 
-Newman played Fast Eddie Felson who taught Vincent Lauria , played by Tom Cruise , the ropes of pool hustling
+[[ Newman | /m/0d6d2 ]] played [[ Fast Eddie Felson | /m/02nwpbm ]] who taught [[ Vincent Lauria | /m/04jt3kw ]] , played by [[ Tom Cruise | /m/07r1h ]] , the ropes of pool hustling
 Newman NNP
 played VBD
 Fast NNP
@@ -7872,7 +7872,7 @@ pool NN
 hustling NN
 
 
-Actor Randeep Hooda plays the painter while Nandana sen plays his sensual muse Sugandha .
+Actor [[ Randeep Hooda | /m/02ps3y3 ]] plays the painter while [[ Nandana sen | /m/0ff6p1 ]] plays his sensual muse [[ Sugandha | /m/0h4zgk2 ]] .
 Actor NNP
 Randeep NNP
 Hooda NNP
@@ -7891,7 +7891,7 @@ Sugandha NNP
 Nandana sen
 
 
-Anthony Michael Hall plays Mike Engel in TDK , a news reporter
+[[ Anthony Michael Hall | /m/01jvs4 ]] plays [[ Mike Engel | /m/0c04km6 ]] in [[ TDK | /m/04d6nb4 ]] , a news reporter
 Anthony NNP
 Michael NNP
 Hall NNP
@@ -7906,7 +7906,7 @@ news NN
 reporter NN
 
 
-In 2008, Hall appeared as Gotham City television reporter/anchor Mike Engel in The Dark Knight 
+In 2008, [[ Hall | /m/01jvs4 ]] appeared as [[ Gotham City | /m/03fdg ]] television reporter/anchor [[ Mike Engel | /m/0c04km6 ]] in [[ The Dark Knight | /m/0btpm6 ]] 
 In IN
 2008, CD
 Hall NN
@@ -7925,7 +7925,7 @@ Knight NNP
 The Dark Knight
 
 
-Joseph Gordon-Levitt  plays Chris , once a high-school hockey star from a wealthy family.
+[[ Joseph Gordon-Levitt | /m/05zbm4 ]]  plays [[ Chris | /m/02nwpt8 ]] , once a high-school hockey star from a wealthy family.
 Joseph NNP
 Gordon-Levitt NNP
 plays VBZ
@@ -7942,7 +7942,7 @@ wealthy JJ
 family. NN
 
 
-Joseph Gordon Levitt plays Chris Pratt .
+[[ Joseph Gordon Levitt | /m/05zbm4 ]] plays [[ Chris Pratt | /m/02nwpt8 ]] .
 Joseph NNP
 Gordon NNP
 Levitt NNP
@@ -7952,7 +7952,7 @@ Pratt NNP
 . .
 
 
- Behind the Mind of Chris Pratt   focuses on Gordon-Levitt 's preparation for the role and how he approached the character
+ Behind the Mind of [[ Chris Pratt | /m/02nwpt8 ]]   focuses on [[ Gordon-Levitt | /m/05zbm4 ]] 's preparation for the role and how he approached the character
 Behind IN
 the DT
 Mind NNP
@@ -7975,7 +7975,7 @@ the DT
 character NN
 
 
-Joseph Gordon-Levitt  plays Chris , once a high-school hockey star from a wealthy family
+[[ Joseph Gordon-Levitt | /m/05zbm4 ]]  plays [[ Chris | /m/02nwpt8 ]] , once a high-school hockey star from a wealthy family
 Joseph NNP
 Gordon-Levitt NNP
 plays VBZ
@@ -7992,7 +7992,7 @@ wealthy JJ
 family NN
 
 
-As expected, JGL 's performance as Chris Pratt was brilliant  but the movie itself was missing something.
+As expected, [[ JGL | /m/05zbm4 ]] 's performance as [[ Chris Pratt | /m/02nwpt8 ]] was brilliant  but the movie itself was missing something.
 As IN
 expected, JJ
 JGL NNP
@@ -8012,7 +8012,7 @@ missing VBG
 something. NN
 
 
-Joseph Gordon-Levitt plays Chris Pratt , a young man whose life changes after a car accident.
+[[ Joseph Gordon-Levitt | /m/05zbm4 ]] plays [[ Chris Pratt | /m/02nwpt8 ]] , a young man whose life changes after a car accident.
 Joseph NNP
 Gordon-Levitt NNP
 plays VBZ
@@ -8031,7 +8031,7 @@ car NN
 accident. NN
 
 
-Gordon-Levitt was good as Chris but co-star Matthew Goode was even better as Gary.
+[[ Gordon-Levitt | /m/05zbm4 ]] was good as [[ Chris | /m/02nwpt8 ]] but co-star [[ Matthew Goode | /m/062rt0 ]] was even better as Gary.
 Gordon-Levitt NNP
 was VBD
 good JJ
@@ -8048,7 +8048,7 @@ as IN
 Gary. NNP
 
 
-Gordon-Levitt plays Chris Pratt , a young man suffering from brain damage  sustained in a fatal car accident.
+[[ Gordon-Levitt | /m/05zbm4 ]] plays [[ Chris Pratt | /m/02nwpt8 ]] , a young man suffering from brain damage  sustained in a fatal car accident.
 Gordon-Levitt NNP
 plays NNS
 Chris NNP
@@ -8069,7 +8069,7 @@ car NN
 accident. NN
 
 
-The unfamiliar comes from Chris Pratt played by the aforementioned Joseph Gordon-Levitt 
+The unfamiliar comes from [[ Chris Pratt | /m/02nwpt8 ]] played by the aforementioned [[ Joseph Gordon-Levitt | /m/05zbm4 ]] 
 The DT
 unfamiliar JJ
 comes VBZ
@@ -8084,7 +8084,7 @@ Joseph NNP
 Gordon-Levitt NNP
 
 
-Hogan 's character, Mick Dundee , is therefore both an  everyman  and a modern Tarzan 
+[[ Hogan | /m/033b_b ]] 's character, [[ Mick Dundee | /m/02qlsxl ]] , is therefore both an  everyman  and a modern [[ Tarzan | /m/07lk3 ]] 
 Hogan NNP
 's POS
 character, NN
@@ -8102,7 +8102,7 @@ modern JJ
 Tarzan NNP
 
 
-Australian actor Paul Hogan , better known as Mick Dundee from the popular Crocodile Dundee movies, apparently has tax problems in Australia 
+[[ Australian | /m/0chghy ]] actor [[ Paul Hogan | /m/033b_b ]] , better known as [[ Mick Dundee | /m/02qlsxl ]] from the popular [[ Crocodile Dundee | /m/01wzyq ]] movies, apparently has tax problems in [[ Australia | /m/0chghy ]] 
 Australian JJ
 actor NN
 Paul NNP
@@ -8128,7 +8128,7 @@ Australia NNP
 Australian
 
 
-Synopsis The first two comedy adventures for Paul Hogan 's fish-out-of-water Mick Dundee .
+Synopsis The first two comedy adventures for [[ Paul Hogan | /m/033b_b ]] 's fish-out-of-water [[ Mick Dundee | /m/02qlsxl ]] .
 Synopsis NN
 The DT
 first JJ
@@ -8145,7 +8145,7 @@ Dundee NNP
 . .
 
 
-Hogan 's rogue, Mick Dundee , introduced the larrikin to the world in 1986
+[[ Hogan | /m/033b_b ]] 's rogue, [[ Mick Dundee | /m/02qlsxl ]] , introduced the larrikin to the world in 1986
 Hogan NNP
 's POS
 rogue, NN
@@ -8162,7 +8162,7 @@ in IN
 1986 CD
 
 
-For better or for worse, Hogan became typecast as Mick Dundee 
+For better or for worse, [[ Hogan | /m/033b_b ]] became typecast as [[ Mick Dundee | /m/02qlsxl ]] 
 For IN
 better JJR
 or CC
@@ -8176,7 +8176,7 @@ Mick NNP
 Dundee NNP
 
 
-  Paul Hogan returns as Mick Dundee in this second sequel to the hit 1986 fish-out-of-water comedy.
+  [[ Paul Hogan | /m/033b_b ]] returns as [[ Mick Dundee | /m/02qlsxl ]] in this second sequel to the hit 1986 fish-out-of-water comedy.
 Paul NNP
 Hogan NNP
 returns VBZ
@@ -8195,7 +8195,7 @@ fish-out-of-water NN
 comedy. NN
 
 
-Summary: Paul Hogan returns as the famous Mick Dundee in this third film of the   Crocodile Dundee   franchise
+Summary: [[ Paul Hogan | /m/033b_b ]] returns as the famous [[ Mick Dundee | /m/02qlsxl ]] in this third film of the   [[ Crocodile Dundee | /m/01wzyq ]]   franchise
 Summary: NNP
 Paul NNP
 Hogan NNP
@@ -8216,7 +8216,7 @@ Dundee NNP
 franchise NN
 
 
-Australian actor Paul Hogan , better known as Mick Dundee from..
+[[ Australian | /m/0chghy ]] actor [[ Paul Hogan | /m/033b_b ]] , better known as [[ Mick Dundee | /m/02qlsxl ]] from..
 Australian JJ
 actor NN
 Paul NNP
@@ -8231,7 +8231,7 @@ from.. NN
 Australian
 
 
-Dundee was written for Hogan in part by Hogan in order to feature that persona
+[[ Dundee | /m/02qlsxl ]] was written for [[ Hogan | /m/033b_b ]] in part by [[ Hogan | /m/033b_b ]] in order to feature that persona
 Dundee NNP
 was VBD
 written VBN
@@ -8249,7 +8249,7 @@ that DT
 persona NN
 
 
-Dana Carvey plays Garth Algar , Wayne 's lovable, but not quite personable sidekick
+[[ Dana Carvey | /m/0pz04 ]] plays [[ Garth Algar | /m/04fw3l6 ]] , [[ Wayne | /m/02nwvf7 ]] 's lovable, but not quite personable sidekick
 Dana NNP
 Carvey NNP
 plays VBZ
@@ -8266,7 +8266,7 @@ personable JJ
 sidekick NN
 
 
-Dana 's nerdy character Garth Algar in the Wayne's World comedy sketches and movies is based on his brother
+[[ Dana | /m/0pz04 ]] 's nerdy character [[ Garth Algar | /m/04fw3l6 ]] in the [[ Wayne's World | /m/0kbwb ]] comedy sketches and movies is based on his brother
 Dana NNP
 's POS
 nerdy JJ
@@ -8288,7 +8288,7 @@ his PRP$
 brother NN
 
 
-In Guy, Lee plays Paul , a dude who faces impending nuptials
+In Guy, [[ Lee | /m/034np8 ]] plays [[ Paul | /m/0gcs3mp ]] , a dude who faces impending nuptials
 In IN
 Guy, NNP
 Lee NNP
@@ -8303,7 +8303,7 @@ impending VBG
 nuptials NNS
 
 
-Jason Lee stars as Paul , a happy-go-lucky, decent sort of chap, engaged to Karen .
+[[ Jason Lee | /m/034np8 ]] stars as [[ Paul | /m/0gcs3mp ]] , a happy-go-lucky, decent sort of chap, engaged to [[ Karen | /m/0gcs3ky ]] .
 Jason NNP
 Lee NNP
 stars VBZ
@@ -8322,7 +8322,7 @@ Karen NNP
 . .
 
 
-Dorian ?s friend Basil Hallward is played by the veteran British actor Richard Todd 
+[[ Dorian | /m/0bmfx6l ]] ?s friend [[ Basil Hallward | /m/03t840 ]] is played by the veteran [[ British | /m/07ssc ]] actor [[ Richard Todd | /m/0147bj ]] 
 Dorian JJ
 ?s NNP
 friend NN
@@ -8341,7 +8341,7 @@ Dorian
 British
 
 
-Playing  two roles , Rock Hudson is wonderful as Webster and in his shy, virgin-like disguise as  Dr
+Playing  two roles , [[ Rock Hudson | /m/015dcj ]] is wonderful as [[ Webster | /m/0h36vt2 ]] and in his shy, virgin-like disguise as  Dr
 Playing VBG
 two CD
 roles NNS
@@ -8362,7 +8362,7 @@ as IN
 Dr NNP
 
 
-accent, Essman 's Mittens may remind viewers of a more assertive Jessie from Toy Story 2 
+accent, [[ Essman | /m/06zyt3 ]] 's [[ Mittens | /m/05v4ql4 ]] may remind viewers of a more assertive [[ Jessie | /m/0dr9dc ]] from [[ Toy Story 2 | /m/01xdxy ]] 
 accent, JJ
 Essman NNP
 's POS
@@ -8382,7 +8382,7 @@ Story NNP
 Toy Story 2
 
 
-Sussie Essman is also great as Mittens , but the real scene-stealer is Mark Walton as Rhino .
+[[ Sussie Essman | /m/06zyt3 ]] is also great as [[ Mittens | /m/05v4ql4 ]] , but the real scene-stealer is [[ Mark Walton | /m/04yd5c_ ]] as [[ Rhino | /m/05v4qkp ]] .
 Sussie NNP
 Essman NNP
 is VBZ
@@ -8403,7 +8403,7 @@ Rhino NNP
 . .
 
 
-Susie Essman was great as Mittens and gave her a lot of emotion.
+[[ Susie Essman | /m/06zyt3 ]] was great as [[ Mittens | /m/05v4ql4 ]] and gave her a lot of emotion.
 Susie NNP
 Essman NNP
 was VBD
@@ -8419,7 +8419,7 @@ of IN
 emotion. NN
 
 
-Shinichi 's voice is performed by Kappei Yamaguchi , the voice actor for Ranma 
+[[ Shinichi | /m/0409pl ]] 's voice is performed by [[ Kappei Yamaguchi | /m/02v92l ]] , the voice actor for [[ Ranma | /m/06kgx ]] 
 Shinichi NNP
 's POS
 voice NN
@@ -8436,7 +8436,7 @@ for IN
 Ranma NNP
 
 
-Alongside him, Amanda Righetti takes the female lead, while Derek Mears stars as Jason Voorhees 
+Alongside him, [[ Amanda Righetti | /m/04zz22 ]] takes the female lead, while [[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] 
 Alongside NNP
 him, NN
 Amanda NNP
@@ -8454,7 +8454,7 @@ Jason NNP
 Voorhees NNP
 
 
-- Derek Mears is the new Jason Voorhees
+- [[ Derek Mears | /m/05h41sp ]] is the new [[ Jason Voorhees | /m/01wmhq ]]
 - :
 Derek NN
 Mears NNP
@@ -8465,7 +8465,7 @@ Jason NNP
 Voorhees NNP
 
 
-However, while Derek Mears does the part of Jason Voorhees justice, he doesnt make any improvements to the role.
+However, while [[ Derek Mears | /m/05h41sp ]] does the part of [[ Jason Voorhees | /m/01wmhq ]] justice, he doesnt make any improvements to the role.
 However, NNP
 while IN
 Derek NNP
@@ -8487,7 +8487,7 @@ the DT
 role. NN
 
 
-Nothing against Derek Mears , but I believe Kane Hodder was the ultimate Jason .
+Nothing against [[ Derek Mears | /m/05h41sp ]] , but I believe [[ Kane Hodder | /m/033xr_ ]] was the ultimate [[ Jason | /m/01wmhq ]] .
 Nothing NN
 against IN
 Derek NNP
@@ -8505,7 +8505,7 @@ Jason NNP
 . .
 
 
-Derek Mears stars as Jason Voorhees in New Line Cinema s upcoming release, FRIDAY THE 13TH .
+[[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in [[ New Line Cinema | /m/024rgt ]] s upcoming release, [[ FRIDAY THE 13TH | /m/04czgnm ]] .
 Derek NNP
 Mears NNP
 stars VBZ
@@ -8526,7 +8526,7 @@ THE NNP
 FRIDAY THE 13TH
 
 
- In no way is Jason a martial-arts character,  Mears said.
+ In no way is [[ Jason | /m/01wmhq ]] a martial-arts character,  [[ Mears | /m/05h41sp ]] said.
 In IN
 no DT
 way NN
@@ -8539,7 +8539,7 @@ Mears NNP
 said. NN
 
 
-Friday was lean and slick, and Derek Mears was very good as Jason .
+Friday was lean and slick, and [[ Derek Mears | /m/05h41sp ]] was very good as [[ Jason | /m/01wmhq ]] .
 Friday NNP
 was VBD
 lean JJ
@@ -8556,7 +8556,7 @@ Jason NNP
 . .
 
 
-Mears plays Jason Voorhees in the newest  Friday the 13th  movie released Friday
+[[ Mears | /m/05h41sp ]] plays [[ Jason Voorhees | /m/01wmhq ]] in the newest  Friday the 13th  movie released Friday
 Mears NNP
 plays VBZ
 Jason NNP
@@ -8572,7 +8572,7 @@ released VBN
 Friday NNP
 
 
-It's not what I expected in my mind...but I think Derek Mears will put the fear in Jason Voorhees again.
+It's not what I expected in my mind...but I think [[ Derek Mears | /m/05h41sp ]] will put the fear in [[ Jason Voorhees | /m/01wmhq ]] again.
 It's NNP
 not RB
 what WP
@@ -8595,7 +8595,7 @@ Voorhees NNP
 again. NN
 
 
-3375 x 1906 Derek Mears stars as Jason Voorhees in Paramount Pictures ' Friday the 13th .
+3375 x 1906 [[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in [[ Paramount Pictures | /m/05qd_ ]] ' Friday the 13th .
 3375 CD
 x JJ
 1906 CD
@@ -8615,7 +8615,7 @@ the DT
 . .
 
 
-Derek Mears , who plays Jason  says his Jason is not as lethargic, but quicker and smarter.
+[[ Derek Mears | /m/05h41sp ]] , who plays [[ Jason | /m/01wmhq ]]  says his [[ Jason | /m/01wmhq ]] is not as lethargic, but quicker and smarter.
 Derek NNP
 Mears NNP
 , ,
@@ -8635,7 +8635,7 @@ and CC
 smarter. VB
 
 
-Derek Mears stars as Jason Voorhees in 'Friday the 13th'.
+[[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in 'Friday the 13th'.
 Derek NNP
 Mears NNP
 stars VBZ
@@ -8648,7 +8648,7 @@ the DT
 13th'. CD
 
 
-( Derek Mears , who plays Jason ).
+( [[ Derek Mears | /m/05h41sp ]] , who plays [[ Jason | /m/01wmhq ]] ).
 ( (
 Derek NNP
 Mears NNP
@@ -8659,7 +8659,7 @@ Jason NNP
 ). NN
 
 
-According to ComingSoon.net, Derek Mears has been cast as Jason Voorhees in New Line Cinema and Platinum Dunes ' new Friday the 13th movie
+According to ComingSoon.net, [[ Derek Mears | /m/05h41sp ]] has been cast as [[ Jason Voorhees | /m/01wmhq ]] in [[ New Line Cinema | /m/024rgt ]] and [[ Platinum Dunes | /m/04ljn9w ]] ' new Friday the 13th movie
 According VBG
 to TO
 ComingSoon.net, NNP
@@ -8686,7 +8686,7 @@ the DT
 movie NN
 
 
-Derek Mears stars as Jason Voorhees in a scene from the 2009 version of 1980's  Friday the 13th. 
+[[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in a scene from the 2009 version of 1980's  Friday the 13th. 
 Derek NNP
 Mears NNP
 stars VBZ
@@ -8707,7 +8707,7 @@ the DT
 13th. NNS
 
 
-Derek Mears stars as Jason Voorhees in 'Friday the 13th
+[[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in 'Friday the 13th
 Derek NNP
 Mears NNP
 stars VBZ
@@ -8720,7 +8720,7 @@ the DT
 13th CD
 
 
-Derek Mears stars as Jason Voorhees .
+[[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] .
 Derek NNP
 Mears NNP
 stars VBZ
@@ -8730,7 +8730,7 @@ Voorhees NNP
 . .
 
 
-Even without the Jason get-up, Derek Mears is a scary looking dude 
+Even without the [[ Jason | /m/01wmhq ]] get-up, [[ Derek Mears | /m/05h41sp ]] is a scary looking dude 
 Even RB
 without IN
 the DT
@@ -8745,7 +8745,7 @@ looking VBG
 dude NN
 
 
-Alongside him, Amanda Righetti takes the female lead, while Derek Mears stars as Jason Voorhees .
+Alongside him, [[ Amanda Righetti | /m/04zz22 ]] takes the female lead, while [[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] .
 Alongside NNP
 him, NN
 Amanda NNP
@@ -8764,7 +8764,7 @@ Voorhees NNP
 . .
 
 
-- Stunt man Derek Mears  plays the infamous Jason Voorhees 
+- Stunt man [[ Derek Mears | /m/05h41sp ]]  plays the infamous [[ Jason Voorhees | /m/01wmhq ]] 
 - :
 Stunt NN
 man NN
@@ -8777,7 +8777,7 @@ Jason NNP
 Voorhees NNP
 
 
-The upcoming re-imagining of Jason Voorhees stars Derek Mears 
+The upcoming re-imagining of [[ Jason Voorhees | /m/01wmhq ]] stars [[ Derek Mears | /m/05h41sp ]] 
 The DT
 upcoming JJ
 re-imagining NN
@@ -8789,7 +8789,7 @@ Derek NNP
 Mears NNP
 
 
-Derek Mears stars as Jason Voorhees in  Friday the 13th. 
+[[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in  Friday the 13th. 
 Derek NNP
 Mears NNP
 stars VBZ
@@ -8802,7 +8802,7 @@ the DT
 13th. NNS
 
 
-I hope for the best and with Marcus Nispel directing and Derek Mears playing the part as Jason
+I hope for the best and with [[ Marcus Nispel | /m/03lx5n ]] directing and [[ Derek Mears | /m/05h41sp ]] playing the part as [[ Jason | /m/01wmhq ]]
 I PRP
 hope VBP
 for IN
@@ -8823,7 +8823,7 @@ as IN
 Jason NNP
 
 
-Source: Latino Review ( Derek Mears , who plays Jason ).
+Source: Latino Review ( [[ Derek Mears | /m/05h41sp ]] , who plays [[ Jason | /m/01wmhq ]] ).
 Source: NNP
 Latino NNP
 Review NNP
@@ -8837,7 +8837,7 @@ Jason NNP
 ). NN
 
 
-Guido's wife, Dora , is played by Roberto Benigni 's real-life wife, Nicoletta Braschi .
+Guido's wife, [[ Dora | /m/0gkhh59 ]] , is played by [[ Roberto Benigni | /m/01tt43d ]] 's real-life wife, [[ Nicoletta Braschi | /m/07bp3c ]] .
 Guido's NNP
 wife, NN
 Dora NNP
@@ -8855,7 +8855,7 @@ Braschi NNP
 . .
 
 
-Benigni plays the role of Guido while his real-life wife, Nicoletta Braschi , co-stars as Dora .
+[[ Benigni | /m/01tt43d ]] plays the role of Guido while his real-life wife, [[ Nicoletta Braschi | /m/07bp3c ]] , co-stars as [[ Dora | /m/0gkhh59 ]] .
 Benigni NNP
 plays VBZ
 the DT
@@ -8875,7 +8875,7 @@ Dora NNP
 . .
 
 
-Boris Grishenko played by Alan Cumming is the fourth villain of Goldeneye .
+[[ Boris Grishenko | /m/06t21_ ]] played by [[ Alan Cumming | /m/01cwcr ]] is the fourth villain of [[ Goldeneye | /m/01npcx ]] .
 Boris NNP
 Grishenko NNP
 played VBN
@@ -8891,7 +8891,7 @@ Goldeneye NNP
 . .
 
 
-On the big screen, Leachman earned an Oscar for her riveting portrayal of lonely Texas housewife Ruth Popper in 
+On the big screen, [[ Leachman | /m/02l3_5 ]] earned an [[ Oscar | /m/0g_w ]] for her riveting portrayal of lonely [[ Texas | /m/07b_l ]] housewife [[ Ruth Popper | /m/05nf6sq ]] in 
 On IN
 the DT
 big JJ
@@ -8913,7 +8913,7 @@ Popper NNP
 in IN
 
 
-(okay, Sugita actually looks like Kyon too.).
+(okay, [[ Sugita | /m/01v2b93 ]] actually looks like [[ Kyon | /m/02pgnzp ]] too.).
 (okay, NN
 Sugita NNP
 actually RB
@@ -8923,7 +8923,7 @@ Kyon NNP
 too.). NN
 
 
-Sugita is just perfect as Kyon ...
+[[ Sugita | /m/01v2b93 ]] is just perfect as [[ Kyon | /m/02pgnzp ]] ...
 Sugita NNP
 is VBZ
 just RB
@@ -8933,7 +8933,7 @@ Kyon NNP
 ... :
 
 
-Fiennes is frightening as Goeth , who kills Jews for pleasure, yet has a fetish for his Jewish maid 
+[[ Fiennes | /m/0170qf ]] is frightening as [[ Goeth | /m/0gydcmz ]] , who kills [[ Jews | /m/041rx ]] for pleasure, yet has a fetish for his [[ Jewish | /m/041rx ]] maid 
 Fiennes NNS
 is VBZ
 frightening VBG
@@ -8956,7 +8956,7 @@ maid NN
 Jewish
 
 
-Valentin Dmitrovich Zukovsky played by Robbie Coltrane appears in Goldeneye and The World Is Not Enough 
+[[ Valentin Dmitrovich Zukovsky | /m/0dj97v ]] played by [[ Robbie Coltrane | /m/06ltr ]] appears in [[ Goldeneye | /m/01npcx ]] and [[ The World Is Not Enough | /m/0164qt ]] 
 Valentin NNP
 Dmitrovich NNP
 Zukovsky NNP
@@ -8976,7 +8976,7 @@ Enough JJ
 The World Is Not Enough
 
 
-Bryan 's final original work as Fudd came in the Warner Bros. Edward R. Murrow spoof,  Person to Bunny  
+[[ Bryan | /m/01hkg9 ]] 's final original work as [[ Fudd | /m/0mz80 ]] came in the [[ Warner Bros. | /m/086k8 ]] [[ Edward R. Murrow | /m/014428 ]] spoof,  Person to Bunny  
 Bryan NNP
 's POS
 final JJ
@@ -8998,7 +8998,7 @@ to TO
 Bunny VB
 
 
-First came the real-life deaths of Elmer Fudd actor Arthur Q. Bryan 
+First came the real-life deaths of [[ Elmer Fudd | /m/0mz80 ]] actor [[ Arthur Q. Bryan | /m/01hkg9 ]] 
 First RB
 came VBD
 the DT
@@ -9013,7 +9013,7 @@ Q. NNP
 Bryan NNP
 
 
-(although Arthur Q. Bryan voiced Elmer Fudd ).
+(although [[ Arthur Q. Bryan | /m/01hkg9 ]] voiced [[ Elmer Fudd | /m/0mz80 ]] ).
 (although IN
 Arthur NNP
 Q. NNP
@@ -9024,7 +9024,7 @@ Fudd NNP
 ). NN
 
 
-In one though ?  The Bugs Bunny Easter Song  ? Bryan does Fudd
+In one though ?  The Bugs Bunny Easter Song  ? [[ Bryan | /m/01hkg9 ]] does [[ Fudd | /m/0mz80 ]]
 In IN
 one CD
 though IN
@@ -9040,7 +9040,7 @@ does VBZ
 Fudd NNP
 
 
-( Arthur Q. Bryan , who also voiced Elmer Fudd in the Looney Tunes cartoons)
+( [[ Arthur Q. Bryan | /m/01hkg9 ]] , who also voiced [[ Elmer Fudd | /m/0mz80 ]] in the [[ Looney Tunes | /m/0d9l1 ]] cartoons)
 ( (
 Arthur NNP
 Q. NNP
@@ -9058,7 +9058,7 @@ Tunes NNP
 cartoons) NN
 
 
-Arthur Q. Bryan nearly always voiced Elmer Fudd , but he was not once credited
+[[ Arthur Q. Bryan | /m/01hkg9 ]] nearly always voiced [[ Elmer Fudd | /m/0mz80 ]] , but he was not once credited
 Arthur NNP
 Q. NNP
 Bryan NNP
@@ -9076,7 +9076,7 @@ once RB
 credited VBN
 
 
-(and Arthur Q. Bryan , the voice of Elmer Fudd , to play Elmer Fudd )
+(and [[ Arthur Q. Bryan | /m/01hkg9 ]] , the voice of [[ Elmer Fudd | /m/0mz80 ]] , to play [[ Elmer Fudd | /m/0mz80 ]] )
 (and NN
 Arthur NNP
 Q. NNP
@@ -9095,7 +9095,7 @@ Fudd NNP
 ) )
 
 
-Voices are by Mel Blanc , except Elmer was voiced by Arthur Q. Bryan .
+Voices are by [[ Mel Blanc | /m/0c5vh ]] , except [[ Elmer | /m/0mz80 ]] was voiced by [[ Arthur Q. Bryan | /m/01hkg9 ]] .
 Voices NNS
 are VBP
 by IN
@@ -9113,7 +9113,7 @@ Bryan NNP
 . .
 
 
-After Bryan died in 1959, Mel Blanc became the main voice of Elmer Fudd 
+After [[ Bryan | /m/01hkg9 ]] died in 1959, [[ Mel Blanc | /m/0c5vh ]] became the main voice of [[ Elmer Fudd | /m/0mz80 ]] 
 After IN
 Bryan NNP
 died VBD
@@ -9130,7 +9130,7 @@ Elmer NNP
 Fudd NNP
 
 
-Arthur Q. Bryan , the man who created the voice of Elmer Fudd was Doc Gamble .
+[[ Arthur Q. Bryan | /m/01hkg9 ]] , the man who created the voice of [[ Elmer Fudd | /m/0mz80 ]] was [[ Doc Gamble | /m/01hkg9 ]] .
 Arthur NNP
 Q. NNP
 Bryan NNP
@@ -9150,7 +9150,7 @@ Gamble NNP
 . .
 
 
-Arthur Q. Bryan provided the voice of Fudd 
+[[ Arthur Q. Bryan | /m/01hkg9 ]] provided the voice of [[ Fudd | /m/0mz80 ]] 
 Arthur NNP
 Q. NNP
 Bryan NNP
@@ -9161,7 +9161,7 @@ of IN
 Fudd NNP
 
 
-Arthur Q. Bryan was the voice of Elmer Fudd .
+[[ Arthur Q. Bryan | /m/01hkg9 ]] was the voice of [[ Elmer Fudd | /m/0mz80 ]] .
 Arthur NNP
 Q. NNP
 Bryan NNP
@@ -9174,7 +9174,7 @@ Fudd NNP
 . .
 
 
-And Shatner is playing the voice of the Core 
+And [[ Shatner | /m/084m3 ]] is playing the voice of the [[ Core | /m/07z7zcn ]] 
 And CC
 Shatner NNP
 is VBZ
@@ -9186,7 +9186,7 @@ the DT
 Core NN
 
 
-James Mason plays Johnny McQueen , an Irish freedom fighter who is seriously wounded early in the film
+[[ James Mason | /m/0jvtp ]] plays [[ Johnny McQueen | /m/0cblmjb ]] , an [[ Irish | /m/03rt9 ]] freedom fighter who is seriously wounded early in the film
 James NNP
 Mason NNP
 plays VBZ
@@ -9208,7 +9208,7 @@ film NN
 Irish
 
 
-James Mason stars as Johnny McQueen , an IRA officer wounded during a botched raid, who becomes the f..
+[[ James Mason | /m/0jvtp ]] stars as [[ Johnny McQueen | /m/0cblmjb ]] , an [[ IRA | /m/03t3s ]] officer wounded during a botched raid, who becomes the f..
 James NNP
 Mason NNP
 stars VBZ
@@ -9230,7 +9230,7 @@ the DT
 f.. NN
 
 
-film stars Mason as idealistic IRA leader Johnny McQueen
+film stars [[ Mason | /m/0jvtp ]] as idealistic [[ IRA | /m/03t3s ]] leader [[ Johnny McQueen | /m/0cblmjb ]]
 film NN
 stars NNS
 Mason NNP
@@ -9242,7 +9242,7 @@ Johnny NNP
 McQueen NNP
 
 
-The incomparable Anne Ramsey brought Mama Fratelli to life in the way only she could.
+The incomparable [[ Anne Ramsey | /m/0mbtg ]] brought [[ Mama Fratelli | /m/0h5nz4f ]] to life in the way only she could.
 The DT
 incomparable JJ
 Anne NNP
@@ -9260,7 +9260,7 @@ she PRP
 could. VBD
 
 
-SEAN BEAN is Alec Trevelyan , Bond 's former compatriot Agent 006, who presents his old friend with a stunning revelation
+[[ SEAN BEAN | /m/02gvwz ]] is [[ Alec Trevelyan | /m/062r15 ]] , [[ Bond | /m/03_97 ]] 's former compatriot Agent 006, who presents his old friend with a stunning revelation
 SEAN JJ
 BEAN NNP
 is VBZ
@@ -9285,7 +9285,7 @@ revelation NN
 SEAN BEAN
 
 
-Sean Bean is okay as Alec Trevelyan , though the home-counties accent sounds strange coming from a Yorkshireman 's lips
+[[ Sean Bean | /m/02gvwz ]] is okay as [[ Alec Trevelyan | /m/062r15 ]] , though the home-counties accent sounds strange coming from a [[ Yorkshireman | /m/094vy ]] 's lips
 Sean JJ
 Bean NNP
 is VBZ
@@ -9309,7 +9309,7 @@ lips NNS
 Sean Bean
 
 
-, an agent who works for The Man , Denise Richards  stars as White She Devil 
+, an agent who works for [[ The Man | /m/0h6490_ ]] , [[ Denise Richards | /m/0993r ]]  stars as [[ White She Devil | /m/0gxmyyn ]] 
 , ,
 an DT
 agent NN
@@ -9330,7 +9330,7 @@ The Man
 White She Devil
 
 
-In the end both Don and his girlfriend Anita played by Ishaa Koppikar escape, bewildering the police and Roma 
+In the end both [[ Don | /m/04v7k2 ]] and his girlfriend [[ Anita | /m/0h6h4vm ]] played by [[ Ishaa Koppikar | /m/077x14 ]] escape, bewildering the police and [[ Roma | /m/0gxq294 ]] 
 In IN
 the DT
 end NN
@@ -9352,7 +9352,7 @@ and CC
 Roma NNP
 
 
-Alison Lohman stars as Christine Brown , ?an ambitious LA loan officer with a charming boyfriend, professor Clay Dalton .
+[[ Alison Lohman | /m/053wg3 ]] stars as [[ Christine Brown | /m/05pvtjs ]] , ?an ambitious [[ LA | /m/032plm ]] loan officer with a charming boyfriend, professor [[ Clay Dalton | /m/05pvtjd ]] .
 Alison NNP
 Lohman NNP
 stars VBZ
