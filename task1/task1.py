@@ -5,8 +5,6 @@ import sys
 import re
 
 from nltk import pos_tag
-from nltk.corpus import brown
-from nltk.tag import hmm
 
 
 # store information about each sentence in a relation
@@ -77,9 +75,8 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
 
 
 # tag each word in a sentence
-def tag_sentence(tagger, sentence):
+def tag_sentence(sentence):
     token_list = sentence.split()
-    # return tagger.tag(token_list)
     return pos_tag(token_list)
 
 
@@ -97,14 +94,6 @@ def get_file_name_excluding_extension(file_path):
     return filename_without_ext
 
 
-# train hmm tagger using brown corpus tagged sentences
-def train_hmm_tagger():
-    train_data = brown.tagged_sents(categories='news')
-    print(len(train_data))
-    tagger = hmm.HiddenMarkovModelTagger.train(train_data)
-    return tagger
-
-
 def main():
     if len(sys.argv) == 1:
         data_folder_path = input("Enter Folder Path of data files: ")
@@ -112,8 +101,9 @@ def main():
     else:
         data_folder_path = sys.argv[1]
 
-    # hmm_tagger = train_hmm_tagger()
-    hmm_tagger = None
+    # create 'runs' folder if not exists for output
+    if not os.path.exists('runs'):
+        os.mkdir('runs')
 
     # process each relation one by one
     for filename in glob.glob(os.path.join(data_folder_path, "*.json")):
@@ -125,9 +115,15 @@ def main():
         with open(filename) as f:
 
             json_data = json.load(f)
+            count = 1
 
             # process each sentence in the relation
             for each_data in json_data:
+
+                # consider first 100 sentences
+                if count > 100:
+                    break
+
                 sentence = each_data['sentence']
                 # print(sentence)
 
@@ -136,7 +132,7 @@ def main():
                 # print(modified_sentence)
 
                 # get pos_tags for each word in the sentence
-                pos_tags = tag_sentence(hmm_tagger, modified_sentence)
+                pos_tags = tag_sentence(modified_sentence)
 
                 # identify incorrectly tagged entities
                 incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)
@@ -144,6 +140,7 @@ def main():
                 # store information for each sentence
                 sentence_info = SentenceInformation(sentence, pos_tags, entities, incorrectly_tagged_entities)
                 sentence_info_list.append(sentence_info)
+                count += 1
 
             f.close()
 
