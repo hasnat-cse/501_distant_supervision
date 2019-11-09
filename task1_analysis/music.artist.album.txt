@@ -1,0 +1,2134 @@
+The [[ Earth Pressed Flat | /m/05y7b4 ]] is [[ 10,000 Maniacs | /m/0139nv ]]
+The DT
+Earth NNP
+Pressed VBD
+Flat NNP
+is VBZ
+10,000 CD
+Maniacs NN
+Earth Pressed Flat
+10,000 Maniacs
+
+
+[[ 10,000 Maniacs | /m/0139nv ]] began   [[ Trouble Me | /m/0f_llps ]] ,  an old one.
+10,000 CD
+Maniacs NNP
+began VBD
+Trouble NNP
+Me NNP
+, ,
+an DT
+old JJ
+one. NN
+10,000 Maniacs
+
+
+[[ Roger Waters | /m/017g21 ]] used these same chord forms in   [[ The Bravery Of Being Out Of Range | /m/01jdsf5 ]]   from his 1992 solo release Amused To Death
+Roger NNP
+Waters NNP
+used VBD
+these DT
+same JJ
+chord NN
+forms NNS
+in IN
+The DT
+Bravery NNP
+Of IN
+Being VBG
+Out NNP
+Of IN
+Range NNP
+from IN
+his PRP$
+1992 CD
+solo NN
+release NN
+Amused VBD
+To TO
+Death VB
+The Bravery Of Being Out Of Range
+
+
+Dave, The [[ Chantays | /m/0169k4 ]] were a surf guitar group, and the [[ Pipeline | /m/01lprtm ]] is the name of a [[ Hawaiian | /m/03pmt ]] surf break
+Dave, NNP
+The DT
+Chantays NNPS
+were VBD
+a DT
+surf JJ
+guitar NN
+group, NN
+and CC
+the DT
+Pipeline NNP
+is VBZ
+the DT
+name NN
+of IN
+a DT
+Hawaiian JJ
+surf NN
+break NN
+Hawaiian
+
+
+This was [[ Waters | /m/017g21 ]] ' setup from 1999-2000; though in 2000, [[ Waters | /m/017g21 ]] also played a red [[ Fender Stratocaster | /m/02m873 ]] during   [[ The Bravery Of Being Out Of Range | /m/01jdsdv ]] .
+This DT
+was VBD
+Waters NNP
+' POS
+setup NN
+from IN
+1999-2000; JJ
+though IN
+in IN
+2000, CD
+Waters NNS
+also RB
+played VBD
+a DT
+red JJ
+Fender NNP
+Stratocaster NNP
+during IN
+The DT
+Bravery NNP
+Of IN
+Being VBG
+Out NNP
+Of IN
+Range NNP
+. .
+The Bravery Of Being Out Of Range
+
+
+A well-drafted, De-vision and [[ Green Court | /m/01w2_kg ]] , [[ Shining | /m/0ffxg07 ]]  CD5, [[ Shining | /m/0ffxg07 ]]  different paragraphs first
+A DT
+well-drafted, JJ
+De-vision NN
+and CC
+Green NNP
+Court NNP
+, ,
+Shining VBG
+CD5, NNP
+Shining NNP
+different JJ
+paragraphs NN
+first RB
+Shining
+Shining
+
+
+While preparing for the [[ Eurovision Song Contest | /m/02q3s ]] the [[ German | /m/0345h ]] band [[ No Angels | /m/018g7q ]] has released their album; [[ Destiny Reloaded | /m/02q0g2_ ]] .
+While IN
+preparing VBG
+for IN
+the DT
+Eurovision NNP
+Song NNP
+Contest NNP
+the DT
+German JJ
+band NN
+No NNP
+Angels NNP
+has VBZ
+released VBN
+their PRP$
+album; JJ
+Destiny NNP
+Reloaded NNP
+. .
+German
+
+
+[[ 10,000 Maniacs | /m/0139nv ]] discography, download [[ 10,000 Maniacs | /m/0139nv ]] music, [[ 10,000 Maniacs | /m/0139nv ]] albums, - [[ The Wishing Chair | /m/05n5bw ]] by [[ 10,000 Maniacs | /m/0139nv ]] .
+10,000 CD
+Maniacs NNP
+discography, NN
+download NN
+10,000 CD
+Maniacs NNP
+music, VBD
+10,000 CD
+Maniacs NNP
+albums, SYM
+- :
+The DT
+Wishing NNP
+Chair NNP
+by IN
+10,000 CD
+Maniacs NNP
+. .
+10,000 Maniacs
+10,000 Maniacs
+10,000 Maniacs
+The Wishing Chair
+10,000 Maniacs
+
+
+1999's [[ The Earth Pressed Flat | /m/0pfwkq ]] finds [[ 10,000 Maniacs | /m/0139nv ]] exploring similar musical terrain as their previous album, [[ Love Among the Ruins | /m/05y77d ]] , on which singer [[ Mary Ramsey | /m/0g5qqw3 ]] debuted.
+1999's CD
+The DT
+Earth NN
+Pressed VBD
+Flat NNP
+finds VBZ
+10,000 CD
+Maniacs NNP
+exploring VBG
+similar JJ
+musical JJ
+terrain NN
+as IN
+their PRP$
+previous JJ
+album, NNS
+Love NNP
+Among IN
+the DT
+Ruins NNP
+, ,
+on IN
+which WDT
+singer NN
+Mary NNP
+Ramsey NNP
+debuted. NN
+The Earth Pressed Flat
+10,000 Maniacs
+Love Among the Ruins
+
+
+After playing   [[ Break Your Heart | /m/0g6qj2y ]]  , she pulled out   [[ These Are Days | /m/02wbg1m ]]  , from the [[ Maniacs | /m/0139nv ]] album, [[ Our Time In Eden | /m/05n5n1 ]] 
+After IN
+playing VBG
+Break NNP
+Your NNP
+Heart NNP
+, ,
+she PRP
+pulled VBD
+out RP
+These DT
+Are NNP
+Days NNPS
+, ,
+from IN
+the DT
+Maniacs NNP
+album, VB
+Our PRP$
+Time NNP
+In IN
+Eden NNP
+These Are Days
+Our Time In Eden
+
+
+- [[ Bette | /m/01dw9z ]] released [[ Live At Last | /m/01k8jrp ]] and [[ Broken Blossom | /m/01k8jl9 ]] 
+- :
+Bette NN
+released VBN
+Live NNP
+At IN
+Last JJ
+and CC
+Broken NNP
+Blossom NNP
+Live At Last
+
+
+[[ Bette Midler | /m/01dw9z ]] : [[ Midler | /m/01dw9z ]] covered [[ Ol | /m/02pwfdb ]] ' '55 on   [[ Songs For The New Depression | /m/01k8jxz ]]   
+Bette NNP
+Midler NNP
+: :
+Midler NNP
+covered VBD
+Ol NNP
+' POS
+'55 NNS
+on IN
+Songs NNS
+For IN
+The DT
+New NNP
+Depression NNP
+Songs For The New Depression
+
+
+Cameron Paul, a [[ San Francisco | /m/0d6lp ]] [[ DJ | /m/03f6w19 ]] ; remixes 'Push It,' a tune from [[ Salt-N-Pepa | /m/01dx06 ]] 's  album,   [[ Hot, Cool & Vicious | /m/02x5w05 ]] .
+Cameron NNP
+Paul, NNP
+a DT
+San NNP
+Francisco NNP
+DJ NNP
+; :
+remixes NNS
+'Push VBP
+It,' VBZ
+a DT
+tune NN
+from IN
+Salt-N-Pepa NNP
+'s POS
+album, NN
+Hot, NNP
+Cool NNP
+& CC
+Vicious NNP
+. .
+Hot, Cool & Vicious
+
+
+- [[ Bette | /m/01dw9z ]] released [[ Live At Last | /m/01k8jrp ]] and [[ Broken Blossom | /m/01k8jl9 ]] 
+- :
+Bette NN
+released VBN
+Live NNP
+At IN
+Last JJ
+and CC
+Broken NNP
+Blossom NNP
+Live At Last
+
+
+[[ Roger | /m/017g21 ]] and [[ Ron | /m/01p80j1 ]] also collaborated on [[ MUSIC FROM THE BODY | /m/01kd7p_ ]] , a bizarre soundtrack album for the film   [[ The Body | /m/09v262s ]]  
+Roger NNP
+and CC
+Ron NNP
+also RB
+collaborated VBD
+on IN
+MUSIC NNP
+FROM NNP
+THE NNP
+BODY NNP
+, ,
+a DT
+bizarre JJ
+soundtrack NN
+album NN
+for IN
+the DT
+film NN
+The DT
+Body NN
+The Body
+
+
+Op 31 maart komt het album   [[ Hills And Valleys | /m/05z25_7 ]]   van the [[ Flatlanders | /m/01kvgn_ ]] uit op het [[ New West | /m/0dk666 ]] label.
+Op $
+31 CD
+maart NN
+komt NN
+het NN
+album NN
+Hills NNP
+And CC
+Valleys NNP
+van VBP
+the DT
+Flatlanders NNP
+uit NN
+op NN
+het VBD
+New NNP
+West NNP
+label. NN
+Hills And Valleys
+
+
+  [[ None Of Your Business | /m/01k7t93 ]]   was [[ Salt 'N Pepa | /m/01dx06 ]] 's 4th single release by their 4th multiplatinum album  Very Necessary 
+None NN
+Of IN
+Your NNP
+Business NNP
+was VBD
+Salt NNP
+'N NNP
+Pepa NNP
+'s POS
+4th CD
+single JJ
+release NN
+by IN
+their PRP$
+4th CD
+multiplatinum NN
+album NN
+Very NNP
+Necessary NNP
+None Of Your Business
+
+
+[[ Salt-N-Pepa | /m/01dx06 ]] video [[ Shoop | /m/01k7t1m ]] on [[ Music | /m/04rlf ]] .
+Salt-N-Pepa JJ
+video NN
+Shoop NNP
+on IN
+Music NNP
+. .
+Salt-N-Pepa
+
+
+After almost three decades, [[ Bette | /m/01dw9z ]] reunited with [[ Manilow | /m/03f7m4h ]] in 2003 for [[ Bette Midler Sings The Rosemary Clooney Songbook | /m/02qs4p7 ]] .
+After IN
+almost RB
+three CD
+decades, NNS
+Bette NNP
+reunited VBD
+with IN
+Manilow NNP
+in IN
+2003 CD
+for IN
+Bette NNP
+Midler NNP
+Sings NNP
+The DT
+Rosemary NNP
+Clooney NNP
+Songbook NNP
+. .
+Bette Midler Sings The Rosemary Clooney Songbook
+
+
+Her first two solo efforts,  and the astonishing [[ Ophelia | /m/01hwhmv ]]  were worthy successors to the [[ 10,000 Maniacs | /m/0139nv ]] sendoff, [[ MTV Unplugged | /m/05y73k ]] 
+Her PRP$
+first JJ
+two CD
+solo NN
+efforts, NN
+and CC
+the DT
+astonishing JJ
+Ophelia NNP
+were VBD
+worthy JJ
+successors NNS
+to TO
+the DT
+10,000 CD
+Maniacs NNP
+sendoff, NN
+MTV NNP
+Unplugged VBD
+10,000 Maniacs
+MTV Unplugged
+
+
+There is some mystery regarding the [[ His Name is Alive | /m/01lgsr ]] song  [[ King of Sweet | /m/026w6gs ]] 
+There EX
+is VBZ
+some DT
+mystery NN
+regarding VBG
+the DT
+His PRP$
+Name NN
+is VBZ
+Alive JJ
+song NN
+King NNP
+of IN
+Sweet NNP
+His Name is Alive
+King of Sweet
+
+
+[[ Sweet Earth Flower | /m/03h5s9b ]] might be [[ His Name Is Alive | /m/01lgsr ]]
+Sweet NNP
+Earth NNP
+Flower NNP
+might MD
+be VB
+His PRP$
+Name NN
+Is VBZ
+Alive JJ
+His Name Is Alive
+
+
+The [[ Tragically Hip | /m/01ltgy ]] released   [[ In Between Evolution | /m/02xvwn ]]   in 2004.
+The DT
+Tragically NNP
+Hip NNP
+released VBD
+In IN
+Between NNP
+Evolution NNP
+in IN
+2004. CD
+In Between Evolution
+
+
+From [[ The Tragically Hip | /m/01ltgy ]] 's full length debut album [[ Up To Here | /m/01ltpj ]] from 1989
+From IN
+The DT
+Tragically NNP
+Hip NNP
+'s POS
+full JJ
+length NN
+debut NN
+album VBZ
+Up IN
+To TO
+Here RB
+from IN
+1989 CD
+The Tragically Hip
+Up To Here
+
+
+After the completion of the tour for [[ Stars on ESP | /m/01mn54m ]] , [[ His Name Is Alive | /m/01lgsr ]] leader [[ Warren Defever | /m/03f1_98 ]]
+After IN
+the DT
+completion NN
+of IN
+the DT
+tour NN
+for IN
+Stars NNP
+on IN
+ESP NNP
+, ,
+His PRP$
+Name NN
+Is VBZ
+Alive JJ
+leader NN
+Warren NNP
+Defever NNP
+Stars on ESP
+His Name Is Alive
+
+
+[[ Hipeponymous | /m/09dnxn ]] brings the music of [[ The Tragically Hip | /m/01ltgy ]] to youLive!
+Hipeponymous JJ
+brings VBZ
+the DT
+music NN
+of IN
+The DT
+Tragically NNP
+Hip NNP
+to TO
+youLive! VB
+Hipeponymous
+The Tragically Hip
+
+
+He came out of the store with [[ Drive Like Jehu | /m/01l80fb ]] s [[ Yank Crime | /m/01l80cj ]] .
+He PRP
+came VBD
+out IN
+of IN
+the DT
+store NN
+with IN
+Drive NNP
+Like IN
+Jehu NNP
+s NNP
+Yank NNP
+Crime NNP
+. .
+Drive Like Jehu
+
+
+Music video by [[ The Tragically Hip | /m/01ltgy ]] performing [[ My Music At Work | /m/0czb0wn ]] : 
+Music JJ
+video NN
+by IN
+The DT
+Tragically NNP
+Hip NNP
+performing VBG
+My PRP$
+Music NN
+At IN
+Work NN
+: :
+The Tragically Hip
+My Music At Work
+
+
+[[ Aykroyd | /m/0d608 ]] gives the [[ Tragically Hip | /m/01ltgy ]] a noisome intro, and singer [[ Gord Downie | /m/01ngk5z ]] assumes his twitchy madman persona, letting loose with  [[ Music At Work | /m/01ly63 ]] 
+Aykroyd NNP
+gives VBZ
+the DT
+Tragically NNP
+Hip NNP
+a DT
+noisome JJ
+intro, NN
+and CC
+singer NN
+Gord NNP
+Downie NNP
+assumes VBZ
+his PRP$
+twitchy JJ
+madman NN
+persona, NN
+letting VBG
+loose JJ
+with IN
+Music NNP
+At IN
+Work NNP
+Music At Work
+
+
+[[ Ephel Duath | /m/01m8rsl ]] was amazing on   [[ The Painter's Palette | /m/01m8rpw ]]   but that's about all I've ever cared about from 'em
+Ephel NNP
+Duath NNP
+was VBD
+amazing VBG
+on IN
+The DT
+Painter's NNP
+Palette NNP
+but CC
+that's VBP
+about IN
+all DT
+I've NNP
+ever RB
+cared VBD
+about IN
+from IN
+'em NN
+The Painter's Palette
+
+
+[[ Canada | /m/0d060g ]] most loved band [[ The Tragically Hip | /m/01ltgy ]] is back with [[ World Container | /m/01hvv1f ]] , their 11th album that was just released last Tuesday.
+Canada NNP
+most JJS
+loved JJ
+band VBP
+The DT
+Tragically NNP
+Hip NNP
+is VBZ
+back RB
+with IN
+World NNP
+Container NNP
+, ,
+their PRP$
+11th CD
+album NN
+that WDT
+was VBD
+just RB
+released VBN
+last JJ
+Tuesday. NN
+The Tragically Hip
+
+
+[[ Ash In The Rainbow | /m/01s6qvc ]] is [[ Haco | /m/01mdvzj ]] 's collaboration with cellist Hiromichi Sakamoto.
+Ash NNP
+In IN
+The DT
+Rainbow NNP
+is VBZ
+Haco NNP
+'s POS
+collaboration NN
+with IN
+cellist NN
+Hiromichi NNP
+Sakamoto. NNP
+Ash In The Rainbow
+
+
+On February 8, 2006, [[ Keller Williams | /m/01m6q14 ]] hit the stage at [[ Denver | /m/02cl1 ]] ?s [[ Fillmore | /m/0259fy ]] with a project he calls [[ Grateful Grass | /m/043lk66 ]] .
+On IN
+February NNP
+8, CD
+2006, CD
+Keller NNP
+Williams NNP
+hit VBD
+the DT
+stage NN
+at IN
+Denver NNP
+?s NNP
+Fillmore NNP
+with IN
+a DT
+project NN
+he PRP
+calls VBZ
+Grateful JJ
+Grass NNP
+. .
+Grateful Grass
+
+
+Music video by [[ The Tragically Hip | /m/01ltgy ]] performing [[ Little Bones | /m/0ddbpn2 ]] : 
+Music JJ
+video NN
+by IN
+The DT
+Tragically NNP
+Hip NNP
+performing VBG
+Little JJ
+Bones NNS
+: :
+The Tragically Hip
+Little Bones
+
+
+Author's note: This work of fan fiction was inspired by and based on [[ The Tragically Hip | /m/01ltgy ]] 's epic song   [[ Nautical Disaster | /m/0ddgbsd ]] .
+Author's NNP
+note: NN
+This DT
+work NN
+of IN
+fan JJ
+fiction NN
+was VBD
+inspired VBN
+by IN
+and CC
+based VBN
+on IN
+The DT
+Tragically NNP
+Hip NNP
+'s POS
+epic NN
+song NN
+Nautical NNP
+Disaster NNP
+. .
+The Tragically Hip
+
+
+[[ Oblique Sessions | /m/01rj_7g ]]  is a collaboration with [[ Comelade | /m/01nkkrw ]] , Berrocal & Liebezeit.
+Oblique JJ
+Sessions NNP
+is VBZ
+a DT
+collaboration NN
+with IN
+Comelade NNP
+, ,
+Berrocal NNP
+& CC
+Liebezeit. NNP
+Oblique Sessions
+
+
+[[ Phantom Power | /m/0312j9 ]] is the sixth full-length album by [[ Canadian | /m/0d060g ]] rock band [[ The Tragically Hip | /m/01ltgy ]] .
+Phantom NNP
+Power NNP
+is VBZ
+the DT
+sixth JJ
+full-length JJ
+album NN
+by IN
+Canadian JJ
+rock NN
+band VBP
+The DT
+Tragically NNP
+Hip NNP
+. .
+Canadian
+The Tragically Hip
+
+
+The [[ French | /m/0f8l9c ]] avant-garde musician [[ Pascal Comelade | /m/01nkkrw ]] included several cover versions on his 1987 album [[ El Primitivismo | /m/01nkkp5 ]] 
+The DT
+French JJ
+avant-garde JJ
+musician JJ
+Pascal NNP
+Comelade NNP
+included VBD
+several JJ
+cover NN
+versions NNS
+on IN
+his PRP$
+1987 CD
+album NN
+El NNP
+Primitivismo NNP
+French
+
+
+[[ Tony Rice | /m/01nqy91 ]] sings   [[ Cold On The Shoulder | /m/01nqy70 ]]   from the [[ TNN | /m/080pdkm ]] television series American Music Shop
+Tony NNP
+Rice NNP
+sings NNS
+Cold NNP
+On IN
+The DT
+Shoulder NN
+from IN
+the DT
+TNN NNP
+television NN
+series NN
+American NNP
+Music NNP
+Shop NNP
+Cold On The Shoulder
+
+
+Also, a 2005 release   [[ Mary Never Wanted Jesus | /m/04f073m ]]   credited to [[ Genesis P-Orridge | /m/01wmc5d ]] & [[ Thee Majesty | /m/01nn09h ]] featured archive [[ PTV | /m/022qdt ]] material alongside new [[ Thee Majesty | /m/01nn09h ]]
+Also, IN
+a DT
+2005 CD
+release NN
+Mary NNP
+Never NNP
+Wanted VBD
+Jesus NNP
+credited VBD
+to TO
+Genesis NNP
+P-Orridge NNP
+& CC
+Thee NNP
+Majesty NNP
+featured VBD
+archive JJ
+PTV NNP
+material NN
+alongside RB
+new JJ
+Thee NNP
+Majesty NNP
+Mary Never Wanted Jesus
+
+
+Twenty years later, [[ Tony | /m/01nqy91 ]] recorded   [[ Fishscale | /m/01clvc8 ]]   with [[ John Carlini | /m/0gn683 ]]  on [[ River Suite For Two Guitars | /m/01syj3m ]] 
+Twenty CD
+years NNS
+later, VBP
+Tony NNP
+recorded VBD
+Fishscale NNP
+with IN
+John NNP
+Carlini NNP
+on IN
+River NNP
+Suite NNP
+For IN
+Two CD
+Guitars NNS
+River Suite For Two Guitars
+
+
+Did the [[ Free Design | /m/01nz19m ]] make any recordings before [[ Kites Are Fun | /m/01nz10t ]] 
+Did NNP
+the DT
+Free NNP
+Design NNP
+make VBP
+any DT
+recordings NNS
+before IN
+Kites NNS
+Are VBP
+Fun NNP
+Kites Are Fun
+
+
+From the [[ mewithoutYou | /m/01n6vf0 ]] album,   [[ Catch For Us The Foxes | /m/01n6vb8 ]] ,  in stores now on [[ Tooth & Nail Records | /m/04l7mn ]] !..
+From IN
+the DT
+mewithoutYou NN
+album, VBP
+Catch NNP
+For IN
+Us NNP
+The DT
+Foxes NNP
+, ,
+in IN
+stores NNS
+now RB
+on IN
+Tooth NNP
+& CC
+Nail NNP
+Records NNP
+!.. NN
+Catch For Us The Foxes
+Tooth & Nail Records
+
+
+[[ Les Luthiers | /m/01p9qtk ]] : [[ Bromato De Armonio | /m/07zvmp ]] par [[ Carlos López Puccio | /m/071rc0 ]] , [[ Daniel Rabinovich | /m/01p9qtk ]] , ... [[ Les Luthiers | /m/01p9qtk ]] : [[ Hacen Muchas Gracias De Nada | /m/01p9qsc ]] par [[ Les Luthiers | /m/01p9qtk ]]  ..
+Les JJ
+Luthiers NNS
+: :
+Bromato NNP
+De NNP
+Armonio NNP
+par NN
+Carlos NNP
+López NNP
+Puccio NNP
+, ,
+Daniel NNP
+Rabinovich NNP
+, ,
+... :
+Les FW
+Luthiers NNS
+: :
+Hacen NNP
+Muchas NNP
+Gracias NNP
+De NNP
+Nada NNP
+par NN
+Les NNP
+Luthiers NNP
+.. VBD
+Les Luthiers
+Les Luthiers
+Les Luthiers
+
+
+The band probably hit its zenith when [[ Rice | /m/01nqy91 ]] released the all-instrumental [[ Unit Of Measure | /m/024kp1h ]]  in 2000
+The DT
+band NN
+probably RB
+hit VBD
+its PRP$
+zenith NN
+when WRB
+Rice NNP
+released VBD
+the DT
+all-instrumental JJ
+Unit NNP
+Of IN
+Measure NN
+in IN
+2000 CD
+Unit Of Measure
+
+
+After the release of [[ Chalk Mark in a Rainstorm | /m/08fq2v ]] , [[ Mitchell | /m/045zr ]] participated in [[ Roger Waters | /m/017g21 ]] ' [[ The Wall Concert in Berlin | /m/01jds91 ]] 
+After IN
+the DT
+release NN
+of IN
+Chalk NNP
+Mark NNP
+in IN
+a DT
+Rainstorm NNP
+, ,
+Mitchell NNP
+participated VBD
+in IN
+Roger NNP
+Waters NNP
+' POS
+The DT
+Wall NNP
+Concert NNP
+in IN
+Berlin NNP
+Chalk Mark in a Rainstorm
+The Wall Concert in Berlin
+
+
+[[ Jenkins | /m/01twxvn ]] also worked with [[ Harry Nilsson | /m/01vtmw6 ]] on [[ A Little Touch of Schmilsson in the Night | /m/01ksrwh ]] , a collection of pre-rock and roll standards
+Jenkins NNS
+also RB
+worked VBD
+with IN
+Harry NNP
+Nilsson NNP
+on IN
+A NNP
+Little NNP
+Touch NNP
+of IN
+Schmilsson NNP
+in IN
+the DT
+Night NNP
+, ,
+a DT
+collection NN
+of IN
+pre-rock NN
+and CC
+roll NN
+standards NNS
+A Little Touch of Schmilsson in the Night
+
+
+In his latest work for [[ Touch | /m/0cg05p ]] ,  [[ 4 Rooms | /m/03jk_hz ]]  , [[ Kirkegaard | /m/01ry2yq ]] explores the sonic legacy of [[ Chernobyl | /m/07q37w ]] .
+In IN
+his PRP$
+latest JJS
+work NN
+for IN
+Touch NNP
+, ,
+4 CD
+Rooms NNP
+, ,
+Kirkegaard NNP
+explores VBZ
+the DT
+sonic JJ
+legacy NN
+of IN
+Chernobyl NNP
+. .
+4 Rooms
+
+
+[[ Portland | /m/02frhbc ]] lo-fi folk rock band [[ Horse Feathers | /m/01szfnt ]]  released their acclaimed [[ House With No Home | /m/0dnd4fs ]] in September on [[ Kill Rock Stars | /m/0dd2f ]] .
+Portland NNP
+lo-fi JJ
+folk NN
+rock NN
+band NN
+Horse NNP
+Feathers NNP
+released VBD
+their PRP$
+acclaimed JJ
+House NNP
+With IN
+No NNP
+Home NNP
+in IN
+September NNP
+on IN
+Kill NNP
+Rock NNP
+Stars NNP
+. .
+House With No Home
+
+
+[[ Carrie Rodriguez | /m/0gdsb2 ]] is paired with [[ Chip Taylor | /m/01v4dqd ]] on the new Trainwreck Records release [[ Live From The Ruhr Triennale | /m/0g1kxh8 ]] available now
+Carrie NNP
+Rodriguez NNP
+is VBZ
+paired VBN
+with IN
+Chip NNP
+Taylor NNP
+on IN
+the DT
+new JJ
+Trainwreck NNP
+Records NNP
+release NN
+Live NNP
+From IN
+The DT
+Ruhr NNP
+Triennale NNP
+available JJ
+now RB
+Live From The Ruhr Triennale
+
+
+[[ Sparrow | /m/014lwf6 ]] was originally on [[ Mira Calix | /m/01vt09k ]] 's first album called [[ One On One | /m/02813qy ]] .
+Sparrow NNP
+was VBD
+originally RB
+on IN
+Mira NNP
+Calix NNP
+'s POS
+first JJ
+album NN
+called VBN
+One CD
+On IN
+One CD
+. .
+One On One
+
+
+It was amazing, but the first thing I thought of while watching them sing   [[ American Idiot | /m/03rj09 ]]   was   [[ Max Frost and The Troopers | /m/01tr66g ]]   and   [[ Shape of Things to Come | /m/0djm8t ]]   
+It PRP
+was VBD
+amazing, RB
+but CC
+the DT
+first JJ
+thing NN
+I PRP
+thought VBD
+of IN
+while IN
+watching VBG
+them PRP
+sing VBG
+American JJ
+Idiot NNP
+was VBD
+Max NNP
+Frost NNP
+and CC
+The DT
+Troopers NNPS
+and CC
+Shape NNP
+of IN
+Things NNP
+to TO
+Come VB
+American Idiot
+Max Frost and The Troopers
+Shape of Things to Come
+
+
+[[ Rodriguez | /m/02qd71_ ]] was taken by [[ Taylor | /m/01v4dqd ]] in his next album   [[ Let's Leave This Town | /m/01mw_9t ]]  , that was released in 2002.
+Rodriguez NNP
+was VBD
+taken VBN
+by IN
+Taylor NNP
+in IN
+his PRP$
+next JJ
+album NN
+Let's NNP
+Leave NNP
+This DT
+Town NNP
+, ,
+that WDT
+was VBD
+released VBN
+in IN
+2002. CD
+Let's Leave This Town
+
+
+That person may be onto something since [[ Hezekiah | /m/01rr1xf ]] 's video for   [[ I Predict A Riot | /m/049tnrk ]]   was released one year ago.
+That DT
+person NN
+may MD
+be VB
+onto IN
+something NN
+since IN
+Hezekiah NNP
+'s POS
+video NN
+for IN
+I PRP
+Predict VBP
+A DT
+Riot NNP
+was VBD
+released VBN
+one CD
+year NN
+ago. NN
+I Predict A Riot
+
+
+In 1995, [[ Gavin Friday | /m/01wdby9 ]] releases the classic [[ Shag Tobacco | /m/02pyzmd ]] , produced by [[ Bomb the bass | /m/06h9n8 ]] ' [[ Tim Simenon | /m/01w1qf_ ]] .
+In IN
+1995, CD
+Gavin NNP
+Friday NNP
+releases VBZ
+the DT
+classic JJ
+Shag NNP
+Tobacco NNP
+, ,
+produced VBN
+by IN
+Bomb NNP
+the DT
+bass NN
+' POS
+Tim NNP
+Simenon NNP
+. .
+Bomb the bass
+
+
+[[ Ward | /m/01w331c ]] ?s previous album, [[ End of Amnesia | /m/01m44_y ]] , was a romantic fusion of silence and soft acoustic melodies
+Ward NNP
+?s NNP
+previous JJ
+album, JJ
+End NN
+of IN
+Amnesia NNP
+, ,
+was VBD
+a DT
+romantic JJ
+fusion NN
+of IN
+silence NN
+and CC
+soft JJ
+acoustic JJ
+melodies NNS
+End of Amnesia
+
+
+In 1973, [[ The Divine Miss M | /m/01k8k4m ]] garnered [[ Midler | /m/01dw9z ]] a [[ Grammy | /m/0c4ys ]] for [[ Best New Artist | /m/01c427 ]] .
+In IN
+1973, CD
+The DT
+Divine NNP
+Miss NNP
+M NNP
+garnered VBD
+Midler NNP
+a DT
+Grammy NNP
+for IN
+Best NNP
+New NNP
+Artist NNP
+. .
+The Divine Miss M
+
+
+And [[ Orange Blossoms | /m/0f6s7nx ]] , the fourth album by [[ JJ Grey & MOFRO | /m/01r073_ ]] should add more to the fold.
+And CC
+Orange NNP
+Blossoms NNP
+, ,
+the DT
+fourth JJ
+album NN
+by IN
+JJ NNP
+Grey NNP
+& CC
+MOFRO NNP
+should MD
+add VB
+more JJR
+to TO
+the DT
+fold. NN
+JJ Grey & MOFRO
+
+
+[[ Du ciment sous les plaines | /m/04jc91h ]]  is an album by [[ Noir Désir | /m/01yx6j ]] .
+Du NNP
+ciment NN
+sous JJ
+les NNS
+plaines NNS
+is VBZ
+an DT
+album NN
+by IN
+Noir NNP
+Désir NNP
+. .
+Du ciment sous les plaines
+
+
+Expectations were high,I am a fan of [[ Deschanel | /m/03rl84 ]] ?s voice, and I enjoyed [[ Ward | /m/01w331c ]] ?s albums [[ Post-War | /m/01m4545 ]]  and [[ Transfiguration of Vincent | /m/01m452c ]] 
+Expectations NNS
+were VBD
+high,I JJ
+am VBP
+a DT
+fan NN
+of IN
+Deschanel NNP
+?s NNP
+voice, NN
+and CC
+I PRP
+enjoyed VBP
+Ward NNP
+?s NNP
+albums POS
+Post-War NNP
+and CC
+Transfiguration NNP
+of IN
+Vincent NNP
+Transfiguration of Vincent
+
+
+Now regrouped with four of its early members, [[ April Wine | /m/020vns ]] released [[ Back to the Mansion | /m/01jp8dg ]] in 2001
+Now RB
+regrouped VBN
+with IN
+four CD
+of IN
+its PRP$
+early JJ
+members, NN
+April NNP
+Wine NNP
+released VBD
+Back NNP
+to TO
+the DT
+Mansion NNP
+in IN
+2001 CD
+Back to the Mansion
+
+
+[[ Tone Soul Evolution | /m/01kzwrx ]] is the second album from [[ The Apples In Stereo | /m/022twk ]] .
+Tone CD
+Soul NNP
+Evolution NNP
+is VBZ
+the DT
+second JJ
+album NN
+from IN
+The DT
+Apples NNP
+In IN
+Stereo NNP
+. .
+Tone Soul Evolution
+The Apples In Stereo
+
+
+666.667 [[ Club | /m/0c2lp ]] is an song by [[ Noir Désir | /m/01yx6j ]] on [[ 666.667 Club | /m/01jdvry ]] .
+666.667 CD
+Club NNP
+is VBZ
+an DT
+song NN
+by IN
+Noir NNP
+Désir NNP
+on IN
+666.667 CD
+Club NNP
+. .
+666.667 Club
+
+
+[[ Des visages des figures | /m/08632g ]] is an album by [[ French | /m/0f8l9c ]] rock band [[ Noir Désir | /m/01yx6j ]] 
+Des NNP
+visages NNS
+des NNS
+figures NNS
+is VBZ
+an DT
+album NN
+by IN
+French JJ
+rock NN
+band NN
+Noir NNP
+Désir NNP
+French
+
+
+It's rougher than anything on the deliberately-rough [[ Apples in Stereo | /m/022twk ]] album [[ Velocity of Sound | /m/01kzwg9 ]] .
+It's NNP
+rougher NN
+than IN
+anything NN
+on IN
+the DT
+deliberately-rough JJ
+Apples NNP
+in IN
+Stereo NNP
+album VBP
+Velocity NNP
+of IN
+Sound NNP
+. .
+Apples in Stereo
+Velocity of Sound
+
+
+More recently, a live version appeared on [[ Irish-American | /m/033tf_ ]] punk band [[ Flogging Molly | /m/02nbry ]] 's 1997 release [[ Alive Behind the Green Door | /m/04tvj7 ]] 
+More RBR
+recently, VBZ
+a DT
+live JJ
+version NN
+appeared VBD
+on IN
+Irish-American JJ
+punk NN
+band NN
+Flogging NNP
+Molly NNP
+'s POS
+1997 CD
+release NN
+Alive NNP
+Behind IN
+the DT
+Green JJ
+Door NNP
+Irish-American
+Alive Behind the Green Door
+
+
+By 1976 [[ Pablo | /m/01wj2jw ]] had released a substantially re-imagined single version of   [[ East Of The River Nile | /m/01j_sg9 ]] . 
+By IN
+1976 CD
+Pablo NNP
+had VBD
+released VBN
+a DT
+substantially RB
+re-imagined JJ
+single JJ
+version NN
+of IN
+East NNP
+Of IN
+The DT
+River NNP
+Nile NNP
+. .
+East Of The River Nile
+
+
+[[ Girls And Boys | /m/03fqfgm ]] is actually [[ Michaelson | /m/02rbph7 ]] 's second record, but she spoke somewhat dismissively of her lesser-known debut, [[ Slow The Rain | /m/03g79qz ]] 
+Girls NNP
+And CC
+Boys NNP
+is VBZ
+actually RB
+Michaelson NNP
+'s POS
+second JJ
+record, NN
+but CC
+she PRP
+spoke VBD
+somewhat RB
+dismissively RB
+of IN
+her PRP$
+lesser-known JJ
+debut, NN
+Slow NNP
+The DT
+Rain NN
+Girls And Boys
+Slow The Rain
+
+
+  [[ The Others | /m/05b_1j4 ]]   , a song from the [[ Dukes of Windsor | /m/02r166y ]] 's album of the same name, Remixed by [[ TV Rock | /m/0bvqz4 ]] 
+The DT
+Others NNP
+, ,
+a DT
+song NN
+from IN
+the DT
+Dukes NNP
+of IN
+Windsor NNP
+'s POS
+album NN
+of IN
+the DT
+same JJ
+name, NN
+Remixed NNP
+by IN
+TV NN
+Rock NNP
+The Others
+Dukes of Windsor
+
+
+[[ JJ Grey & MOFRO | /m/01r073_ ]] have been nominated for a [[ Jammy Award | /m/09hr9w ]] for [[ Song of the Year | /m/09vkrm ]] for  Circles  off of the 2007 release [[ Country Ghetto | /m/03g95k1 ]] 
+JJ NNP
+Grey NNP
+& CC
+MOFRO NNP
+have VBP
+been VBN
+nominated VBN
+for IN
+a DT
+Jammy NNP
+Award NNP
+for IN
+Song NNP
+of IN
+the DT
+Year NN
+for IN
+Circles NNP
+off IN
+of IN
+the DT
+2007 CD
+release NN
+Country NNP
+Ghetto NNP
+JJ Grey & MOFRO
+Song of the Year
+
+
+My review of [[ The Apples in Stereo | /m/022twk ]] album [[ Electronic Projects for Musicians | /m/03z50f9 ]] has been published on [[ Blogcritics | /m/08ngyl ]] .
+My PRP$
+review NN
+of IN
+The DT
+Apples NNP
+in IN
+Stereo NNP
+album NN
+Electronic NNP
+Projects NNPS
+for IN
+Musicians NNPS
+has VBZ
+been VBN
+published VBN
+on IN
+Blogcritics NNS
+. .
+The Apples in Stereo
+Electronic Projects for Musicians
+
+
+This month's song   [[ You and I | /m/0fkmx37 ]]   is by [[ Ingrid Michaelson | /m/02rbph7 ]] from her album   [[ Be Ok | /m/04qbqf9 ]]  
+This DT
+month's NN
+song NN
+You PRP
+and CC
+I PRP
+is VBZ
+by IN
+Ingrid NNP
+Michaelson NNP
+from IN
+her PRP$
+album NN
+Be NNP
+Ok NNP
+You and I
+
+
+Viktoria Tolstoy [[ Swedish | /m/0d0vqn ]] singer [[ Viktoria Tolstoy | /m/031g7w ]] just released her latest album   [[ My Russian Soul | /m/0dtcprl ]]    on September 23, 2008
+Viktoria NNP
+Tolstoy NNP
+Swedish NNP
+singer NN
+Viktoria NNP
+Tolstoy NNP
+just RB
+released VBD
+her PRP
+latest JJS
+album NN
+My NNP
+Russian JJ
+Soul NNP
+on IN
+September NNP
+23, CD
+2008 CD
+My Russian Soul
+
+
+[[ Seth Gueko | /m/03f7cs8 ]] ft [[ Sefyu | /m/05p4v_w ]] / [[ Patate de Forain | /m/03gbdw5 ]]
+Seth NNP
+Gueko NNP
+ft NN
+Sefyu NNP
+/ NNP
+Patate NNP
+de FW
+Forain NNP
+Patate de Forain
+
+
+[[ Dolby | /m/029xcp ]] gave [[ Lovich | /m/03f3x2m ]] his song   [[ New Toy | /m/02psggf ]] ,  which became a [[ British | /m/07ssc ]] hit in 1981
+Dolby NNP
+gave VBD
+Lovich NNP
+his PRP$
+song JJ
+New NNP
+Toy NNP
+, ,
+which WDT
+became VBD
+a DT
+British JJ
+hit NN
+in IN
+1981 CD
+British
+
+
+[[ Flogging Molly | /m/02nbry ]] new full-length album [[ Within a Mile of Home | /m/03x33_ ]] is set for release on September 14th
+Flogging VBG
+Molly NNP
+new JJ
+full-length JJ
+album NN
+Within IN
+a DT
+Mile NNP
+of IN
+Home NNP
+is VBZ
+set VBN
+for IN
+release NN
+on IN
+September NNP
+14th CD
+Flogging Molly
+Within a Mile of Home
+
+
+[[ Paul McCartney | /m/03j24kf ]] will release   [[ The Space Within Us | /m/027908j ]]  , a live concert video, in October
+Paul NNP
+McCartney NNP
+will MD
+release VB
+The DT
+Space NNP
+Within NNP
+Us NNP
+, ,
+a DT
+live JJ
+concert NN
+video, NN
+in IN
+October NNP
+The Space Within Us
+
+
+... [[ Whiskey on a Sunday | /m/0fcq9w ]] is a 2006 album by the [[ Irish-American | /m/033tf_ ]] punk band [[ Flogging Molly | /m/02nbry ]] 
+... :
+Whiskey NN
+on IN
+a DT
+Sunday NNP
+is VBZ
+a DT
+2006 CD
+album NN
+by IN
+the DT
+Irish-American JJ
+punk NN
+band NN
+Flogging NNP
+Molly NNP
+Whiskey on a Sunday
+Irish-American
+
+
+Buoyed by the rising popularity of   [[ Girls and Boys | /m/03g79qq ]] ,  Miss [[ Michaelson | /m/02rbph7 ]] left [[ New York | /m/02_286 ]] and took up residence on the road
+Buoyed VBN
+by IN
+the DT
+rising VBG
+popularity NN
+of IN
+Girls NNP
+and CC
+Boys NNP
+, ,
+Miss NNP
+Michaelson NNP
+left VBD
+New NNP
+York NNP
+and CC
+took VBD
+up RP
+residence NN
+on IN
+the DT
+road NN
+Girls and Boys
+
+
+[[ Flogging Molly | /m/02nbry ]] s weakly  [[ Drunken Lullabies | /m/03n582 ]]  has no visible association of this sort; neither does [[ Sugarcult | /m/02fnq9 ]]
+Flogging VBG
+Molly NNP
+s NNP
+weakly RB
+Drunken NNP
+Lullabies NNP
+has VBZ
+no DT
+visible JJ
+association NN
+of IN
+this DT
+sort; NN
+neither NN
+does VBZ
+Sugarcult VB
+Flogging Molly
+Sugarcult
+
+
+Buzzgrinder interviews [[ Apples in Stereo | /m/022twk ]] bassist [[ Eric Allen | /m/0h5sfl ]] about the band's new album, [[ New Magnetic Wonder | /m/03g02pw ]] 
+Buzzgrinder NNP
+interviews NNS
+Apples NNP
+in IN
+Stereo NNP
+bassist NN
+Eric NNP
+Allen NNP
+about IN
+the DT
+band's JJ
+new JJ
+album, JJ
+New NNP
+Magnetic NNP
+Wonder NNP
+Apples in Stereo
+
+
+Co-produced with [[ Nigel Godrich | /m/02zhp0 ]] , [[ Chaos And Creation | /m/06tybp ]] is [[ McCartney | /m/03j24kf ]] 's first record since 2001's [[ Driving Rain | /m/01j7ts1 ]] 
+Co-produced JJ
+with IN
+Nigel NNP
+Godrich NNP
+, ,
+Chaos NNP
+And CC
+Creation NNP
+is VBZ
+McCartney NNP
+'s POS
+first JJ
+record NN
+since IN
+2001's CD
+Driving VBG
+Rain NN
+Chaos And Creation
+Driving Rain
+
+
+[[ Paul | /m/03j24kf ]] performs [[ Mull Of Kintyre | /m/09zkb7 ]] during tonight's [[ Get Back | /m/043kv0y ]]
+Paul NNP
+performs VBZ
+Mull NNP
+Of IN
+Kintyre NNP
+during IN
+tonight's NN
+Get NNP
+Back NNP
+Mull Of Kintyre
+
+
+I mean, [[ Paul McCartney | /m/03j24kf ]] was already at [[ Press To Play | /m/01j7vl0 ]] when he was about your age.
+I PRP
+mean, VBP
+Paul NNP
+McCartney NNP
+was VBD
+already RB
+at IN
+Press NNP
+To TO
+Play VB
+when WRB
+he PRP
+was VBD
+about IN
+your PRP$
+age. NN
+Press To Play
+
+
+The [[ Pet Shop Boys | /m/0dm5l ]] did It Couldn’t Happen Here , [[ Macca | /m/03j24kf ]] did [[ Give My Regards To Broad Street | /m/01j7v4x ]]
+The DT
+Pet NNP
+Shop NNP
+Boys NNP
+did VBD
+It PRP
+Couldn’t NNP
+Happen NNP
+Here RB
+, ,
+Macca NNP
+did VBD
+Give VB
+My NNP
+Regards NNP
+To TO
+Broad NNP
+Street NNP
+Give My Regards To Broad Street
+
+
+[[ Eric Stewart | /m/07gph1 ]] had appeared on [[ McCartney | /m/03j24kf ]] 's [[ Pipes of Peace | /m/01j7v_9 ]] album,[100] and he co-wrote most of [[ McCartney | /m/03j24kf ]] 's 1986 album, [[ Press to Play | /m/01j7vl0 ]] 
+Eric NNP
+Stewart NNP
+had VBD
+appeared VBN
+on IN
+McCartney NNP
+'s POS
+Pipes NNP
+of IN
+Peace NNP
+album,[100] NN
+and CC
+he PRP
+co-wrote VBZ
+most JJS
+of IN
+McCartney NNP
+'s POS
+1986 CD
+album, JJ
+Press NNP
+to TO
+Play VB
+Pipes of Peace
+Press to Play
+
+
+In 1993 New releases included [[ Mick Jagger | /m/01kx_81 ]] 's the solo album   [[ Wandering Spirit | /m/01kx_4v ]]   and [[ Paul McCartney | /m/03j24kf ]] 's album   [[ Off the Ground | /m/01j7t_y ]] .
+In IN
+1993 CD
+New NNP
+releases NNS
+included VBD
+Mick NNP
+Jagger NNP
+'s POS
+the DT
+solo NN
+album NN
+Wandering NNP
+Spirit NNP
+and CC
+Paul NNP
+McCartney NNP
+'s POS
+album NN
+Off IN
+the DT
+Ground NNP
+. .
+Off the Ground
+
+
+[[ Paul McCartney | /m/03j24kf ]] performs [[ George Harrison | /m/03bnv ]] 's  Something  on a ukelele in the [[ Concert for George | /m/01fzgyt ]] ...
+Paul NNP
+McCartney NNP
+performs NNS
+George NNP
+Harrison NNP
+'s POS
+Something VBG
+on IN
+a DT
+ukelele NN
+in IN
+the DT
+Concert NNP
+for IN
+George NNP
+... :
+Concert for George
+
+
+[[ Finnish | /m/02vzc ]] female-fronted metal band [[ AMBERIAN DAWN | /m/03nrdmk ]] will release its debut album,   [[ River of Tuoni | /m/05szz13 ]]  , on January 30, 2008 via Suomen Musiikki.
+Finnish JJ
+female-fronted JJ
+metal NN
+band NN
+AMBERIAN NNP
+DAWN NNP
+will MD
+release VB
+its PRP$
+debut NN
+album, VBZ
+River NNP
+of IN
+Tuoni NNP
+, ,
+on IN
+January NNP
+30, CD
+2008 CD
+via IN
+Suomen NNP
+Musiikki. NNP
+Finnish
+River of Tuoni
+
+
+Erstwhile [[ BUCK CHERRY | /m/054g6s ]] vocalist [[ JOSH TODD | /m/044ygj ]] releases his debut solo album, ' [[ You Made Me | /m/04lfsmp ]] ', through Todd Entertainment on March 9th
+Erstwhile NNP
+BUCK NNP
+CHERRY NNP
+vocalist NN
+JOSH NNP
+TODD NNP
+releases VBZ
+his PRP$
+debut NN
+solo VBZ
+album, RP
+' ''
+You PRP
+Made VBD
+Me NNP
+', NNP
+through IN
+Todd NNP
+Entertainment NNP
+on IN
+March NNP
+9th CD
+You Made Me
+
+
+  [[ La Maravilla | /m/03qcj5l ]]   is the debut studio album by [[ Dominican | /m/027rn ]] - [[ American | /m/09c7w0 ]] reggaeton singer-songwriter [[ Arcangel | /m/043s9v8 ]] , officially released in April 2008.
+La NNP
+Maravilla NNP
+is VBZ
+the DT
+debut NN
+studio NN
+album NN
+by IN
+Dominican NNP
+- :
+American JJ
+reggaeton NN
+singer-songwriter NN
+Arcangel NNP
+, ,
+officially RB
+released VBN
+in IN
+April NNP
+2008. CD
+American
+
+
+I think the quickest cover I ever did was the one for [[ Mortician | /m/056rqt ]] s [[ Re-animated Dead Flesh | /m/02ryy2g ]] 
+I PRP
+think VBP
+the DT
+quickest JJS
+cover NN
+I PRP
+ever RB
+did VBD
+was VBD
+the DT
+one NN
+for IN
+Mortician JJ
+s JJ
+Re-animated JJ
+Dead NNP
+Flesh NNP
+Mortician
+Re-animated Dead Flesh
+
+
+Although my favourite [[ Turisas | /m/03x3mw ]] songis on [[ The Varangian Way | /m/03g4mw1 ]] , overally I enjoy more the [[ Battle Metal | /m/0fzhlwz ]] album!
+Although IN
+my PRP$
+favourite JJ
+Turisas NNP
+songis NN
+on IN
+The DT
+Varangian JJ
+Way NNP
+, ,
+overally RB
+I PRP
+enjoy VBP
+more JJR
+the DT
+Battle NNP
+Metal NNP
+album! NN
+The Varangian Way
+
+
+In 1997, [[ Citizen King | /m/04wfqm ]] signed to [[ Warner Brothers | /m/086k8 ]] records, and in 1999 released their first  major label release, [[ Mobile Estates | /m/01jjlql ]] ..
+In IN
+1997, CD
+Citizen NNP
+King NNP
+signed VBD
+to TO
+Warner NNP
+Brothers NNPS
+records, NN
+and CC
+in IN
+1999 CD
+released VBD
+their PRP$
+first JJ
+major JJ
+label NN
+release, NN
+Mobile NNP
+Estates VBZ
+.. NNS
+Mobile Estates
+
+
+[[ Guru Josh Project | /m/04d2lb7 ]] performed the world premier of   [[ Infinity 2008 | /m/04d70dc ]]  ..
+Guru NNP
+Josh NNP
+Project NNP
+performed VBD
+the DT
+world NN
+premier NN
+of IN
+Infinity NNP
+2008 CD
+.. NN
+Infinity 2008
+
+
+[[ Tantric | /m/07t0n3 ]] 's new album,   [[ The End Begins | /m/049s0hq ]]  , is set to be released early next year
+Tantric NNP
+'s POS
+new JJ
+album, IN
+The DT
+End NN
+Begins NNP
+, ,
+is VBZ
+set VBN
+to TO
+be VB
+released VBN
+early JJ
+next JJ
+year NN
+The End Begins
+
+
+Kate Ryan For fans of [[ European | /m/02j9z ]] vocal trance, it would be hard to beat [[ Kate Ryan | /m/05plrb ]] s [[ Stronger | /m/02xcy3h ]] .
+Kate NNP
+Ryan NNP
+For IN
+fans NNS
+of IN
+European JJ
+vocal JJ
+trance, NN
+it PRP
+would MD
+be VB
+hard JJ
+to TO
+beat VB
+Kate NNP
+Ryan NNP
+s NNP
+Stronger NNP
+. .
+European
+
+
+O: What do you think of [[ Paul | /m/03j24kf ]] 's latest album,   [[ Flowers in the Dirt | /m/01j7thn ]] ?
+O: NNP
+What WP
+do VBP
+you PRP
+think VB
+of IN
+Paul NNP
+'s POS
+latest JJS
+album, NN
+Flowers NNS
+in IN
+the DT
+Dirt NNP
+? .
+Flowers in the Dirt
+
+
+In 2007, the label released [[ Saigon | /m/08rcv8 ]] 's debut mixtape, [[ The Moral of the Story | /m/03cy65t ]] .
+In IN
+2007, CD
+the DT
+label NN
+released VBN
+Saigon NNP
+'s POS
+debut NN
+mixtape, VBZ
+The DT
+Moral NNP
+of IN
+the DT
+Story NNP
+. .
+The Moral of the Story
+
+
+[[ Hard 'n Phirm | /m/09p8pr ]] 's fourth track on [[ Horses and Grasses | /m/09p8jx ]] is   [[ Pi | /m/05wjw ]]   
+Hard NNP
+'n NNP
+Phirm NNP
+'s POS
+fourth JJ
+track NN
+on IN
+Horses NNS
+and CC
+Grasses NNP
+is VBZ
+Pi NNP
+Horses and Grasses
+
+

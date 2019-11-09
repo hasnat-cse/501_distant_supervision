@@ -5,6 +5,7 @@ import sys
 import re
 
 from nltk import pos_tag
+from random import sample
 
 
 # store information about each sentence in a relation
@@ -34,12 +35,20 @@ def remove_entity_tags_from_sentence(sentence):
 
 
 # write information regarding each sentence to output file
+# take random 100 sentences
 def write_output(output_file, data):
     f = open(output_file, "w")
 
-    for each in data:
-        f.write(each.sentence + "\n")
+    # random sampling of 100 sentences
+    if len(data) > 100:
+        random_100_data = sample(data, 100)
 
+    # no need of sampling if sentences are less than or equal to 100
+    else:
+        random_100_data = data
+
+    for each in random_100_data:
+        f.write(each.sentence + "\n")
         for word_tag_tuple in each.pos_tags:
             f.write(word_tag_tuple[0] + ' ' + word_tag_tuple[1] + "\n")
 
@@ -62,7 +71,7 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
         for word in words_in_entity:
             for word_tag in pos_tags:
 
-                # if any word of the entity contains pos tag that is not started with 'N' than it will be identified as incorrect
+                # if any word of the entity contains pos tag that is not Noun or not started with 'N' than it will be identified as incorrect
                 if word == word_tag[0] and len(word_tag[1]) >= 1 and word_tag[1][0:1] != 'N':
                     incorrectly_tagged_entities.append(entity)
                     non_noun_tag_found = True
@@ -115,14 +124,9 @@ def main():
         with open(filename) as f:
 
             json_data = json.load(f)
-            count = 1
 
             # process each sentence in the relation
             for each_data in json_data:
-
-                # consider first 100 sentences
-                if count > 100:
-                    break
 
                 sentence = each_data['sentence']
                 # print(sentence)
@@ -136,11 +140,10 @@ def main():
 
                 # identify incorrectly tagged entities
                 incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)
-
-                # store information for each sentence
-                sentence_info = SentenceInformation(sentence, pos_tags, entities, incorrectly_tagged_entities)
-                sentence_info_list.append(sentence_info)
-                count += 1
+                if len(incorrectly_tagged_entities) > 0:
+                    # store information for each sentence
+                    sentence_info = SentenceInformation(sentence, pos_tags, entities, incorrectly_tagged_entities)
+                    sentence_info_list.append(sentence_info)
 
             f.close()
 
