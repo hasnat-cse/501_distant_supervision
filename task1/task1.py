@@ -25,8 +25,12 @@ def remove_entity_tags_from_sentence(sentence):
 
     modified_sentence = sentence
     for entity in entities:
+
+        # escape special characters in entity string
+        escaped_entity = re.escape(entity)
+
         # pattern to find '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas'
-        pattern = "\[\[\s*" + entity + "\s*\|.+?\]\]"
+        pattern = "\[\[\s*" + escaped_entity + "\s*\|.+?\]\]"
 
         # replace '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas' with 'Natural Gas'
         modified_sentence = re.sub(pattern, entity, modified_sentence)
