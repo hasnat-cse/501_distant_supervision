@@ -1,0 +1,2180 @@
+[[ Alan Jackson | /m/016c8l ]] has been nominated for a [[ Grammy Award for Best Country Collaboration With Vocals | /m/026mfs ]] for his duet  It Five Olock Somewhere  with Jimmy Buffett
+Alan NNP
+Jackson NNP
+has VBZ
+been VBN
+nominated VBN
+for IN
+a DT
+Grammy NNP
+Award NNP
+for IN
+Best NNP
+Country NNP
+Collaboration NNP
+With IN
+Vocals NNP
+for IN
+his PRP$
+duet NN
+It PRP
+Five NNP
+Olock NNP
+Somewhere NNP
+with IN
+Jimmy NNP
+Buffett NNP
+Grammy Award for Best Country Collaboration With Vocals
+
+
+Sergeant [[ John Henry Quick | /m/08p8q6 ]] was awarded the [[ Congressional Medal of Honor | /m/015cl6 ]] as well as the [[ Navy Cross | /m/02d1w_ ]] on the 13th of December 1898
+Sergeant NNP
+John NNP
+Henry NNP
+Quick NNP
+was VBD
+awarded VBN
+the DT
+Congressional NNP
+Medal NNP
+of IN
+Honor NNP
+as RB
+well RB
+as IN
+the DT
+Navy NNP
+Cross NNP
+on IN
+the DT
+13th CD
+of IN
+December NNP
+1898 CD
+Congressional Medal of Honor
+
+
+Plus, [[ Jack | /m/01vsnff ]] and [[ Lynn | /m/017xm3 ]] shared a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration With Vocals | /m/026mfs ]] for one of that album's songs
+Plus, NNP
+Jack NNP
+and CC
+Lynn NNP
+shared VBD
+a DT
+Grammy NNP
+for IN
+Best NNP
+Country NNP
+Collaboration NNP
+With IN
+Vocals NNP
+for IN
+one CD
+of IN
+that DT
+album's JJ
+songs NNS
+Best Country Collaboration With Vocals
+
+
+[[ Eastwood | /m/0bwh6 ]] had been the presenter for [[ Best Picture | /m/0gq9h ]] when [[ Ruddy | /m/05bdqt ]] won his first Oscar as producer of   [[ The Godfather | /m/07g1sm ]]   in 1973
+Eastwood NN
+had VBD
+been VBN
+the DT
+presenter NN
+for IN
+Best NNP
+Picture NN
+when WRB
+Ruddy NNP
+won VBD
+his PRP$
+first JJ
+Oscar NNP
+as IN
+producer NN
+of IN
+The DT
+Godfather NNP
+in IN
+1973 CD
+The Godfather
+
+
+2005: [[ Clint Eastwood | /m/0bwh6 ]] and [[ Albert Ruddy | /m/05bdqt ]] share the [[ Best Picture Oscar | /m/0gq9h ]] for   [[ Million Dollar Baby | /m/04q827 ]] .
+2005: CD
+Clint NNP
+Eastwood NNP
+and CC
+Albert NNP
+Ruddy NNP
+share NN
+the DT
+Best JJS
+Picture NN
+Oscar NN
+for IN
+Million NNP
+Dollar NNP
+Baby NNP
+. .
+Best Picture Oscar
+
+
+C20742-26, President [[ Reagan | /m/059rv ]] and [[ Nancy Reagan | /m/059rv ]] talking with [[ James Cagney | /m/0432b ]] , recipient of the [[ Medal of Freedom | /m/05qck ]] , in the [[ Blue room | /m/0c3nnt ]] 
+C20742-26, NNP
+President NNP
+Reagan NNP
+and CC
+Nancy NNP
+Reagan NNP
+talking VBG
+with IN
+James NNP
+Cagney NNP
+, ,
+recipient NN
+of IN
+the DT
+Medal NNP
+of IN
+Freedom NNP
+, ,
+in IN
+the DT
+Blue NNP
+room NN
+Medal of Freedom
+
+
+On January 20, 1969, [[ Lyndon B. Johnson | /m/0f7fy ]] awarded [[ Bob Hope | /m/015cbq ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
+On IN
+January NNP
+20, CD
+1969, CD
+Lyndon NNP
+B. NNP
+Johnson NNP
+awarded VBD
+Bob NNP
+Hope NNP
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+In January 20, 1969, [[ Lyndon B. Johnson | /m/0f7fy ]] awarded [[ Bob Hope | /m/015cbq ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] 
+In IN
+January NNP
+20, CD
+1969, CD
+Lyndon NNP
+B. NNP
+Johnson NNP
+awarded VBD
+Bob NNP
+Hope NNP
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ Mary | /m/01vvyvk ]] won the [[ MTV Video Music award for Best R&B Video | /m/02f764 ]] for ? [[ No More Drama | /m/094_jq ]] ?! [[ Sanji | /m/08qhn_ ]] directed the award winning video.
+Mary NNP
+won VBD
+the DT
+MTV NNP
+Video NNP
+Music NNP
+award NN
+for IN
+Best NNP
+R&B NNP
+Video NNP
+for IN
+? .
+No DT
+More JJR
+Drama NNP
+?! NNP
+Sanji NNP
+directed VBD
+the DT
+award NN
+winning VBG
+video. NN
+MTV Video Music award for Best R&B Video
+No More Drama
+
+
+In 2004, [[ Palmer | /m/0l0cx ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ George W. Bush | /m/09b6zr ]] during a [[ White House | /m/081sq ]] ceremony.
+In IN
+2004, CD
+Palmer NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+from IN
+George NNP
+W. NNP
+Bush NNP
+during IN
+a DT
+White NNP
+House NNP
+ceremony. NN
+Presidential Medal of Freedom
+
+
+The [[ Ginetta Sagan Award | /m/0h_c3y5 ]] was established to perpetuate the legacy of 1996 [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Ginetta Sagan | /m/0h_c3y5 ]] .
+The DT
+Ginetta NNP
+Sagan NNP
+Award NNP
+was VBD
+established VBN
+to TO
+perpetuate VB
+the DT
+legacy NN
+of IN
+1996 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+Ginetta NNP
+Sagan NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Barzun | /m/01n2pn ]] was awarded a [[ Presidential Medal of Freedom | /m/05qck ]] in 2003
+Barzun NNP
+was VBD
+awarded VBN
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2003 CD
+Presidential Medal of Freedom
+
+
+[[ George W. Bush | /m/09b6zr ]] , citation accompanying the [[ Presidential Medal of Freedom | /m/05qck ]] presented to [[ Jacques Barzun | /m/01n2pn ]] on 23 July 2003
+George NNP
+W. NNP
+Bush NNP
+, ,
+citation NN
+accompanying VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+presented VBD
+to TO
+Jacques NNP
+Barzun NNP
+on IN
+23 CD
+July NNP
+2003 CD
+Presidential Medal of Freedom
+
+
+In 2003, [[ Barzun | /m/01n2pn ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the country's highest civilian award
+In IN
+2003, CD
+Barzun NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+country's NN
+highest JJS
+civilian JJ
+award NN
+Presidential Medal of Freedom
+
+
+He certainly couldn't be the jerk whose economic policies [[ US | /m/09c7w0 ]] [[ Presidential Medal of Freedom | /m/05qck ]] holder [[ Václav Havel | /m/0h0g1 ]] described as gangster capitalism
+He PRP
+certainly RB
+couldn't RB
+be VB
+the DT
+jerk NN
+whose WP$
+economic JJ
+policies NNS
+US NNP
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+holder NN
+Václav NNP
+Havel NNP
+described VBD
+as IN
+gangster NN
+capitalism NN
+Presidential Medal of Freedom
+
+
+Tags: , , ( [[ Havel | /m/0h0g1 ]] received a [[ Medal of Freedom | /m/05qck ]] in 2003).
+Tags: NNP
+, ,
+, ,
+( (
+Havel NNP
+received VBD
+a DT
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2003). CD
+Medal of Freedom
+
+
+[[ Robinson | /m/0443c ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] and the [[ Congressional Gold Medal | /m/03vs1b ]] for his contributions to the civil rights movement.
+Robinson NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+and CC
+the DT
+Congressional NNP
+Gold NNP
+Medal NNP
+for IN
+his PRP$
+contributions NNS
+to TO
+the DT
+civil JJ
+rights NNS
+movement. NN
+Presidential Medal of Freedom
+
+
+In recognition of his accomplishments, [[ Robinson | /m/0443c ]] posthumously received a [[ Congressional Gold Medal | /m/03vs1b ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] .[2
+In IN
+recognition NN
+of IN
+his PRP$
+accomplishments, NN
+Robinson NNP
+posthumously RB
+received VBD
+a DT
+Congressional NNP
+Gold NNP
+Medal NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+.[2 NNP
+Presidential Medal of Freedom
+
+
+For his actions in the Belleau Woods, Sergeant [[ Daly | /m/04_dd9 ]] received the [[ Navy Cross | /m/02d1w_ ]] and the [[ French Croix de Guerre | /m/01tkpb ]] .
+For IN
+his PRP$
+actions NNS
+in IN
+the DT
+Belleau NNP
+Woods, NNP
+Sergeant NNP
+Daly NNP
+received VBD
+the DT
+Navy NNP
+Cross NNP
+and CC
+the DT
+French JJ
+Croix NNP
+de FW
+Guerre NNP
+. .
+French Croix de Guerre
+
+
+[[ Barbara Jordan | /m/01z9yq ]] was buried wearing the [[ Presidential Medal of Freedom | /m/05qck ]] .
+Barbara NNP
+Jordan NNP
+was VBD
+buried VBN
+wearing VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Barbara Jordan | /m/01z9yq ]] was buried wearing the [[ Presidential Medal of Freedom | /m/05qck ]] 
+Barbara NNP
+Jordan NNP
+was VBD
+buried VBN
+wearing VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+VOICE TWO: [[ Barbara Jordan | /m/01z9yq ]] was buried wearing the [[ Presidential Medal of Freedom | /m/05qck ]] 
+VOICE NNP
+TWO: NNP
+Barbara NNP
+Jordan NNP
+was VBD
+buried VBN
+wearing VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+Honors [[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002
+Honors NNS
+Cosby NNP
+received VBD
+Kennedy NNP
+Center NNP
+Honors NNPS
+in IN
+1998 CD
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2002 CD
+Presidential Medal of Freedom
+
+
+In 1998, he was awarded the  The [[ Kennedy Center Honors | /m/025j12 ]]  . - [[ Bill Cosby | /m/014zfs ]] was awarded the   [[ Presidential Medal of Freedom | /m/05qck ]]  
+In IN
+1998, CD
+he PRP
+was VBD
+awarded VBN
+the DT
+The DT
+Kennedy NNP
+Center NNP
+Honors NNP
+. .
+- :
+Bill NNP
+Cosby NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+? [[ Bill Cosby | /m/014zfs ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , by [[ George W. Bush | /m/09b6zr ]] on July 9, 2202,? 
+? .
+Bill NNP
+Cosby NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+by IN
+George NNP
+W. NNP
+Bush NNP
+on IN
+July NNP
+9, CD
+2202,? CD
+Presidential Medal of Freedom
+
+
+[[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002.
+Cosby NNP
+received VBD
+Kennedy NNP
+Center NNP
+Honors NNPS
+in IN
+1998 CD
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2002. CD
+Presidential Medal of Freedom
+
+
+[[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002
+Cosby NNP
+received VBD
+Kennedy NNP
+Center NNP
+Honors NNPS
+in IN
+1998 CD
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2002 CD
+Presidential Medal of Freedom
+
+
+In 2002, [[ Bill Cosby | /m/014zfs ]] was awarded [[ Presidential Medal of Freedom | /m/05qck ]] 
+In IN
+2002, CD
+Bill NNP
+Cosby NNP
+was VBD
+awarded VBN
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ Cosby | /m/014zfs ]] received [[ Kennedy Center Honors | /m/025j12 ]] in 1998 and the [[ Presidential Medal of Freedom | /m/05qck ]] in 2002. 
+Cosby NNP
+received VBD
+Kennedy NNP
+Center NNP
+Honors NNPS
+in IN
+1998 CD
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2002. CD
+Presidential Medal of Freedom
+
+
+In 1994, he and [[ Trisha Yearwood | /m/03yf3z ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration with Vocals | /m/026mfs ]] for  I Fall to [[ Pieces | /m/02qfm_1 ]]  .
+In IN
+1994, CD
+he PRP
+and CC
+Trisha NNP
+Yearwood NNP
+won VBD
+a DT
+Grammy NNP
+for IN
+Best NNP
+Country NNP
+Collaboration NNP
+with IN
+Vocals NNP
+for IN
+I PRP
+Fall VBP
+to TO
+Pieces NNS
+. .
+Best Country Collaboration with Vocals
+
+
+In 1994, he and [[ Trisha Yearwood | /m/03yf3z ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration with Vocals | /m/026mfs ]] for  I Fall to [[ Pieces | /m/09gcsdr ]]  
+In IN
+1994, CD
+he PRP
+and CC
+Trisha NNP
+Yearwood NNP
+won VBD
+a DT
+Grammy NNP
+for IN
+Best NNP
+Country NNP
+Collaboration NNP
+with IN
+Vocals NNP
+for IN
+I PRP
+Fall VBP
+to TO
+Pieces NNS
+Best Country Collaboration with Vocals
+
+
+In 1995, [[ Cooney | /m/03lpdd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nations highest civilian order
+In IN
+1995, CD
+Cooney NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nations JJ
+highest JJS
+civilian JJ
+order NN
+Presidential Medal of Freedom
+
+
+[[ Cooney | /m/03lpdd ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1995.
+Cooney NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1995. CD
+Presidential Medal of Freedom
+
+
+In 2000, Dr. [[ Krim | /m/02qg8k7 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
+In IN
+2000, CD
+Dr. NNP
+Krim NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation's JJ
+highest JJS
+civilian JJ
+honor NN
+Presidential Medal of Freedom
+
+
+Shortly after his death in 1976, [[ Gerald Ford | /m/0c_md_ ]] awarded [[ Calder | /m/01f78w ]] the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor
+Shortly RB
+after IN
+his PRP$
+death NN
+in IN
+1976, CD
+Gerald NNP
+Ford NNP
+awarded VBD
+Calder NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+United NNP
+States NNPS
+' POS
+highest JJS
+civilian JJ
+honor NN
+Presidential Medal of Freedom
+
+
+How grateful I am that [[ Mister Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] last year from President [[ Bush | /m/09b6zr ]] .
+How WRB
+grateful JJ
+I PRP
+am VBP
+that IN
+Mister NNP
+Rogers NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+last JJ
+year NN
+from IN
+President NNP
+Bush NNP
+. .
+Presidential Medal of Freedom
+
+
+In 2002, Mr. [[ Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his contributions to children's education.
+In IN
+2002, CD
+Mr. NNP
+Rogers NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+his PRP$
+contributions NNS
+to TO
+children's VB
+education. NN
+Presidential Medal of Freedom
+
+
+On July 9, 2002, [[ Fred Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his contributions to children's education
+On IN
+July NNP
+9, CD
+2002, CD
+Fred NNP
+Rogers NNPS
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+his PRP$
+contributions NNS
+to TO
+children's VB
+education NN
+Presidential Medal of Freedom
+
+
+On July 9, 2002 , [[ Rogers | /m/010q36 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor.
+On IN
+July NNP
+9, CD
+2002 CD
+, ,
+Rogers NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation?s JJ
+highest JJS
+civilian JJ
+honor. NN
+Presidential Medal of Freedom
+
+
+In 1998, Ms. [[ Mankiller | /m/033dhz ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]]
+In IN
+1998, CD
+Ms. NNP
+Mankiller NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+He is the son of the author and [[ Presidential Medal of Freedom | /m/05qck ]] holder [[ Paul Johnson | /m/036x3w ]] .
+He PRP
+is VBZ
+the DT
+son NN
+of IN
+the DT
+author NN
+and CC
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+holder NN
+Paul NNP
+Johnson NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Medal of Freedom | /m/05qck ]] awarded posthumously to [[ Whittaker Chambers | /m/018l4f ]] , witness to the threat of [[ Communism | /m/01m59 ]] in [[ America | /m/0x67 ]] 
+Medal NNP
+of IN
+Freedom NNP
+awarded VBD
+posthumously RB
+to TO
+Whittaker NNP
+Chambers NNP
+, ,
+witness NN
+to TO
+the DT
+threat NN
+of IN
+Communism NNP
+in IN
+America NNP
+Medal of Freedom
+
+
+[[ Whittaker Chambers | /m/018l4f ]] received a posthumous [[ Medal of Freedom | /m/05qck ]] from [[ Ronald Reagan | /m/06c0j ]] and was the subject of a major reassessment by Sam Tannenhaus
+Whittaker NNP
+Chambers NNP
+received VBD
+a DT
+posthumous JJ
+Medal NNP
+of IN
+Freedom NNP
+from IN
+Ronald NNP
+Reagan NNP
+and CC
+was VBD
+the DT
+subject NN
+of IN
+a DT
+major JJ
+reassessment NN
+by IN
+Sam NNP
+Tannenhaus NNP
+Medal of Freedom
+
+
+-Then, in 1984, [[ Ronald Reagan | /m/06c0j ]] posthumously awarded [[ Chambers | /m/018l4f ]] the [[ Presidential Medal of Freedom | /m/05qck ]] .
+-Then, NN
+in IN
+1984, CD
+Ronald NNP
+Reagan NNP
+posthumously RB
+awarded VBD
+Chambers NNPS
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Peck | /m/0k9j_ ]] has received the [[ Academy | /m/09xwz ]] 's [[ Jean Hersholt Humanitarian Award | /m/0c91p ]] and the [[ Medal of Freedom | /m/05qck ]] .
+Peck NNP
+has VBZ
+received VBN
+the DT
+Academy NNP
+'s POS
+Jean NNP
+Hersholt NNP
+Humanitarian NNP
+Award NNP
+and CC
+the DT
+Medal NNP
+of IN
+Freedom NNP
+. .
+Medal of Freedom
+
+
+In 1969, [[ Lyndon Johnson | /m/0f7fy ]] honored [[ Peck | /m/0k9j_ ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
+In IN
+1969, CD
+Lyndon NNP
+Johnson NNP
+honored VBD
+Peck NNP
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation's JJ
+highest JJS
+civilian JJ
+award NN
+Presidential Medal of Freedom
+
+
+In 1969, [[ Lyndon Johnson | /m/0f7fy ]] honored [[ Peck | /m/0k9j_ ]] with the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
+In IN
+1969, CD
+Lyndon NNP
+Johnson NNP
+honored VBD
+Peck NNP
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation's JJ
+highest JJS
+civilian JJ
+honor NN
+Presidential Medal of Freedom
+
+
+[[ Gregory Peck | /m/0k9j_ ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for his lifetime of humanitarian work
+Gregory NNP
+Peck NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+his PRP$
+lifetime NN
+of IN
+humanitarian JJ
+work NN
+Presidential Medal of Freedom
+
+
+[[ Peck | /m/0k9j_ ]] also received the [[ Medal of Freedom | /m/05qck ]] and the [[ Academy | /m/09xwz ]] 's [[ Jean Hersholt Humanitarian Award | /m/0c91p ]] 
+Peck NNP
+also RB
+received VBD
+the DT
+Medal NNP
+of IN
+Freedom NNP
+and CC
+the DT
+Academy NNP
+'s POS
+Jean NNP
+Hersholt NNP
+Humanitarian NNP
+Award NNP
+Medal of Freedom
+
+
+In 1968, President [[ Lyndon Johnson | /m/0f7fy ]] awarded [[ Peck | /m/0k9j_ ]] the [[ Medal of Freedom | /m/05qck ]] , [[ America | /m/09c7w0 ]] 's highest civilian award
+In IN
+1968, CD
+President NNP
+Lyndon NNP
+Johnson NNP
+awarded VBD
+Peck NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+, ,
+America NNP
+'s POS
+highest JJS
+civilian JJ
+award NN
+Medal of Freedom
+
+
+Dr. [[ Gregorian | /m/06b_g_ ]] is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor.
+Dr. NNP
+Gregorian NNP
+is VBZ
+the DT
+recipient NN
+of IN
+the DT
+National NNP
+Humanities NNP
+Medal NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation's JJ
+highest JJS
+civilian JJ
+honor. NN
+Presidential Medal of Freedom
+
+
+[[ Gregorian | /m/06b_g_ ]] is the third president of [[ Carnegie Corporation of New York | /m/069d85 ]] to be honored with the [[ Presidential Medal of Freedom | /m/05qck ]] .
+Gregorian NN
+is VBZ
+the DT
+third JJ
+president NN
+of IN
+Carnegie NNP
+Corporation NNP
+of IN
+New NNP
+York NNP
+to TO
+be VB
+honored VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Carnegie Corporation of New York
+Presidential Medal of Freedom
+
+
+[[ Gregorian | /m/06b_g_ ]] is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] .
+Gregorian NN
+is VBZ
+the DT
+recipient NN
+of IN
+the DT
+National NNP
+Humanities NNP
+Medal NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Gregorian | /m/06b_g_ ]] is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] 
+Gregorian NN
+is VBZ
+the DT
+recipient NN
+of IN
+the DT
+National NNP
+Humanities NNP
+Medal NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ Gregorian | /m/06b_g_ ]] is the third president of [[ Carnegie Corporation of New York | /m/069d85 ]] to be honored with the [[ Presidential Medal of Freedom | /m/05qck ]] 
+Gregorian NN
+is VBZ
+the DT
+third JJ
+president NN
+of IN
+Carnegie NNP
+Corporation NNP
+of IN
+New NNP
+York NNP
+to TO
+be VB
+honored VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Carnegie Corporation of New York
+Presidential Medal of Freedom
+
+
+Dr. [[ Gregorian | /m/06b_g_ ]] ?is the recipient of the [[ National Humanities Medal | /m/04hyh7 ]] and the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation?s highest civilian honor
+Dr. NNP
+Gregorian NNP
+?is VBD
+the DT
+recipient NN
+of IN
+the DT
+National NNP
+Humanities NNP
+Medal NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation?s JJ
+highest JJS
+civilian JJ
+honor NN
+Presidential Medal of Freedom
+
+
+Recent Events [[ Carnegie Corporation | /m/069d85 ]] of [[ New York | /m/02_286 ]] holds a Forum on Social Inequality and [[ Corporation | /m/069d85 ]] president [[ Vartan Gregorian | /m/06b_g_ ]] is awarded the [[ Presidential Medal of Freedom | /m/05qck ]] 
+Recent JJ
+Events NNS
+Carnegie NNP
+Corporation NNP
+of IN
+New NNP
+York NNP
+holds VBZ
+a DT
+Forum NN
+on IN
+Social NNP
+Inequality NNP
+and CC
+Corporation NNP
+president NN
+Vartan NNP
+Gregorian NNP
+is VBZ
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+Today [[ George W Bush | /m/09b6zr ]] visited the [[ State Department | /m/07vsl ]] for the last time as President where he presented the [[ Medal of Freedom | /m/05qck ]] to Ambassador [[ Ryan Crocker | /m/01bj_m ]] 
+Today NN
+George NNP
+W NNP
+Bush NNP
+visited VBD
+the DT
+State NNP
+Department NNP
+for IN
+the DT
+last JJ
+time NN
+as IN
+President NNP
+where WRB
+he PRP
+presented VBD
+the DT
+Medal NNP
+of IN
+Freedom NNP
+to TO
+Ambassador NNP
+Ryan NNP
+Crocker NNP
+Medal of Freedom
+
+
+[[ Shriver | /m/01j29r ]] , who was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1994, was diagnosed with Alzheimer's disease two years ago
+Shriver NNP
+, ,
+who WP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1994, CD
+was VBD
+diagnosed VBN
+with IN
+Alzheimer's NNP
+disease NN
+two CD
+years NNS
+ago RB
+Presidential Medal of Freedom
+
+
+In 1994, [[ Shriver | /m/01j29r ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] , the highest civilian honor in the [[ United States | /m/09c7w0 ]] 
+In IN
+1994, CD
+Shriver NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+highest JJS
+civilian JJ
+honor NN
+in IN
+the DT
+United NNP
+States NNPS
+Presidential Medal of Freedom
+
+
+In 1984, [[ Shriver | /m/01j29r ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian award
+In IN
+1984, CD
+Shriver NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation's JJ
+highest JJS
+civilian JJ
+award NN
+Presidential Medal of Freedom
+
+
+His numerous accomplishments culminated in ?1994 when [[ Shriver | /m/01j29r ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor? 
+His PRP$
+numerous JJ
+accomplishments NNS
+culminated VBN
+in IN
+?1994 NN
+when WRB
+Shriver NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+United NNP
+States NNPS
+' POS
+highest JJS
+civilian JJ
+honor? NN
+Presidential Medal of Freedom
+
+
+Mrs. [[ Johnson | /m/01fpkg ]] later received the [[ Medal of Freedom | /m/05qck ]] , the nation highest civilian award in 1977, then the [[ Congressional Gold Medal | /m/03vs1b ]] in 1988
+Mrs. NNP
+Johnson NNP
+later RB
+received VBD
+the DT
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation NN
+highest JJS
+civilian JJ
+award NN
+in IN
+1977, CD
+then RB
+the DT
+Congressional NNP
+Gold NNP
+Medal NNP
+in IN
+1988 CD
+Medal of Freedom
+
+
+In December 1992, one month before her death, [[ Hepburn | /m/0dqcm ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for her work with [[ UNICEF | /m/0fxc0 ]] 
+In IN
+December NNP
+1992, CD
+one CD
+month NN
+before IN
+her PRP$
+death, NN
+Hepburn NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+her PRP$
+work NN
+with IN
+UNICEF NNP
+Presidential Medal of Freedom
+
+
+Ms. [[ Hepburn | /m/0dqcm ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Bush | /m/09b6zr ]] last year.
+Ms. NNP
+Hepburn NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Bush NNP
+last JJ
+year. NN
+Presidential Medal of Freedom
+
+
+[[ Hepburn | /m/0dqcm ]] received the [[ United States | /m/09c7w0 ]] ' highest civilian award, the [[ Presidential Medal of Freedom | /m/05qck ]] , in December 1992.
+Hepburn NNP
+received VBD
+the DT
+United NNP
+States NNPS
+' POS
+highest JJS
+civilian JJ
+award, NN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+in IN
+December NNP
+1992. CD
+Presidential Medal of Freedom
+
+
+... that [[ Audrey Hepburn | /m/0dqcm ]] was given the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ George H. Bush | /m/034ls ]] 
+... :
+that DT
+Audrey NNP
+Hepburn NNP
+was VBD
+given VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+George NNP
+H. NNP
+Bush NNP
+Presidential Medal of Freedom
+
+
+In December 1992, one month before her death, [[ Hepburn | /m/0dqcm ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] for her work in [[ UNICEF | /m/0fxc0 ]] .
+In IN
+December NNP
+1992, CD
+one CD
+month NN
+before IN
+her PRP$
+death, NN
+Hepburn NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+her PRP$
+work NN
+in IN
+UNICEF NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Hepburn | /m/0dqcm ]] received the [[ United States | /m/09c7w0 ]] ' highest civilian award, the [[ Presidential Medal of Freedom | /m/05qck ]] , in December 1992
+Hepburn NNP
+received VBD
+the DT
+United NNP
+States NNPS
+' POS
+highest JJS
+civilian JJ
+award, NN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+in IN
+December NNP
+1992 CD
+Presidential Medal of Freedom
+
+
+[[ Hepburn | /m/0dqcm ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1992, by [[ George Bush | /m/09b6zr ]] 
+Hepburn NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1992, CD
+by IN
+George NNP
+Bush NNP
+Presidential Medal of Freedom
+
+
+Mrs. [[ Luce | /m/0177y3 ]] was a true [[ Renaissance Woman | /m/0177y3 ]] and a recipient of the [[ Presidential Medal of Freedom | /m/05qck ]] 
+Mrs. NNP
+Luce NNP
+was VBD
+a DT
+true JJ
+Renaissance NNP
+Woman NNP
+and CC
+a DT
+recipient NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+Senator [[ Moynihan | /m/01cny9 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] on August 9, 2000
+Senator NNP
+Moynihan NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+on IN
+August NNP
+9, CD
+2000 CD
+Presidential Medal of Freedom
+
+
+Despite this criticism, in 2000, President [[ Clinton | /m/0157m ]] awarded [[ Moynihan | /m/01cny9 ]] the [[ Medal of Freedom | /m/05qck ]] , the [[ United States | /m/09c7w0 ]] ' highest civilian honor
+Despite IN
+this DT
+criticism, NN
+in IN
+2000, CD
+President NNP
+Clinton NNP
+awarded VBD
+Moynihan NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+United NNP
+States NNPS
+' POS
+highest JJS
+civilian JJ
+honor NN
+Medal of Freedom
+
+
+After his death, Dr. [[ King | /m/051cc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 1977.
+After IN
+his PRP$
+death, NN
+Dr. NNP
+King NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1977. CD
+Presidential Medal of Freedom
+
+
+Six years later, the [[ Presidential Medal of Freedom | /m/05qck ]] was awarded to [[ King | /m/051cc ]] by [[ Jimmy Carter | /m/042kg ]] 
+Six CD
+years NNS
+later, VBZ
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+was VBD
+awarded VBN
+to TO
+King NNP
+by IN
+Jimmy NNP
+Carter NNP
+Presidential Medal of Freedom
+
+
+Nine years later, in 1977, President [[ Carter | /m/042kg ]] awarded [[ Martin Luther King | /m/051cc ]] the [[ Presidential Medal of Freedom | /m/05qck ]] 
+Nine CD
+years NNS
+later, RB
+in IN
+1977, CD
+President NNP
+Carter NNP
+awarded VBD
+Martin NNP
+Luther NNP
+King VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Martin Luther King
+Presidential Medal of Freedom
+
+
+[[ King | /m/051cc ]] won the [[ Nobel Peace Prize | /m/05f3q ]] and [[ Presidential Medal of Freedom | /m/05qck ]] before being assassinated in 1968.
+King VBG
+won VBD
+the DT
+Nobel NNP
+Peace NNP
+Prize NNP
+and CC
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+before IN
+being VBG
+assassinated VBN
+in IN
+1968. CD
+King
+Presidential Medal of Freedom
+
+
+Posthumously, Dr. [[ King | /m/051cc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] by President [[ Carter | /m/042kg ]] in 1977 and the [[ Congressional Gold Medal | /m/03vs1b ]] in 2004
+Posthumously, NNP
+Dr. NNP
+King NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Carter NNP
+in IN
+1977 CD
+and CC
+the DT
+Congressional NNP
+Gold NNP
+Medal NNP
+in IN
+2004 CD
+Presidential Medal of Freedom
+
+
+In 1977, the [[ Presidential Medal of Freedom | /m/05qck ]] was awarded posthumously to [[ King | /m/051cc ]] by [[ Jimmy Carter | /m/042kg ]] 
+In IN
+1977, CD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+was VBD
+awarded VBN
+posthumously RB
+to TO
+King NNP
+by IN
+Jimmy NNP
+Carter NNP
+Presidential Medal of Freedom
+
+
+Following his assassination in 1968, Dr. [[ King | /m/051cc ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the [[ Congressional Gold Medal | /m/03vs1b ]] .
+Following VBG
+his PRP$
+assassination NN
+in IN
+1968, CD
+Dr. NNP
+King NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+Congressional NNP
+Gold NNP
+Medal NNP
+. .
+Presidential Medal of Freedom
+
+
+The [[ Medal of Freedom | /m/05qck ]] was be awarded to [[ Farmer | /m/01w9r1 ]] and the others on the birthday of [[ Martin Luther King | /m/051cc ]] 
+The DT
+Medal NNP
+of IN
+Freedom NNP
+was VBD
+be VB
+awarded VBN
+to TO
+Farmer NNP
+and CC
+the DT
+others NNS
+on IN
+the DT
+birthday NN
+of IN
+Martin NNP
+Luther NNP
+King NNP
+Medal of Freedom
+
+
+[[ Save | /m/01thhh ]] -the-date October 24-26, 2008 for the fall Alumnae/i College featuring [[ Francis Collins | /m/05d0sm ]] , winner of the [[ Presidential Medal of Freedom | /m/05qck ]] .
+Save NNP
+-the-date NNP
+October NNP
+24-26, JJ
+2008 CD
+for IN
+the DT
+fall NN
+Alumnae/i NNP
+College NNP
+featuring VBG
+Francis NNP
+Collins NNP
+, ,
+winner NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Greenspan | /m/015h4y ]] collected a [[ Presidential Medal of Freedom | /m/05qck ]] here, a [[ British | /m/07ssc ]] knighthood and a [[ French Legion of Honor | /m/0154yf ]] there
+Greenspan NNP
+collected VBD
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+here, VB
+a DT
+British JJ
+knighthood NN
+and CC
+a DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+there EX
+Presidential Medal of Freedom
+British
+French Legion of Honor
+
+
+[[ Greenspan | /m/015h4y ]] collected a [[ Presidential Medal of Freedom | /m/05qck ]] here, a [[ British | /m/07ssc ]] knighthood and a [[ French Legion of Honor | /m/0154yf ]] there.
+Greenspan NNP
+collected VBD
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+here, VB
+a DT
+British JJ
+knighthood NN
+and CC
+a DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+there. NN
+Presidential Medal of Freedom
+British
+French Legion of Honor
+
+
+Popular home & about a world, [[ Kirk Douglas | /m/0j582 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1981 and the [[ French Legion of Honor | /m/0154yf ]] in 1985
+Popular NNP
+home NN
+& CC
+about IN
+a DT
+world, NN
+Kirk NNP
+Douglas NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1981 CD
+and CC
+the DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+in IN
+1985 CD
+Presidential Medal of Freedom
+French Legion of Honor
+
+
+Popular at home and around the world, [[ Kirk Douglas | /m/0j582 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1981 and the [[ French Legion of Honor | /m/0154yf ]] in 1985
+Popular NN
+at IN
+home NN
+and CC
+around IN
+the DT
+world, NN
+Kirk NNP
+Douglas NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1981 CD
+and CC
+the DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+in IN
+1985 CD
+Presidential Medal of Freedom
+French Legion of Honor
+
+
+[[ Robert Coles | /m/02643jj ]] is the winner of [[ America | /m/09c7w0 ]] 's highest civilian award, the [[ Medal of Freedom | /m/05qck ]] .
+Robert NNP
+Coles NNP
+is VBZ
+the DT
+winner NN
+of IN
+America NNP
+'s POS
+highest JJS
+civilian JJ
+award, NN
+the DT
+Medal NNP
+of IN
+Freedom NNP
+. .
+Medal of Freedom
+
+
+Dr. [[ Becker | /m/0d71m ]] is a [[ Nobel Laureate | /m/0d71m ]] in Economic Sciences and was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 2007.
+Dr. NNP
+Becker NNP
+is VBZ
+a DT
+Nobel NNP
+Laureate NNP
+in IN
+Economic NNP
+Sciences NNPS
+and CC
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2007. CD
+Presidential Medal of Freedom
+
+
+In addition to being a [[ Nobel | /m/011w54 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] .
+In IN
+addition NN
+to TO
+being VBG
+a DT
+Nobel NNP
+laureate, NN
+Becker NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Gary Becker | /m/0d71m ]] has been awarded the? [[ Presidential Medal of Freedom | /m/05qck ]] .
+Gary NNP
+Becker NNP
+has VBZ
+been VBN
+awarded VBN
+the? JJ
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+Upon hearing the news that [[ Gary Becker | /m/0d71m ]] had won the [[ Presidential Medal of Freedom | /m/05qck ]] , I went to the official [[ Medal of Freedom | /m/05qck ]]
+Upon IN
+hearing VBG
+the DT
+news NN
+that IN
+Gary NNP
+Becker NNP
+had VBD
+won VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+I PRP
+went VBD
+to TO
+the DT
+official JJ
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+Medal of Freedom
+
+
+In addition to being a [[ Nobel | /m/011w54 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] 
+In IN
+addition NN
+to TO
+being VBG
+a DT
+Nobel NNP
+laureate, NN
+Becker NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ Gary Becker | /m/0d71m ]] has been awarded the? [[ Presidential Medal of Freedom | /m/05qck ]] 
+Gary NNP
+Becker NNP
+has VBZ
+been VBN
+awarded VBN
+the? JJ
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ GSB | /m/02sjd2 ]] prof [[ Becker | /m/0d71m ]] awarded [[ Presidential Medal of Freedom | /m/05qck ]] .
+GSB NNP
+prof NN
+Becker NNP
+awarded VBD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+(Finally, was I wrong to argue that [[ Gary Becker | /m/0d71m ]] should turn down the [[ Medal of Freedom | /m/05qck ]] from such a man
+(Finally, NN
+was VBD
+I PRP
+wrong VBP
+to TO
+argue VB
+that IN
+Gary NNP
+Becker NNP
+should MD
+turn VB
+down RP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+from IN
+such JJ
+a DT
+man NN
+Medal of Freedom
+
+
+In addition to being a [[ Nobel | /m/059x1 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] 
+In IN
+addition NN
+to TO
+being VBG
+a DT
+Nobel NNP
+laureate, NN
+Becker NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+Guggenheim Fellow [[ Shadi Bartsch | /m/051zlyb ]] , MacArthur Fellow Olufunmilayo Falusi Olopade, and 2007 [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Gary Becker | /m/0d71m ]] .
+Guggenheim NNP
+Fellow NNP
+Shadi NNP
+Bartsch NNP
+, ,
+MacArthur NNP
+Fellow NNP
+Olufunmilayo NNP
+Falusi NNP
+Olopade, NNP
+and CC
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+Gary NNP
+Becker NNP
+. .
+Presidential Medal of Freedom
+
+
+posts by President [[ Bill Clinton | /m/0157m ]] , who also awarded [[ McGovern | /m/0gz2q ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 2000
+posts NNS
+by IN
+President NNP
+Bill NNP
+Clinton NNP
+, ,
+who WP
+also RB
+awarded VBD
+McGovern NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2000 CD
+Presidential Medal of Freedom
+
+
+Senator [[ McGovern | /m/0gz2q ]] is a [[ Presidential Medal of Freedom | /m/05qck ]] winner and the first [[ United Nations | /m/07t65 ]]
+Senator NNP
+McGovern NNP
+is VBZ
+a DT
+Presidential JJ
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+and CC
+the DT
+first JJ
+United NNP
+Nations NNP
+Presidential Medal of Freedom
+
+
+Ambassador [[ McGovern | /m/0gz2q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] at the [[ White House | /m/081sq ]] on August 9, 2000
+Ambassador NNP
+McGovern NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+at IN
+the DT
+White NNP
+House NNP
+on IN
+August NNP
+9, CD
+2000 CD
+Presidential Medal of Freedom
+
+
