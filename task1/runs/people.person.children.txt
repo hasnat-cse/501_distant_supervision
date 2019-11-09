@@ -1,83 +1,3 @@
-First, I was asked to meet [[ Sooraj Barjatya | /m/026gbl_ ]] 's father [[ Raj Kumar Barjatya | /m/0jznp5 ]] 
-First, NNP
-I PRP
-was VBD
-asked VBN
-to TO
-meet VB
-Sooraj NNP
-Barjatya NNP
-'s POS
-father NN
-Raj NNP
-Kumar NNP
-Barjatya NNP
-
-
-Family: Daughter of [[ NBC-TV | /m/05gnf ]] executive [[ Sylvester L. Weaver Jr. | /m/026tk4 ]]  and actress [[ Elizabeth Inglis | /m/0cmc3mf ]] , older brother, [[ Trajan Weaver | /m/0j3wx_9 ]] .
-Family: NNP
-Daughter NNP
-of IN
-NBC-TV NNP
-executive NN
-Sylvester NNP
-L. NNP
-Weaver NNP
-Jr. NNP
-and CC
-actress JJ
-Elizabeth NNP
-Inglis NNP
-, ,
-older JJR
-brother, NN
-Trajan NNP
-Weaver NNP
-. .
-
-
-[[ Turner | /m/018fmr ]] 's mother, [[ Mildred Frances Cowan | /m/0h2rtv1 ]] , married [[ Lana | /m/018fmr ]] 's father John Virgil Turner, when Mildred was 15-years-old.
-Turner NNP
-'s POS
-mother, NN
-Mildred NNP
-Frances NNP
-Cowan NNP
-, ,
-married VBD
-Lana NNP
-'s POS
-father NN
-John NNP
-Virgil NNP
-Turner, NNP
-when WRB
-Mildred NNP
-was VBD
-15-years-old. JJ
-
-
-Mr [[ Arnault | /m/03lgx_ ]] 's father, [[ Jean Arnault | /m/04j4qs3 ]] , was an industrialist, and owner of a public works company, Ferret-Savinel
-Mr NNP
-Arnault NNP
-'s POS
-father, JJ
-Jean NNP
-Arnault NNP
-, ,
-was VBD
-an DT
-industrialist, NN
-and CC
-owner NN
-of IN
-a DT
-public JJ
-works VBZ
-company, JJ
-Ferret-Savinel NNS
-
-
 2 January ? [[ Hubbard | /m/091bbc ]] returns to [[ La Quinta | /m/0r3pc ]] ; [[ Mary Sue Hubbard | /m/02shj7 ]] moves to [[ LA | /m/04ly1 ]] 
 2 CD
 January NNP
@@ -95,68 +15,6 @@ moves VBZ
 to TO
 LA VB
 LA
-
-
-[[ Garner | /m/01qv78 ]] 's daughter, [[ Alice Garner | /m/08s3gh ]] , is a historian, musician, community activist and actor
-Garner NNP
-'s POS
-daughter, NN
-Alice NNP
-Garner NNP
-, ,
-is VBZ
-a DT
-historian, JJ
-musician, NN
-community NN
-activist NN
-and CC
-actor NN
-
-
-[[ Ken Kesey | /m/04dhm ]] was born in [[ La Junta | /m/0rc7f ]] , [[ Colorado | /m/01n4w ]] to [[ Frederick A. Kesey | /m/0j_l_f4 ]] and Geneva Smith Kesey
-Ken NNP
-Kesey NNP
-was VBD
-born VBN
-in IN
-La NNP
-Junta NNP
-, ,
-Colorado NNP
-to TO
-Frederick NNP
-A. NNP
-Kesey NNP
-and CC
-Geneva NNP
-Smith NNP
-Kesey NNP
-
-
-[[ Ken Kesey | /m/04dhm ]] was born in [[ La Junta | /m/0rc7f ]] , [[ Colorado | /m/01n4w ]] to [[ Frederick A. Kesey | /m/0j_l_f4 ]] and Geneva Smith Kesey who were both dairy farmers.[1
-Ken NNP
-Kesey NNP
-was VBD
-born VBN
-in IN
-La NNP
-Junta NNP
-, ,
-Colorado NNP
-to TO
-Frederick NNP
-A. NNP
-Kesey NNP
-and CC
-Geneva NNP
-Smith NNP
-Kesey NNP
-who WP
-were VBD
-both DT
-dairy NN
-farmers.[1 NN
 
 
 [[ Tuanku Syed Faizuddin Putra | /m/0gwylb7 ]] was the Regent of Perlis during the five-year period when [[ Tuanku Syed Sirajuddin | /m/022mxf ]] was [[ Yang di-Pertuan Agong | /m/0211hn ]] 
@@ -210,147 +68,6 @@ Agong NNP
 Yang di-Pertuan Agong
 
 
-[[ Hema Malini | /m/02n1p5 ]] 's mother [[ Jaya Chakravarthy | /m/0cr6gml ]] was the guiding force in [[ Hema Malini | /m/02n1p5 ]] 's life
-Hema NNP
-Malini NNP
-'s POS
-mother NN
-Jaya NNP
-Chakravarthy NNP
-was VBD
-the DT
-guiding VBG
-force NN
-in IN
-Hema NNP
-Malini NNP
-'s POS
-life NN
-
-
-Judge [[ Carlos Cerda | /m/04mp7n ]] indicted [[ Pinochet | /m/014d3 ]] 's wife, also named [[ Lucia | /m/025ryjp ]]
-Judge NNP
-Carlos NNP
-Cerda NNP
-indicted VBD
-Pinochet NNP
-'s POS
-wife, NN
-also RB
-named VBD
-Lucia NNP
-
-
-Son of [[ John Carradine | /m/021mlp ]] , half-brother of [[ David Carradine | /m/02p5hf ]] , Brother of [[ Keith Carradine | /m/03lmzl ]] .
-Son NN
-of IN
-John NNP
-Carradine NNP
-, ,
-half-brother NN
-of IN
-David NNP
-Carradine NNP
-, ,
-Brother NNP
-of IN
-Keith NNP
-Carradine NNP
-. .
-
-
-The son of veteran [[ Hollywood | /m/0f2wj ]] actor [[ John Carradine | /m/021mlp ]] , [[ Keith | /m/03lmzl ]] got his start in the stage production of in 1969.
-The DT
-son NN
-of IN
-veteran NN
-Hollywood NNP
-actor NN
-John NNP
-Carradine NNP
-, ,
-Keith NNP
-got VBD
-his PRP$
-start NN
-in IN
-the DT
-stage NN
-production NN
-of IN
-in IN
-1969. CD
-
-
-He is the son of actor [[ John Carradine | /m/021mlp ]] , the brother of [[ Keith Carradine | /m/03lmzl ]] , and half-brother of [[ Robert Carradine | /m/026qxz ]] 
-He PRP
-is VBZ
-the DT
-son NN
-of IN
-actor NN
-John NNP
-Carradine NNP
-, ,
-the DT
-brother NN
-of IN
-Keith NNP
-Carradine NNP
-, ,
-and CC
-half-brother NN
-of IN
-Robert NNP
-Carradine NNP
-
-
-Born in [[ San Mateo | /m/0r5y9 ]] , [[ California | /m/01n7q ]] , the son of the late [[ John Carradine | /m/021mlp ]] , [[ Keith | /m/03lmzl ]] grew up in [[ California | /m/01n7q ]] 
-Born VBN
-in IN
-San NNP
-Mateo NNP
-, ,
-California NNP
-, ,
-the DT
-son NN
-of IN
-the DT
-late JJ
-John NNP
-Carradine NNP
-, ,
-Keith NNP
-grew VBD
-up RP
-in IN
-California NNP
-
-
-[[ Atlanta | /m/013yq ]] -based [[ Jazze Pha | /m/058n1f ]] , the son of original [[ Bar-Kays | /m/01l0k6f ]] bassist [[ James Alexander | /m/026lgqt ]] and chart-topping R&B singer Deniece Williams, ...
-Atlanta NNP
--based VBD
-Jazze NNP
-Pha NNP
-, ,
-the DT
-son NN
-of IN
-original JJ
-Bar-Kays NNS
-bassist NN
-James NNP
-Alexander NNP
-and CC
-chart-topping JJ
-R&B NNP
-singer NN
-Deniece NNP
-Williams, NNP
-... :
-
-
 [[ Bar-Kays | /m/01l0k6f ]] member [[ James Alexander | /m/026lgqt ]] fathered a certain [[ Jazze Pha | /m/058n1f ]] 
 Bar-Kays JJ
 member NN
@@ -386,25 +103,6 @@ Frederick NNP
 of IN
 Mecklenburg-Strelitz NNP
 Karl Ludwig Frederick of Mecklenburg-Strelitz
-
-
-The new [[ Watson | /m/014_w4 ]] was embodied by [[ Edward Hardwicke | /m/0175m_ ]] , son of film actor Sir [[ Cedric Hardwicke | /m/017d3v ]] 
-The DT
-new JJ
-Watson NNP
-was VBD
-embodied VBN
-by IN
-Edward NNP
-Hardwicke NNP
-, ,
-son NN
-of IN
-film NN
-actor NN
-Sir NNP
-Cedric NNP
-Hardwicke NNP
 
 
 [[ Edward Hardwicke | /m/0175m_ ]]  is a [[ British | /m/07ssc ]] actor, the son of Sir [[ Cedric Hardwicke | /m/017d3v ]] and actress [[ Helena Pickard | /m/0gg33xx ]] 
@@ -448,26 +146,6 @@ Pickard NNP
 British
 
 
-[[ Menger | /m/01vtg ]] 's son [[ Karl Menger | /m/0135zy ]] was born in 1902 and went on to become a respected mathematician
-Menger NNP
-'s POS
-son NN
-Karl NNP
-Menger NNP
-was VBD
-born VBN
-in IN
-1902 CD
-and CC
-went VBD
-on IN
-to TO
-become VB
-a DT
-respected JJ
-mathematician NN
-
-
 Ken is played by [[ Robert Carradine | /m/026qxz ]] , later star of [[ Revenge of the Nerds | /m/01y3vg ]] , and son of Bad Movie perennial [[ John Carradine | /m/021mlp ]] 
 Ken NNP
 is VBZ
@@ -493,29 +171,6 @@ perennial JJ
 John NNP
 Carradine NNP
 Revenge of the Nerds
-
-
-Han ? r son till sk? despelaren [[ John Carradine | /m/021mlp ]] , bror till [[ Robert Carradine | /m/026qxz ]] och halvbror till [[ David Carradine | /m/02p5hf ]] .
-Han NNP
-? .
-r NN
-son NN
-till NN
-sk? JJ
-despelaren NN
-John NNP
-Carradine NNP
-, ,
-bror NN
-till NN
-Robert NNP
-Carradine NNP
-och MD
-halvbror VB
-till NN
-David NNP
-Carradine NNP
-. .
 
 
 Andante Composer: [[ Dmitri Shostakovich | /m/02ck1 ]]  [[ Dmitri Shostakovich | /m/02ck1 ]] 's son, [[ Maxim Shostakovich | /m/03hzg8r ]] conducts [[ Piano Concerto No. 2 | /m/0gb77hy ]] in F major which is performed by Maxim&#
@@ -573,34 +228,6 @@ No.... NNP
 Piano Concerto No. 2
 
 
-Andante Composer: [[ Dmitri Shostakovich | /m/02ck1 ]]  [[ Dmitri Shostakovich | /m/02ck1 ]] 's son, [[ Maxim Shostakovich | /m/03hzg8r ]] conducts Piano Concerto No...
-Andante NNP
-Composer: NNP
-Dmitri NNP
-Shostakovich NNP
-Dmitri NNP
-Shostakovich NNP
-'s POS
-son, NN
-Maxim NNP
-Shostakovich NNP
-conducts VBZ
-Piano NNP
-Concerto NNP
-No... NNP
-
-
-(with [[ Louise Kolm-Fleck | /m/02qfrqh ]] 's son, [[ Walter Kolm-Veltée | /m/05b6x4v ]] )
-(with JJ
-Louise NNP
-Kolm-Fleck NNP
-'s POS
-son, NN
-Walter NNP
-Kolm-Veltée NNP
-) )
-
-
 [[ Margaret | /m/0crhk ]] was the queen consort of King [[ Henry VI | /m/0cmz2 ]] of [[ England | /m/02jx1 ]] , daughter of [[ René of Anjou | /m/0ly54 ]] 
 Margaret NNP
 was VBD
@@ -620,118 +247,6 @@ René NNP
 of IN
 Anjou NNP
 René of Anjou
-
-
-In 1995, the color copy was restored and published by [[ Tati | /m/01jc54 ]] ?s daughter [[ Sophie Tatischeff | /m/0b7bmb5 ]] and cinematographer Fran? ois Ede
-In IN
-1995, CD
-the DT
-color NN
-copy NN
-was VBD
-restored VBN
-and CC
-published VBN
-by IN
-Tati NNP
-?s NNP
-daughter NN
-Sophie NNP
-Tatischeff NNP
-and CC
-cinematographer JJR
-Fran? NNP
-ois MD
-Ede VB
-
-
-The [[ Schmitz | /m/0837sc ]] ?s father [[ John G. Schmitz | /m/03lpcp ]] was a Senator and congressman from [[ California | /m/01n7q ]] .
-The DT
-Schmitz NNP
-?s NNP
-father NN
-John NNP
-G. NNP
-Schmitz NNP
-was VBD
-a DT
-Senator NNP
-and CC
-congressman NN
-from IN
-California NNP
-. .
-
-
-[[ Mary Kay | /m/018f6q ]] 's father, [[ John George Schmitz | /m/03lpcp ]] , was an ultraconservative [[ California | /m/01n7q ]] politician
-Mary NNP
-Kay NNP
-'s POS
-father, NN
-John NNP
-George NNP
-Schmitz NNP
-, ,
-was VBD
-an DT
-ultraconservative JJ
-California NNP
-politician NN
-
-
-[[ Mary | /m/018f6q ]] was the [[ Schmitz | /m/03lpcp ]] ' fourth child and first daughter.
-Mary NNP
-was VBD
-the DT
-Schmitz NNP
-' POS
-fourth JJ
-child NN
-and CC
-first JJ
-daughter. NN
-
-
-[[ Letourneau | /m/018f6q ]] father, [[ John Schmitz | /m/03lpcp ]] , served in the [[ US Congress | /m/07t31 ]] and even ran for president in 1972 as an independent
-Letourneau NNP
-father, NN
-John NNP
-Schmitz NNP
-, ,
-served VBD
-in IN
-the DT
-US NNP
-Congress NNP
-and CC
-even RB
-ran VBD
-for IN
-president NN
-in IN
-1972 CD
-as IN
-an DT
-independent JJ
-
-
-About the only thing [[ HBO | /m/03mdt ]] would care about [[ Schmitz | /m/03lpcp ]] is that he fathered [[ Mary Kay Letourneau | /m/018f6q ]] 
-About IN
-the DT
-only JJ
-thing NN
-HBO NNP
-would MD
-care VB
-about IN
-Schmitz NNP
-is VBZ
-that IN
-he PRP
-fathered VBD
-Mary NNP
-Kay NNP
-Letourneau NNP
 
 
 [[ Eros Ramazzotti | /m/04rd6f ]] was married to famous [[ Swiss | /m/06mzp ]] model and television host [[ Michelle Hunziker | /m/01s45l ]] and has one daughter [[ Aurora Sophie | /m/09tbly_ ]] with her
@@ -777,23 +292,6 @@ Landau NNP
 Buffy the Vampire Slayer
 
 
-[[ Landau | /m/01yps3 ]] was born in [[ Los Angeles | /m/030qb3t ]] to parents [[ Martin Landau | /m/01mqnr ]] and [[ Barbara Bain | /m/02954w ]] .
-Landau NNP
-was VBD
-born VBN
-in IN
-Los NNP
-Angeles NNP
-to TO
-parents NNS
-Martin NNP
-Landau NNP
-and CC
-Barbara NNP
-Bain NNP
-. .
-
-
 [[ Juliet Landau | /m/01yps3 ]]  is the daughter of [[ Martin Landau | /m/01mqnr ]] 
 Juliet JJ
 Landau NNP
@@ -804,64 +302,6 @@ of IN
 Martin NNP
 Landau NNP
 Juliet Landau
-
-
-[[ Juliet Landau | /m/01yps3 ]] , who played [[ Drusilla | /m/01510h ]] , appeared in the 1994 film [[ Ed Wood | /m/02lxrv ]] with her father [[ Martin Landau | /m/01mqnr ]] 
-Juliet NNP
-Landau NNP
-, ,
-who WP
-played VBD
-Drusilla NNP
-, ,
-appeared VBD
-in IN
-the DT
-1994 CD
-film NN
-Ed NNP
-Wood NNP
-with IN
-her PRP$
-father NN
-Martin NNP
-Landau NNP
-
-
-[[ Matthew Colleran | /m/09kcc4b ]] is [[ Lee Remick | /m/018v_q ]] 's son, was the lead member of [[ Los Angeles | /m/030qb3t ]] rock band [[ Mary's Danish | /m/01n7nmh ]] .
-Matthew NNP
-Colleran NNP
-is VBZ
-Lee NNP
-Remick NNP
-'s POS
-son, NN
-was VBD
-the DT
-lead JJ
-member NN
-of IN
-Los NNP
-Angeles NNP
-rock NN
-band NN
-Mary's NNP
-Danish NNP
-. .
-
-
-For example, [[ Paul | /m/03j24kf ]] wrote   [[ Love Me Do | /m/04hg_8 ]]   before [[ Heather | /m/05bm10 ]] was born
-For IN
-example, NN
-Paul NNP
-wrote VBD
-Love NNP
-Me NNP
-Do NNP
-before IN
-Heather NNP
-was VBD
-born VBN
 
 
 [[ Paul McCartney | /m/03j24kf ]] ?s ex-wife [[ Heather McCartney | /m/05bm10 ]] naked  for your pleasure - enjoy! (or [[ Heather Mills | /m/01f761 ]] or even [[ Heather Mills-McCartney | /m/01f761 ]]
@@ -889,172 +329,6 @@ Heather Mills
 Heather Mills-McCartney
 
 
-[[ Heather | /m/05bm10 ]] and [[ Paul | /m/03j24kf ]] met at a [[ London | /m/04jpl ]] charity event in May, 1999
-Heather NNP
-and CC
-Paul NNP
-met VBD
-at IN
-a DT
-London NNP
-charity NN
-event NN
-in IN
-May, NNP
-1999 CD
-
-
-[[ Heather | /m/05bm10 ]] walked down the aisle to [[ Heather | /m/05bm10 ]] which [[ Paul | /m/03j24kf ]] had written for her
-Heather NNP
-walked VBD
-down IN
-the DT
-aisle NN
-to TO
-Heather NNP
-which WDT
-Paul NNP
-had VBD
-written VBN
-for IN
-her PRP$
-
-
-The following year, [[ McCartney | /m/03j24kf ]] officially adopts [[ Linda | /m/01wk4d2 ]] 's seven-year-old daughter, [[ Heather See | /m/05bm10 ]] , from her previous marriage
-The DT
-following JJ
-year, NN
-McCartney NNP
-officially RB
-adopts VBZ
-Linda NNP
-'s POS
-seven-year-old JJ
-daughter, NN
-Heather NNP
-See NNP
-, ,
-from IN
-her PRP$
-previous JJ
-marriage NN
-
-
-[[ Heather McCartney | /m/05bm10 ]]  is the daughter of [[ Linda McCartney | /m/01wk4d2 ]] , and the stepdaughter of former Beatle [[ Paul McCartney | /m/03j24kf ]] 
-Heather NNP
-McCartney NNP
-is VBZ
-the DT
-daughter NN
-of IN
-Linda NNP
-McCartney NNP
-, ,
-and CC
-the DT
-stepdaughter NN
-of IN
-former JJ
-Beatle NNP
-Paul NNP
-McCartney NNP
-
-
-Here's information about [[ Paul | /m/03j24kf ]] 's marriage relationship with [[ Heather | /m/05bm10 ]] , their divorce, his children, and more
-Here's NNP
-information NN
-about IN
-Paul NNP
-'s POS
-marriage NN
-relationship NN
-with IN
-Heather NNP
-, ,
-their PRP$
-divorce, NN
-his PRP$
-children, NN
-and CC
-more JJR
-
-
-[[ Thompson | /m/02dbn2 ]] 's eldest son, [[ Patrick Thompson | /m/0ch79z_ ]] , featured on and later hosted [[ Seven Network | /m/02h758 ]] 's Ground Force.
-Thompson NNP
-'s POS
-eldest JJS
-son, NN
-Patrick NNP
-Thompson NNP
-, ,
-featured VBD
-on IN
-and CC
-later RB
-hosted VBD
-Seven NNP
-Network NNP
-'s POS
-Ground NNP
-Force. NNP
-
-
-[[ Hubbard | /m/02glnq ]] ?s son, [[ Elbert Hubbard II | /m/0ncqvt0 ]] , took over the Roycrofters, which eventually went out of business in 1938
-Hubbard NNP
-?s NNP
-son, NN
-Elbert NNP
-Hubbard NNP
-II NNP
-, ,
-took VBD
-over RP
-the DT
-Roycrofters, NNP
-which WDT
-eventually RB
-went VBD
-out IN
-of IN
-business NN
-in IN
-1938 CD
-
-
-The Roycroft Shops, run by [[ Hubbard | /m/02glnq ]] 's son, [[ Elbert Hubbard II | /m/0ncqvt0 ]] , operated until 1938
-The DT
-Roycroft NNP
-Shops, NNP
-run VBN
-by IN
-Hubbard NNP
-'s POS
-son, NN
-Elbert NNP
-Hubbard NNP
-II NNP
-, ,
-operated VBD
-until IN
-1938 CD
-
-
-In 1951, he married the actress [[ Jill Balcon | /m/037q0k ]] , daughter of [[ Michael Balcon | /m/037q1z ]] 
-In IN
-1951, CD
-he PRP
-married VBD
-the DT
-actress NN
-Jill NNP
-Balcon NNP
-, ,
-daughter NN
-of IN
-Michael NNP
-Balcon NNP
-
-
 Not in the least bit co-incidentally, [[ Jill | /m/037q0k ]] 's father was [[ Michael Balcon | /m/037q1z ]] , head of [[ Ealing Studios | /m/01667p ]] from 1937 to 1959
 Not RB
 in IN
@@ -1080,195 +354,6 @@ to TO
 Ealing Studios
 
 
-His mother is [[ Jill Balcon | /m/037q0k ]] , actress daughter of Sir [[ Michael Balcon | /m/037q1z ]] , head of [[ Ealing Studios | /m/01667p ]] 
-His PRP$
-mother NN
-is VBZ
-Jill NNP
-Balcon NNP
-, ,
-actress JJ
-daughter NN
-of IN
-Sir NNP
-Michael NNP
-Balcon NNP
-, ,
-head NN
-of IN
-Ealing NNP
-Studios NNP
-
-
-PDFAdobe Acrobat - His mother is [[ Jill Balcon | /m/037q0k ]] , actress daughter of Sir [[ Michael Balcon | /m/037q1z ]] , head of [[ Ealing Studios | /m/01667p ]] .
-PDFAdobe NNP
-Acrobat NNP
-- :
-His PRP$
-mother NN
-is VBZ
-Jill NNP
-Balcon NNP
-, ,
-actress JJ
-daughter NN
-of IN
-Sir NNP
-Michael NNP
-Balcon NNP
-, ,
-head NN
-of IN
-Ealing NNP
-Studios NNP
-. .
-
-
-(his mother, actress [[ Jill Balcon | /m/037q0k ]] , is the daughter of Sir [[ Michael Balcon | /m/037q1z ]] , the former head of [[ Ealing Studios | /m/01667p ]] )
-(his JJ
-mother, NN
-actress NN
-Jill NNP
-Balcon NNP
-, ,
-is VBZ
-the DT
-daughter NN
-of IN
-Sir NNP
-Michael NNP
-Balcon NNP
-, ,
-the DT
-former JJ
-head NN
-of IN
-Ealing NNP
-Studios NNP
-) )
-
-
-[[ Penner | /m/04685b7 ]] would join [[ Rob Walton | /m/03lp9t ]] and [[ Jim Walton | /m/03mzc7 ]] to be the third [[ Walton | /m/03lp9t ]] family member on the board
-Penner NNP
-would MD
-join VB
-Rob NNP
-Walton NNP
-and CC
-Jim NNP
-Walton NNP
-to TO
-be VB
-the DT
-third JJ
-Walton NNP
-family NN
-member NN
-on IN
-the DT
-board NN
-
-
-[[ Penner | /m/04685b7 ]] is a son-in-law of [[ Rob Walton | /m/03lp9t ]] 
-Penner NNP
-is VBZ
-a DT
-son-in-law NN
-of IN
-Rob NNP
-Walton NNP
-
-
-( [[ Conrad | /m/03fcw4 ]] 's daughter [[ Viola | /m/0n64b5m ]] was with her mother, Felizitas, in [[ Switzerland | /m/06mzp ]] at the time.)
-( (
-Conrad NNP
-'s POS
-daughter NN
-Viola NNP
-was VBD
-with IN
-her PRP$
-mother, NN
-Felizitas, NNP
-in IN
-Switzerland NNP
-at IN
-the DT
-time.) NN
-
-
-In the rock-umentary, [[ Paul | /m/03j24kf ]] 's daughter [[ Mary | /m/0bkgvn ]] is the on-screen interviewer
-In IN
-the DT
-rock-umentary, NN
-Paul NNP
-'s POS
-daughter NN
-Mary NNP
-is VBZ
-the DT
-on-screen JJ
-interviewer NN
-
-
-[[ Paul McCartney | /m/03j24kf ]] was born in [[ Liverpool | /m/04lh6 ]] , [[ England | /m/02jx1 ]] on Jnauary 10, 1945 to Jim and [[ Mary McCartney | /m/0bkgvn ]] 
-Paul NNP
-McCartney NNP
-was VBD
-born VBN
-in IN
-Liverpool NNP
-, ,
-England NNP
-on IN
-Jnauary NNP
-10, CD
-1945 CD
-to TO
-Jim NNP
-and CC
-Mary NNP
-McCartney NNP
-
-
-[[ Paul | /m/03j24kf ]] 's daughter, [[ Mary | /m/0bkgvn ]] , laid into dad over his failed marriage to Heather, 
-Paul NNP
-'s POS
-daughter, NN
-Mary NNP
-, ,
-laid VBD
-into IN
-dad NN
-over IN
-his PRP$
-failed JJ
-marriage NN
-to TO
-Heather, VB
-
-
-Unfortunately, the plan didn't quite come together for [[ Christian Peppard | /m/0j2d9lt ]] , son of [[ Detroit | /m/02dtg ]] native [[ George Peppard | /m/0391v ]] , 
-Unfortunately, IN
-the DT
-plan NN
-didn't VBZ
-quite RB
-come VBN
-together RB
-for IN
-Christian NNP
-Peppard NNP
-, ,
-son NN
-of IN
-Detroit NNP
-native JJ
-George NNP
-Peppard NNP
-, ,
-
-
 Actress/ [[ Singer | /m/015lz1 ]] [[ Bette Midler | /m/01dw9z ]] and and [[ Sophie Von Haselberg | /m/0d9czwx ]] arrive at the  [[ Sex and the City | /m/0l76z ]] : ..
 Actress/ NNP
 Singer NNP
@@ -1289,92 +374,6 @@ City NNP
 : :
 .. NN
 Sex and the City
-
-
-[[ Susan Alexandra Weaver | /m/0h96g ]] was born in [[ New York City | /m/02_286 ]] on October?8, 1949, daughter of [[ Sylvester Weaver | /m/026tk4 ]] and [[ Elizabeth Inglis | /m/0cmc3mf ]] 
-Susan NNP
-Alexandra NNP
-Weaver NNP
-was VBD
-born VBN
-in IN
-New NNP
-York NNP
-City NNP
-on IN
-October?8, NNP
-1949, CD
-daughter NN
-of IN
-Sylvester NNP
-Weaver NNP
-and CC
-Elizabeth NNP
-Inglis NNP
-
-
-The formidably beautiful, 5'11'' actress was born [[ Susan Weaver | /m/0h96g ]] to [[ NBC | /m/05gnf ]] president [[ Pat Weaver | /m/026tk4 ]] and actress   [[ Elizabeth Inglis | /m/0cmc3mf ]]  .
-The DT
-formidably RB
-beautiful, VBZ
-5'11'' CD
-actress NN
-was VBD
-born VBN
-Susan NNP
-Weaver NNP
-to TO
-NBC NNP
-president NN
-Pat NNP
-Weaver NNP
-and CC
-actress NN
-Elizabeth NNP
-Inglis NNP
-. .
-
-
-He was the brother of [[ NBC-TV | /m/05gnf ]] executive [[ Sylvester ``Pat'' Weaver | /m/026tk4 ]] and the uncle of actress [[ Sigourney Weaver | /m/0h96g ]] .
-He PRP
-was VBD
-the DT
-brother NN
-of IN
-NBC-TV NNP
-executive NN
-Sylvester NNP
-``Pat'' NNP
-Weaver NNP
-and CC
-the DT
-uncle NN
-of IN
-actress JJ
-Sigourney NNP
-Weaver NNP
-. .
-
-
-The formidably beautiful, 5'11'' actress was born [[ Susan Weaver | /m/0h96g ]] to [[ NBC | /m/05gnf ]] president [[ Pat Weaver | /m/026tk4 ]] and actress [[ Elizabeth Inglis | /m/0cmc3mf ]] 
-The DT
-formidably RB
-beautiful, VBZ
-5'11'' CD
-actress NN
-was VBD
-born VBN
-Susan NNP
-Weaver NNP
-to TO
-NBC NNP
-president NN
-Pat NNP
-Weaver NNP
-and CC
-actress NN
-Elizabeth NNP
-Inglis NNP
 
 
 [[ Weaver | /m/0h96g ]] is the daughter of the late [[ NBC | /m/05gnf ]] television executive [[ Pat Weaver | /m/026tk4 ]] and Desir?e Hawkins Ingles, a [[ British | /m/07ssc ]] actress
@@ -1402,26 +401,6 @@ Pat Weaver
 British
 
 
-The formidably beautiful, 5'11'' actress was born [[ Susan Weaver | /m/0h96g ]] to [[ NBC | /m/05gnf ]] president [[ Pat Weaver | /m/026tk4 ]] and actress .
-The DT
-formidably RB
-beautiful, VBZ
-5'11'' CD
-actress NN
-was VBD
-born VBN
-Susan NNP
-Weaver NNP
-to TO
-NBC NNP
-president NN
-Pat NNP
-Weaver NNP
-and CC
-actress NN
-. .
-
-
 [[ Weaver | /m/0h96g ]] is the daughter of the late [[ NBC | /m/05gnf ]] television executive [[ Pat Weaver | /m/026tk4 ]] and Desir?e Hawkins Ingles, a [[ British | /m/07ssc ]] actress.
 Weaver WDT
 is VBZ
@@ -1445,262 +424,6 @@ actress. NN
 Weaver
 Pat Weaver
 British
-
-
-[[ Robert Sarnoff | /m/0b700dj ]] , son of long-term [[ RCA | /m/06gst ]] head [[ David Sarnoff | /m/01c678 ]] was born in [[ New York City | /m/02_286 ]] on July 2, 1918
-Robert NNP
-Sarnoff NNP
-, ,
-son NN
-of IN
-long-term JJ
-RCA NNP
-head NN
-David NNP
-Sarnoff NNP
-was VBD
-born VBN
-in IN
-New NNP
-York NNP
-City NNP
-on IN
-July NNP
-2, CD
-1918 CD
-
-
-[[ Love Brewster | /m/0bhc7qc ]] , the son of [[ William Brewster | /m/03p_9k ]] and Mary Wentworth , was born in about 1595.
-Love NNP
-Brewster NNP
-, ,
-the DT
-son NN
-of IN
-William NNP
-Brewster NNP
-and CC
-Mary NNP
-Wentworth NNP
-, ,
-was VBD
-born VBN
-in IN
-about RB
-1595. CD
-
-
-[[ William Brewster | /m/03p_9k ]] ?s son [[ Love Brewster | /m/0bhc7qc ]] married Sarah Collier and their son Nathaniel married Sarah __
-William NNP
-Brewster NNP
-?s NNP
-son NN
-Love NNP
-Brewster NNP
-married VBD
-Sarah NNP
-Collier NNP
-and CC
-their PRP$
-son NN
-Nathaniel NNP
-married VBD
-Sarah NNP
-__ NN
-
-
-[[ Love Brewster | /m/0bhc7qc ]] , son of [[ Elder William | /m/03p_9k ]] , born in [[ England | /m/02jx1 ]] , married  Sarah, daughter of [[ William Collier | /m/0l8mxdx ]] 
-Love NNP
-Brewster NNP
-, ,
-son NN
-of IN
-Elder NNP
-William NNP
-, ,
-born VBN
-in IN
-England NNP
-, ,
-married VBD
-Sarah, NNP
-daughter NN
-of IN
-William NNP
-Collier NNP
-
-
-[[ Belcourt Castle | /m/023_4p ]] was constructed for [[ Oliver Hazard Perry Belmont | /m/03l7td ]] , who inherited a fortune from his father [[ August Belmont | /m/04p60l ]] .
-Belcourt NNP
-Castle NNP
-was VBD
-constructed VBN
-for IN
-Oliver NNP
-Hazard NNP
-Perry NNP
-Belmont NNP
-, ,
-who WP
-inherited VBD
-a DT
-fortune NN
-from IN
-his PRP$
-father NN
-August NNP
-Belmont NNP
-. .
-
-
-The other coin is similar to the first one and bears the image of [[ Alexios | /m/0rj7 ]] 's successor, [[ John II Komnenos | /m/0jtlf ]] 
-The DT
-other JJ
-coin NN
-is VBZ
-similar JJ
-to TO
-the DT
-first JJ
-one CD
-and CC
-bears VBZ
-the DT
-image NN
-of IN
-Alexios NNP
-'s POS
-successor, NN
-John NNP
-II NNP
-Komnenos NNP
-
-
-[[ Glenn Close | /m/0c3p7 ]] was born in [[ Greenwich | /m/0rd6b ]] , [[ Connecticut | /m/01x73 ]] , the daughter of Bettine and [[ William Taliaferro Close | /m/05fb2yb ]] .
-Glenn NNP
-Close NNP
-was VBD
-born VBN
-in IN
-Greenwich NNP
-, ,
-Connecticut NNP
-, ,
-the DT
-daughter NN
-of IN
-Bettine NNP
-and CC
-William NNP
-Taliaferro NNP
-Close NNP
-. .
-
-
-[[ Marsh | /m/01nx93s ]] stated   [[ Archie | /m/0gfp9ns ]] is our beautiful angel and we will miss him so much
-Marsh NNP
-stated VBD
-Archie NNP
-is VBZ
-our PRP$
-beautiful JJ
-angel NN
-and CC
-we PRP
-will MD
-miss VB
-him PRP
-so RB
-much RB
-
-
-- [[ Coronation Street | /m/01_2n ]] actress [[ Kym Marsh | /m/01nx93s ]] 's baby son, [[ Archie Jay Lomas | /m/0gfp9ns ]] , dies after being born 18 weeks early
-- :
-Coronation NN
-Street NNP
-actress NN
-Kym NNP
-Marsh NNP
-'s POS
-baby NN
-son, VBD
-Archie NNP
-Jay NNP
-Lomas NNP
-, ,
-dies VBZ
-after IN
-being VBG
-born JJ
-18 CD
-weeks NNS
-early RB
-
-
-[[ Coronation Street | /m/01_2n ]] actress [[ Kym Marsh | /m/01nx93s ]] 's baby son, [[ Archie Jay Lomas | /m/0gfp9ns ]] , dies after being born 18 weeks early.
-Coronation NNP
-Street NNP
-actress NN
-Kym NNP
-Marsh NNP
-'s POS
-baby NN
-son, VBD
-Archie NNP
-Jay NNP
-Lomas NNP
-, ,
-dies VBZ
-after IN
-being VBG
-born JJ
-18 CD
-weeks NNS
-early. NN
-
-
-[[ Coronation Street | /m/01_2n ]] actress [[ Kym Marsh | /m/01nx93s ]] 's baby son, [[ Archie Jay Lomas | /m/0gfp9ns ]] , dies after being born 18 weeks early
-Coronation NNP
-Street NNP
-actress NN
-Kym NNP
-Marsh NNP
-'s POS
-baby NN
-son, VBD
-Archie NNP
-Jay NNP
-Lomas NNP
-, ,
-dies VBZ
-after IN
-being VBG
-born JJ
-18 CD
-weeks NNS
-early RB
-
-
-[[ Coronation Street | /m/01_2n ]] actress [[ Kym Marsh | /m/01nx93s ]] has spoken out about the terrible loss of her son [[ Archie Jay Lomas | /m/0gfp9ns ]] .
-Coronation NNP
-Street NNP
-actress NN
-Kym NNP
-Marsh NNP
-has VBZ
-spoken VBN
-out RP
-about IN
-the DT
-terrible JJ
-loss NN
-of IN
-her PRP$
-son NN
-Archie NNP
-Jay NNP
-Lomas NNP
-. .
 
 
 [[ Morgan County | /m/0jcfy ]] was named for [[ Jedediah Morgan Grant | /m/06gx6m ]] , the father of [[ Heber J. Grant | /m/027r4j ]] , a past president of the [[ Church of Jesus Christ of Latter Day Saints | /m/0g5llry ]] .
@@ -1737,44 +460,6 @@ Saints NNP
 Church of Jesus Christ of Latter Day Saints
 
 
-Now your first signing was Dr. [[ Dre | /m/01vvydl ]] ?s son, [[ Curtis Young | /m/063xwch ]] , a.k.a
-Now RB
-your PRP$
-first JJ
-signing NN
-was VBD
-Dr. NNP
-Dre NNP
-?s NNP
-son, NN
-Curtis NNP
-Young NNP
-, ,
-a.k.a NN
-
-
-He is the son of legendary horror movie actor [[ John Carradine | /m/021mlp ]] and half-brother of [[ Kung Fu | /m/02fqgf ]] star [[ David Carradine | /m/02p5hf ]] 
-He PRP
-is VBZ
-the DT
-son NN
-of IN
-legendary JJ
-horror NN
-movie NN
-actor NN
-John NNP
-Carradine NNP
-and CC
-half-brother NN
-of IN
-Kung NNP
-Fu NNP
-star NN
-David NNP
-Carradine NNP
-
-
 [[ Carradine | /m/02p5hf ]] is the son of noted [[ American | /m/09c7w0 ]] actor [[ John Carradine | /m/021mlp ]] 
 Carradine NN
 is VBZ
@@ -1787,52 +472,6 @@ actor NN
 John NNP
 Carradine NNP
 American
-
-
-The eldest son of legendary character actor [[ John Carradine | /m/021mlp ]] , [[ David Carradine | /m/02p5hf ]] was born in [[ Hollywood | /m/0f2wj ]] , [[ California | /m/01n7q ]] 
-The DT
-eldest JJS
-son NN
-of IN
-legendary JJ
-character NN
-actor NN
-John NNP
-Carradine NNP
-, ,
-David NNP
-Carradine NNP
-was VBD
-born VBN
-in IN
-Hollywood NNP
-, ,
-California NNP
-
-
-One of my wife's great aunts who lived in [[ Southern California | /m/0gx1l ]] used to go out with [[ David Carradine | /m/02p5hf ]] 's father, [[ John Carradine | /m/021mlp ]] 
-One CD
-of IN
-my PRP$
-wife's NN
-great JJ
-aunts NNS
-who WP
-lived VBD
-in IN
-Southern NNP
-California NNP
-used VBD
-to TO
-go VB
-out RP
-with IN
-David NNP
-Carradine NNP
-'s POS
-father, NN
-John NNP
-Carradine NNP
 
 
 Background and family [[ Carradine | /m/02p5hf ]] is the son of noted [[ American | /m/09c7w0 ]] actor [[ John Carradine | /m/021mlp ]] 
@@ -1852,160 +491,1724 @@ Carradine NNP
 American
 
 
-[[ David | /m/02p5hf ]] 's father [[ John Carradine | /m/021mlp ]] is a cranky train conductor
-David NNP
-'s POS
-father NN
-John NNP
-Carradine NNP
+She is named after [[ Heather | /m/0lyknb ]] 's mother [[ Beatrice | /m/0x6sy ]] and [[ Paul | /m/03j24kf ]] 's auntie [[ Milly | /m/09pm1zj ]] 
+She PRP
 is VBZ
+named VBN
+after IN
+Heather NNP
+'s POS
+mother NN
+Beatrice NNP
+and CC
+Paul NNP
+'s POS
+auntie NN
+Milly RB
+Milly
+
+
+In 1623 [[ Allerton | /m/08sptb ]] married [[ Fear Brewster | /m/03gx9mk ]] , daughter of [[ Ruling Elder | /m/027v9wk ]] [[ William Brewster | /m/03p_9k ]] 
+In IN
+1623 CD
+Allerton NNP
+married VBD
+Fear NNP
+Brewster NNP
+, ,
+daughter NN
+of IN
+Ruling VBG
+Elder NNP
+William NNP
+Brewster NNP
+Ruling Elder
+
+
+King [[ Ethelbert of Wessex | /m/0c_f8 ]] was a son of [[ Ethelwulf of Wessex | /m/0c_9s ]] and was born in around 835 AD.
+King VBG
+Ethelbert NNP
+of IN
+Wessex NNP
+was VBD
 a DT
-cranky NN
-train NN
-conductor NN
-
-
-On the 10th anniversary of [[ Pai Hsiao-yen | /m/03hhcly ]] ?s kidnap/murder, [[ Pai Ping-ping | /m/043qnkh ]] ?s mood remains as intense as back then.
-On IN
-the DT
-10th JJ
-anniversary NN
-of IN
-Pai NNP
-Hsiao-yen NNP
-?s NNP
-kidnap/murder, VB
-Pai NNP
-Ping-ping NNP
-?s NNP
-mood NN
-remains VBZ
-as RB
-intense JJ
-as IN
-back JJ
-then. NN
-
-
-On the 10th anniversary of [[ Pai Hsiao-yen | /m/03hhcly ]] 's kidnap/murder, [[ Pai Ping-ping | /m/043qnkh ]] 's mood remains as intense as back then.
-On IN
-the DT
-10th JJ
-anniversary NN
-of IN
-Pai NNP
-Hsiao-yen NNP
-'s POS
-kidnap/murder, NN
-Pai NNP
-Ping-ping NNP
-'s POS
-mood NN
-remains VBZ
-as RB
-intense JJ
-as IN
-back JJ
-then. NN
-
-
-Note: [[ Monte Wolverton | /m/0d6dsm ]] is son of [[ Basil Wolverton | /m/04mxy6 ]] .
-Note: NNP
-Monte NNP
-Wolverton NNP
-is VBZ
 son NN
 of IN
-Basil NNP
-Wolverton NNP
-. .
-
-
-These pictures were originally black and white but were later colored by [[ Basil | /m/04mxy6 ]] 's son, [[ Monte Wolverton | /m/0d6dsm ]] .
-These DT
-pictures NNS
-were VBD
-originally RB
-black JJ
+Ethelwulf NNP
+of IN
+Wessex NNP
 and CC
-white JJ
-but CC
-were VBD
-later RB
-colored VBN
+was VBD
+born VBN
+in IN
+around IN
+835 CD
+AD. NNP
+Ethelbert of Wessex
+Ethelwulf of Wessex
+
+
+[[ Yaropolk | /m/014x3c ]] was given [[ Kiev | /m/0c81v ]] by his father [[ Svyatoslav I | /m/0b3s_ ]] , who left on a military campaign against the Danube Bulgars
+Yaropolk NN
+was VBD
+given VBN
+Kiev NNP
 by IN
-Basil NNP
+his PRP$
+father NN
+Svyatoslav NNP
+I PRP
+, ,
+who WP
+left VBD
+on IN
+a DT
+military JJ
+campaign NN
+against IN
+the DT
+Danube NNP
+Bulgars NNP
+Svyatoslav I
+
+
+[[ Yaropolk of Kiev | /m/014x3c ]] succeeds [[ Sviatoslav I | /m/0b3s_ ]] in [[ Kiev | /m/02sn34 ]] 
+Yaropolk NN
+of IN
+Kiev NNP
+succeeds VBZ
+Sviatoslav NNP
+I PRP
+in IN
+Kiev NNP
+Yaropolk of Kiev
+Sviatoslav I
+
+
+[[ Nahla | /m/04328wb ]] ?s father is 32 year old [[ French Canadian | /m/012c1l ]] model [[ Gabriel Aubry | /m/02z6p5f ]] 
+Nahla NNP
+?s NNP
+father NN
+is VBZ
+32 CD
+year NN
+old JJ
+French JJ
+Canadian JJ
+model NN
+Gabriel NNP
+Aubry NNP
+French Canadian
+
+
+The [[ French | /m/0f8l9c ]] name [[ Aubry | /m/04328wb ]] is the last name of the baby's father, [[ Berry | /m/03knl ]] 's boyfriend [[ Gabriel Aubry | /m/02z6p5f ]] 
+The DT
+French JJ
+name NN
+Aubry NNP
+is VBZ
+the DT
+last JJ
+name NN
+of IN
+the DT
+baby's NN
+father, NN
+Berry NNP
+'s POS
+boyfriend NN
+Gabriel NNP
+Aubry NNP
+French
+
+
+[[ St. Vladimir | /m/0b3jc ]] was the son of [[ Sviatoslav I, Prince of Kiev | /m/0b3s_ ]] and his wife Malush.
+St. NNP
+Vladimir NNP
+was VBD
+the DT
+son NN
+of IN
+Sviatoslav NNP
+I, NNP
+Prince NNP
+of IN
+Kiev NNP
+and CC
+his PRP$
+wife NN
+Malush. NNP
+Sviatoslav I, Prince of Kiev
+
+
+He was succeeded by his son [[ Sviatoslav I | /m/0b3s_ ]] , father of  [[ Vladimir I | /m/0b3jc ]] 
+He PRP
+was VBD
+succeeded VBN
+by IN
+his PRP$
+son NN
+Sviatoslav NNP
+I PRP
+, ,
+father NN
+of IN
+Vladimir NNP
+I PRP
+Sviatoslav I
+Vladimir I
+
+
+[[ Sviatoslav I | /m/0b3s_ ]] , Prince of [[ Kiev | /m/02sn34 ]]  representing [[ St Vladimir | /m/0b3jc ]] and his family
+Sviatoslav NNP
+I PRP
+, ,
+Prince NNP
+of IN
+Kiev NNP
+representing VBG
+St NNP
+Vladimir NNP
+and CC
+his PRP$
+family NN
+Sviatoslav I
+
+
+King [[ Ethelwulf of Wessex | /m/0c_9s ]] , father of [[ Alfred the Great | /m/0rsj ]] , was born in [[ Aachen | /m/0qjd ]] during [[ Charlemagne | /m/01mhc ]] 's rule
+King VBG
+Ethelwulf NNP
+of IN
+Wessex NNP
+, ,
+father NN
+of IN
+Alfred NNP
+the DT
+Great NNP
+, ,
+was VBD
+born VBN
+in IN
+Aachen NNP
+during IN
+Charlemagne NNP
+'s POS
+rule NN
+Ethelwulf of Wessex
+Alfred the Great
+
+
+[[ Aethelwulf of Wessex | /m/0c_9s ]] and his son, the future [[ Alfred the Great | /m/0rsj ]] visited [[ Rome | /m/06c62 ]] in [[ Benedict | /m/05_b1 ]] 's reign
+Aethelwulf NNP
+of IN
+Wessex NNP
+and CC
+his PRP$
+son, NN
+the DT
+future NN
+Alfred VBD
+the DT
+Great NNP
+visited VBD
+Rome NNP
+in IN
+Benedict NNP
+'s POS
+reign NN
+Aethelwulf of Wessex
+Alfred the Great
+
+
+King [[ Ethelwulf of Wessex | /m/0c_9s ]] , father of [[ Alfred the Great | /m/0rsj ]] was born in [[ Aachen | /m/0qjd ]] 
+King VBG
+Ethelwulf NNP
+of IN
+Wessex NNP
+, ,
+father NN
+of IN
+Alfred NNP
+the DT
+Great NNP
+was VBD
+born VBN
+in IN
+Aachen NNP
+Ethelwulf of Wessex
+Alfred the Great
+
+
+[[ Aethelwulf of Wessex | /m/0c_9s ]] and his son, the future [[ Alfred the Great | /m/0rsj ]] visited [[ Rome | /m/06c62 ]] in [[ Benedict | /m/05_b1 ]] 's reign.
+Aethelwulf NNP
+of IN
+Wessex NNP
+and CC
+his PRP$
+son, NN
+the DT
+future NN
+Alfred VBD
+the DT
+Great NNP
+visited VBD
+Rome NNP
+in IN
+Benedict NNP
+'s POS
+reign. NN
+Aethelwulf of Wessex
+Alfred the Great
+
+
+[[ King Alfred | /m/0rsj ]] was the youngest son of [[ Aethelwulf of Wessex | /m/0c_9s ]] .
+King VBG
+Alfred NNP
+was VBD
+the DT
+youngest JJS
+son NN
+of IN
+Aethelwulf NNP
+of IN
+Wessex NNP
+. .
+King Alfred
+Aethelwulf of Wessex
+
+
+A historian and diarist, [[ Anna Comnena | /m/014r5w ]] was the daughter of [[ Alexius I Comnenus | /m/0rj7 ]] , emperor of [[ Byzantium | /m/017dc ]] 
+A DT
+historian JJ
+and CC
+diarist, JJ
+Anna NNP
+Comnena NNP
+was VBD
+the DT
+daughter NN
+of IN
+Alexius NNP
+I PRP
+Comnenus NNP
+, ,
+emperor NN
+of IN
+Byzantium NNP
+Alexius I Comnenus
+
+
+[[ Anna Comnena | /m/014r5w ]] writes the [[ Alexiad | /m/03w_dz ]] , which is a of her father, Emperor [[ Alexius I | /m/0rj7 ]] .
+Anna NNP
+Comnena NNP
+writes VBZ
+the DT
+Alexiad NNP
+, ,
+which WDT
+is VBZ
+a DT
+of IN
+her PRP$
+father, JJ
+Emperor NNP
+Alexius NNP
+I PRP
+. .
+Alexius I
+
+
+[[ Anna Comnena | /m/014r5w ]] was a daughter of the [[ Byzantine | /m/017cw ]] emperor [[ Alexius I Comnenus | /m/0rj7 ]] and [[ Irene Ducaena | /m/07vv4k ]] .
+Anna NNP
+Comnena NNP
+was VBD
+a DT
+daughter NN
+of IN
+the DT
+Byzantine NNP
+emperor NN
+Alexius NNP
+I PRP
+Comnenus NNP
+and CC
+Irene NNP
+Ducaena NNP
+. .
+Alexius I Comnenus
+
+
+[[ Anna Comnena | /m/014r5w ]]  was a daughter of the [[ Byzantine | /m/07hdy1 ]] emperor [[ Alexius I Comnenus | /m/0rj7 ]] , and is the first known female historian.
+Anna NNP
+Comnena NNP
+was VBD
+a DT
+daughter NN
+of IN
+the DT
+Byzantine NNP
+emperor NN
+Alexius NNP
+I PRP
+Comnenus NNP
+, ,
+and CC
+is VBZ
+the DT
+first JJ
+known VBN
+female JJ
+historian. NN
+Alexius I Comnenus
+
+
+[[ Anna Comnena | /m/014r5w ]]  was a daughter of the [[ Byzantine | /m/07hdy1 ]] emperor [[ Alexius I Comnenus | /m/0rj7 ]] and [[ Irene Ducaena | /m/07vv4k ]] 
+Anna NNP
+Comnena NNP
+was VBD
+a DT
+daughter NN
+of IN
+the DT
+Byzantine NNP
+emperor NN
+Alexius NNP
+I PRP
+Comnenus NNP
+and CC
+Irene NNP
+Ducaena NNP
+Alexius I Comnenus
+
+
+Born in 1806, [[ Mill | /m/03_hd ]] was himself the son of a philosopher, [[ Scottish | /m/06q1r ]] historian [[ James Mill | /m/017h4t ]] 
+Born VBN
+in IN
+1806, CD
+Mill NNP
+was VBD
+himself PRP
+the DT
+son NN
+of IN
+a DT
+philosopher, JJ
+Scottish JJ
+historian NN
+James NNP
+Mill NNP
+Scottish
+
+
+She married [[ Philip II of Spain | /m/0f6fz ]] , son of [[ Charles V | /m/0j9gg ]] , [[ Holy Roman Emperor | /m/0df9z ]] and [[ Isabel of Portugal | /m/0f9kp7 ]] , and known as Philip the Catholic
+She PRP
+married VBD
+Philip NNP
+II NNP
+of IN
+Spain NNP
+, ,
+son NN
+of IN
+Charles NNP
+V NNP
+, ,
+Holy NNP
+Roman NNP
+Emperor NNP
+and CC
+Isabel NNP
+of IN
+Portugal NNP
+, ,
+and CC
+known VBN
+as IN
+Philip NNP
+the DT
+Catholic NNP
+Philip II of Spain
+Isabel of Portugal
+
+
+[[ Felipe II | /m/0f6fz ]] was born in [[ Valladolid | /m/0124xk ]] , son of [[ Carlos I | /m/0j9gg ]] and [[ Isabel of Portugal | /m/0f9kp7 ]] 
+Felipe NNP
+II NNP
+was VBD
+born VBN
+in IN
+Valladolid NNP
+, ,
+son NN
+of IN
+Carlos NNP
+I PRP
+and CC
+Isabel NNP
+of IN
+Portugal NNP
+Carlos I
+Isabel of Portugal
+
+
+[[ Isabella of Portugal | /m/0f9kp7 ]] , wife of [[ Charles | /m/0j9gg ]] and mother of [[ Philip | /m/0f6fz ]] , had died in 1539.
+Isabella NN
+of IN
+Portugal NNP
+, ,
+wife NN
+of IN
+Charles NNP
+and CC
+mother NN
+of IN
+Philip NNP
+, ,
+had VBD
+died VBN
+in IN
+1539. CD
+Isabella of Portugal
+
+
+[[ Philip II | /m/0f6fz ]]  was the only son of [[ Charles V | /m/0j9gg ]] and [[ Isabella of Portugal | /m/0f9kp7 ]] .
+Philip NNP
+II NNP
+was VBD
+the DT
+only JJ
+son NN
+of IN
+Charles NNP
+V NNP
+and CC
+Isabella NNP
+of IN
+Portugal NNP
+. .
+Isabella of Portugal
+
+
+[[ Philip II | /m/0f6fz ]]  was the only son of [[ Charles V | /m/0j9gg ]] and [[ Isabella of Portugal | /m/0f9kp7 ]] 
+Philip NNP
+II NNP
+was VBD
+the DT
+only JJ
+son NN
+of IN
+Charles NNP
+V NNP
+and CC
+Isabella NNP
+of IN
+Portugal NNP
+Isabella of Portugal
+
+
+last year: Dr. [[ Dre | /m/01vvydl ]] ?s son, [[ Andre Young Jr. | /m/04j6q_q ]] , died from an overdose of heroin and morphine, the [[ Los Angeles County Department of Coroner | /m/0bbsw6 ]] ?..
+last JJ
+year: NN
+Dr. NNP
+Dre NNP
+?s NNP
+son, NN
+Andre NNP
+Young NNP
+Jr. NNP
+, ,
+died VBD
+from IN
+an DT
+overdose NN
+of IN
+heroin NN
+and CC
+morphine, VB
+the DT
+Los NNP
+Angeles NNP
+County NNP
+Department NNP
+of IN
+Coroner NNP
+?.. NNP
+Los Angeles County Department of Coroner
+
+
+Succeeding [[ Shapur I | /m/011knj ]] , [[ Bahram I | /m/011kh9 ]]  persecuted [[ Mani | /m/02yx5q ]] and his followers under pressure from [[ Magi | /m/01df06 ]] 
+Succeeding VBG
+Shapur NNP
+I PRP
+, ,
+Bahram NNP
+I PRP
+persecuted VBD
+Mani NNP
+and CC
+his PRP$
+followers NNS
+under IN
+pressure NN
+from IN
+Magi NNP
+Shapur I
+Bahram I
+
+
+Succeeding [[ Shapur I | /m/011knj ]] , [[ Bahram I | /m/011kh9 ]]  persecuted [[ Mani | /m/02yx5q ]] and his followers under pressure from Zoroastrian Magi
+Succeeding VBG
+Shapur NNP
+I PRP
+, ,
+Bahram NNP
+I PRP
+persecuted VBD
+Mani NNP
+and CC
+his PRP$
+followers NNS
+under IN
+pressure NN
+from IN
+Zoroastrian JJ
+Magi NNP
+Shapur I
+Bahram I
+
+
+Succeeding [[ Shapur I | /m/011knj ]] , [[ Bahram I | /m/011kh9 ]]  persecuted [[ Mani | /m/02yx5q ]] and his followers under pressure from [[ Zoroastrians | /m/025sr3l ]] orthodoxy
+Succeeding VBG
+Shapur NNP
+I PRP
+, ,
+Bahram NNP
+I PRP
+persecuted VBD
+Mani NNP
+and CC
+his PRP$
+followers NNS
+under IN
+pressure NN
+from IN
+Zoroastrians NNP
+orthodoxy VBP
+Shapur I
+Bahram I
+
+
+Succeeding [[ Shapur I | /m/011knj ]] , [[ Bahram I | /m/011kh9 ]]  persecuted [[ Mani | /m/02yx5q ]] and his followers under pressure from [[ Magi | /m/01dpt8 ]] 
+Succeeding VBG
+Shapur NNP
+I PRP
+, ,
+Bahram NNP
+I PRP
+persecuted VBD
+Mani NNP
+and CC
+his PRP$
+followers NNS
+under IN
+pressure NN
+from IN
+Magi NNP
+Shapur I
+Bahram I
+
+
+[[ Claude Mauriac | /m/027p0j_ ]]  was a [[ French | /m/0f8l9c ]] author and journalist, eldest son of the author [[ François Mauriac | /m/015qv9 ]] .
+Claude NNP
+Mauriac NNP
+was VBD
+a DT
+French JJ
+author NN
+and CC
+journalist, NN
+eldest JJS
+son NN
+of IN
+the DT
+author NN
+François NNP
+Mauriac NNP
+. .
+French
+
+
+In 1604, [[ James I | /m/01nq16 ]]  and [[ Philip | /m/0f6fz ]] 's son [[ Philip III | /m/012rkn ]] sent representatives to negotiate the [[ Treaty of London | /m/021wg1 ]] .
+In IN
+1604, CD
+James NNP
+I PRP
+and CC
+Philip NNP
+'s POS
+son NN
+Philip NNP
+III NNP
+sent VBD
+representatives NNS
+to TO
+negotiate VB
+the DT
+Treaty NNP
+of IN
+London NNP
+. .
+James I
+Treaty of London
+
+
+[[ Philip III | /m/012rkn ]] was a son of [[ Philip II of Spain | /m/0f6fz ]] and [[ Anna of Austria | /m/02683dy ]] 
+Philip NNP
+III NNP
+was VBD
+a DT
+son NN
+of IN
+Philip NNP
+II NNP
+of IN
+Spain NNP
+and CC
+Anna NNP
+of IN
+Austria NNP
+Philip II of Spain
+Anna of Austria
+
+
+He was the son of King Christian III of Denmark and Queen [[ Dorothea of Saxe-Lauenburg | /m/0402xd ]] , brother of [[ Frederick II of Denmark | /m/0frtc ]] .
+He PRP
+was VBD
+the DT
+son NN
+of IN
+King NNP
+Christian NNP
+III NNP
+of IN
+Denmark NNP
+and CC
+Queen NNP
+Dorothea NNP
+of IN
+Saxe-Lauenburg NNP
+, ,
+brother NN
+of IN
+Frederick NNP
+II NNP
+of IN
+Denmark NNP
+. .
+Dorothea of Saxe-Lauenburg
+Frederick II of Denmark
+
+
+She married again in 1982 to a [[ Scottish | /m/06q1r ]] landowner, [[ Archie Stirling | /m/027hgy7 ]] , and had [[ Rachael | /m/03rk93 ]] at the age of 39
+She PRP
+married VBD
+again RB
+in IN
+1982 CD
+to TO
+a DT
+Scottish JJ
+landowner, NN
+Archie NNP
+Stirling NNP
+, ,
+and CC
+had VBD
+Rachael VBN
+at IN
+the DT
+age NN
+of IN
+39 CD
+Scottish
+Rachael
+
+
+[[ Goldwater | /m/01j6t ]] 's son, [[ Barry Goldwater, Jr. | /m/09ly_0 ]] , served as a [[ United States House of Representatives | /m/0b3wk ]] member from [[ California | /m/01n7q ]] from 1969 to 1983
+Goldwater NNP
 's POS
 son, NN
-Monte NNP
-Wolverton NNP
-. .
-
-
-[[ Mills | /m/01f761 ]] shares a child with [[ McCartney | /m/03j24kf ]] , 5-year-old [[ Beatrice Milly McCartney | /m/09pm1zj ]] .
-Mills NNP
-shares NNS
-a DT
-child NN
-with IN
-McCartney NNP
+Barry NNP
+Goldwater, NNP
+Jr. NNP
 , ,
-5-year-old JJ
-Beatrice NNP
-Milly NNP
-McCartney NNP
-. .
-
-
-The baby was reportedly named after [[ Heather | /m/01f761 ]] 's late mother [[ Beatrice | /m/09pm1zj ]] and [[ Paul | /m/03j24kf ]] 's Aunt Milly.[153
-The DT
-baby NN
-was VBD
-reportedly RB
-named VBN
-after IN
-Heather NNP
-'s POS
-late JJ
-mother NN
-Beatrice NNP
-and CC
-Paul NNP
-'s POS
-Aunt NNP
-Milly.[153 NNP
-
-
-[[ Mills | /m/01f761 ]] shares a child with [[ McCartney | /m/03j24kf ]] , 5-year-old [[ Beatrice Milly McCartney | /m/09pm1zj ]] 
-Mills NNP
-shares NNS
+served VBD
+as IN
 a DT
-child NN
-with IN
-McCartney NNP
+United NNP
+States NNPS
+House NNP
+of IN
+Representatives NNPS
+member NN
+from IN
+California NNP
+from IN
+1969 CD
+to TO
+1983 CD
+United States House of Representatives
+
+
+[[ Goldwater | /m/01j6t ]] 's son, [[ Barry Goldwater, Jr. | /m/09ly_0 ]] , served as a [[ United States House of Representatives | /m/0b3wk ]] member from [[ California | /m/01n7q ]] from 1969 to 1983.
+Goldwater NNP
+'s POS
+son, NN
+Barry NNP
+Goldwater, NNP
+Jr. NNP
 , ,
-5-year-old JJ
-Beatrice NNP
-Milly NNP
-McCartney NNP
+served VBD
+as IN
+a DT
+United NNP
+States NNPS
+House NNP
+of IN
+Representatives NNPS
+member NN
+from IN
+California NNP
+from IN
+1969 CD
+to TO
+1983. CD
+United States House of Representatives
 
 
-The baby was named after [[ Heather | /m/01f761 ]] 's late mother [[ Beatrice | /m/09pm1zj ]] and Sir [[ Paul | /m/03j24kf ]] 's Aunt Milly
-The DT
-baby NN
-was VBD
-named VBN
-after IN
-Heather NNP
-'s POS
-late JJ
-mother NN
-Beatrice NNP
+On 21 May, Prince [[ Philip of Spain | /m/0f6fz ]]  is born to [[ Charles I | /m/01lg_s ]] and his queen, the [[ Infanta Isabella | /m/02pwv6 ]] of [[ Portugal | /m/05r4w ]] 
+On IN
+21 CD
+May, NNP
+Prince NNP
+Philip NNP
+of IN
+Spain NNP
+is VBZ
+born VBN
+to TO
+Charles NNP
+I PRP
 and CC
-Sir NNP
-Paul NNP
+his PRP$
+queen, NN
+the DT
+Infanta NNP
+Isabella NNP
+of IN
+Portugal NNP
+Philip of Spain
+Charles I
+
+
+[[ Infanta Isabella Clara Eugenia of Spain | /m/02pwv6 ]] was born in [[ Segovia | /m/0jg2n ]] on 12 August, 1566, the daughter of [[ Philip II of Spain | /m/0f6fz ]] and his third wife [[ Elisabeth of Valois | /m/03t5k3 ]] 
+Infanta NNP
+Isabella NNP
+Clara NNP
+Eugenia NNP
+of IN
+Spain NNP
+was VBD
+born VBN
+in IN
+Segovia NNP
+on IN
+12 CD
+August, NNP
+1566, CD
+the DT
+daughter NN
+of IN
+Philip NNP
+II NNP
+of IN
+Spain NNP
+and CC
+his PRP$
+third JJ
+wife NN
+Elisabeth NNP
+of IN
+Valois NNP
+Infanta Isabella Clara Eugenia of Spain
+Philip II of Spain
+Elisabeth of Valois
+
+
+The [[ Lydian | /m/04l3y ]] people are mentioned in the [[ Bible | /m/015j7 ]] as the descendants of [[ Lud | /m/0260mk ]] , son of [[ Shem | /m/0788r ]] 
+The DT
+Lydian JJ
+people NNS
+are VBP
+mentioned VBN
+in IN
+the DT
+Bible NNP
+as IN
+the DT
+descendants NNS
+of IN
+Lud NNP
+, ,
+son NN
+of IN
+Shem NNP
+Lydian
+
+
+One of the last medieval ladies to be honoured was [[ Lady Margaret Beaufort | /m/0j711 ]] , mother of [[ Henry VII | /m/03p6r ]] and grandmother of [[ Henry VIII | /m/03p77 ]] 
+One CD
+of IN
+the DT
+last JJ
+medieval JJ
+ladies NNS
+to TO
+be VB
+honoured VBN
+was VBD
+Lady JJ
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+Henry NNP
+VII NNP
+and CC
+grandmother NN
+of IN
+Henry NNP
+VIII NNP
+Lady Margaret Beaufort
+
+
+In the south aisle are monuments to [[ Mary, Queen of Scots | /m/055l1 ]] and [[ Lady Margaret Beaufort | /m/0j711 ]] , mother of [[ Henry VII | /m/03p6r ]] .
+In IN
+the DT
+south JJ
+aisle NN
+are VBP
+monuments NNS
+to TO
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+and CC
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+Henry NNP
+VII NNP
+. .
+Mary, Queen of Scots
+
+
+[[ Lady Margaret Beaufort | /m/0j711 ]] , mother of [[ Henry VII | /m/03p6r ]] , founded [[ St. John's College | /m/027h2p ]] in 1505 in honour of [[ St. John the Evangelist | /m/046_b ]] .
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+Henry NNP
+VII NNP
+, ,
+founded VBD
+St. NNP
+John's NNP
+College NNP
+in IN
+1505 CD
+in IN
+honour NN
+of IN
+St. NNP
+John NNP
+the DT
+Evangelist NNP
+. .
+St. John the Evangelist
+
+
+[[ Thomas Rolfe | /m/03q33y ]]  was the only child of the legendary [[ Pocahontas | /m/01jggg ]] by her [[ English | /m/02jx1 ]]
+Thomas NNP
+Rolfe NNP
+was VBD
+the DT
+only JJ
+child NN
+of IN
+the DT
+legendary JJ
+Pocahontas NNS
+by IN
+her PRP$
+English JJ
+English
+
+
+Through [[ Thomas Rolfe | /m/03q33y ]] , a number of famous [[ Virginians | /m/03yz0t2 ]] have family ties to [[ Pocahontas | /m/01jggg ]] 
+Through IN
+Thomas NNP
+Rolfe NNP
+, ,
+a DT
+number NN
+of IN
+famous JJ
+Virginians NNS
+have VBP
+family NN
+ties NNS
+to TO
+Pocahontas VB
+Pocahontas
+
+
+The likely progenitor of [[ Assyria | /m/0wmn ]] is [[ Asshur | /m/025wtx ]] , second named son of [[ Shem | /m/0788r ]] according to the [[ Table of Nations | /m/0jdw8 ]] 
+The DT
+likely JJ
+progenitor NN
+of IN
+Assyria NNP
+is VBZ
+Asshur NNP
+, ,
+second NN
+named VBD
+son NN
+of IN
+Shem NNP
+according VBG
+to TO
+the DT
+Table NN
+of IN
+Nations NNS
+Table of Nations
+
+
+[[ Conan The Destroyer | /m/026tnx6 ]] : [[ Richard Fleischer | /m/04v048 ]] , yes son of [[ Max Fleischer | /m/019r_1 ]]  takes over the reigns from [[ John Milius | /m/01wyy_ ]] and brings in the sequel.
+Conan NNP
+The DT
+Destroyer NNP
+: :
+Richard NNP
+Fleischer NNP
+, ,
+yes UH
+son NN
+of IN
+Max NNP
+Fleischer NNP
+takes VBZ
+over IN
+the DT
+reigns NNS
+from IN
+John NNP
+Milius NNP
+and CC
+brings NNS
+in IN
+the DT
+sequel. NN
+Conan The Destroyer
+
+
+It has the country Hul is the son of [[ Aram | /m/03c96p_ ]] , son of [[ Shem | /m/0788r ]] in the [[ Book of Genesis | /m/03b5d ]] 
+It PRP
+has VBZ
+the DT
+country NN
+Hul NNP
+is VBZ
+the DT
+son NN
+of IN
+Aram NNP
+, ,
+son NN
+of IN
+Shem NNP
+in IN
+the DT
+Book NNP
+of IN
+Genesis NNP
+Book of Genesis
+
+
+[[ Elizabeth | /m/02rg_ ]] had executed [[ James I | /m/01nq16 ]] 's mother, [[ Mary, Queen of Scots | /m/055l1 ]] , to avoid attempts on her life
+Elizabeth NNP
+had VBD
+executed VBN
+James NNP
+I PRP
 's POS
-Aunt NNP
-Milly NNP
+mother, JJ
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+to TO
+avoid VB
+attempts NNS
+on IN
+her PRP
+life NN
+James I
+Mary, Queen of Scots
+
+
+[[ Mary | /m/055l1 ]] was moved to [[ Westminster | /m/09bkv ]] by her son, [[ James I | /m/01nq16 ]] , [[ Katharine | /m/01_tz ]] still remains.
+Mary NNP
+was VBD
+moved VBN
+to TO
+Westminster NNP
+by IN
+her PRP$
+son, NN
+James NNP
+I PRP
+, ,
+Katharine NNP
+still RB
+remains. VB
+James I
+
+
+[[ James I | /m/01nq16 ]] , son of [[ Mary Queen of Scots | /m/055l1 ]] became the first King of both [[ England | /m/02jx1 ]] and [[ Scotland | /m/06q1r ]] .
+James NNP
+I PRP
+, ,
+son NN
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+became VBD
+the DT
+first JJ
+King NNP
+of IN
+both DT
+England NNP
+and CC
+Scotland NNP
+. .
+James I
+Mary Queen of Scots
+
+
+[[ Elizabeth I | /m/02rg_ ]] wrote a letter to [[ Mary | /m/055l1 ]] at her trial, and about the execution to [[ Mary | /m/055l1 ]] 's son, [[ King James VI | /m/01nq16 ]] .
+Elizabeth NNP
+I PRP
+wrote VBD
+a DT
+letter NN
+to TO
+Mary NNP
+at IN
+her PRP$
+trial, NN
+and CC
+about IN
+the DT
+execution NN
+to TO
+Mary NNP
+'s POS
+son, NN
+King NNP
+James NNP
+VI NNP
+. .
+Elizabeth I
+
+
+So, for example, [[ Mary, Queen of Scots | /m/055l1 ]] , mother of [[ James VI | /m/01nq16 ]] & I, would receive the number 9
+So, NNP
+for IN
+example, JJ
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+mother NN
+of IN
+James NNP
+VI NNP
+& CC
+I, NNP
+would MD
+receive VB
+the DT
+number NN
+9 CD
+Mary, Queen of Scots
+
+
+[[ James VI of Scotland | /m/01nq16 ]] , son of [[ Mary, Queen of Scots | /m/055l1 ]] , was born here
+James NNP
+VI NNP
+of IN
+Scotland NNP
+, ,
+son NN
+of IN
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+was VBD
+born VBN
+here RB
+James VI of Scotland
+Mary, Queen of Scots
+
+
+It was here that [[ Mary Queen of Scots | /m/055l1 ]] gave birth to [[ James VI | /m/01nq16 ]] in 1566
+It PRP
+was VBD
+here RB
+that IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+gave VBD
+birth NN
+to TO
+James NNP
+VI NNP
+in IN
+1566 CD
+Mary Queen of Scots
+
+
+[[ Elizabeth | /m/055l1 ]] 's senior relative is [[ James VI | /m/01nq16 ]] of [[ Scotland | /m/06q1r ]] , [[ Protestant | /m/05sfs ]] son of [[ Elizabeth | /m/055l1 ]] 's cousin [[ Mary Queen of Scots | /m/055l1 ]] .
+Elizabeth NNP
+'s POS
+senior JJ
+relative NN
+is VBZ
+James NNP
+VI NNP
+of IN
+Scotland NNP
+, ,
+Protestant NNP
+son NN
+of IN
+Elizabeth NNP
+'s POS
+cousin NN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+. .
+Mary Queen of Scots
+
+
+- Early Life The son of Lord Darnley and [[ Mary Queen of Scots | /m/055l1 ]] , [[ James | /m/01nq16 ]] succeeded to the [[ Scottish | /m/06q1r ]] throne ...
+- :
+Early JJ
+Life NNP
+The DT
+son NN
+of IN
+Lord NNP
+Darnley NNP
+and CC
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+James NNP
+succeeded VBD
+to TO
+the DT
+Scottish JJ
+throne NN
+... :
+Mary Queen of Scots
+Scottish
+
+
+The ' [[ Virgin Queen | /m/02rg_ ]] ' [[ Elizabeth 1 | /m/02rg_ ]] named the son of [[ Mary Queen of Scots | /m/055l1 ]] , [[ James | /m/01nq16 ]] , as her heir
+The DT
+' ''
+Virgin NNP
+Queen NNP
+' POS
+Elizabeth NNP
+1 CD
+named VBD
+the DT
+son NN
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+James NNP
+, ,
+as IN
+her PRP$
+heir NN
+Elizabeth 1
+Mary Queen of Scots
+
+
+In 1603, upon [[ Elizabeth | /m/02rg_ ]] 's death, [[ Mary | /m/055l1 ]] 's son became king of [[ England | /m/02jx1 ]] as [[ James I | /m/01nq16 ]] 
+In IN
+1603, CD
+upon IN
+Elizabeth NNP
+'s POS
+death, NN
+Mary NNP
+'s POS
+son NN
+became VBD
+king NN
+of IN
+England NNP
+as IN
+James NNP
+I PRP
+James I
+
+
+... [[ Elizabeth | /m/02rg_ ]] was succeeded by [[ James the First | /m/01nq16 ]] , son of her sister, [[ Mary Queen of Scots | /m/055l1 ]] ...
+... :
+Elizabeth NNP
+was VBD
+succeeded VBN
+by IN
+James NNP
+the DT
+First NNP
+, ,
+son NN
+of IN
+her PRP$
+sister, NN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+... :
+James the First
+Mary Queen of Scots
+
+
+[[ Mary | /m/055l1 ]] son [[ James VI | /m/01nq16 ]] also reputedly played at Musselburgh, prior to journeying south to become [[ James I | /m/01nq16 ]] of [[ England | /m/02jx1 ]] in 1603
+Mary NNP
+son NN
+James NNP
+VI NNP
+also RB
+reputedly RB
+played VBN
+at IN
+Musselburgh, NNP
+prior RB
+to TO
+journeying VBG
+south NN
+to TO
+become VB
+James NNP
+I PRP
+of IN
+England NNP
+in IN
+1603 CD
+James I
+
+
+[[ James | /m/01nq16 ]] was the son of [[ Mary Queen of Scots | /m/055l1 ]] , he was against...
+James NNP
+was VBD
+the DT
+son NN
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+he PRP
+was VBD
+against... JJ
+Mary Queen of Scots
+
+
+[[ Elizabeth | /m/02rg_ ]] died on March 24, 1603 and was succeeded by [[ James I | /m/01nq16 ]] , the son of [[ Mary, Queen of Scots | /m/055l1 ]] .
+Elizabeth NNP
+died VBD
+on IN
+March NNP
+24, CD
+1603 CD
+and CC
+was VBD
+succeeded VBN
+by IN
+James NNP
+I PRP
+, ,
+the DT
+son NN
+of IN
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+. .
+James I
+Mary, Queen of Scots
+
+
+It was there in 1567 that the infant son of [[ Mary Queen of Scots | /m/055l1 ]] was crowned [[ James VI | /m/01nq16 ]] of [[ Scotland | /m/06q1r ]] .
+It PRP
+was VBD
+there RB
+in IN
+1567 CD
+that IN
+the DT
+infant JJ
+son NN
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+was VBD
+crowned VBN
+James NNP
+VI NNP
+of IN
+Scotland NNP
+. .
+Mary Queen of Scots
+
+
+We explored [[ Stirling Castle | /m/01dlps ]] , where [[ Mary Queen of Scots | /m/055l1 ]] gave birth to [[ James VI | /m/01nq16 ]] .
+We PRP
+explored VBD
+Stirling NNP
+Castle NNP
+, ,
+where WRB
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+gave VBD
+birth NN
+to TO
+James NNP
+VI NNP
+. .
+Mary Queen of Scots
+
+
+Award-winning writer [[ Jimmy McGovern | /m/03fsdp ]] explores the lives of [[ Mary Queen of Scots | /m/055l1 ]] and her son, [[ James I | /m/01nq16 ]] in this [[ BBC | /m/0g5lhl7 ]]
+Award-winning JJ
+writer NN
+Jimmy NNP
+McGovern NNP
+explores VBZ
+the DT
+lives NNS
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+and CC
+her PRP$
+son, NN
+James NNP
+I PRP
+in IN
+this DT
+BBC NNP
+Mary Queen of Scots
+James I
+
+
+[[ Mary Queen of Scots | /m/055l1 ]] gave birth to [[ James VI | /m/01nq16 ]] at [[ Edinburgh Castle | /m/0jpn_ ]] .
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+gave VBD
+birth NN
+to TO
+James NNP
+VI NNP
+at IN
+Edinburgh NNP
+Castle NNP
+. .
+Mary Queen of Scots
+
+
+[[ Mary | /m/055l1 ]] 's son, [[ James VI | /m/01nq16 ]] , became [[ James I | /m/01nq16 ]] of [[ England | /m/02jx1 ]] in 1603 because of his descent from [[ Margaret | /m/0j8jc ]] .
+Mary NNP
+'s POS
+son, NN
+James NNP
+VI NNP
+, ,
+became VBD
+James NNP
+I PRP
+of IN
+England NNP
+in IN
+1603 CD
+because IN
+of IN
+his PRP$
+descent NN
+from IN
+Margaret NNP
+. .
+James I
+
+
+[[ Queen Elizabeth | /m/02rg_ ]] had executed [[ James | /m/01nq16 ]] 's mother [[ Mary Queen of Scots | /m/055l1 ]] , one possible successor, and now had no-one to follow her.
+Queen NNP
+Elizabeth NNP
+had VBD
+executed VBN
+James NNP
+'s POS
+mother NN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+, ,
+one CD
+possible JJ
+successor, NN
+and CC
+now RB
+had VBD
+no-one NN
+to TO
+follow VB
+her. NN
+Mary Queen of Scots
+
+
+[[ Neidpath Castle | /m/02wgvc ]] , west of [[ Peebles | /m/022ym3 ]] , dates back to 1370, and famous visitors included [[ Mary, Queen of Scots | /m/055l1 ]] and [[ James I | /m/01nq16 ]] and [[ James VI | /m/01nq16 ]] 
+Neidpath NNP
+Castle NNP
+, ,
+west NN
+of IN
+Peebles NNP
+, ,
+dates VBZ
+back RB
+to TO
+1370, CD
+and CC
+famous JJ
+visitors NNS
+included VBD
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+and CC
+James NNP
+I PRP
+and CC
+James NNP
+VI NNP
+Mary, Queen of Scots
+James I
+
+
+It was there in 1567 that the infant son of [[ Mary Queen of Scots | /m/055l1 ]] was crowned [[ James VI | /m/01nq16 ]] of Scotland.
+It PRP
+was VBD
+there RB
+in IN
+1567 CD
+that IN
+the DT
+infant JJ
+son NN
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+was VBD
+crowned VBN
+James NNP
+VI NNP
+of IN
+Scotland. NNP
+Mary Queen of Scots
+
+
+[[ King James I | /m/01nq16 ]] of [[ England | /m/02jx1 ]] was the son of [[ Mary, Queen of Scots | /m/055l1 ]]  and had a gay father, Lord Darnly.
+King VBG
+James NNP
+I PRP
+of IN
+England NNP
+was VBD
+the DT
+son NN
+of IN
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+and CC
+had VBD
+a DT
+gay JJ
+father, NN
+Lord NNP
+Darnly. NNP
+King James I
+Mary, Queen of Scots
+
+
+monarch to use a fork was [[ James I | /m/01nq16 ]] , son of [[ Mary, Queen of Scots | /m/055l1 ]] 
+monarch NN
+to TO
+use VB
+a DT
+fork NN
+was VBD
+James NNP
+I PRP
+, ,
+son NN
+of IN
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+James I
+Mary, Queen of Scots
+
+
+[[ James | /m/01nq16 ]] was the son of [[ Mary, Queen of Scots | /m/055l1 ]] and her second husband, Lord [[ Darnley | /m/0j73h ]] 
+James NNP
+was VBD
+the DT
+son NN
+of IN
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+and CC
+her PRP$
+second JJ
+husband, NN
+Lord NNP
+Darnley NNP
+Mary, Queen of Scots
+
+
+were martyred there under [[ James | /m/01nq16 ]] ' [[ Catholic | /m/02vxy_ ]] mother, [[ Mary Queen of Scots | /m/055l1 ]] 
+were VBD
+martyred VBN
+there EX
+under IN
+James NNP
+' POS
+Catholic NNP
+mother, NN
+Mary NNP
+Queen NNP
+of IN
+Scots NNP
+Mary Queen of Scots
+
+
+has on display [[ Scottish | /m/06q1r ]] regalia and it is said that [[ Mary, Queen of Scots | /m/055l1 ]] gave birth here to [[ James VI | /m/01nq16 ]] .
+has VBZ
+on IN
+display NN
+Scottish JJ
+regalia NN
+and CC
+it PRP
+is VBZ
+said VBD
+that IN
+Mary, NNP
+Queen NNP
+of IN
+Scots NNP
+gave VBD
+birth NN
+here RB
+to TO
+James NNP
+VI NNP
+. .
+Scottish
+Mary, Queen of Scots
+
+
+Although, [[ James | /m/01nq16 ]] is protestant his mother was the [[ Catholic | /m/02vxy_ ]] martyr   [[ Mary Queen Of Scots | /m/055l1 ]]  .
+Although, NNP
+James NNP
+is VBZ
+protestant JJ
+his PRP$
+mother NN
+was VBD
+the DT
+Catholic NNP
+martyr NN
+Mary NNP
+Queen NNP
+Of IN
+Scots NNP
+. .
+Mary Queen Of Scots
 
 

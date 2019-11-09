@@ -27,148 +27,6 @@ Buffett NNP
 Grammy Award for Best Country Collaboration With Vocals
 
 
-[[ Divini Rae | /m/0751n7 ]] is [[ Playboy Playmate | /m/02kgb7 ]] of the Month - Playmate of November, 2003
-Divini NNP
-Rae NNP
-is VBZ
-Playboy NNP
-Playmate NNP
-of IN
-the DT
-Month NNP
-- :
-Playmate NN
-of IN
-November, NNP
-2003 CD
-
-
-[[ Lee | /m/0420qv ]] is the winner of multiple [[ World Fantasy Awards | /m/01wtt7 ]] and the [[ August Derleth Award | /m/0fhmsz ]] and has been nominated for dozens more.
-Lee NNP
-is VBZ
-the DT
-winner NN
-of IN
-multiple JJ
-World NNP
-Fantasy NNP
-Awards NNP
-and CC
-the DT
-August NNP
-Derleth NNP
-Award NNP
-and CC
-has VBZ
-been VBN
-nominated VBN
-for IN
-dozens NNS
-more. NNS
-
-
-In February 2007, [[ Nettles | /m/0b7tn2 ]] and [[ Bon Jovi | /m/0g_g2 ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best Country Vocal Collaboration | /m/026mfs ]] 
-In IN
-February NNP
-2007, CD
-Nettles NNP
-and CC
-Bon NNP
-Jovi NNP
-won VBD
-a DT
-Grammy NNP
-for IN
-Best NNP
-Country NNP
-Vocal NNP
-Collaboration NNP
-
-
-In 1998, [[ Gil | /m/01w632f ]] won a [[ Grammy | /m/0c4ys ]] for [[ Best World Music Album | /m/031b91 ]] for ? [[ Quanta Live | /m/0j_0x3c ]] ?
-In IN
-1998, CD
-Gil NNP
-won VBD
-a DT
-Grammy NNP
-for IN
-Best NNP
-World NNP
-Music NNP
-Album NNP
-for IN
-? .
-Quanta NNP
-Live NNP
-? .
-
-
-Fonseca also worked on [[ Gil | /m/01w632f ]] 's album [[ Quanta Live | /m/0j_0x3c ]] , which won a [[ Grammy | /m/0c4ys ]] for [[ Best World Music Album | /m/031b91 ]] in 1998
-Fonseca NNP
-also RB
-worked VBD
-on IN
-Gil NNP
-'s POS
-album JJ
-Quanta NNP
-Live NNP
-, ,
-which WDT
-won VBD
-a DT
-Grammy NNP
-for IN
-Best NNP
-World NNP
-Music NNP
-Album NNP
-in IN
-1998 CD
-
-
-[[ Playboy | /m/02kgb7 ]] 's Playmate of the Month [[ Hiromi Oshima | /m/0739d7 ]] photographed by [[ Stephen Wayda | /m/0d6xs7 ]] 
-Playboy NNP
-'s POS
-Playmate NNP
-of IN
-the DT
-Month NNP
-Hiromi NNP
-Oshima NNP
-photographed VBN
-by IN
-Stephen NNP
-Wayda NNP
-
-
-Now [[ Hiromi | /m/0739d7 ]] is [[ Playboy Playmate | /m/02kgb7 ]] of the month June 2004.
-Now RB
-Hiromi NNP
-is VBZ
-Playboy NNP
-Playmate NNP
-of IN
-the DT
-month NN
-June NNP
-2004. CD
-
-
-(in addition, Sergeant [[ Quick | /m/08p8q6 ]] also won the [[ Navy Cross | /m/02d1w_ ]] )
-(in JJ
-addition, NN
-Sergeant NNP
-Quick NNP
-also RB
-won VBD
-the DT
-Navy NNP
-Cross NNP
-) )
-
-
 Sergeant [[ John Henry Quick | /m/08p8q6 ]] was awarded the [[ Congressional Medal of Honor | /m/015cl6 ]] as well as the [[ Navy Cross | /m/02d1w_ ]] on the 13th of December 1898
 Sergeant NNP
 John NNP
@@ -194,51 +52,6 @@ of IN
 December NNP
 1898 CD
 Congressional Medal of Honor
-
-
-[[ Hammer | /m/02kts3 ]] also received [[ Grammy awards | /m/0c4ys ]] for   [[ Best Instrumental Composition | /m/025m98 ]]   and   [[ Best Pop Instrumental Performance | /m/02gdjb ]] .
-Hammer NNP
-also RB
-received VBD
-Grammy NNP
-awards NNS
-for IN
-Best NNP
-Instrumental NNP
-Composition NNP
-and CC
-Best NNP
-Pop NNP
-Instrumental NNP
-Performance NNP
-. .
-
-
-At the Grammy awards in February 1986,   [[ Miami Vice Theme | /m/047gln ]]   earned [[ Jan | /m/02kts3 ]] two awards, for   [[ Best Pop Instrumental Performance | /m/02gdjb ]]   and   [[ Best Instrumental Composition | /m/025m98 ]] .
-At IN
-the DT
-Grammy NNP
-awards NNS
-in IN
-February NNP
-1986, CD
-Miami NNP
-Vice NNP
-Theme NNP
-earned VBD
-Jan NNP
-two CD
-awards, NN
-for IN
-Best NNP
-Pop NNP
-Instrumental NNP
-Performance NNP
-and CC
-Best NNP
-Instrumental NNP
-Composition NNP
-. .
 
 
 Plus, [[ Jack | /m/01vsnff ]] and [[ Lynn | /m/017xm3 ]] shared a [[ Grammy | /m/0c4ys ]] for [[ Best Country Collaboration With Vocals | /m/026mfs ]] for one of that album's songs
@@ -287,28 +100,6 @@ Godfather NNP
 in IN
 1973 CD
 The Godfather
-
-
-Over , [[ Eastwood | /m/0bwh6 ]] had been the presenter for [[ Best Picture | /m/0gq9h ]] when [[ Ruddy | /m/05bdqt ]] won his first [[ Oscar | /m/0gq9h ]] as producer of 
-Over IN
-, ,
-Eastwood NNP
-had VBD
-been VBN
-the DT
-presenter NN
-for IN
-Best NNP
-Picture NN
-when WRB
-Ruddy NNP
-won VBD
-his PRP$
-first JJ
-Oscar NNP
-as IN
-producer NN
-of IN
 
 
 2005: [[ Clint Eastwood | /m/0bwh6 ]] and [[ Albert Ruddy | /m/05bdqt ]] share the [[ Best Picture Oscar | /m/0gq9h ]] for   [[ Million Dollar Baby | /m/04q827 ]] .
@@ -423,38 +214,6 @@ winning VBG
 video. NN
 MTV Video Music award for Best R&B Video
 No More Drama
-
-
-[[ Mary J. Blige | /m/01vvyvk ]] Wins [[ Best R&B Video | /m/02f764 ]]
-Mary NNP
-J. NNP
-Blige NNP
-Wins NNP
-Best NNP
-R&B NNP
-Video NNP
-
-
-It could be a contender, but then again, [[ Columbia Pictures | /m/017s11 ]] isn't the most savvy [[ Oscar | /m/0gq9h ]] studio as of late
-It PRP
-could MD
-be VB
-a DT
-contender, NN
-but CC
-then RB
-again, VBZ
-Columbia NNP
-Pictures NNPS
-isn't VBP
-the DT
-most RBS
-savvy JJ
-Oscar NN
-studio NN
-as IN
-of IN
-late JJ
 
 
 In 2004, [[ Palmer | /m/0l0cx ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] from [[ George W. Bush | /m/09b6zr ]] during a [[ White House | /m/081sq ]] ceremony.
@@ -940,54 +699,6 @@ in IN
 Presidential Medal of Freedom
 
 
-The [[ Deer Hunter | /m/0jqj5 ]] was [[ Michael Cimino | /m/02l5rm ]] 's directorial debut, and won five [[ Academy Awards | /m/0g_w ]] including [[ Best Picture | /m/0gq9h ]] and Best Director
-The DT
-Deer NNP
-Hunter NNP
-was VBD
-Michael NNP
-Cimino NNP
-'s POS
-directorial JJ
-debut, NN
-and CC
-won VBD
-five CD
-Academy NNP
-Awards NNPS
-including VBG
-Best NNP
-Picture NN
-and CC
-Best NNP
-Director NNP
-
-
-The [[ Deer Hunter | /m/0jqj5 ]]  was directed by [[ Michael Cimino | /m/02l5rm ]] , and won an [[ Oscar | /m/0g_w ]] for him as well as for [[ Best Picture | /m/0gq9h ]] .
-The DT
-Deer NNP
-Hunter NNP
-was VBD
-directed VBN
-by IN
-Michael NNP
-Cimino NNP
-, ,
-and CC
-won VBD
-an DT
-Oscar NN
-for IN
-him PRP
-as RB
-well RB
-as IN
-for IN
-Best NNP
-Picture NN
-. .
-
-
 In 2000, Dr. [[ Krim | /m/02qg8k7 ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] , the nation's highest civilian honor
 In IN
 2000, CD
@@ -1034,48 +745,6 @@ highest JJS
 civilian JJ
 honor NN
 Presidential Medal of Freedom
-
-
-In November of that year, [[ Puller | /m/015wtp ]] earned an unprecedented fifth [[ Navy Cross | /m/02d1w_ ]] for action at [[ Chosin Reservoir | /m/0d4t1 ]] 
-In IN
-November NNP
-of IN
-that DT
-year, NN
-Puller NNP
-earned VBD
-an DT
-unprecedented JJ
-fifth NN
-Navy NNP
-Cross NNP
-for IN
-action NN
-at IN
-Chosin NNP
-Reservoir NNP
-
-
-The [[ Marine | /m/01skqzw ]] in that photo was First Sergeant [[ Brad Kasal | /m/015wtp ]] , who received the [[ Navy Cross | /m/02d1w_ ]] for his actions
-The DT
-Marine NNP
-in IN
-that DT
-photo NN
-was VBD
-First NNP
-Sergeant NNP
-Brad NNP
-Kasal NNP
-, ,
-who WP
-received VBD
-the DT
-Navy NNP
-Cross NNP
-for IN
-his PRP$
-actions NNS
 
 
 How grateful I am that [[ Mister Rogers | /m/010q36 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] last year from President [[ Bush | /m/09b6zr ]] .
@@ -1856,26 +1525,6 @@ Bush NNP
 Presidential Medal of Freedom
 
 
-[[ Marcus | /m/02rwyy8 ]] received the [[ Navy Cross | /m/02d1w_ ]] 
-Marcus NNP
-received VBD
-the DT
-Navy NNP
-Cross NNP
-
-
-[[ Luttrell | /m/02rwyy8 ]] was awarded the [[ Navy Cross | /m/02d1w_ ]] by President [[ Bush | /m/09b6zr ]] 
-Luttrell NNP
-was VBD
-awarded VBN
-the DT
-Navy NNP
-Cross NNP
-by IN
-President NNP
-Bush NNP
-
-
 Mrs. [[ Luce | /m/0177y3 ]] was a true [[ Renaissance Woman | /m/0177y3 ]] and a recipient of the [[ Presidential Medal of Freedom | /m/05qck ]] 
 Mrs. NNP
 Luce NNP
@@ -2106,5 +1755,426 @@ Martin NNP
 Luther NNP
 King NNP
 Medal of Freedom
+
+
+[[ Save | /m/01thhh ]] -the-date October 24-26, 2008 for the fall Alumnae/i College featuring [[ Francis Collins | /m/05d0sm ]] , winner of the [[ Presidential Medal of Freedom | /m/05qck ]] .
+Save NNP
+-the-date NNP
+October NNP
+24-26, JJ
+2008 CD
+for IN
+the DT
+fall NN
+Alumnae/i NNP
+College NNP
+featuring VBG
+Francis NNP
+Collins NNP
+, ,
+winner NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Greenspan | /m/015h4y ]] collected a [[ Presidential Medal of Freedom | /m/05qck ]] here, a [[ British | /m/07ssc ]] knighthood and a [[ French Legion of Honor | /m/0154yf ]] there
+Greenspan NNP
+collected VBD
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+here, VB
+a DT
+British JJ
+knighthood NN
+and CC
+a DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+there EX
+Presidential Medal of Freedom
+British
+French Legion of Honor
+
+
+[[ Greenspan | /m/015h4y ]] collected a [[ Presidential Medal of Freedom | /m/05qck ]] here, a [[ British | /m/07ssc ]] knighthood and a [[ French Legion of Honor | /m/0154yf ]] there.
+Greenspan NNP
+collected VBD
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+here, VB
+a DT
+British JJ
+knighthood NN
+and CC
+a DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+there. NN
+Presidential Medal of Freedom
+British
+French Legion of Honor
+
+
+Popular home & about a world, [[ Kirk Douglas | /m/0j582 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1981 and the [[ French Legion of Honor | /m/0154yf ]] in 1985
+Popular NNP
+home NN
+& CC
+about IN
+a DT
+world, NN
+Kirk NNP
+Douglas NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1981 CD
+and CC
+the DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+in IN
+1985 CD
+Presidential Medal of Freedom
+French Legion of Honor
+
+
+Popular at home and around the world, [[ Kirk Douglas | /m/0j582 ]] received the [[ Presidential Medal of Freedom | /m/05qck ]] in 1981 and the [[ French Legion of Honor | /m/0154yf ]] in 1985
+Popular NN
+at IN
+home NN
+and CC
+around IN
+the DT
+world, NN
+Kirk NNP
+Douglas NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1981 CD
+and CC
+the DT
+French JJ
+Legion NNP
+of IN
+Honor NNP
+in IN
+1985 CD
+Presidential Medal of Freedom
+French Legion of Honor
+
+
+[[ Robert Coles | /m/02643jj ]] is the winner of [[ America | /m/09c7w0 ]] 's highest civilian award, the [[ Medal of Freedom | /m/05qck ]] .
+Robert NNP
+Coles NNP
+is VBZ
+the DT
+winner NN
+of IN
+America NNP
+'s POS
+highest JJS
+civilian JJ
+award, NN
+the DT
+Medal NNP
+of IN
+Freedom NNP
+. .
+Medal of Freedom
+
+
+Dr. [[ Becker | /m/0d71m ]] is a [[ Nobel Laureate | /m/0d71m ]] in Economic Sciences and was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] in 2007.
+Dr. NNP
+Becker NNP
+is VBZ
+a DT
+Nobel NNP
+Laureate NNP
+in IN
+Economic NNP
+Sciences NNPS
+and CC
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2007. CD
+Presidential Medal of Freedom
+
+
+In addition to being a [[ Nobel | /m/011w54 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] .
+In IN
+addition NN
+to TO
+being VBG
+a DT
+Nobel NNP
+laureate, NN
+Becker NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+[[ Gary Becker | /m/0d71m ]] has been awarded the? [[ Presidential Medal of Freedom | /m/05qck ]] .
+Gary NNP
+Becker NNP
+has VBZ
+been VBN
+awarded VBN
+the? JJ
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+Upon hearing the news that [[ Gary Becker | /m/0d71m ]] had won the [[ Presidential Medal of Freedom | /m/05qck ]] , I went to the official [[ Medal of Freedom | /m/05qck ]]
+Upon IN
+hearing VBG
+the DT
+news NN
+that IN
+Gary NNP
+Becker NNP
+had VBD
+won VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+I PRP
+went VBD
+to TO
+the DT
+official JJ
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+Medal of Freedom
+
+
+In addition to being a [[ Nobel | /m/011w54 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] 
+In IN
+addition NN
+to TO
+being VBG
+a DT
+Nobel NNP
+laureate, NN
+Becker NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ Gary Becker | /m/0d71m ]] has been awarded the? [[ Presidential Medal of Freedom | /m/05qck ]] 
+Gary NNP
+Becker NNP
+has VBZ
+been VBN
+awarded VBN
+the? JJ
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+[[ GSB | /m/02sjd2 ]] prof [[ Becker | /m/0d71m ]] awarded [[ Presidential Medal of Freedom | /m/05qck ]] .
+GSB NNP
+prof NN
+Becker NNP
+awarded VBD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Presidential Medal of Freedom
+
+
+(Finally, was I wrong to argue that [[ Gary Becker | /m/0d71m ]] should turn down the [[ Medal of Freedom | /m/05qck ]] from such a man
+(Finally, NN
+was VBD
+I PRP
+wrong VBP
+to TO
+argue VB
+that IN
+Gary NNP
+Becker NNP
+should MD
+turn VB
+down RP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+from IN
+such JJ
+a DT
+man NN
+Medal of Freedom
+
+
+In addition to being a [[ Nobel | /m/059x1 ]] laureate, [[ Becker | /m/0d71m ]] is a recipient of the 2007 [[ Presidential Medal of Freedom | /m/05qck ]] 
+In IN
+addition NN
+to TO
+being VBG
+a DT
+Nobel NNP
+laureate, NN
+Becker NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Presidential Medal of Freedom
+
+
+Guggenheim Fellow [[ Shadi Bartsch | /m/051zlyb ]] , MacArthur Fellow Olufunmilayo Falusi Olopade, and 2007 [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Gary Becker | /m/0d71m ]] .
+Guggenheim NNP
+Fellow NNP
+Shadi NNP
+Bartsch NNP
+, ,
+MacArthur NNP
+Fellow NNP
+Olufunmilayo NNP
+Falusi NNP
+Olopade, NNP
+and CC
+2007 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+Gary NNP
+Becker NNP
+. .
+Presidential Medal of Freedom
+
+
+posts by President [[ Bill Clinton | /m/0157m ]] , who also awarded [[ McGovern | /m/0gz2q ]] the [[ Presidential Medal of Freedom | /m/05qck ]] in 2000
+posts NNS
+by IN
+President NNP
+Bill NNP
+Clinton NNP
+, ,
+who WP
+also RB
+awarded VBD
+McGovern NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2000 CD
+Presidential Medal of Freedom
+
+
+Senator [[ McGovern | /m/0gz2q ]] is a [[ Presidential Medal of Freedom | /m/05qck ]] winner and the first [[ United Nations | /m/07t65 ]]
+Senator NNP
+McGovern NNP
+is VBZ
+a DT
+Presidential JJ
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+and CC
+the DT
+first JJ
+United NNP
+Nations NNP
+Presidential Medal of Freedom
+
+
+Ambassador [[ McGovern | /m/0gz2q ]] was awarded the [[ Presidential Medal of Freedom | /m/05qck ]] at the [[ White House | /m/081sq ]] on August 9, 2000
+Ambassador NNP
+McGovern NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+at IN
+the DT
+White NNP
+House NNP
+on IN
+August NNP
+9, CD
+2000 CD
+Presidential Medal of Freedom
 
 
