@@ -1,0 +1,120 @@
+Verbs that hold:
+
+is(1) earned(1) presented(7) awarded(26) (won(8),wins(1)) (gave (1), given(1)) honored(1) (receives(2), received(11)) bestowed(1), (share (1), shared(1)
+
+
+Sentences that hold: 
+
+At the Grammy awards in February 1986,   ENTITY1   earned OBJECT two awards, for   SUBJECT   and   ENTITY2 .
+On January 13, 2009, ENTITY1 presented OBJECT with the SUBJECT 
+On November 5, 2007, OBJECT was awarded the SUBJECT 
+This is the second time OBJECT has won the SUBJECT 
+In 2007, OBJECT was awarded the SUBJECT , by ENTITY1 
+Prime Minister OBJECT and former ENTITY1 leader ENTITY2 was given the SUBJECT
+In 1969, ENTITY1 honored OBJECT with the SUBJECT , the nation's highest civilian honor
+in addition, Sergeant OBJECT also won the SUBJECT
+Posthumously, Dr. OBJECT was awarded the ENTITY1 by President ENTITY2 in 1977 and the SUBJECT in 2004
+OBJECT is SUBJECT of the Month - Playmate of November, 2003
+OBJECT was presented with the SUBJECT in 1996.
+Five years later, President ENTITY1 awarded OBJECT the nation's highest civilian award, the SUBJECT 
+In 1999, OBJECT was awarded the SUBJECT , the highest civilian honor that anyone can receive
+OBJECT was awarded the SUBJECT in 1995.
+President ENTITY1 awarded the SUBJECT to Dr. OBJECT yesterday.
+OBJECT Wins SUBJECT
+In 1977, the SUBJECT was awarded posthumously to ENTITY1 by OBJECT 
+ENTITY1 , citation accompanying the SUBJECT presented to OBJECT on 23 July 2003
+Next week, Mr OBJECT will be presented with the SUBJECT by ENTITY1 at the ENTITY2 .
+Despite this criticism, in 2000, President ENTITY1 awarded OBJECT the SUBJECT , the ENTITY2 ' highest civilian honor
+posthumously awarded OBJECT a SUBJECT , the highest civilian honor in the ENTITY1 
+On November 5, 2007, OBJECT was presented with the SUBJECT by President ENTITY1 at a White House Ceremony
+OBJECT won the SUBJECT in 1976 and the ENTITY1 in 1988.
+OBJECT was awarded the ENTITY1 and the SUBJECT for his contributions to the civil rights movement.
+In 1998, OBJECT was awarded the SUBJECT by President ENTITY1 ; he died in 2005
+On November 9, 2005 ENTITY1 and OBJECT were presented with the SUBJECT for their contribution to ENTITY2 culture.
+2005: OBJECT  receives the SUBJECT 
+President Honours Cornhusker On 11 December 1992, OBJECT received the SUBJECT 
+President ENTITY1 has bestowed the SUBJECT to OBJECT for his concern and involvement in environmental issues
+On August 9, 2000, President ENTITY1 awarded a SUBJECT to OBJECT 
+President OBJECT also received a SUBJECT and a ENTITY1 
+OBJECT received the SUBJECT , the highest honor awarded to a citizen
+OBJECT was awarded a SUBJECT in 2003
+OBJECT was awarded the SUBJECT in 1988 and received the ENTITY1 the same year
+November also saw ENTITY1 and OBJECT awarded the SUBJECT for their pioneering work on Internet protocols.
+In 1998, OBJECT received the SUBJECT , the nation's highest civilian award
+In 1996, OBJECT received the SUBJECT 
+Today ENTITY1 visited the ENTITY2 for the last time as President where he presented the SUBJECT to Ambassador OBJECT 
+ENTITY1 prof OBJECT awarded SUBJECT 
+In 1998, OBJECT won a ENTITY1 for SUBJECT for ? ENTITY2 ?
+In 1994, he and OBJECT won a ENTITY1 for SUBJECT for  I Fall to ENTITY2 
+Plus, OBJECT and ENTITY1 shared a ENTITY2 for SUBJECT for one of that album's songs
+OBJECT was awarded the ENTITY1 in 1973 and the SUBJECT in 2002.[44
+In 1950 the ENTITY1 awarded OBJECT with a SUBJECT  for the safer triacetate stock.[28
+OBJECT received the ENTITY1 ' highest civilian award, the SUBJECT , in December 1992.
+Popular at home and around the world, OBJECT received the SUBJECT in 1981 and the ENTITY1 in 1985
+OBJECT was awarded the SUBJECT by President ENTITY1 
+Last season ENTITY1 end OBJECT won the coveted SUBJECT during the 11th season the FWAA has named a ENTITY2 
+On 27 November 1930 OBJECT was awarded the SUBJECT for negotiating the ENTITY1 of 1928, which outlawed war
+On Tuesday, he gave the SUBJECT to OBJECT , the head of ENTITY1 
+OBJECT won SUBJECT , ? ENTITY1 .
+2005: ENTITY1 and OBJECT share the SUBJECT for   ENTITY2 .
+OBJECT received the SUBJECT for his lifetime of humanitarian work
+6) On January 22, 2004, OBJECT was awarded the SUBJECT , the ENTITY1 ' highest civilian honor.
+Former PM OBJECT receives the ENTITY1 ' highest civil award - the SUBJECT - in ENTITY2 .
+Over , ENTITY1 had been the presenter for SUBJECT when OBJECT won his first SUBJECT as producer of 
+President ENTITY1 awarded OBJECT with the SUBJECT just a few weeks ago, on Nov. 5.
+OBJECT received a posthumous SUBJECT from ENTITY1 and was the subject of a major reassessment by Sam Tannenhaus
+OBJECT was awarded the SUBJECT in 1957 for ENTITY1 , an unusual honor for such a young director
+Popular home & about a world, OBJECT received the SUBJECT in 1981 and the ENTITY1 in 1985
+On June 5, 1988, OBJECT was awarded the prestigious SUBJECT by the ENTITY1 
+OBJECT received honors at the ENTITY1 in 1983 and the SUBJECT in 1995.
+OBJECT was awarded the SUBJECT in August 2000, the nations highest civilian honor
+
+
+Sentences that do not hold:
+
+(a) Entity misclassified as subject
+(b) Verb does not express the relation
+(c) Others do not express the relation
+(d) Entity misclassified as object
+(e) Person awarding the award is mistagged as object
+
+About the Authors OBJECT is the author of the SUBJECT -winning The Free Women of Petersburg.
+One of the top lots was the SUBJECT awarded to ENTITY1 in 1984 by President OBJECT 
+President OBJECT awarded ENTITY1 the SUBJECT in 1980 for his lifetime battle for civil rights.
+President ENTITY1 awarded the SUBJECT , the nation's highest civilian honor to OBJECT 's widow in 1994
+The boycott announcement specifically cites radio legend and SUBJECT winner OBJECT , as well as popular talker ENTITY1
+This movie deservedly won four ENTITY1 including both SUBJECT and Best Director for OBJECT 
+OBJECT inaugurated the SUBJECT for musicians
+OBJECT left ENTITY1 in 1966 and, in 1998, he was awarded the SUBJECT by President ENTITY2
+Moreover, ENTITY1 voted against OBJECT receiving the SUBJECT , which even left the likes of ENTITY2 apalled
+**Others, most notably our wonderful faculty like SUBJECT winner? OBJECT
+**OBJECT receives ENTITY1 SUBJECT from ENTITY2
+**OBJECT s  ENTITY1  poses as SUBJECT
+In 1981, ENTITY1 was awarded the SUBJECT by President OBJECT 
+When I watched the film with a friend, he laughed when seeing OBJECT presenting the SUBJECT to ENTITY1 
+Howard receives Medal of Freedom Video: Former ENTITY1 prime minister OBJECT awarded the SUBJECT 
+b Two-time SUBJECT author OBJECT makes history come alive in this accessible story of ENTITY1 's birthday.
+c as opposed to the SUBJECT that OBJECT picks up at the ENTITY1 on Tuesday
+b Mr OBJECT is very popular in the ENTITY1 and was awarded the SUBJECT 
+d Six years later, the SUBJECT was awarded to ENTITY1 by OBJECT 
+e ENTITY1 was awarded the ENTITY2 for literature in 1962 and received the SUBJECT from President OBJECT in 1964
+c Also separate portraits of Ariel and OBJECT receiving the SUBJECT from President ENTITY1 
+b The ENTITY1 was OBJECT 's directorial debut, and won five ENTITY2 including SUBJECT and Best Director
+e President OBJECT awarded ENTITY1 the prestigious SUBJECT in 1978.
+e Nine years later, in 1977, President OBJECT awarded ENTITY1 the SUBJECT 
+e ENTITY1 earned the SUBJECT from OBJECT in 1969
+e OBJECT awarded ENTITY1 the SUBJECT , the nation's highest civilian honor
+e In 1977, President OBJECT awarded ENTITY1 the SUBJECT 
+e OBJECT later presented ENTITY1 with the SUBJECT , the highest government award that can be granted to a civilian
+b In addition, OBJECT is a recipient of the SUBJECT , and the ENTITY1 
+b In addition to being a ENTITY1 laureate, OBJECT is a recipient of the 2007 SUBJECT 
+e Shortly after his death in 1976, OBJECT awarded ENTITY1 the SUBJECT , the ENTITY2 ' highest civilian honor
+c The boycott announcement specifically cites radio legend and SUBJECT winner OBJECT , as well as popular talker ENTITY1 .
+b Dr. OBJECT is the recipient of the ENTITY1 and the SUBJECT , the nation's highest civilian honor.
+b OBJECT is the third president of ENTITY1 to be honored with the SUBJECT 
+
+
+
+
+Question Mark:
+OBJECT currently holds a nomination for SUBJECT 
