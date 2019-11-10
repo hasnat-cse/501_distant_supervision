@@ -8,7 +8,7 @@ from nltk import pos_tag
 from random import sample
 
 
-# store information about each sentence in a relation
+# store information about each incorrectly tagged sentence in a relation
 class SentenceInformation:
     def __init__(self, sentence, pos_tags, entities, incorrectly_tagged_entities):
         self.sentence = sentence  # each sentence in a relation
