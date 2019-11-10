@@ -150,7 +150,7 @@ def pre_process(sentence, subject_tag, object_tag):
 
         tag = tags[x]
 
-        print(tag + " " + entity + "\n")
+        
 
         # pattern to find '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas' and tag '/m/05k4k'
 
@@ -193,14 +193,12 @@ def pre_process(sentence, subject_tag, object_tag):
 
 
 def write_output(output_file, data):
-    LCA_dictionary = {}
 
     f = open(output_file, "w")
 
     for each in data:
 
-        if (each.LCA == None):
-            continue;
+        
 
         f.write(each.modified_sentence + "\n")
 
@@ -242,19 +240,7 @@ def write_output(output_file, data):
 
         f.write("\n\n")
 
-        each.LCA = each.LCA.lower()
-
-        if (each.LCA in LCA_dictionary):
-
-            LCA_dictionary[each.LCA] = LCA_dictionary.get(each.LCA) + 1
-
-        else:
-
-            LCA_dictionary[each.LCA] = 1
-
-    for x in LCA_dictionary:
-        print(x + " & " + str(LCA_dictionary[x]) + "\\\\\n")
-
+        
 
 def main():
     if len(sys.argv) == 1:
@@ -277,7 +263,7 @@ def main():
             json_data = json.load(f)
             # print(json.dumps(json_data, indent=4))
 
-            # json_data = sample (json_data, 100)
+            json_data = sample (json_data, 100)
 
             for each_data in json_data:
 
@@ -302,21 +288,9 @@ def main():
                 # remove entity tags from each sentence
                 modified_sentence, mappings = pre_process(sentence, subject_tag, object_tag)
 
-                print(modified_sentence)
-
                 subject_path, object_path = find_paths(modified_sentence)
 
-                print(subject_path)
-
                 LCA = find_LCA(subject_path, object_path)
-
-                if (LCA == None):
-
-                    print("None")
-
-                else:
-
-                    print(LCA)
 
                 sentence_info = SentenceInformation(modified_sentence, mappings, subject_path, object_path, LCA)
 
