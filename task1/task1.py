@@ -75,8 +75,8 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
         for word in words_in_entity:
             for word_tag in pos_tags:
 
-                # if any word of the entity contains pos tag that is not Noun or not started with 'N' than it will be identified as incorrect
-                if word == word_tag[0] and len(word_tag[1]) >= 1 and word_tag[1][0:1] != 'N':
+                # if any word of the entity contains pos tag that is not Noun (not started with 'NN') will be identified as incorrect
+                if word == word_tag[0] and len(word_tag[1]) >= 2 and word_tag[1][0:2] != 'NN':
                     incorrectly_tagged_entities.append(entity)
                     non_noun_tag_found = True
                     break
