@@ -6,7 +6,8 @@ first JJ
 on-screen JJ
 role NN
 in IN
-2005, CD
+2005 CD
+, ,
 where WRB
 she PRP
 played VBD
@@ -25,7 +26,8 @@ Mitchell NNP
 plays VBZ
 Herr NNP
 Weiss NNP
-?the NNP
+? .
+the DT
 rather RB
 nervous JJ
 Swiss JJ
@@ -39,7 +41,8 @@ Mitchell NNP
 plays VBZ
 Herr NNP
 Weiss NNP
-,the NNP
+, ,
+the DT
 rather RB
 nervous JJ
 Swiss JJ
@@ -48,7 +51,8 @@ Swiss
 
 
 RM: You appeared briefly in the 1998 movie version of [[ Lost in Space | /m/02p_zh3 ]] , in which [[ Lacey Chabert | /m/02k4b2 ]] played [[ Penny Robinson | /m/0gm0ftq ]] 
-RM: NNP
+RM NN
+: :
 You PRP
 appeared VBD
 briefly NN
@@ -84,8 +88,9 @@ Nicole NNP
 Noone NNP
 in IN
 The DT
-Librarian: NNP
-Quest NNP
+Librarian JJ
+: :
+Quest JJS
 for IN
 the DT
 Spear NNP
@@ -111,11 +116,13 @@ just RB
 love VB
 Hammy NNP
 - :
-he's NN
+he PRP
+'s VBZ
 so RB
 funny JJ
 and CC
-cute! NN
+cute NN
+! .
 Over the Hedge
 
 
@@ -147,11 +154,13 @@ Scream NNP
 2 CD
 's POS
 maybe RB
-killer, JJ
+killer NN
+, ,
 Cotton NNP
 Weary NNP
 , ,
-weak? JJ
+weak JJ
+? .
 Schreiber NNP
 lights VBZ
 up RP
@@ -231,9 +240,10 @@ House of Mouse
 
 
 (also called  Pants Parties  after a quote from [[ Steve Carell | /m/04t2l2 ]] 's character [[ Brick Tamland | /m/02nwrvg ]] in the film [[ The Legend of Ron Burgundy | /m/034qzw ]] )
-(also NN
+( (
+also RB
 called VBD
-Pants NNP
+Pants NNS
 Parties NNPS
 after IN
 a DT
@@ -295,7 +305,8 @@ as IN
 queeny JJ
 Uncle NNP
 Arthur NNP
-). NN
+) )
+. .
 The Daily Show
 
 
@@ -387,7 +398,8 @@ Lady de Winter
 First of all, [[ Harris | /m/02gylv ]] played [[ Jamie Lloyd | /m/09435s ]] , [[ Michael Myers | /m/03zj8n ]] ? niece in [[ Halloween 4 | /m/06d6ch ]] and 5
 First NNP
 of IN
-all, JJ
+all DT
+, ,
 Harris NNP
 played VBD
 Jamie NNP
@@ -435,7 +447,8 @@ also RB
 appeared VBD
 on IN
 the DT
-show, NN
+show NN
+, ,
 which WDT
 was VBD
 co-created VBN
@@ -472,7 +485,8 @@ Night NNP
 of IN
 the DT
 Hunter NNP
-.? NN
+. .
+? .
 Night of the Hunter
 
 
@@ -549,13 +563,15 @@ Panettiere NNP
 plays VBZ
 Young NNP
 Susan NNP
-'Suzie' POS
+'Suzie POS
+' ''
 Stone NNP
 / NNP
 Alice NNP
 Stone NNP
 , ,
-Susan's NNP
+Susan NNP
+'s POS
 niece NN
 Young Susan 'Suzie' Stone
 
@@ -583,6 +599,34 @@ is VBZ
 all DT
 about IN
 Brian Andrews
+
+
+One of the few missteps in [[ Carlito's Way | /m/0337wr ]] is the miscasting of [[ Penelope Ann Miller | /m/02rrsz ]] as [[ Gail | /m/0h34tq7 ]] , [[ Carlito | /m/027m0ff ]] 's love interest.
+One CD
+of IN
+the DT
+few JJ
+missteps NNS
+in IN
+Carlito NNP
+'s POS
+Way NNP
+is VBZ
+the DT
+miscasting NN
+of IN
+Penelope NNP
+Ann NNP
+Miller NNP
+as IN
+Gail NNP
+, ,
+Carlito NNP
+'s POS
+love NN
+interest NN
+. .
+Carlito's Way
 
 
 [[ Lotte Lenya | /m/01vcfq ]] plays [[ Rosa Klebb | /m/05p43l ]] , the defecting [[ Russian | /m/06bnz ]] agent
@@ -646,7 +690,8 @@ McAllister NNP
 a DT
 high JJ
 school NN
-teacher, NN
+teacher NN
+, ,
 and CC
 Reese JJ
 Witherspoon NNP
@@ -658,7 +703,8 @@ your PRP$
 average JJ
 high JJ
 school NN
-over-achiever. NN
+over-achiever RB
+. .
 Reese Witherspoon
 
 
@@ -677,7 +723,8 @@ Year NN
 at IN
 Carver NNP
 High NNP
-School. NNP
+School NNP
+. .
 Teacher of the Year
 
 
@@ -692,7 +739,8 @@ appeared VBD
 in IN
 two CD
 more JJR
-pictures, NN
+pictures NNS
+, ,
 They PRP
 Call VBP
 Me NNP
@@ -748,7 +796,8 @@ Horst NNP
 in IN
 the DT
 2002 CD
-film, NN
+film NN
+, ,
 Wilbur NNP
 Wants NNP
 to TO
@@ -794,7 +843,9 @@ original JJ
 FRIDAY NNP
 THE NNP
 13th CD
-(1980) NN
+( (
+1980 CD
+) )
 FRIDAY THE 13th
 
 
@@ -811,13 +862,15 @@ Friday NNP
 The DT
 13th JJ
 Part NNP
-VIII: NNP
+VIII NNP
+: :
 Jason NNP
 Takes NNP
 Manhattan NNP
 , ,
 and CC
-so, NN
+so RB
+, ,
 he PRP
 knows VBZ
 how WRB
@@ -838,8 +891,36 @@ in IN
 Freddy NNP
 vs IN
 Jason NNP
-?. NN
+? .
+. .
 Freddy vs Jason
+
+
+In 1988, [[ Blanc | /m/0c5vh ]] performed a bit part as [[ Daffy Duck | /m/0dng4 ]] in the wildly successful film feature,   [[ Who Framed Roger Rabbit | /m/0k2sk ]] ?
+In IN
+1988 CD
+, ,
+Blanc NNP
+performed VBD
+a DT
+bit NN
+part NN
+as IN
+Daffy NNP
+Duck NNP
+in IN
+the DT
+wildly RB
+successful JJ
+film NN
+feature NN
+, ,
+Who WP
+Framed VBD
+Roger NNP
+Rabbit NNP
+? .
+Who Framed Roger Rabbit
 
 
 (  [[ Notting Hill | /m/01cz7r ]] ,    [[ The Mother | /m/048qfd ]]  ). ( [[ Whittaker | /m/027gc_g ]] gives [[ Jessie | /m/0c0nfx3 ]] the uneducated accent of  Absolutely Fabulous's  Bubble)
@@ -849,7 +930,8 @@ Hill NNP
 , ,
 The DT
 Mother NNP
-). NNP
+) )
+. .
 ( (
 Whittaker NNP
 gives VBZ
@@ -859,8 +941,10 @@ uneducated JJ
 accent NN
 of IN
 Absolutely NNP
-Fabulous's NNP
-Bubble) NNP
+Fabulous NNP
+'s POS
+Bubble NNP
+) )
 Notting Hill
 The Mother
 
@@ -893,7 +977,8 @@ the DT
 1982 CD
 movie NN
 Star NNP
-Trek: NNP
+Trek NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -920,7 +1005,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -943,7 +1029,8 @@ Saavik NNP
 in IN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -963,7 +1050,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -990,7 +1078,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -1016,7 +1105,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -1029,6 +1119,36 @@ Saavik NNP
 . .
 Star Trek II: The Wrath of Khan
 Vulcan
+
+
+[[ Bernadette Peters | /m/01ccr8 ]] also won a [[ Golden Globe Awards | /m/011_7_ ]] for her portrayal of the role of [[ Eileen | /m/0cf00qs ]] in another comedy, [[ Pennies From Heaven | /m/025v0rv ]] in 1981.
+Bernadette NNP
+Peters NNP
+also RB
+won VBD
+a DT
+Golden NNP
+Globe NNP
+Awards NNP
+for IN
+her PRP$
+portrayal NN
+of IN
+the DT
+role NN
+of IN
+Eileen NNP
+in IN
+another DT
+comedy NN
+, ,
+Pennies NNS
+From IN
+Heaven NNP
+in IN
+1981 CD
+. .
+Pennies From Heaven
 
 
 Looking a *lot* like [[ Jerri Blank | /m/02_xmr8 ]] , [[ Amy Sedaris | /m/024rx_ ]] 's character in [[ Strangers with Candy | /m/093jsy ]] .
@@ -1108,7 +1228,8 @@ many JJ
 fans NNS
 as IN
 Bond NNP
-girl? NN
+girl NN
+? .
 Camille NNP
 Ukrainian
 
@@ -1123,7 +1244,8 @@ plays VBZ
 Bond NNP
 's POS
 latest JJS
-sidekick, NN
+sidekick NN
+, ,
 Camille NNP
 Ukrainian
 
@@ -1138,10 +1260,12 @@ the DT
 fiesty JJ
 Camille NNP
 , ,
-who's VBD
+who WP
+'s VBZ
 driven VBN
 by IN
-revenge. NN
+revenge NN
+. .
 Ukrainian
 
 
@@ -1149,8 +1273,10 @@ Ukrainian
 ? .
 Olga NNP
 Kurylenko NNP
-?s NNP
-character, NN
+? .
+s JJ
+character NN
+, ,
 Camille NNP
 , ,
 is VBZ
@@ -1190,8 +1316,10 @@ As IN
 gets VBZ
 deeper JJR
 into IN
-Dominc's NNP
-dealings, NN
+Dominc NNP
+'s POS
+dealings NNS
+, ,
 he PRP
 encounters VBZ
 the DT
@@ -1231,8 +1359,10 @@ Someone who might return, though, is [[ Olga Kurylenko | /m/0266c36 ]] , who pla
 Someone NN
 who WP
 might MD
-return, VB
-though, NN
+return VB
+, ,
+though IN
+, ,
 is VBZ
 Olga NNP
 Kurylenko NNP
@@ -1253,11 +1383,13 @@ Along IN
 this DT
 path NN
 of IN
-retribution, NN
+retribution NN
+, ,
 he PRP
 meets VBZ
 the DT
-sultry, NN
+sultry NN
+, ,
 spirited VBD
 Camille NNP
 rendered VBN
@@ -1315,7 +1447,8 @@ Disney NNP
 animated VBD
 film NN
 The DT
-Emperor's NNP
+Emperor NNP
+'s POS
 New NNP
 Groove NNP
 , ,
@@ -1330,6 +1463,58 @@ Kronk NNP
 The Emperor's New Groove
 
 
+[[ Caan | /m/0252fh ]] also garnered an [[ Emmy Award | /m/013sb1 ]] nomination for his role as football star [[ Brian Piccolo | /m/0h14421 ]] in the original [[ Brian's Song | /m/07kd1n5 ]] .
+Caan NNP
+also RB
+garnered VBD
+an DT
+Emmy NNP
+Award NNP
+nomination NN
+for IN
+his PRP$
+role NN
+as IN
+football NN
+star NN
+Brian NNP
+Piccolo NNP
+in IN
+the DT
+original JJ
+Brian NNP
+'s POS
+Song NNP
+. .
+Brian's Song
+
+
+[[ Caan | /m/0252fh ]] also garnered an [[ Emmy Award | /m/013sb1 ]] nomination for his role as football star [[ Brian Piccolo | /m/0h14421 ]] in the original   [[ Brian's Song | /m/07kd1n5 ]] . 
+Caan NNP
+also RB
+garnered VBD
+an DT
+Emmy NNP
+Award NNP
+nomination NN
+for IN
+his PRP$
+role NN
+as IN
+football NN
+star NN
+Brian NNP
+Piccolo NNP
+in IN
+the DT
+original JJ
+Brian NNP
+'s POS
+Song NNP
+. .
+Brian's Song
+
+
 spazztastic [[ Nomi Malone | /m/098klm0 ]] played by [[ Elizabeth Berkely | /m/01j6fq ]] .. STILLS: More Lost Odyssey video game stills for the [[ Xbox 360 | /m/02plp2 ]] ..
 spazztastic JJ
 Nomi NNP
@@ -1339,7 +1524,8 @@ by IN
 Elizabeth NNP
 Berkely NNP
 .. NNP
-STILLS: NNP
+STILLS NNP
+: :
 More JJR
 Lost NNP
 Odyssey NNP
@@ -1383,7 +1569,8 @@ Planet Of The Apes
 
 
 Additionally, [[ Uma Thurman | /m/0kjrx ]] plays [[ Anne de Montausier | /m/0gxtwlg ]] , the [[ King | /m/0jt90f5 ]] 's favorite  lady-in-waiting 
-Additionally, NNP
+Additionally RB
+, ,
 Uma NNP
 Thurman NNP
 plays VBZ
@@ -1408,8 +1595,10 @@ de FW
 Montausier NNP
 , ,
 the DT
-queen's NN
-attendant, NN
+queen NN
+'s POS
+attendant NN
+, ,
 who WP
 is VBZ
 courted VBN
@@ -1418,7 +1607,8 @@ both DT
 Lauzin NNP
 and CC
 Louis NNP
-himself. NN
+himself PRP
+. .
 Anne de Montausier
 
 
@@ -1437,7 +1627,8 @@ fans NNS
 as IN
 Charlotte NNP
 's POS
-husband, NN
+husband NN
+, ,
 Harry NNP
 Goldenblatt NNP
 . .
@@ -1450,17 +1641,21 @@ a DT
 shock NN
 to TO
 my PRP$
-system: JJ
+system NN
+: :
 French JJ
 beauty NN
 JULIETTE NNP
 BINOCHE NNP
 as IN
 the DT
-kleptomaniacal, JJ
-Brillo-haired, NNP
+kleptomaniacal JJ
+, ,
+Brillo-haired JJ
+, ,
 pear-shaped JJ
-mother, NN
+mother NN
+, ,
 Miriam NNP
 French
 
@@ -1471,17 +1666,21 @@ a DT
 shock NN
 to TO
 my PRP$
-system: JJ
+system NN
+: :
 French JJ
 beauty NN
 JULIETTE NNP
 BINOCHE NNP
 as IN
 the DT
-kleptomaniacal, JJ
-Brillo-haired, NNP
+kleptomaniacal JJ
+, ,
+Brillo-haired JJ
+, ,
 pear-shaped JJ
-mother, NN
+mother NN
+, ,
 Miriam NNP
 . .
 French
@@ -1530,7 +1729,8 @@ American
 [[ Cheri | /m/05svjs1 ]] looks phenomenal, and supposedly [[ Rupert Friend | /m/06d1v8 ]] is fantastic in [[ The Young Victoria | /m/02z0f6l ]] .
 Cheri NNP
 looks VBZ
-phenomenal, NN
+phenomenal JJ
+, ,
 and CC
 supposedly RB
 Rupert NNP
@@ -1578,9 +1778,37 @@ and CC
 is VBZ
 of IN
 my PRP$
-generation, NN
-BUT... NNP
+generation NN
+, ,
+BUT NNP
+... :
 Agent 007
+
+
+[[ Travolta | /m/0f502 ]] rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter [[ James Ubriacco | /m/0gxw7gp ]] in [[ Amy Heckerling | /m/03vlgt ]] 's low-budget comedy [[ Look Who's Talking | /m/03gn80 ]] 
+Travolta NNP
+rebounded VBD
+his PRP$
+acting VBG
+career NN
+with IN
+the DT
+portrayal NN
+of IN
+cab-driver-turned-baby-sitter NN
+James NNP
+Ubriacco NNP
+in IN
+Amy NNP
+Heckerling NNP
+'s POS
+low-budget JJ
+comedy NN
+Look NNP
+Who WP
+'s VBZ
+Talking VBG
+Look Who's Talking
 
 
 The role of [[ Velma | /m/03r0h4 ]] was originated by [[ Nicole Jaffe | /m/07cn9j ]] in the original, [[ Scooby Doo, Where Are You | /m/07rjc7 ]] series.
@@ -1595,13 +1823,16 @@ Nicole NNP
 Jaffe NNP
 in IN
 the DT
-original, NN
+original JJ
+, ,
 Scooby NNP
-Doo, NNP
+Doo NNP
+, ,
 Where NNP
 Are NNP
 You PRP
-series. VBP
+series NN
+. .
 Scooby Doo, Where Are You
 
 
@@ -1626,8 +1857,9 @@ Nandana sen
 
 In 2008, [[ Hall | /m/01jvs4 ]] appeared as [[ Gotham City | /m/03fdg ]] television reporter/anchor [[ Mike Engel | /m/0c04km6 ]] in [[ The Dark Knight | /m/0btpm6 ]] 
 In IN
-2008, CD
-Hall NN
+2008 CD
+, ,
+Hall NNP
 appeared VBD
 as IN
 Gotham NNP
@@ -1659,7 +1891,8 @@ the DT
 popular JJ
 Crocodile NNP
 Dundee NNP
-movies, NN
+movies NNS
+, ,
 apparently RB
 has VBZ
 tax NN
@@ -1684,9 +1917,34 @@ from.. NN
 Australian
 
 
+[[ Dana | /m/0pz04 ]] 's nerdy character [[ Garth Algar | /m/04fw3l6 ]] in the [[ Wayne's World | /m/0kbwb ]] comedy sketches and movies is based on his brother
+Dana NNP
+'s POS
+nerdy JJ
+character NN
+Garth NNP
+Algar NNP
+in IN
+the DT
+Wayne NNP
+'s POS
+World NNP
+comedy NN
+sketches NNS
+and CC
+movies NNS
+is VBZ
+based VBN
+on IN
+his PRP$
+brother NN
+Wayne's World
+
+
 [[ Dorian | /m/0bmfx6l ]] ?s friend [[ Basil Hallward | /m/03t840 ]] is played by the veteran [[ British | /m/07ssc ]] actor [[ Richard Todd | /m/0147bj ]] 
 Dorian JJ
-?s NNP
+? .
+s JJ
 friend NN
 Basil NNP
 Hallward NNP
@@ -1704,7 +1962,8 @@ British
 
 
 accent, [[ Essman | /m/06zyt3 ]] 's [[ Mittens | /m/05v4ql4 ]] may remind viewers of a more assertive [[ Jessie | /m/0dr9dc ]] from [[ Toy Story 2 | /m/01xdxy ]] 
-accent, JJ
+accent NN
+, ,
 Essman NNP
 's POS
 Mittens NNP
@@ -1736,7 +1995,8 @@ Line NNP
 Cinema NNP
 s NNP
 upcoming VBG
-release, NN
+release NN
+, ,
 FRIDAY NNP
 THE NNP
 13TH CD
@@ -1755,7 +2015,8 @@ who WP
 kills VBZ
 Jews NNP
 for IN
-pleasure, NN
+pleasure NN
+, ,
 yet RB
 has VBZ
 a DT
@@ -1821,7 +2082,8 @@ Bond NNP
 former JJ
 compatriot NN
 Agent NNP
-006, CD
+006 CD
+, ,
 who WP
 presents VBZ
 his PRP$

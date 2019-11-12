@@ -5,6 +5,8 @@ import sys
 import re
 
 from nltk import pos_tag
+from nltk import word_tokenize
+
 from random import sample
 
 
@@ -17,15 +19,16 @@ class SentenceInformation:
         self.incorrectly_tagged_entities = incorrectly_tagged_entities  # incorrectly tagged entity list in the sentence
 
 
-# replace '[[ Natural Gas | /m/05k4k ]]' with 'Natural Gas'
+# replace '[[ Natural Gas | /m/05k4k ]]' with entity 'Natural Gas'
 def remove_entity_tags_from_sentence(sentence):
-    # pattern to find '[[ Natural Gas | /m/05k4k ]]'
+    # pattern to find entity 'Natural Gas' from '[[ Natural Gas | /m/05k4k ]]'
     entity_tag_pattern = "\[\[\s*(.+?)\s+\|.+?\]\]"
     entities = re.findall(entity_tag_pattern, sentence)
 
     modified_sentence = sentence
-    for entity in entities:
 
+    # replace all the tagged entities in a sentence with the entity only
+    for entity in entities:
         # escape special characters in entity string
         escaped_entity = re.escape(entity)
 
@@ -52,14 +55,19 @@ def write_output(output_file, data):
         random_100_data = data
 
     for each in random_100_data:
+
+        # output the sentence
         f.write(each.sentence + "\n")
+
+        # output pos tag for each word in the sentence
         for word_tag_tuple in each.pos_tags:
             f.write(word_tag_tuple[0] + ' ' + word_tag_tuple[1] + "\n")
 
+        # output all the incorrectly tagged entities
         for entity in each.incorrectly_tagged_entities:
             f.write(entity + "\n")
 
-        # two blank lines
+        # output two blank lines
         f.write("\n\n")
 
     f.close()
@@ -68,19 +76,29 @@ def write_output(output_file, data):
 # identify entity that are incorrectly tagged in a sentence
 def identify_incorrectly_tagged_entity(entities, pos_tags):
     incorrectly_tagged_entities = []
+
+    # for each entity
     for entity in entities:
-        words_in_entity = entity.split()
+
+        # get words of the entity
+        words_in_entity = word_tokenize(entity)
 
         non_noun_tag_found = False
+
+        # for each word in the entity
         for word in words_in_entity:
+
+            # find the pos tag for the word
             for word_tag in pos_tags:
 
-                # if any word of the entity contains pos tag that is not Noun (not started with 'NN') will be identified as incorrect
+                # if the word contains pos tag that is not Noun (not started with 'NN')
+                # then the entity will be identified as incorrect tagged
                 if word == word_tag[0] and len(word_tag[1]) >= 2 and word_tag[1][0:2] != 'NN':
                     incorrectly_tagged_entities.append(entity)
                     non_noun_tag_found = True
                     break
 
+            # if any non noun pos tag found then continue search for next entity
             if non_noun_tag_found:
                 break
 
@@ -89,17 +107,22 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
 
 # tag each word in a sentence
 def tag_sentence(sentence):
-    token_list = sentence.split()
+    # get token list for the sentence
+    token_list = word_tokenize(sentence)
+
     return pos_tag(token_list)
 
 
 # get file name excluding extension
 def get_file_name_excluding_extension(file_path):
-    # for windows machine
+    # for windows machine only, replace '\' with '/' in file path
     file_path = file_path.replace("\\", '/')
 
+    # if file path doesn't contain '/' then get the file name after splitting using '.'
     if file_path.find('/') == -1:
         filename_without_ext = file_path.rsplit('.', 1)[0]
+
+    # if file path contains '/' then split the file name using '/' first and then using '.'
     else:
         filename = file_path.rsplit('/', 1)[1]
         filename_without_ext = filename.rsplit('.', 1)[0]
@@ -108,6 +131,7 @@ def get_file_name_excluding_extension(file_path):
 
 
 def main():
+    # get data folder path from sys arg or user
     if len(sys.argv) == 1:
         data_folder_path = input("Enter Folder Path of data files: ")
 
@@ -121,37 +145,39 @@ def main():
     # process each relation one by one
     for filename in glob.glob(os.path.join(data_folder_path, "*.json")):
 
+        # get output file path
         output_file_path = "runs/" + get_file_name_excluding_extension(filename) + ".txt"
 
         sentence_info_list = []
 
         with open(filename) as f:
 
+            # load json data from file
             json_data = json.load(f)
 
             # process each sentence in the relation
             for each_data in json_data:
 
                 sentence = each_data['sentence']
-                # print(sentence)
 
                 # remove entity tags from the sentence
                 modified_sentence, entities = remove_entity_tags_from_sentence(sentence)
-                # print(modified_sentence)
 
                 # get pos_tags for each word in the sentence
                 pos_tags = tag_sentence(modified_sentence)
 
                 # identify incorrectly tagged entities
                 incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)
+
+                # store information only for the incorrectly-tagged sentences
                 if len(incorrectly_tagged_entities) > 0:
-                    # store information for each sentence
+                    # store information about pos tags, entities, incorrectly tagged entities for the sentence
                     sentence_info = SentenceInformation(sentence, pos_tags, entities, incorrectly_tagged_entities)
                     sentence_info_list.append(sentence_info)
 
             f.close()
 
-            # write information about all the sentence in a relation in output file
+            # write information about sampled sentences in a relation in the output file
             write_output(output_file_path, sentence_info_list)
 
 
