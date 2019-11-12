@@ -12,33 +12,41 @@ from random import sample
 
 # store information about each incorrectly tagged sentence in a relation
 class SentenceInformation:
-    def __init__(self, sentence, pos_tags, entities, incorrectly_tagged_entities):
+    def __init__(self, sentence, pos_tags, mappings, incorrectly_tagged_entities):
         self.sentence = sentence  # each sentence in a relation
         self.pos_tags = pos_tags  # list of (word, tag) tuple for each word in the sentence
-        self.entities = entities  # entity list in the sentence
+        self.mappings = mappings  # list of (entity_with_tag, entity) tuple for each entity in the sentence
         self.incorrectly_tagged_entities = incorrectly_tagged_entities  # incorrectly tagged entity list in the sentence
 
 
 # replace '[[ Natural Gas | /m/05k4k ]]' with entity 'Natural Gas'
 def remove_entity_tags_from_sentence(sentence):
+    # pattern to find entity with tag '[[ Natural Gas | /m/05k4k ]]'
+    entity_with_tag_pattern = "\[\[.*?\]\]"
+
+    entity_with_tags = re.findall(entity_with_tag_pattern, sentence)
+
     # pattern to find entity 'Natural Gas' from '[[ Natural Gas | /m/05k4k ]]'
-    entity_tag_pattern = "\[\[\s*(.+?)\s+\|.+?\]\]"
-    entities = re.findall(entity_tag_pattern, sentence)
+    entity_pattern = "\[\[\s*(.+?)\s+\|"
+
+    # list of (entity_with_tag, entity) tuple for each entity in the sentence
+    entity_with_tag_and_entity_mappings = []
+
+    for entity_with_tag in entity_with_tags:
+
+        # find entity from entity with tag
+        entity = re.findall(entity_pattern, entity_with_tag)
+
+        if len(entity) > 0:
+            entity_with_tag_and_entity_mappings.append(tuple((entity_with_tag, entity[0])))
 
     modified_sentence = sentence
 
-    # replace all the tagged entities in a sentence with the entity only
-    for entity in entities:
-        # escape special characters in entity string
-        escaped_entity = re.escape(entity)
+    # replace all the tagged entities in a sentence with the entity
+    for mapping in entity_with_tag_and_entity_mappings:
+        modified_sentence = modified_sentence.replace(mapping[0], mapping[1])
 
-        # pattern to find '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas'
-        pattern = "\[\[\s*" + escaped_entity + "\s*\|.+?\]\]"
-
-        # replace '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas' with 'Natural Gas'
-        modified_sentence = re.sub(pattern, entity, modified_sentence)
-
-    return modified_sentence, entities
+    return modified_sentence, entity_with_tag_and_entity_mappings
 
 
 # write information regarding each sentence to output file
@@ -74,11 +82,15 @@ def write_output(output_file, data):
 
 
 # identify entity that are incorrectly tagged in a sentence
-def identify_incorrectly_tagged_entity(entities, pos_tags):
+def identify_incorrectly_tagged_entity(mappings, pos_tags):
     incorrectly_tagged_entities = []
 
     # for each entity
-    for entity in entities:
+    for mapping_tuple in mappings:
+
+        # mappings is a list of (entity_with_tag, entity) tuple
+        entity_with_tag = mapping_tuple[0]
+        entity = mapping_tuple[1]
 
         # get words of the entity
         words_in_entity = word_tokenize(entity)
@@ -94,7 +106,7 @@ def identify_incorrectly_tagged_entity(entities, pos_tags):
                 # if the word contains pos tag that is not Noun (not started with 'NN')
                 # then the entity will be identified as incorrect tagged
                 if word == word_tag[0] and len(word_tag[1]) >= 2 and word_tag[1][0:2] != 'NN':
-                    incorrectly_tagged_entities.append(entity)
+                    incorrectly_tagged_entities.append(entity_with_tag)
                     non_noun_tag_found = True
                     break
 
@@ -161,18 +173,18 @@ def main():
                 sentence = each_data['sentence']
 
                 # remove entity tags from the sentence
-                modified_sentence, entities = remove_entity_tags_from_sentence(sentence)
+                modified_sentence, mappings = remove_entity_tags_from_sentence(sentence)
 
                 # get pos_tags for each word in the sentence
                 pos_tags = tag_sentence(modified_sentence)
 
                 # identify incorrectly tagged entities
-                incorrectly_tagged_entities = identify_incorrectly_tagged_entity(entities, pos_tags)
+                incorrectly_tagged_entities = identify_incorrectly_tagged_entity(mappings, pos_tags)
 
                 # store information only for the incorrectly-tagged sentences
                 if len(incorrectly_tagged_entities) > 0:
-                    # store information about pos tags, entities, incorrectly tagged entities for the sentence
-                    sentence_info = SentenceInformation(sentence, pos_tags, entities, incorrectly_tagged_entities)
+                    # store information about pos tags, mappings, incorrectly tagged entities for the sentence
+                    sentence_info = SentenceInformation(sentence, pos_tags, mappings, incorrectly_tagged_entities)
                     sentence_info_list.append(sentence_info)
 
             f.close()
