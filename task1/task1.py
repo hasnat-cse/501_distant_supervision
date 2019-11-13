@@ -166,7 +166,7 @@ def main():
             else:
                 sampled_data = json_data
 
-            # process each sentence in the relation
+            # process each sampled sentence in the relation
             for each_data in sampled_data:
 
                 sentence = each_data['sentence']
