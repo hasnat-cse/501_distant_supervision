@@ -49,20 +49,11 @@ def remove_entity_tags_from_sentence(sentence):
     return modified_sentence, entity_with_tag_and_entity_mappings
 
 
-# write information regarding each sentence to output file
-# take random 100 sentences
+# write information regarding each incorrectly tagged sentence to output file
 def write_output(output_file, data):
     f = open(output_file, "w")
 
-    # random sampling of 100 sentences
-    if len(data) > 100:
-        random_100_data = sample(data, 100)
-
-    # no need of sampling if sentences are less than or equal to 100
-    else:
-        random_100_data = data
-
-    for each in random_100_data:
+    for each in data:
 
         # output the sentence
         f.write(each.sentence + "\n")
@@ -167,8 +158,16 @@ def main():
             # load json data from file
             json_data = json.load(f)
 
+            # if data length is more than the sample size of 100
+            if len(json_data) > 100:
+                sampled_data = sample(json_data, 100)
+
+            # if data length is less than or equal sample size of 100
+            else:
+                sampled_data = json_data
+
             # process each sentence in the relation
-            for each_data in json_data:
+            for each_data in sampled_data:
 
                 sentence = each_data['sentence']
 
