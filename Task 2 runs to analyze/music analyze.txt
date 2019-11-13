@@ -1,0 +1,53 @@
+verbs that hold:
+
+(released(7), release(3) releasing(1)), releases(1)) aired(1) (is(9), was(3)) worked(1) gave(1) explained(1) compares(1) features(1) puts(1) (recording(1) recorded(1)) began(1)
+
+
+Sentences that hold:
+In 1995, SUBJECT released   OBJECT ,  his first all-country ENTITY1 , produced by noted ENTITY2 wiz Barry Beckett
+2. Mary Mary SUBJECT 's latest release, OBJECT , has made major moves on the Billboard charts.
+OBJECT is a music DVD by SUBJECT 
+OBJECT is SUBJECT 's collaboration with cellist Hiromichi Sakamoto.
+SUBJECT also worked with ENTITY1 on OBJECT , a collection of pre-rock and roll standards
+In 1994 SUBJECT 's first single   OBJECT   aired on ENTITY1 's 120 minutes
+OBJECT gave SUBJECT the opportunity to be in the spotlight
+OBJECT is a collaborative 12  EP between SUBJECT  and ENTITY1 experimental doom band ENTITY2 .
+OBJECT is a folk/rock album by SUBJECT released in 1978, his debut solo album following his time with ENTITY1 
+At the time SUBJECT explained that OBJECT was all about the concept of love...
+OBJECT was SUBJECT 's last studio release 
+The band probably hit its zenith when SUBJECT released the all-instrumental OBJECT  in 2000
+Rough Edge: How would you say   OBJECT   compares with previous SUBJECT
+Produced by ENTITY1 ,   OBJECT   features more of SUBJECT 's dreamy vocals, majestic piano chords and introspective lyrics
+Viktoria Tolstoy ENTITY1 singer SUBJECT just released her latest album   OBJECT    on September 23, 2008
+? Comparisons to the ENTITY1 or ENTITY2 are well-deserved; OBJECT definitely puts SUBJECT within their caliber.
+OBJECT is her new DVD and SUBJECT showed up in ENTITY1 to sign copies
+In 1984, the ENTITY1 assisted SUBJECT album OBJECT was released
+OBJECT is an album by SUBJECT .
+In 1995, SUBJECT releases the classic OBJECT , produced by ENTITY1 ' ENTITY2
+ENTITY1 , the acoustic version in ENTITY2 , to promote the new release: OBJECT by SUBJECT 
+Unfortunately, where OBJECT was the high water mark for the SUBJECT , it saw the demise of guitarist ENTITY1  
+Dr. SUBJECT has been recording for OBJECT since 2000 and apparently has over 400 records for the album.
+SUBJECT will release   OBJECT ,  their new album on Tizona Records, February 17th.
+  OBJECT   was SUBJECT 's 4th single release by their 4th multiplatinum album  Very Necessary 
+said: how can all agree that a SUBJECT album OBJECT is good?
+OBJECT was recorded with SUBJECT members ENTITY1 and ENTITY2 
+SUBJECT will be releasing a 25th anniversary collection, entitled   OBJECT  , TOMORROW via ENTITY1 
+SUBJECT began   OBJECT ,  an old one.
+
+
+Sentences do not hold
+
+notched SUBJECT notched his 11th ENTITY1 nomination for his acclaimed ENTITY2 debut, OBJECT
+switched SUBJECT then switched to ENTITY1 and released OBJECT , named for a track on the album
+gives ENTITY1 gives the SUBJECT a noisome intro, and singer ENTITY2 assumes his twitchy madman persona, letting loose with  OBJECT
+joined ENTITY1 has joined SUBJECT on two previous albums, OBJECT and ENTITY2 .
+awarded SUBJECT 's album OBJECT was awarded a ENTITY1 for Best Latin/Tropical Performance .
+invited In 1998, OBJECT were invited by SUBJECT to perform at the band's news conference for the   ENTITY1 .
+gets mistrust's remix of   OBJECT   by ENTITY1 band SUBJECT gets an official release on the bands own label....
+played This was SUBJECT ' setup from 1999-2000; though in 2000, SUBJECT also played a red ENTITY1 during   OBJECT .
+OBJECT follows the common SUBJECT practice of naming albums, and many songs, with five symbols.
+played And ENTITY1 played SUBJECT 's   OBJECT   to cap the moment.
+joined ENTITY1 has joined SUBJECT on two previous albums, ENTITY2 and OBJECT .
+produced SUBJECT 's first solo album OBJECT was produced by ENTITY1 , and released by ENTITY2 in 1999
+think You few weeks to complete that may be prescribed OBJECT , SUBJECT not think ENTITY1 is for everyone
+purchased When I purchased SUBJECT 's newest record OBJECT , these memories came back in deluge

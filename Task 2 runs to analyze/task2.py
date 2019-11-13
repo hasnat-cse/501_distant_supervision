@@ -92,7 +92,7 @@ def find_paths(sentence):
 def main():
 
 
-	subject_path, object_path = find_paths("OBJECT receives ENTITY1 SUBJECT from ENTITY2")
+	subject_path, object_path = find_paths("SUBJECT plays OBJECT , who has inherited the new mantle of tough-as-nails ENTITY1 .")
 
 if __name__ == "__main__":
     main()

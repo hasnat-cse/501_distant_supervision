@@ -1,0 +1,76 @@
+Verbs that hold
+
+makes(1) (plays(14), played(6)) stars(4) (portrays(2), portrayed(1)) (given(2) gives(1)) returns(3) voiced(1) (is(6), was(2)) channeled(1)
+
+
+SUBJECT plays OBJECT , ENTITY1 's lovable, but not quite personable sidekick
+Bye! Then came the Brosnan years and the role of OBJECT was given to SUBJECT 
+SUBJECT plays OBJECT , a 14- year old ENTITY1 orphan living on the streets of ENTITY2 
+SUBJECT returns as ENTITY1 agent OBJECT : his previous appearance in the ENTITY2 films was as the villain in 
+SUBJECT played OBJECT on the long-running sitcom ENTITY1 
+RM: You appeared briefly in the 1998 movie version of ENTITY1 , in which SUBJECT played OBJECT 
+SUBJECT makes a cameo appearance as longtime ENTITY1 buddy, ENTITY2 operative OBJECT 
+ENTITY1 is hysterical as always and SUBJECT plays a fair OBJECT 
+SUBJECT always voiced OBJECT , right
+- SUBJECT is the new OBJECT
+Synopsis: SUBJECT plays OBJECT , an ENTITY1 sycophant who thinks enthusiastic use of.
+SUBJECT  plays OBJECT , the laconic and protective eldest of the first set of brothers
+SUBJECT plays OBJECT , a ENTITY1 -like columnist who is also a widower with three adorable daughters.
+For the 1950 release of , SUBJECT stars as OBJECT 
+SUBJECT plays the OBJECT as a watchdog but rather, as ENTITY1 grows more renascent, increase it.
+Also in 2006, SUBJECT played   OBJECT   in ENTITY1 's acclaimed thriller ENTITY2 
+SUBJECT portrays the character of OBJECT in ENTITY1 .
+SUBJECT portrayed young OBJECT in the original ENTITY1 (1980)
+SUBJECT stars as OBJECT , a happy-go-lucky, decent sort of chap, engaged to ENTITY1 .
+SUBJECT portrays the fictional   OBJECT  , a ENTITY1 survivor. .
+SUBJECT is hilarious as OBJECT 
+Playing  two roles , SUBJECT is wonderful as OBJECT and in his shy, virgin-like disguise as  Dr
+Although OBJECT is SUBJECT
+Bye! Then came the ENTITY1 years and the role of OBJECT was given to SUBJECT 
+SUBJECT is also amusing as OBJECT , the retarded sports reporter on the news show.
+Nothing against ENTITY1 , but I believe SUBJECT was the ultimate OBJECT .
+SUBJECT is perfect as OBJECT , an aspiring director
+SUBJECT returns as OBJECT in the film that also lifted from the works of ENTITY1 novel is.
+OBJECT is played by SUBJECT in .
+SUBJECT channeled ENTITY1 as OBJECT in the movie and it was a standout performance
+  SUBJECT returns as OBJECT in this second sequel to the hit 1986 fish-out-of-water comedy.
+SUBJECT stars as OBJECT 
+Veteran voice actor SUBJECT was the voice of OBJECT .
+( SUBJECT gives OBJECT the uneducated accent of  Absolutely Fabulous's  Bubble)
+
+
+
+(a)Verbs do not express
+
+(b)No common LCA where another clause is added
+
+a OBJECT got the pass for ENTITY1 , and her aunt gave OBJECT her pass to see SUBJECT 
+a accent, SUBJECT 's OBJECT may remind viewers of a more assertive ENTITY1 from ENTITY2 
+a SUBJECT , who played OBJECT in the film, was on ENTITY1 and Kelly yesterday
+a ENTITY1 was a popular radio show and moved easily onto camera with SUBJECT replacing ENTITY2 as OBJECT 
+a The unsung comic hero of ENTITY1 is SUBJECT who plays OBJECT , the weatherman with an IQ of 40
+a OBJECT and ENTITY1 and ENTITY2 creator SUBJECT was in buying recording software when the receptionist started talking to him
+a SUBJECT won a ENTITY1 for the play and reprised the role of OBJECT in   ENTITY2  .
+a  In no way is OBJECT a martial-arts character,  SUBJECT said.
+q OBJECT played by SUBJECT is a restless man bored with his marriage
+a ENTITY1 as OBJECT is a considerable improvement over SUBJECT , the original Pea Eye
+a SUBJECT ponders OBJECT 's role in the family:   OBJECT is the rebel
+a As a matter of fact, ENTITY1 recommended SUBJECT for the role of OBJECT 
+a OBJECT and ENTITY1 and ENTITY2 creator SUBJECT was in buying recording software when the receptionist started talking to him.
+a I also loved SUBJECT as ENTITY1 yuppie OBJECT
+a SUBJECT also garnered an ENTITY1 nomination for his role as football star OBJECT in the original   ENTITY2 .
+a And back when she first got the renewed OBJECT role, SUBJECT would have made an interesting ENTITY1 
+a ENTITY1 actor SUBJECT , better known as OBJECT from the popular ENTITY2 movies, apparently has tax problems in ENTITY3 
+a OBJECT played by SUBJECT appears in ENTITY1 and ENTITY2
+a In case you havent met her, this is SUBJECT , who plays OBJECT in the movie.
+a Meanwhile, ENTITY1 has a scoop that states SUBJECT will play The OBJECT .
+a OBJECT played by SUBJECT is the first and main ENTITY1 in ENTITY2 
+
+
+
+b SUBJECT plays OBJECT , who has inherited the new mantle of tough-as-nails ENTITY1 .
+b SUBJECT plays OBJECT , a youthful, intellectual playwright seeking to get his play staged and directed by himself.
+b SUBJECT plays OBJECT , the nervous accountant
+b SUBJECT plays OBJECT , the leader of Team Daedalus, now a retired engineer
+b SUBJECT plays OBJECT , the new ENTITY1
+b SUBJECT plays OBJECT , a newspaper columnist who writes about fami...

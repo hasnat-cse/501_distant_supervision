@@ -1,0 +1,68 @@
+Verbs that express:
+(have(1), has(1)) (is(15), was(2), been(1), are(1)) (provide(1), provides(1)) identified(1) categorized(1) pioneering(1) support(1) accredited(1) signed(1) offers(1) delivers(1) involved(1) supporting(1) used(1)
+
+
+
+Sentences that hold:
+The SUBJECT is an agency of the ENTITY1 ENTITY2 , within the Division of Tourism, OBJECT and Sports Development
+Description: SUBJECT provide OBJECT and a wide variety of other insurance services.
+SUBJECT is an OBJECT and defense conglomerate that is the result of 1994 purchase of ENTITY1 by SUBJECT .
+Remember how people tell us that SUBJECT is an OBJECT company that only runs on one product line?
+A healthy saving on your health insurance SUBJECT have a unique approach to OBJECT .
+The SUBJECT has identified OBJECT as being a strong growth area, and I wanted to be part of this.
+OBJECT is south central ENTITY1 's #1 SUBJECT and computer store.
+All you need to know about OBJECT was SUBJECT and ENTITY1 .
+Despite some downturns in the ENTITY1 sector, SUBJECT has been able to maintain steady growth in OBJECT value-added services.
+SUBJECT is a global leader in OBJECT , ...
+SUBJECT would automatically be categorized as OBJECT ; click it and it would list Gas/Fuel next .
+SUBJECT is a ENTITY1 OBJECT  software house, established in 1991
+SUBJECT is pioneering the OBJECT , sometimes referred to as ENTITY1 .
+- Based in ENTITY1 , ENTITY2 , SUBJECT is an OBJECT producer.
+I think that SUBJECT will support the expansion of the OBJECT by releasing ENTITY1 in a powerful way.
+Finally, the ENTITY1 in OBJECT is accredited by the SUBJECT .
+SUBJECT is the marketplace for OBJECT .
+SUBJECT also provides OBJECT  services, agile application development, outsourced product development and technical
+SUBJECT is a global OBJECT  leader
+OBJECT is more than ENTITY1 and SUBJECT
+SUBJECT already has OBJECT community infrastructrure project s in ENTITY1 and ENTITY2 
+SUBJECT is a OBJECT solution .
+SUBJECT is a world leader in OBJECT , focusing on Buyouts, ENTITY1 , Infrastructure and ENTITY2 .
+GOLD AUTOMATIC CALENDAR CENTRE SECONDS OBJECT signed SUBJECT , Chronometer Officially Certified, ENTITY1 , circa 1965.
+Saint-Leon, Rhoda Marcus de,   SUBJECT : ENTITY1 Makes ENTITY2 ,  in American Fabrics and OBJECT , Fall 1983
+Note that my OBJECT  was SUBJECT .
+... SUBJECT is the OBJECT for Dr ENTITY1 children's books.
+Quoted: SUBJECT offers superior OBJECT , ENTITY1 , DSL and a range of broadband services customized for small businesses.
+SUBJECT is the ENTITY1 and OBJECT of the Cr? dit Agricole Group
+Top 5 OBJECT are SUBJECT
+OBJECT is available through SUBJECT , or, if you like ENTITY1 , bring your own satellite dish.
+SUBJECT Delivers on OBJECT 's Promise of ROI with New Solution
+SUBJECT got involved in OBJECT traffic in 1998, says Geoffrey Hicks, senior vice president of network services and technology.
+As of Fall 2004, the Education Office of OBJECT is supporting SUBJECT Axim Pocket PCs.
+SUBJECT used OBJECT tags and readers from ENTITY1 and ENTITY2
+
+
+
+
+Sentences that do not hold:
+
+(a) Verb do not express the relation
+(b) OBJECT not a industry
+
+a On the ENTITY1 retail front OBJECT 's SUBJECT reported sales in December down 21% compared with a year earlier
+a ENTITY1  has joined the OBJECT and marketing agency SUBJECT 
+a ENTITY1 - OBJECT publisher SUBJECT says it will lay off 500 workers,...
+a SUBJECT was followed by ENTITY1 , which recently released a downloadable OBJECT version of its popular software.
+a OBJECT integrator SUBJECT has announced that it has completed construction of a new OBJECT
+a OBJECT store SUBJECT in ENTITY1 will close.
+a Newspapers: Television: Marketplace: CanWest Countries: 2005 - 2008 SUBJECT squinting OBJECT , a division of SUBJECT .
+a ENTITY1 also proposes tourist services such as OBJECT & Fly with the german railway   SUBJECT  
+a OBJECT firm SUBJECT has named ENTITY1
+a SUBJECT grabs the 3G licecne in ENTITY1 , being awarded by country telecoms regulator, The Agency for OBJECT .
+a ENTITY1 is a provider of OBJECT  data, used in ENTITY2 , SUBJECT !
+a ENTITY1 : SUBJECT confirms ENTITY2 'concept' for production: OBJECT .
+a OBJECT overbuilder SUBJECT says theyre starting to deploy ENTITY1 3.0 technolo?
+
+b OBJECT and theme park operator SUBJECT will merge its film production business with ENTITY1 record company ENTITY2
+b ENTITY1 , co-chairman of SUBJECT , and owner of the ENTITY2 basketball team, also spoke at OBJECT yesterday.
+
+

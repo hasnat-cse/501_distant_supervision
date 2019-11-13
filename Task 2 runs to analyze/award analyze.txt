@@ -79,11 +79,11 @@ Sentences that do not hold:
 (e) Person awarding the award is mistagged as object
 
 About the Authors OBJECT is the author of the SUBJECT -winning The Free Women of Petersburg.
-One of the top lots was the SUBJECT awarded to ENTITY1 in 1984 by President OBJECT 
-President OBJECT awarded ENTITY1 the SUBJECT in 1980 for his lifetime battle for civil rights.
+b One of the top lots was the SUBJECT awarded to ENTITY1 in 1984 by President OBJECT 
+e President OBJECT awarded ENTITY1 the SUBJECT in 1980 for his lifetime battle for civil rights.
 President ENTITY1 awarded the SUBJECT , the nation's highest civilian honor to OBJECT 's widow in 1994
-The boycott announcement specifically cites radio legend and SUBJECT winner OBJECT , as well as popular talker ENTITY1
-This movie deservedly won four ENTITY1 including both SUBJECT and Best Director for OBJECT 
+c The boycott announcement specifically cites radio legend and SUBJECT winner OBJECT , as well as popular talker ENTITY1
+c This movie deservedly won four ENTITY1 including both SUBJECT and Best Director for OBJECT 
 OBJECT inaugurated the SUBJECT for musicians
 OBJECT left ENTITY1 in 1966 and, in 1998, he was awarded the SUBJECT by President ENTITY2
 Moreover, ENTITY1 voted against OBJECT receiving the SUBJECT , which even left the likes of ENTITY2 apalled
