@@ -6,7 +6,8 @@ first JJ
 on-screen JJ
 role NN
 in IN
-2005, CD
+2005 CD
+, ,
 where WRB
 she PRP
 played VBD
@@ -16,7 +17,7 @@ the DT
 French JJ
 drama NN
 L'Annulaire NNP
-French
+[[ French | /m/0f8l9c ]]
 
 
 [[ Warren Mitchell | /m/0977q ]]  plays [[ Herr Weiss | /m/045mzcz ]] ?the rather nervous [[ Swiss | /m/06mzp ]] assassin
@@ -25,12 +26,13 @@ Mitchell NNP
 plays VBZ
 Herr NNP
 Weiss NNP
-?the NNP
+? .
+the DT
 rather RB
 nervous JJ
 Swiss JJ
 assassin NN
-Swiss
+[[ Swiss | /m/06mzp ]]
 
 
 [[ Warren Mitchell | /m/0977q ]]  plays [[ Herr Weiss | /m/045mzcz ]] ,the rather nervous [[ Swiss | /m/0fcdt ]] assassin
@@ -39,16 +41,18 @@ Mitchell NNP
 plays VBZ
 Herr NNP
 Weiss NNP
-,the NNP
+, ,
+the DT
 rather RB
 nervous JJ
 Swiss JJ
 assassin NN
-Swiss
+[[ Swiss | /m/0fcdt ]]
 
 
 RM: You appeared briefly in the 1998 movie version of [[ Lost in Space | /m/02p_zh3 ]] , in which [[ Lacey Chabert | /m/02k4b2 ]] played [[ Penny Robinson | /m/0gm0ftq ]] 
-RM: NNP
+RM NN
+: :
 You PRP
 appeared VBD
 briefly NN
@@ -69,7 +73,7 @@ Chabert NNP
 played VBD
 Penny NNP
 Robinson NNP
-Lost in Space
+[[ Lost in Space | /m/02p_zh3 ]]
 
 
 Co-starring with [[ Noah Wyle | /m/01t6xz ]] , [[ Walger | /m/0dch2b ]] played [[ Nicole Noone | /m/0h4zwrb ]] in [[ The Librarian: Quest for the Spear | /m/04vr2x ]] .
@@ -84,13 +88,14 @@ Nicole NNP
 Noone NNP
 in IN
 The DT
-Librarian: NNP
-Quest NNP
+Librarian JJ
+: :
+Quest JJS
 for IN
 the DT
 Spear NNP
 . .
-The Librarian: Quest for the Spear
+[[ The Librarian: Quest for the Spear | /m/04vr2x ]]
 
 
 [[ Steve Carell | /m/04t2l2 ]] is the voice of [[ Hammy | /m/02vkm9d ]] in [[ Over the Hedge | /m/080_x_ ]] and I just love [[ Hammy | /m/02vkm9d ]] - he's so funny and cute!
@@ -111,12 +116,14 @@ just RB
 love VB
 Hammy NNP
 - :
-he's NN
+he PRP
+'s VBZ
 so RB
 funny JJ
 and CC
-cute! NN
-Over the Hedge
+cute NN
+! .
+[[ Over the Hedge | /m/080_x_ ]]
 
 
 [[ Liev Schreiber | /m/0prfz ]] 's character [[ Cotton Weary | /m/09gtnc0 ]] attempts to defend himself against the killer in [[ Scream 3 | /m/02v63m ]] with a poker
@@ -139,7 +146,7 @@ Scream NNP
 with IN
 a DT
 poker NN
-Scream 3
+[[ Scream 3 | /m/02v63m ]]
 
 
 [[ Scream 2 | /m/02v5_g ]] 's  maybe killer,  [[ Cotton Weary | /m/09gtnc0 ]] , weak? [[ Schreiber | /m/0prfz ]] lights up another cigarette
@@ -147,17 +154,19 @@ Scream NNP
 2 CD
 's POS
 maybe RB
-killer, JJ
+killer NN
+, ,
 Cotton NNP
 Weary NNP
 , ,
-weak? JJ
+weak JJ
+? .
 Schreiber NNP
 lights VBZ
 up RP
 another DT
 cigarette NN
-Scream 2
+[[ Scream 2 | /m/02v5_g ]]
 
 
 On the other side of the female spectrum is [[ Nikki Gardner | /m/0cm1bcd ]] , played by [[ British | /m/07ssc ]] actress [[ Rosamund Pike | /m/0150rl ]] 
@@ -179,7 +188,7 @@ British JJ
 actress NN
 Rosamund NNP
 Pike NNP
-British
+[[ British | /m/07ssc ]]
 
 
 On the other side of the female spectrum is [[ Nikki Gardner | /m/0cm1bcd ]] , played by [[ British | /m/07ssc ]] actress [[ Rosamund Pike | /m/0150rl ]] .
@@ -202,7 +211,7 @@ actress NN
 Rosamund NNP
 Pike NNP
 . .
-British
+[[ British | /m/07ssc ]]
 
 
 [[ JP Manoux | /m/07tcd9 ]] voices [[ Kuzco | /m/0dh2_l ]] , a role he had already performed on [[ House of Mouse | /m/0jwl2 ]] , taking over from [[ David Spade | /m/02dlfh ]] 
@@ -227,13 +236,14 @@ over RP
 from IN
 David NNP
 Spade NNP
-House of Mouse
+[[ House of Mouse | /m/0jwl2 ]]
 
 
 (also called  Pants Parties  after a quote from [[ Steve Carell | /m/04t2l2 ]] 's character [[ Brick Tamland | /m/02nwrvg ]] in the film [[ The Legend of Ron Burgundy | /m/034qzw ]] )
-(also NN
+( (
+also RB
 called VBD
-Pants NNP
+Pants NNS
 Parties NNPS
 after IN
 a DT
@@ -254,7 +264,7 @@ of IN
 Ron NNP
 Burgundy NNP
 ) )
-The Legend of Ron Burgundy
+[[ The Legend of Ron Burgundy | /m/034qzw ]]
 
 
 Played pitch-perfectly by a pre-Office [[ Steve Carell | /m/04t2l2 ]] , [[ Tamland | /m/02nwrvg ]] is the stand-out member of the [[ Channel 4 | /m/01w92 ]] news team
@@ -277,7 +287,7 @@ Channel NNP
 4 CD
 news NN
 team NN
-Channel 4
+[[ Channel 4 | /m/01w92 ]]
 
 
 (  [[ The Daily Show | /m/01j7mr ]] 's  [[ Steve Carell | /m/04t2l2 ]] is bloody awful as queeny [[ Uncle Arthur | /m/04g5rpy ]] ).
@@ -295,8 +305,9 @@ as IN
 queeny JJ
 Uncle NNP
 Arthur NNP
-). NN
-The Daily Show
+) )
+. .
+[[ The Daily Show | /m/01j7mr ]]
 
 
 [[ Carole Bouquet | /m/049wzr ]]  is a [[ French | /m/0f8l9c ]] best known as [[ Bond | /m/0ghcr ]] girl [[ Melina Havelock | /m/0bbd7c ]] in 
@@ -313,7 +324,7 @@ girl NN
 Melina NNP
 Havelock NNP
 in IN
-French
+[[ French | /m/0f8l9c ]]
 
 
 [[ Melina Havelock | /m/0bbd7c ]] played by [[ Carole Bouquet | /m/049wzr ]] is the first and main [[ Bond Girl | /m/01r29n ]] in [[ For Your Eyes Only | /m/0g5pv3 ]] 
@@ -335,7 +346,7 @@ For IN
 Your PRP$
 Eyes NNS
 Only RB
-For Your Eyes Only
+[[ For Your Eyes Only | /m/0g5pv3 ]]
 
 
 In [[ Dan in Real Life | /m/0cld7h ]] , [[ Carell | /m/04t2l2 ]] stars as [[ Dan Burns | /m/04g5rq4 ]] , an advice columnist and a single father with three girls
@@ -361,7 +372,7 @@ father NN
 with IN
 three CD
 girls NNS
-Dan in Real Life
+[[ Dan in Real Life | /m/0cld7h ]]
 
 
 [[ Vincent Price | /m/013sg6 ]] is perfect for [[ Richelieu | /m/0lnjk ]] , and [[ Lana Turner | /m/018fmr ]] equally ideal for [[ Lady de Winter | /m/0h2rvm7 ]] 
@@ -381,13 +392,14 @@ for IN
 Lady NNP
 de FW
 Winter NNP
-Lady de Winter
+[[ Lady de Winter | /m/0h2rvm7 ]]
 
 
 First of all, [[ Harris | /m/02gylv ]] played [[ Jamie Lloyd | /m/09435s ]] , [[ Michael Myers | /m/03zj8n ]] ? niece in [[ Halloween 4 | /m/06d6ch ]] and 5
 First NNP
 of IN
-all, JJ
+all DT
+, ,
 Harris NNP
 played VBD
 Jamie NNP
@@ -402,7 +414,7 @@ Halloween NNP
 4 CD
 and CC
 5 CD
-Halloween 4
+[[ Halloween 4 | /m/06d6ch ]]
 
 
 [[ Turner | /m/018fmr ]] 's brassy [[ Cora Smith | /m/0h2rvlt ]] tempted [[ John Garfield | /m/013846 ]] into murder in [[ The Postman Always Rings Twice | /m/0dlh03 ]] 
@@ -422,7 +434,7 @@ Postman NNP
 Always NNP
 Rings NNP
 Twice NNP
-The Postman Always Rings Twice
+[[ The Postman Always Rings Twice | /m/0dlh03 ]]
 
 
 [[ Green Day | /m/0dvqq ]] and [[ ZZ Top | /m/089tm ]] also appeared on the show, which was co-created by [[ Beavis | /m/01p8r8 ]] + [[ Butthead | /m/025t53n ]] animator [[ Mike Judge | /m/01p8r8 ]] 
@@ -435,7 +447,8 @@ also RB
 appeared VBD
 on IN
 the DT
-show, NN
+show NN
+, ,
 which WDT
 was VBD
 co-created VBN
@@ -446,7 +459,7 @@ Butthead NNP
 animator NN
 Mike NNP
 Judge NNP
-Green Day
+[[ Green Day | /m/0dvqq ]]
 
 
 Nicholsons psycho is a buffoon on a scale last seen in [[ Robert Mitchum | /m/0m0hw ]] s [[ Harry Powell | /m/0h2hdtk ]] in ? [[ Night of the Hunter | /m/0dk6gx ]] .?
@@ -472,8 +485,9 @@ Night NNP
 of IN
 the DT
 Hunter NNP
-.? NN
-Night of the Hunter
+. .
+? .
+[[ Night of the Hunter | /m/0dk6gx ]]
 
 
 The first thing anybody mentions when talking about [[ Night of the Hunter | /m/0j_vp ]] is [[ Robert Mitchum | /m/0m0hw ]] performance as [[ Harry Powell | /m/0h2hdtk ]] 
@@ -496,7 +510,7 @@ performance NN
 as IN
 Harry NNP
 Powell NNP
-Night of the Hunter
+[[ Night of the Hunter | /m/0j_vp ]]
 
 
 [[ Mel Blanc | /m/0c5vh ]] returned as [[ Barney Rubble | /m/05695w ]] , and [[ Jean Vander Pyl | /m/041vt_ ]] is again [[ Wilma | /m/088nnl ]] 
@@ -514,7 +528,7 @@ Pyl NNP
 is VBZ
 again RB
 Wilma JJ
-Wilma
+[[ Wilma | /m/088nnl ]]
 
 
 [[ Mel | /m/0c5vh ]] was then the voice of [[ Barney Rubble | /m/05695w ]] on [[ The Flintstones | /m/01bn3l ]] , Friday nights on [[ ABC | /m/0gsg7 ]] .
@@ -535,7 +549,7 @@ nights NNS
 on IN
 ABC NNP
 . .
-The Flintstones
+[[ The Flintstones | /m/01bn3l ]]
 
 
 For the 1950 movie , [[ Hayden Panettiere | /m/02jyhv ]] plays [[ Young Susan 'Suzie' Stone | /m/0gxbtmj ]] / [[ Alice Stone | /m/0gxbtlt ]] , Susan's niece
@@ -549,15 +563,17 @@ Panettiere NNP
 plays VBZ
 Young NNP
 Susan NNP
-'Suzie' POS
+'Suzie POS
+' ''
 Stone NNP
 / NNP
 Alice NNP
 Stone NNP
 , ,
-Susan's NNP
+Susan NNP
+'s POS
 niece NN
-Young Susan 'Suzie' Stone
+[[ Young Susan 'Suzie' Stone | /m/0gxbtmj ]]
 
 
 [[ Brian Andrews | /m/09c_0f ]] plays [[ Tommy Doyle | /m/05287fn ]] , the little boy who knows better than his babysitter what the Boogeyman is all about
@@ -582,7 +598,35 @@ Boogeyman NNP
 is VBZ
 all DT
 about IN
-Brian Andrews
+[[ Brian Andrews | /m/09c_0f ]]
+
+
+One of the few missteps in [[ Carlito's Way | /m/0337wr ]] is the miscasting of [[ Penelope Ann Miller | /m/02rrsz ]] as [[ Gail | /m/0h34tq7 ]] , [[ Carlito | /m/027m0ff ]] 's love interest.
+One CD
+of IN
+the DT
+few JJ
+missteps NNS
+in IN
+Carlito NNP
+'s POS
+Way NNP
+is VBZ
+the DT
+miscasting NN
+of IN
+Penelope NNP
+Ann NNP
+Miller NNP
+as IN
+Gail NNP
+, ,
+Carlito NNP
+'s POS
+love NN
+interest NN
+. .
+[[ Carlito's Way | /m/0337wr ]]
 
 
 [[ Lotte Lenya | /m/01vcfq ]] plays [[ Rosa Klebb | /m/05p43l ]] , the defecting [[ Russian | /m/06bnz ]] agent
@@ -596,7 +640,7 @@ the DT
 defecting VBG
 Russian JJ
 agent NN
-Russian
+[[ Russian | /m/06bnz ]]
 
 
 [[ Rosa Klebb | /m/05p43l ]] played by [[ Lotte Lenya | /m/01vcfq ]] is the fifth Villain of [[ From Russia With Love | /m/025twgt ]] 
@@ -615,7 +659,7 @@ From NNP
 Russia NNP
 With IN
 Love NNP
-From Russia With Love
+[[ From Russia With Love | /m/025twgt ]]
 
 
 In [[ The Ringer | /m/08j6_m ]] , [[ Heigl | /m/025b5y ]] plays [[ Lynn Sheridan | /m/04fgys7 ]] , a [[ Special Olympics | /m/0bqs4 ]] volunteer
@@ -632,8 +676,8 @@ a DT
 Special JJ
 Olympics NNP
 volunteer NN
-The Ringer
-Special Olympics
+[[ The Ringer | /m/08j6_m ]]
+[[ Special Olympics | /m/0bqs4 ]]
 
 
 [[ Matthew Broderick | /m/01vlj1g ]] plays [[ Jim McAllister | /m/0g4t9bl ]] , a high school teacher, and [[ Reese Witherspoon | /m/0n6f8 ]] as [[ Tracy Flick | /m/0d06js ]] , your average high school over-achiever.
@@ -646,7 +690,8 @@ McAllister NNP
 a DT
 high JJ
 school NN
-teacher, NN
+teacher NN
+, ,
 and CC
 Reese JJ
 Witherspoon NNP
@@ -658,8 +703,9 @@ your PRP$
 average JJ
 high JJ
 school NN
-over-achiever. NN
-Reese Witherspoon
+over-achiever RB
+. .
+[[ Reese Witherspoon | /m/0n6f8 ]]
 
 
 [[ Matthew Broderick | /m/01vlj1g ]] plays [[ Jim McAllister | /m/0g4t9bl ]] , 3-time [[ Teacher of the Year | /m/0b7cy4 ]] at Carver High School.
@@ -677,8 +723,9 @@ Year NN
 at IN
 Carver NNP
 High NNP
-School. NNP
-Teacher of the Year
+School NNP
+. .
+[[ Teacher of the Year | /m/0b7cy4 ]]
 
 
 [[ Poitier | /m/0cgzj ]] 's memorable character [[ Virgil Tibbs | /m/0g0pzc ]] appeared in two more pictures,   [[ They Call Me Mister Tibbs | /m/06fdp_ ]]   and   [[ The Organization | /m/04f19f7 ]] . 
@@ -692,7 +739,8 @@ appeared VBD
 in IN
 two CD
 more JJR
-pictures, NN
+pictures NNS
+, ,
 They PRP
 Call VBP
 Me NNP
@@ -702,8 +750,8 @@ and CC
 The DT
 Organization NNP
 . .
-They Call Me Mister Tibbs
-The Organization
+[[ They Call Me Mister Tibbs | /m/06fdp_ ]]
+[[ The Organization | /m/04f19f7 ]]
 
 
 Maybe they were trying to make him perfect in the way [[ Sidney Poitier | /m/0cgzj ]] played [[ Virgil Tibbs | /m/0g0pzc ]] in [[ In The Heat Of The Night | /m/0p7rd ]]
@@ -730,7 +778,7 @@ Heat NNP
 Of IN
 The DT
 Night NNP
-In The Heat Of The Night
+[[ In The Heat Of The Night | /m/0p7rd ]]
 
 
 A younger and still stoic looking [[ Mads Mikkelsen | /m/076svb ]] stars as [[ Horst | /m/0bydxhl ]] in the 2002 film, [[ Wilbur Wants to Kill Himself | /m/0g9wv5 ]] .
@@ -748,14 +796,15 @@ Horst NNP
 in IN
 the DT
 2002 CD
-film, NN
+film NN
+, ,
 Wilbur NNP
 Wants NNP
 to TO
 Kill VB
 Himself NNP
 . .
-Wilbur Wants to Kill Himself
+[[ Wilbur Wants to Kill Himself | /m/0g9wv5 ]]
 
 
 [[ Jenna | /m/0320cg ]] then played [[ Anna Riley | /m/0bj8hcc ]] in the 2000 comedy [[ Keeping the Faith | /m/0697_g ]] , which marked [[ Edward Norton | /m/01515w ]] 's directorial debut
@@ -779,7 +828,7 @@ Norton NNP
 's POS
 directorial JJ
 debut NN
-Keeping the Faith
+[[ Keeping the Faith | /m/0697_g ]]
 
 
 [[ Ari Lehman | /m/0crt01 ]] portrayed young [[ Jason | /m/01wmhq ]] in the original [[ FRIDAY THE 13th | /m/016mng ]] (1980)
@@ -794,8 +843,10 @@ original JJ
 FRIDAY NNP
 THE NNP
 13th CD
-(1980) NN
-FRIDAY THE 13th
+( (
+1980 CD
+) )
+[[ FRIDAY THE 13th | /m/016mng ]]
 
 
 [[ Ken | /m/07qgr8 ]] was [[ Kane Hodder | /m/033xr_ ]] 's stunt double in [[ Friday The 13th Part VIII: Jason Takes Manhattan | /m/075xrl ]] , and so, he knows how to do [[ Jason | /m/01wmhq ]]
@@ -811,20 +862,22 @@ Friday NNP
 The DT
 13th JJ
 Part NNP
-VIII: NNP
+VIII NNP
+: :
 Jason NNP
 Takes NNP
 Manhattan NNP
 , ,
 and CC
-so, NN
+so RB
+, ,
 he PRP
 knows VBZ
 how WRB
 to TO
 do VB
 Jason NNP
-Friday The 13th Part VIII: Jason Takes Manhattan
+[[ Friday The 13th Part VIII: Jason Takes Manhattan | /m/075xrl ]]
 
 
 [[ Kirzinger | /m/07qgr8 ]] has appeared as [[ Voorhees | /m/01wmhq ]] in ? [[ Freddy vs Jason | /m/0353tm ]] ?.
@@ -838,8 +891,36 @@ in IN
 Freddy NNP
 vs IN
 Jason NNP
-?. NN
-Freddy vs Jason
+? .
+. .
+[[ Freddy vs Jason | /m/0353tm ]]
+
+
+In 1988, [[ Blanc | /m/0c5vh ]] performed a bit part as [[ Daffy Duck | /m/0dng4 ]] in the wildly successful film feature,   [[ Who Framed Roger Rabbit | /m/0k2sk ]] ?
+In IN
+1988 CD
+, ,
+Blanc NNP
+performed VBD
+a DT
+bit NN
+part NN
+as IN
+Daffy NNP
+Duck NNP
+in IN
+the DT
+wildly RB
+successful JJ
+film NN
+feature NN
+, ,
+Who WP
+Framed VBD
+Roger NNP
+Rabbit NNP
+? .
+[[ Who Framed Roger Rabbit | /m/0k2sk ]]
 
 
 (  [[ Notting Hill | /m/01cz7r ]] ,    [[ The Mother | /m/048qfd ]]  ). ( [[ Whittaker | /m/027gc_g ]] gives [[ Jessie | /m/0c0nfx3 ]] the uneducated accent of  Absolutely Fabulous's  Bubble)
@@ -849,7 +930,8 @@ Hill NNP
 , ,
 The DT
 Mother NNP
-). NNP
+) )
+. .
 ( (
 Whittaker NNP
 gives VBZ
@@ -859,10 +941,12 @@ uneducated JJ
 accent NN
 of IN
 Absolutely NNP
-Fabulous's NNP
-Bubble) NNP
-Notting Hill
-The Mother
+Fabulous NNP
+'s POS
+Bubble NNP
+) )
+[[ Notting Hill | /m/01cz7r ]]
+[[ The Mother | /m/048qfd ]]
 
 
 [[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] .
@@ -880,7 +964,7 @@ Vulcan JJ
 officer NN
 Saavik NNP
 . .
-Vulcan
+[[ Vulcan | /m/0d_pq ]]
 
 
 [[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie [[ Star Trek: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] .
@@ -893,7 +977,8 @@ the DT
 1982 CD
 movie NN
 Star NNP
-Trek: NNP
+Trek NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -904,8 +989,8 @@ Vulcan JJ
 officer NN
 Saavik NNP
 . .
-Star Trek: The Wrath of Khan
-Vulcan
+[[ Star Trek: The Wrath of Khan | /m/06r2_ ]]
+[[ Vulcan | /m/0d_pq ]]
 
 
 [[ Alley | /m/01wc7p ]] won a supporting role in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Lieutenant Saavik | /m/02469f ]] 
@@ -920,7 +1005,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -931,8 +1017,8 @@ Vulcan JJ
 officer NN
 Lieutenant NNP
 Saavik NNP
-Star Trek II: The Wrath of Khan
-Vulcan
+[[ Star Trek II: The Wrath of Khan | /m/06r2_ ]]
+[[ Vulcan | /m/0d_pq ]]
 
 
 [[ Kirstie Alley | /m/01wc7p ]]  played [[ Saavik | /m/02469f ]] in [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] .
@@ -943,13 +1029,14 @@ Saavik NNP
 in IN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
 Khan NNP
 . .
-Star Trek II: The Wrath of Khan
+[[ Star Trek II: The Wrath of Khan | /m/06r2_ ]]
 
 
 [[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] 
@@ -963,7 +1050,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -973,8 +1061,8 @@ playing VBG
 Vulcan JJ
 officer NN
 Saavik NNP
-Star Trek II: The Wrath of Khan
-Vulcan
+[[ Star Trek II: The Wrath of Khan | /m/06r2_ ]]
+[[ Vulcan | /m/0d_pq ]]
 
 
 Career [[ Alley | /m/01wc7p ]] won a supporting role in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Lieutenant Saavik | /m/02469f ]] 
@@ -990,7 +1078,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -1001,8 +1090,8 @@ Vulcan JJ
 officer NN
 Lieutenant NNP
 Saavik NNP
-Star Trek II: The Wrath of Khan
-Vulcan
+[[ Star Trek II: The Wrath of Khan | /m/06r2_ ]]
+[[ Vulcan | /m/0d_pq ]]
 
 
 [[ Alley | /m/01wc7p ]] rose to prominence in the 1982 movie [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]] , playing [[ Vulcan | /m/0d_pq ]] officer [[ Saavik | /m/02469f ]] .
@@ -1016,7 +1105,8 @@ the DT
 movie NN
 Star NNP
 Trek NNP
-II: NNP
+II NNP
+: :
 The DT
 Wrath NNP
 of IN
@@ -1027,8 +1117,38 @@ Vulcan JJ
 officer NN
 Saavik NNP
 . .
-Star Trek II: The Wrath of Khan
-Vulcan
+[[ Star Trek II: The Wrath of Khan | /m/06r2_ ]]
+[[ Vulcan | /m/0d_pq ]]
+
+
+[[ Bernadette Peters | /m/01ccr8 ]] also won a [[ Golden Globe Awards | /m/011_7_ ]] for her portrayal of the role of [[ Eileen | /m/0cf00qs ]] in another comedy, [[ Pennies From Heaven | /m/025v0rv ]] in 1981.
+Bernadette NNP
+Peters NNP
+also RB
+won VBD
+a DT
+Golden NNP
+Globe NNP
+Awards NNP
+for IN
+her PRP$
+portrayal NN
+of IN
+the DT
+role NN
+of IN
+Eileen NNP
+in IN
+another DT
+comedy NN
+, ,
+Pennies NNS
+From IN
+Heaven NNP
+in IN
+1981 CD
+. .
+[[ Pennies From Heaven | /m/025v0rv ]]
 
 
 Looking a *lot* like [[ Jerri Blank | /m/02_xmr8 ]] , [[ Amy Sedaris | /m/024rx_ ]] 's character in [[ Strangers with Candy | /m/093jsy ]] .
@@ -1048,7 +1168,7 @@ Strangers NNS
 with IN
 Candy NNP
 . .
-Strangers with Candy
+[[ Strangers with Candy | /m/093jsy ]]
 
 
 Case in point is [[ Sedaris | /m/024rx_ ]] ' portrayal of [[ Jerri Blank | /m/02_xmr8 ]] , the anti-heroine of [[ Strangers With Candy | /m/026_5y ]] 
@@ -1069,7 +1189,7 @@ of IN
 Strangers NNS
 With IN
 Candy NNP
-Strangers With Candy
+[[ Strangers With Candy | /m/026_5y ]]
 
 
 The main [[ Bond | /m/03nb2p ]] girl [[ Camille | /m/043pxc_ ]] , played by [[ Olga Kurylenko | /m/0266c36 ]] , was an interesting psychological counter to [[ Bond | /m/03nb2p ]] 
@@ -1091,8 +1211,8 @@ psychological JJ
 counter NN
 to TO
 Bond VB
-Bond
-Bond
+[[ Bond | /m/03nb2p ]]
+[[ Bond | /m/03nb2p ]]
 
 
 [[ Ukrainian | /m/07t21 ]] -born actress [[ Olga Kurylenko | /m/0266c36 ]] , known to many fans as [[ Bond | /m/03_97 ]] girl? [[ Camille | /m/043pxc_ ]]
@@ -1108,9 +1228,10 @@ many JJ
 fans NNS
 as IN
 Bond NNP
-girl? NN
+girl NN
+? .
 Camille NNP
-Ukrainian
+[[ Ukrainian | /m/07t21 ]]
 
 
 [[ Ukrainian | /m/07t21 ]] -born actress [[ Olga Kurylenko | /m/0266c36 ]] plays [[ Bond | /m/03_97 ]] 's latest sidekick, [[ Camille | /m/043pxc_ ]] 
@@ -1123,9 +1244,10 @@ plays VBZ
 Bond NNP
 's POS
 latest JJS
-sidekick, NN
+sidekick NN
+, ,
 Camille NNP
-Ukrainian
+[[ Ukrainian | /m/07t21 ]]
 
 
 The [[ Ukrainian | /m/07t21 ]] -born [[ Kurylenko | /m/0266c36 ]] plays the fiesty [[ Camille | /m/043pxc_ ]] , who's driven by revenge.
@@ -1138,19 +1260,23 @@ the DT
 fiesty JJ
 Camille NNP
 , ,
-who's VBD
+who WP
+'s VBZ
 driven VBN
 by IN
-revenge. NN
-Ukrainian
+revenge NN
+. .
+[[ Ukrainian | /m/07t21 ]]
 
 
 ? [[ Olga Kurylenko | /m/0266c36 ]] ?s character, [[ Camille | /m/043pxc_ ]] , is half [[ Ukrainian | /m/07t21 ]] and half [[ South American | /m/06n3y ]] .
 ? .
 Olga NNP
 Kurylenko NNP
-?s NNP
-character, NN
+? .
+s JJ
+character NN
+, ,
 Camille NNP
 , ,
 is VBZ
@@ -1161,8 +1287,8 @@ half NN
 South JJ
 American JJ
 . .
-Ukrainian
-South American
+[[ Ukrainian | /m/07t21 ]]
+[[ South American | /m/06n3y ]]
 
 
 [[ Olga Kurylenko | /m/0266c36 ]] will play  the dangerously alluring [[ Camille | /m/043pxc_ ]]   in the new working-titled   [[ Bond 22 | /m/08gsvw ]] .
@@ -1181,7 +1307,7 @@ working-titled JJ
 Bond NN
 22 CD
 . .
-Bond 22
+[[ Bond 22 | /m/08gsvw ]]
 
 
 As 007 gets deeper into Dominc's dealings, he encounters the beautiful [[ Camille | /m/043pxc_ ]] , played by [[ Russian | /m/06bnz ]] actress [[ Olga Kurylenko | /m/0266c36 ]] .
@@ -1190,8 +1316,10 @@ As IN
 gets VBZ
 deeper JJR
 into IN
-Dominc's NNP
-dealings, NN
+Dominc NNP
+'s POS
+dealings NNS
+, ,
 he PRP
 encounters VBZ
 the DT
@@ -1205,7 +1333,7 @@ actress NN
 Olga NNP
 Kurylenko NNP
 . .
-Russian
+[[ Russian | /m/06bnz ]]
 
 
 Olga Kurylenko Reveals Quantum of Solace Spoiler [[ Olga Kurylenko | /m/0266c36 ]] portrays [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] 
@@ -1224,15 +1352,17 @@ in IN
 Quantum NNP
 of IN
 Solace NNP
-Quantum of Solace
+[[ Quantum of Solace | /m/08gsvw ]]
 
 
 Someone who might return, though, is [[ Olga Kurylenko | /m/0266c36 ]] , who plays [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] .
 Someone NN
 who WP
 might MD
-return, VB
-though, NN
+return VB
+, ,
+though IN
+, ,
 is VBZ
 Olga NNP
 Kurylenko NNP
@@ -1245,7 +1375,7 @@ Quantum NNP
 of IN
 Solace NNP
 . .
-Quantum of Solace
+[[ Quantum of Solace | /m/08gsvw ]]
 
 
 Along this path of retribution, he meets the sultry, spirited [[ Camille | /m/043pxc_ ]]  rendered by equally sultry [[ Eurasian | /m/02qkt ]] actress [[ Olga Kurylenko | /m/0266c36 ]] .
@@ -1253,11 +1383,13 @@ Along IN
 this DT
 path NN
 of IN
-retribution, NN
+retribution NN
+, ,
 he PRP
 meets VBZ
 the DT
-sultry, NN
+sultry NN
+, ,
 spirited VBD
 Camille NNP
 rendered VBN
@@ -1269,7 +1401,7 @@ actress NN
 Olga NNP
 Kurylenko NNP
 . .
-Eurasian
+[[ Eurasian | /m/02qkt ]]
 
 
 [[ Olga Kurylenko | /m/0266c36 ]] portrays the character of [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] .
@@ -1285,7 +1417,7 @@ Quantum NNP
 of IN
 Solace NNP
 . .
-Quantum of Solace
+[[ Quantum of Solace | /m/08gsvw ]]
 
 
 Olga Kurylenko Dishes on Bond Girl Status [[ Olga Kurylenko | /m/0266c36 ]] plays [[ Camille | /m/043pxc_ ]] in [[ Quantum of Solace | /m/08gsvw ]] .
@@ -1305,7 +1437,7 @@ Quantum NNP
 of IN
 Solace NNP
 . .
-Quantum of Solace
+[[ Quantum of Solace | /m/08gsvw ]]
 
 
 In the [[ Disney | /m/09b3v ]] animated film [[ The Emperor's New Groove | /m/01xv4x ]] , [[ Patrick Warburton | /m/02tqkf ]] played a doltish henchman named [[ Kronk | /m/0dh04p ]]
@@ -1315,7 +1447,8 @@ Disney NNP
 animated VBD
 film NN
 The DT
-Emperor's NNP
+Emperor NNP
+'s POS
 New NNP
 Groove NNP
 , ,
@@ -1327,7 +1460,59 @@ doltish JJ
 henchman NN
 named VBN
 Kronk NNP
-The Emperor's New Groove
+[[ The Emperor's New Groove | /m/01xv4x ]]
+
+
+[[ Caan | /m/0252fh ]] also garnered an [[ Emmy Award | /m/013sb1 ]] nomination for his role as football star [[ Brian Piccolo | /m/0h14421 ]] in the original [[ Brian's Song | /m/07kd1n5 ]] .
+Caan NNP
+also RB
+garnered VBD
+an DT
+Emmy NNP
+Award NNP
+nomination NN
+for IN
+his PRP$
+role NN
+as IN
+football NN
+star NN
+Brian NNP
+Piccolo NNP
+in IN
+the DT
+original JJ
+Brian NNP
+'s POS
+Song NNP
+. .
+[[ Brian's Song | /m/07kd1n5 ]]
+
+
+[[ Caan | /m/0252fh ]] also garnered an [[ Emmy Award | /m/013sb1 ]] nomination for his role as football star [[ Brian Piccolo | /m/0h14421 ]] in the original   [[ Brian's Song | /m/07kd1n5 ]] . 
+Caan NNP
+also RB
+garnered VBD
+an DT
+Emmy NNP
+Award NNP
+nomination NN
+for IN
+his PRP$
+role NN
+as IN
+football NN
+star NN
+Brian NNP
+Piccolo NNP
+in IN
+the DT
+original JJ
+Brian NNP
+'s POS
+Song NNP
+. .
+[[ Brian's Song | /m/07kd1n5 ]]
 
 
 spazztastic [[ Nomi Malone | /m/098klm0 ]] played by [[ Elizabeth Berkely | /m/01j6fq ]] .. STILLS: More Lost Odyssey video game stills for the [[ Xbox 360 | /m/02plp2 ]] ..
@@ -1339,7 +1524,8 @@ by IN
 Elizabeth NNP
 Berkely NNP
 .. NNP
-STILLS: NNP
+STILLS NNP
+: :
 More JJR
 Lost NNP
 Odyssey NNP
@@ -1351,7 +1537,7 @@ the DT
 Xbox NNP
 360 CD
 .. NN
-Xbox 360
+[[ Xbox 360 | /m/02plp2 ]]
 
 
 This time round   [[ Planet Of The Apes | /m/047wh1 ]]   star [[ Mark Whalberg | /m/0gy6z9 ]] replaces [[ Michael Caine | /m/0gnbw ]] to take on the role of master thief [[ Charlie Croker | /m/05d4fq ]] .
@@ -1379,11 +1565,12 @@ thief NN
 Charlie NNP
 Croker NNP
 . .
-Planet Of The Apes
+[[ Planet Of The Apes | /m/047wh1 ]]
 
 
 Additionally, [[ Uma Thurman | /m/0kjrx ]] plays [[ Anne de Montausier | /m/0gxtwlg ]] , the [[ King | /m/0jt90f5 ]] 's favorite  lady-in-waiting 
-Additionally, NNP
+Additionally RB
+, ,
 Uma NNP
 Thurman NNP
 plays VBZ
@@ -1396,7 +1583,7 @@ King NNP
 's POS
 favorite JJ
 lady-in-waiting NN
-Anne de Montausier
+[[ Anne de Montausier | /m/0gxtwlg ]]
 
 
 [[ Uma Thurman | /m/0kjrx ]] plays [[ Anne de Montausier | /m/0gxtwlg ]] , the queen's attendant, who is courted by both Lauzin and [[ Louis | /m/04pwg ]] himself.
@@ -1408,8 +1595,10 @@ de FW
 Montausier NNP
 , ,
 the DT
-queen's NN
-attendant, NN
+queen NN
+'s POS
+attendant NN
+, ,
 who WP
 is VBZ
 courted VBN
@@ -1418,8 +1607,9 @@ both DT
 Lauzin NNP
 and CC
 Louis NNP
-himself. NN
-Anne de Montausier
+himself PRP
+. .
+[[ Anne de Montausier | /m/0gxtwlg ]]
 
 
 [[ Evan Handler | /m/07blrf ]] is better known to [[ Sex and the City | /m/0l76z ]] fans as [[ Charlotte | /m/0fsb8 ]] 's husband, [[ Harry Goldenblatt | /m/05lmdrm ]] .
@@ -1437,11 +1627,12 @@ fans NNS
 as IN
 Charlotte NNP
 's POS
-husband, NN
+husband NN
+, ,
 Harry NNP
 Goldenblatt NNP
 . .
-Sex and the City
+[[ Sex and the City | /m/0l76z ]]
 
 
 Also a shock to my system: [[ French | /m/0f8l9c ]] beauty [[ JULIETTE BINOCHE | /m/0fbx6 ]] as the kleptomaniacal, Brillo-haired, pear-shaped mother, [[ Miriam | /m/0bqx7bm ]] 
@@ -1450,19 +1641,23 @@ a DT
 shock NN
 to TO
 my PRP$
-system: JJ
+system NN
+: :
 French JJ
 beauty NN
 JULIETTE NNP
 BINOCHE NNP
 as IN
 the DT
-kleptomaniacal, JJ
-Brillo-haired, NNP
+kleptomaniacal JJ
+, ,
+Brillo-haired JJ
+, ,
 pear-shaped JJ
-mother, NN
+mother NN
+, ,
 Miriam NNP
-French
+[[ French | /m/0f8l9c ]]
 
 
 Also a shock to my system: [[ French | /m/0f8l9c ]] beauty [[ JULIETTE BINOCHE | /m/0fbx6 ]] as the kleptomaniacal, Brillo-haired, pear-shaped mother, [[ Miriam | /m/0bqx7bm ]] .
@@ -1471,20 +1666,24 @@ a DT
 shock NN
 to TO
 my PRP$
-system: JJ
+system NN
+: :
 French JJ
 beauty NN
 JULIETTE NNP
 BINOCHE NNP
 as IN
 the DT
-kleptomaniacal, JJ
-Brillo-haired, NNP
+kleptomaniacal JJ
+, ,
+Brillo-haired JJ
+, ,
 pear-shaped JJ
-mother, NN
+mother NN
+, ,
 Miriam NNP
 . .
-French
+[[ French | /m/0f8l9c ]]
 
 
 [[ Arness | /m/036jp8 ]] later found steady work in [[ Dodge City | /m/0t6rl ]] as Marshal [[ Matt Dillon | /m/06mb_y ]] 
@@ -1500,7 +1699,7 @@ as IN
 Marshal NNP
 Matt NNP
 Dillon NNP
-Arness
+[[ Arness | /m/036jp8 ]]
 
 
 [[ James Arness | /m/036jp8 ]]  is an [[ Emmy | /m/013sb1 ]] -nominated [[ American | /m/09c7w0 ]] actor best known for portraying Marshal [[ Matt Dillon | /m/06mb_y ]] on Gunsmoke for 20 years
@@ -1524,13 +1723,14 @@ Gunsmoke NNP
 for IN
 20 CD
 years NNS
-American
+[[ American | /m/09c7w0 ]]
 
 
 [[ Cheri | /m/05svjs1 ]] looks phenomenal, and supposedly [[ Rupert Friend | /m/06d1v8 ]] is fantastic in [[ The Young Victoria | /m/02z0f6l ]] .
 Cheri NNP
 looks VBZ
-phenomenal, NN
+phenomenal JJ
+, ,
 and CC
 supposedly RB
 Rupert NNP
@@ -1542,7 +1742,7 @@ The DT
 Young NNP
 Victoria NNP
 . .
-The Young Victoria
+[[ The Young Victoria | /m/02z0f6l ]]
 
 
 / / Will [[ Q | /m/0gjt2 ]] and [[ Moneypenny | /m/01hk60 ]] Be Coming Back To [[ Bond | /m/03pknm ]] 
@@ -1557,7 +1757,7 @@ Coming VBG
 Back NNP
 To TO
 Bond VB
-Bond
+[[ Bond | /m/03pknm ]]
 
 
 [[ Samantha Bond | /m/03pknm ]] played [[ Miss Moneypenny | /m/01hk60 ]] during [[ Pierce Brosnan | /m/018p4y ]] 's time as [[ Agent 007 | /m/0clpml ]] and is of my generation, BUT...
@@ -1578,9 +1778,37 @@ and CC
 is VBZ
 of IN
 my PRP$
-generation, NN
-BUT... NNP
-Agent 007
+generation NN
+, ,
+BUT NNP
+... :
+[[ Agent 007 | /m/0clpml ]]
+
+
+[[ Travolta | /m/0f502 ]] rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter [[ James Ubriacco | /m/0gxw7gp ]] in [[ Amy Heckerling | /m/03vlgt ]] 's low-budget comedy [[ Look Who's Talking | /m/03gn80 ]] 
+Travolta NNP
+rebounded VBD
+his PRP$
+acting VBG
+career NN
+with IN
+the DT
+portrayal NN
+of IN
+cab-driver-turned-baby-sitter NN
+James NNP
+Ubriacco NNP
+in IN
+Amy NNP
+Heckerling NNP
+'s POS
+low-budget JJ
+comedy NN
+Look NNP
+Who WP
+'s VBZ
+Talking VBG
+[[ Look Who's Talking | /m/03gn80 ]]
 
 
 The role of [[ Velma | /m/03r0h4 ]] was originated by [[ Nicole Jaffe | /m/07cn9j ]] in the original, [[ Scooby Doo, Where Are You | /m/07rjc7 ]] series.
@@ -1595,14 +1823,17 @@ Nicole NNP
 Jaffe NNP
 in IN
 the DT
-original, NN
+original JJ
+, ,
 Scooby NNP
-Doo, NNP
+Doo NNP
+, ,
 Where NNP
 Are NNP
 You PRP
-series. VBP
-Scooby Doo, Where Are You
+series NN
+. .
+[[ Scooby Doo, Where Are You | /m/07rjc7 ]]
 
 
 Actor [[ Randeep Hooda | /m/02ps3y3 ]] plays the painter while [[ Nandana sen | /m/0ff6p1 ]] plays his sensual muse [[ Sugandha | /m/0h4zgk2 ]] .
@@ -1621,13 +1852,14 @@ sensual JJ
 muse NN
 Sugandha NNP
 . .
-Nandana sen
+[[ Nandana sen | /m/0ff6p1 ]]
 
 
 In 2008, [[ Hall | /m/01jvs4 ]] appeared as [[ Gotham City | /m/03fdg ]] television reporter/anchor [[ Mike Engel | /m/0c04km6 ]] in [[ The Dark Knight | /m/0btpm6 ]] 
 In IN
-2008, CD
-Hall NN
+2008 CD
+, ,
+Hall NNP
 appeared VBD
 as IN
 Gotham NNP
@@ -1640,7 +1872,7 @@ in IN
 The DT
 Dark NNP
 Knight NNP
-The Dark Knight
+[[ The Dark Knight | /m/0btpm6 ]]
 
 
 [[ Australian | /m/0chghy ]] actor [[ Paul Hogan | /m/033b_b ]] , better known as [[ Mick Dundee | /m/02qlsxl ]] from the popular [[ Crocodile Dundee | /m/01wzyq ]] movies, apparently has tax problems in [[ Australia | /m/0chghy ]] 
@@ -1659,14 +1891,15 @@ the DT
 popular JJ
 Crocodile NNP
 Dundee NNP
-movies, NN
+movies NNS
+, ,
 apparently RB
 has VBZ
 tax NN
 problems NNS
 in IN
 Australia NNP
-Australian
+[[ Australian | /m/0chghy ]]
 
 
 [[ Australian | /m/0chghy ]] actor [[ Paul Hogan | /m/033b_b ]] , better known as [[ Mick Dundee | /m/02qlsxl ]] from..
@@ -1681,12 +1914,37 @@ as IN
 Mick NNP
 Dundee NNP
 from.. NN
-Australian
+[[ Australian | /m/0chghy ]]
+
+
+[[ Dana | /m/0pz04 ]] 's nerdy character [[ Garth Algar | /m/04fw3l6 ]] in the [[ Wayne's World | /m/0kbwb ]] comedy sketches and movies is based on his brother
+Dana NNP
+'s POS
+nerdy JJ
+character NN
+Garth NNP
+Algar NNP
+in IN
+the DT
+Wayne NNP
+'s POS
+World NNP
+comedy NN
+sketches NNS
+and CC
+movies NNS
+is VBZ
+based VBN
+on IN
+his PRP$
+brother NN
+[[ Wayne's World | /m/0kbwb ]]
 
 
 [[ Dorian | /m/0bmfx6l ]] ?s friend [[ Basil Hallward | /m/03t840 ]] is played by the veteran [[ British | /m/07ssc ]] actor [[ Richard Todd | /m/0147bj ]] 
 Dorian JJ
-?s NNP
+? .
+s JJ
 friend NN
 Basil NNP
 Hallward NNP
@@ -1699,12 +1957,13 @@ British JJ
 actor NN
 Richard NNP
 Todd NNP
-Dorian
-British
+[[ Dorian | /m/0bmfx6l ]]
+[[ British | /m/07ssc ]]
 
 
 accent, [[ Essman | /m/06zyt3 ]] 's [[ Mittens | /m/05v4ql4 ]] may remind viewers of a more assertive [[ Jessie | /m/0dr9dc ]] from [[ Toy Story 2 | /m/01xdxy ]] 
-accent, JJ
+accent NN
+, ,
 Essman NNP
 's POS
 Mittens NNP
@@ -1720,7 +1979,7 @@ from IN
 Toy NNP
 Story NNP
 2 CD
-Toy Story 2
+[[ Toy Story 2 | /m/01xdxy ]]
 
 
 [[ Derek Mears | /m/05h41sp ]] stars as [[ Jason Voorhees | /m/01wmhq ]] in [[ New Line Cinema | /m/024rgt ]] s upcoming release, [[ FRIDAY THE 13TH | /m/04czgnm ]] .
@@ -1736,12 +1995,13 @@ Line NNP
 Cinema NNP
 s NNP
 upcoming VBG
-release, NN
+release NN
+, ,
 FRIDAY NNP
 THE NNP
 13TH CD
 . .
-FRIDAY THE 13TH
+[[ FRIDAY THE 13TH | /m/04czgnm ]]
 
 
 [[ Fiennes | /m/0170qf ]] is frightening as [[ Goeth | /m/0gydcmz ]] , who kills [[ Jews | /m/041rx ]] for pleasure, yet has a fetish for his [[ Jewish | /m/041rx ]] maid 
@@ -1755,7 +2015,8 @@ who WP
 kills VBZ
 Jews NNP
 for IN
-pleasure, NN
+pleasure NN
+, ,
 yet RB
 has VBZ
 a DT
@@ -1764,7 +2025,7 @@ for IN
 his PRP$
 Jewish JJ
 maid NN
-Jewish
+[[ Jewish | /m/041rx ]]
 
 
 [[ Valentin Dmitrovich Zukovsky | /m/0dj97v ]] played by [[ Robbie Coltrane | /m/06ltr ]] appears in [[ Goldeneye | /m/01npcx ]] and [[ The World Is Not Enough | /m/0164qt ]] 
@@ -1784,7 +2045,7 @@ World NNP
 Is VBZ
 Not RB
 Enough JJ
-The World Is Not Enough
+[[ The World Is Not Enough | /m/0164qt ]]
 
 
 [[ James Mason | /m/0jvtp ]] plays [[ Johnny McQueen | /m/0cblmjb ]] , an [[ Irish | /m/03rt9 ]] freedom fighter who is seriously wounded early in the film
@@ -1806,7 +2067,7 @@ early RB
 in IN
 the DT
 film NN
-Irish
+[[ Irish | /m/03rt9 ]]
 
 
 [[ SEAN BEAN | /m/02gvwz ]] is [[ Alec Trevelyan | /m/062r15 ]] , [[ Bond | /m/03_97 ]] 's former compatriot Agent 006, who presents his old friend with a stunning revelation
@@ -1821,7 +2082,8 @@ Bond NNP
 former JJ
 compatriot NN
 Agent NNP
-006, CD
+006 CD
+, ,
 who WP
 presents VBZ
 his PRP$
@@ -1831,7 +2093,7 @@ with IN
 a DT
 stunning JJ
 revelation NN
-SEAN BEAN
+[[ SEAN BEAN | /m/02gvwz ]]
 
 
 [[ Sean Bean | /m/02gvwz ]] is okay as [[ Alec Trevelyan | /m/062r15 ]] , though the home-counties accent sounds strange coming from a [[ Yorkshireman | /m/094vy ]] 's lips
@@ -1855,7 +2117,7 @@ a DT
 Yorkshireman NNP
 's POS
 lips NNS
-Sean Bean
+[[ Sean Bean | /m/02gvwz ]]
 
 
 , an agent who works for [[ The Man | /m/0h6490_ ]] , [[ Denise Richards | /m/0993r ]]  stars as [[ White She Devil | /m/0gxmyyn ]] 
@@ -1875,7 +2137,7 @@ as IN
 White NNP
 She PRP
 Devil VBD
-The Man
-White She Devil
+[[ The Man | /m/0h6490_ ]]
+[[ White She Devil | /m/0gxmyyn ]]
 
 
