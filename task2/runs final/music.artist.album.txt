@@ -7,12 +7,14 @@ SUBJECT->released
 OBJECT->released
 released
 
+
 2. Mary Mary SUBJECT 's latest release, OBJECT , has made major moves on the Billboard charts.
 "SUBJECT": [[ Mary Mary | /m/01kq11t ]]
 "OBJECT": [[ The Sound | /m/0465gn7 ]]
 SUBJECT->release->made
 OBJECT->release->made
 release
+
 
 SUBJECT notched his 11th ENTITY1 nomination for his acclaimed ENTITY2 debut, OBJECT 
 "OBJECT": [[ Take Your Shoes Off | /m/04f63zs ]]
@@ -23,6 +25,7 @@ SUBJECT->notched
 OBJECT->debut->for->nomination->notched
 notched
 
+
 Did you know that ENTITY1 did a cover of SUBJECT ?s ? OBJECT ? on his last ENTITY2
 "ENTITY1": [[ Clay Aiken | /m/01y3qy ]]
 "SUBJECT": [[ Dolly Parton | /m/02f1c ]]
@@ -32,12 +35,14 @@ SUBJECT->of->cover->did->know
 OBJECT
 None
 
+
 OBJECT is a music DVD by SUBJECT .
 "OBJECT": [[ Genie Gets Her Wish | /m/06gbp2 ]]
 "SUBJECT": [[ Christina Aguilera | /m/0127s7 ]]
 SUBJECT->by->music->is
 OBJECT->is
 is
+
 
 Post Katrina, SUBJECT released OBJECT , which recently garnered a ENTITY1 nomination.
 "ENTITY1": [[ Grammy | /m/0c4ys ]]
@@ -47,6 +52,7 @@ SUBJECT->released->OBJECT->Katrina
 OBJECT->Katrina
 Katrina
 
+
 SUBJECT then switched to ENTITY1 and released OBJECT , named for a track on the album
 "ENTITY1": [[ Subterraneous Records | /m/01wdjzw ]]
 "SUBJECT": [[ Binary Star | /m/01nnt3g ]]
@@ -54,6 +60,7 @@ SUBJECT then switched to ENTITY1 and released OBJECT , named for a track on the 
 SUBJECT->switched
 OBJECT->switched
 switched
+
 
 SUBJECT performs ENTITY1 during tonight's OBJECT
 "OBJECT": [[ Get Back | /m/043kv0y ]]
@@ -63,12 +70,14 @@ SUBJECT->performs->ENTITY1
 OBJECT->during->ENTITY1
 ENTITY1
 
+
 Music video by SUBJECT performing OBJECT : 
 "SUBJECT": [[ The Tragically Hip | /m/01ltgy ]]
 "OBJECT": [[ Little Bones | /m/0ddbpn2 ]]
 SUBJECT->OBJECT->by->video
 OBJECT->by->video
 by
+
 
 SUBJECT video OBJECT on ENTITY1 .
 "SUBJECT": [[ Salt-N-Pepa | /m/01dx06 ]]
@@ -78,6 +87,7 @@ SUBJECT->OBJECT
 OBJECT
 None
 
+
 First, Bell finally laid down those vocals for the final SUBJECT tantrum, 2007s ENTITY1 pi? ata, OBJECT 
 "SUBJECT": [[ Ministry | /m/01fchy ]]
 "OBJECT": [[ The Last Sucker | /m/03jgfgm ]]
@@ -86,6 +96,7 @@ SUBJECT->tantrum->for->vocals->laid
 OBJECT->ata
 None
 
+
 OBJECT is SUBJECT 's collaboration with cellist Hiromichi Sakamoto.
 "SUBJECT": [[ Haco | /m/01mdvzj ]]
 "OBJECT": [[ Ash In The Rainbow | /m/01s6qvc ]]
@@ -93,12 +104,14 @@ SUBJECT->collaboration->is
 OBJECT->is
 is
 
+
 Here?s the official album cover for SUBJECT ?s upcoming Greatest Hits album OBJECT album OBJECT .
 "OBJECT": [[ Keeps Gettin' Better- A Decade of Hits | /m/04ldt_8 ]]
 "SUBJECT": [[ Christina Aguilera | /m/0127s7 ]]
 SUBJECT->for->cover
 OBJECT->upcoming
 None
+
 
 ENTITY1 gives the SUBJECT a noisome intro, and singer ENTITY2 assumes his twitchy madman persona, letting loose with  OBJECT 
 "ENTITY2": [[ Gord Downie | /m/01ngk5z ]]
@@ -109,6 +122,7 @@ SUBJECT->gives
 OBJECT->with->letting->assumes->gives
 gives
 
+
 Click on  more info  SUBJECT 's video clip OBJECT  with ENTITY1 ..
 "OBJECT": [[ Tamally Maak | /m/0glnwkj ]]
 "ENTITY1": [[ English | /m/02h40lc ]]
@@ -117,12 +131,14 @@ SUBJECT->clip
 OBJECT->clip
 clip
 
+
 SUBJECT 's album,   OBJECT   topped music charts
 "SUBJECT": [[ Harbhajan Mann | /m/0c89fp ]]
 "OBJECT": [[ Oye Hoye | /m/01p2f04 ]]
 SUBJECT->album
 OBJECT->charts->album
 album
+
 
 1996 ENTITY1 produces the soundtrack for the ENTITY2 movie ? OBJECT ?  together with SUBJECT 
 "SUBJECT": [[ B-ZET | /m/01w9vhx ]]
@@ -133,6 +149,7 @@ SUBJECT->with
 OBJECT
 None
 
+
 SUBJECT also worked with ENTITY1 on OBJECT , a collection of pre-rock and roll standards
 "OBJECT": [[ A Little Touch of Schmilsson in the Night | /m/01ksrwh ]]
 "SUBJECT": [[ Jenkins | /m/01twxvn ]]
@@ -140,6 +157,7 @@ SUBJECT also worked with ENTITY1 on OBJECT , a collection of pre-rock and roll s
 SUBJECT->worked
 OBJECT->on->worked
 worked
+
 
 In 1994 SUBJECT 's first single   OBJECT   aired on ENTITY1 's 120 minutes
 "SUBJECT": [[ Angelfish | /m/02rswj ]]
@@ -149,12 +167,14 @@ SUBJECT->OBJECT->aired
 OBJECT->aired
 aired
 
+
 OBJECT gave SUBJECT the opportunity to be in the spotlight
 "OBJECT": [[ Crown of Jewels | /m/01q3yvm ]]
 "SUBJECT": [[ Randy Scruggs | /m/01q3ywp ]]
 SUBJECT->gave
 OBJECT->gave
 gave
+
 
 The final SUBJECT studio albums   ENTITY1   and   OBJECT 
 "SUBJECT": [[ Rolling Stones | /m/07mvp ]]
@@ -163,6 +183,7 @@ The final SUBJECT studio albums   ENTITY1   and   OBJECT
 SUBJECT->albums
 OBJECT->albums
 albums
+
 
 ENTITY1 has joined SUBJECT on two previous albums, OBJECT and ENTITY2 .
 "ENTITY1": [[ Mos Def | /m/03f4xvm ]]
@@ -173,6 +194,7 @@ SUBJECT->joined
 OBJECT->albums->on->joined
 joined
 
+
 OBJECT is a collaborative 12  EP between SUBJECT  and ENTITY1 experimental doom band ENTITY2 .
 "SUBJECT": [[ Merzbow | /m/01r9d_2 ]]
 "OBJECT": [[ Walrus/Groon | /m/03g5nq9 ]]
@@ -182,6 +204,7 @@ SUBJECT->between->EP->is
 OBJECT->is
 is
 
+
 OBJECT is a folk/rock album by SUBJECT released in 1978, his debut solo album following his time with ENTITY1 
 "ENTITY1": [[ Decameron | /m/01m_grx ]]
 "OBJECT": [[ Roll On Dreamer | /m/043nmr9 ]]
@@ -190,6 +213,7 @@ SUBJECT->by->album->is
 OBJECT->is
 is
 
+
 Music video by SUBJECT performing OBJECT : 
 "SUBJECT": [[ The Tragically Hip | /m/01ltgy ]]
 "OBJECT": [[ My Music At Work | /m/0czb0wn ]]
@@ -197,12 +221,14 @@ SUBJECT->OBJECT->by->video
 OBJECT->by->video
 by
 
+
 I think the quickest cover I ever did was the one for SUBJECT s OBJECT 
 "OBJECT": [[ Re-animated Dead Flesh | /m/02ryy2g ]]
 "SUBJECT": [[ Mortician | /m/056rqt ]]
 SUBJECT->s->OBJECT->for->one->was->think
 OBJECT->for->one->was->think
 for
+
 
 ENTITY1 was   OBJECT   by something called SUBJECT , of which it was said  their new album . . .
 "OBJECT": [[ Throw It All Away | /m/01lb88y ]]
@@ -212,6 +238,7 @@ SUBJECT->called->something->by->was
 OBJECT->was
 was
 
+
 With this lineup, the SUBJECT recorded OBJECT for ENTITY1 in 1980
 "OBJECT": [[ Crazy Rhythms | /m/01l8xfc ]]
 "ENTITY1": [[ Stiff Records | /m/0f26f ]]
@@ -219,6 +246,7 @@ With this lineup, the SUBJECT recorded OBJECT for ENTITY1 in 1980
 SUBJECT->OBJECT->,->With
 OBJECT->,->With
 ,
+
 
 Even SUBJECT 's ENTITY1 album, OBJECT , sold more than 1.5 million copies that same year
 "OBJECT": [[ My Kind of Christmas | /m/01hkq9m ]]
@@ -228,12 +256,14 @@ SUBJECT->album->sold
 OBJECT->album->sold
 album
 
+
 At the time SUBJECT explained that OBJECT was all about the concept of love...
 "OBJECT": [[ Inside Out | /m/01jtbpv ]]
 "SUBJECT": [[ John | /m/03j35gp ]]
 SUBJECT->explained
 OBJECT->was->explained
 explained
+
 
 ENTITY1 follows SUBJECT ?s 2001 debut of ENTITY2 , and his second album OBJECT , released in 2004
 "ENTITY1": [[ Goodbye Blue Monday | /m/03j9xbp ]]
@@ -244,12 +274,14 @@ SUBJECT->follows
 OBJECT->album->s
 None
 
+
 This cool screensaver features art work from SUBJECT 's video, OBJECT .
 "OBJECT": [[ Androgyny | /m/01h7ypq ]]
 "SUBJECT": [[ Garbage | /m/01pfr3 ]]
 SUBJECT->video->from->work->features
 OBJECT->video->from->work->features
 video
+
 
 said: how can all agree that a SUBJECT album OBJECT and instrumental is good?
 "OBJECT": [[ Naughty Boys | /m/01l1xmx ]]
@@ -258,6 +290,7 @@ SUBJECT->album->OBJECT->is->agree->said
 OBJECT->is->agree->said
 is
 
+
 Disc one of OBJECT is an excellent andprehensive collection of SUBJECT hits of the 60's
 "OBJECT": [[ Forty Licks | /m/01hmzdp ]]
 "SUBJECT": [[ Rolling Stones | /m/07mvp ]]
@@ -265,12 +298,14 @@ SUBJECT->hits->of->collection->is
 OBJECT->of->one->is
 of
 
+
 OBJECT was SUBJECT 's last studio release 
 "OBJECT": [[ Lovelife | /m/02r8143 ]]
 "SUBJECT": [[ Lush | /m/016_5p ]]
 SUBJECT->release->was
 OBJECT->was
 was
+
 
 SUBJECT ?s debut album, OBJECT released in 1991 was straight ENTITY1 hip-hop
 "OBJECT": [[ When the Night Is Over | /m/01r1pgl ]]
@@ -280,6 +315,7 @@ SUBJECT
 OBJECT->was
 None
 
+
 The band probably hit its zenith when SUBJECT released the all-instrumental OBJECT  in 2000
 "OBJECT": [[ Unit Of Measure | /m/024kp1h ]]
 "SUBJECT": [[ Rice | /m/01nqy91 ]]
@@ -287,12 +323,14 @@ SUBJECT->released->hit
 OBJECT->released->hit
 released
 
+
 Rough Edge: How would you say   OBJECT   compares with previous SUBJECT
 "SUBJECT": [[ GLU | /m/01j6gzn ]]
 "OBJECT": [[ Up Off the Floor | /m/047ljss ]]
 SUBJECT->with->compares->say
 OBJECT->compares->say
 compares
+
 
 Produced by ENTITY1 ,   OBJECT   features more of SUBJECT 's dreamy vocals, majestic piano chords and introspective lyrics
 "OBJECT": [[ Waiting For A Want | /m/03gyn9y ]]
@@ -302,6 +340,7 @@ SUBJECT->vocals->of->more->features
 OBJECT->features
 features
 
+
 Viktoria Tolstoy ENTITY1 singer SUBJECT just released her latest album   OBJECT    on September 23, 2008
 "ENTITY1": [[ Swedish | /m/0d0vqn ]]
 "SUBJECT": [[ Viktoria Tolstoy | /m/031g7w ]]
@@ -309,6 +348,7 @@ Viktoria Tolstoy ENTITY1 singer SUBJECT just released her latest album   OBJECT 
 SUBJECT->released
 OBJECT->album->released
 released
+
 
 ? Comparisons to the ENTITY1 or ENTITY2 are well-deserved; OBJECT definitely puts SUBJECT within their caliber.
 "OBJECT": [[ Tree City | /m/01q9b9x ]]
@@ -319,6 +359,7 @@ SUBJECT->puts
 OBJECT->puts
 puts
 
+
 OBJECT is her new DVD and SUBJECT showed up in ENTITY1 to sign copies
 "OBJECT": [[ Back to Basics: Live and Down Under | /m/02x2k0r ]]
 "ENTITY1": [[ LA | /m/04ly1 ]]
@@ -326,6 +367,7 @@ OBJECT is her new DVD and SUBJECT showed up in ENTITY1 to sign copies
 SUBJECT->DVD->showed->is
 OBJECT->is
 is
+
 
 SUBJECT 's second EP,   OBJECT   is now available exclusively on ENTITY1 .
 "SUBJECT": [[ Pela | /m/01s4d9h ]]
@@ -335,6 +377,7 @@ SUBJECT->EP->is
 OBJECT->EP->is
 EP
 
+
 SUBJECT 's music on OBJECT is folksy, mellow and melodic.
 "SUBJECT": [[ Frank Turner | /m/0ftgly ]]
 "OBJECT": [[ Campfire Punkrock | /m/03g6qys ]]
@@ -342,12 +385,14 @@ SUBJECT->music->is
 OBJECT->on->music->is
 music
 
+
 From the SUBJECT album   OBJECT ,  released in 1973
 "SUBJECT": [[ Stones | /m/07mvp ]]
 "OBJECT": [[ Goats Head Soup | /m/01hn07k ]]
 SUBJECT->album->From->released
 OBJECT->album->From->released
 album
+
 
 In 1984, the ENTITY1 assisted SUBJECT album OBJECT was released
 "ENTITY1": [[ Robert Palmer | /m/01wbz9 ]]
@@ -357,6 +402,7 @@ SUBJECT->album->OBJECT->released->assisted
 OBJECT->released->assisted
 released
 
+
 SUBJECT 's album OBJECT was awarded a ENTITY1 for Best Latin/Tropical Performance .
 "SUBJECT": [[ Marc | /m/01wv9p ]]
 "ENTITY1": [[ Grammy | /m/08pbsb ]]
@@ -364,6 +410,7 @@ SUBJECT 's album OBJECT was awarded a ENTITY1 for Best Latin/Tropical Performanc
 SUBJECT->OBJECT->awarded
 OBJECT->awarded
 awarded
+
 
 ENTITY1 lo-fi folk rock band SUBJECT  released their acclaimed OBJECT in September on ENTITY2 .
 "ENTITY2": [[ Kill Rock Stars | /m/0dd2f ]]
@@ -374,6 +421,7 @@ SUBJECT->released
 OBJECT->released
 released
 
+
 In 1995, SUBJECT releases the classic OBJECT , produced by ENTITY1 ' ENTITY2 .
 "ENTITY1": [[ Bomb the bass | /m/06h9n8 ]]
 "SUBJECT": [[ Gavin Friday | /m/01wdby9 ]]
@@ -383,6 +431,7 @@ SUBJECT->releases
 OBJECT->releases
 releases
 
+
 In 1998, OBJECT were invited by SUBJECT to perform at the band's news conference for the   ENTITY1 . 
 "ENTITY1": [[ No Security Tour | /m/0d3znt ]]
 "OBJECT": [[ Hot Rocks | /m/01hn0jr ]]
@@ -390,6 +439,7 @@ In 1998, OBJECT were invited by SUBJECT to perform at the band's news conference
 SUBJECT->by->invited
 OBJECT->invited
 invited
+
 
 mistrust's remix of   OBJECT   by ENTITY1 band SUBJECT gets an official release on the bands own label....
 "SUBJECT": [[ Pitch Black | /m/01n0dbp ]]
@@ -399,6 +449,7 @@ SUBJECT->gets
 OBJECT->of->remix->gets
 gets
 
+
 OBJECT is an album by SUBJECT .
 "OBJECT": [[ Animositisomina | /m/02lrdv ]]
 "SUBJECT": [[ Ministry | /m/01fchy ]]
@@ -406,12 +457,14 @@ SUBJECT->by->album->is
 OBJECT->is
 is
 
+
 SUBJECT released OBJECT and appeared in the film, Hackers
 "OBJECT": [[ Todo A Su Tiempo | /m/02rt1y9 ]]
 "SUBJECT": [[ Anthony | /m/01wv9p ]]
 SUBJECT->released
 OBJECT->released
 released
+
 
 ENTITY1 , the acoustic version in ENTITY2 , to promote the new release: OBJECT by SUBJECT 
 "ENTITY2": [[ English | /m/02jx1 ]]
@@ -422,6 +475,7 @@ SUBJECT->by->OBJECT->release->promote->ENTITY1
 OBJECT->release->promote->ENTITY1
 release
 
+
 Unfortunately, where OBJECT was the high water mark for the SUBJECT , it saw the demise of guitarist ENTITY1 
 "SUBJECT": [[ Rolling Stones | /m/07mvp ]]
 "ENTITY1": [[ Jones | /m/07wkf9 ]]
@@ -430,12 +484,14 @@ SUBJECT->for->mark->was->saw
 OBJECT->was->saw
 was
 
+
 Dr. SUBJECT has been recording for OBJECT since 2000 and apparently has over 400 records for the album.
 "SUBJECT": [[ Dre | /m/01vvydl ]]
 "OBJECT": [[ Dretox | /m/0ky5d6 ]]
 SUBJECT->recording
 OBJECT->for->recording
 recording
+
 
 Excerpt from SUBJECT 's album OBJECT !
 "SUBJECT": [[ Turisas | /m/03x3mw ]]
@@ -444,6 +500,7 @@ SUBJECT->album->OBJECT->from->Excerpt
 OBJECT->from->Excerpt
 from
 
+
 The OBJECT marks the second collaboration between SUBJECT and ENTITY1 
 "ENTITY1": [[ Spike Lee | /m/06pjs ]]
 "OBJECT": [[ He Got Game Soundtrack | /m/01hnrs0 ]]
@@ -451,6 +508,7 @@ The OBJECT marks the second collaboration between SUBJECT and ENTITY1
 SUBJECT->between->collaboration->marks
 OBJECT->marks
 marks
+
 
 ENTITY1 s actual work for the SUBJECT included the LP covers for ENTITY2 and OBJECT 
 "ENTITY1": [[ Warhol | /m/0kc6 ]]
@@ -461,6 +519,7 @@ SUBJECT->for->work->included
 OBJECT->ENTITY2->for->covers->included
 for
 
+
 In 2000, ENTITY1 won the role of   ENTITY2   in SUBJECT 's television sitcom, OBJECT 
 "SUBJECT": [[ Bette Midler | /m/01dw9z ]]
 "ENTITY2": [[ Rose | /m/0fzfnt7 ]]
@@ -470,12 +529,14 @@ SUBJECT->sitcom->in->role->won
 OBJECT->sitcom->in->role->won
 sitcom
 
+
 OBJECT follows the common SUBJECT practice of naming albums, and many songs, with five symbols.
 "SUBJECT": [[ KMFDM | /m/01_dvf ]]
 "OBJECT": [[ WWIII | /m/01hr0zj ]]
 SUBJECT->practice->follows
 OBJECT->follows
 follows
+
 
 The song is featured on SUBJECT 's album, OBJECT .
 "OBJECT": [[ Another Year | /m/04ksf5 ]]
@@ -484,6 +545,7 @@ SUBJECT->album->on->featured
 OBJECT->album->on->featured
 album
 
+
 One SUBJECT s OBJECT : The same reasons they are my favorite Clevo band
 "SUBJECT": [[ Life Crew | /m/01n8_9j ]]
 "OBJECT": [[ Crime Ridden Society | /m/01n8_8q ]]
@@ -491,12 +553,14 @@ SUBJECT->s->OBJECT
 OBJECT
 None
 
+
 ?s new album and SUBJECT ?s new album OBJECT .
 "SUBJECT": [[ Black Stone Cherry | /m/0d2wsh ]]
 "OBJECT": [[ Folklore and Superstition | /m/047b9t4 ]]
 SUBJECT->album
 OBJECT
 None
+
 
 This was SUBJECT ' setup from 1999-2000; though in 2000, SUBJECT also played a red ENTITY1 during   OBJECT .
 "SUBJECT": [[ Waters | /m/017g21 ]]
@@ -506,6 +570,7 @@ SUBJECT->played
 OBJECT->during->played
 played
 
+
 ENTITY1 is an song by SUBJECT on OBJECT .
 "ENTITY1": [[ Raiders | /m/0qjt8j ]]
 "OBJECT": [[ American History X Soundtrack | /m/01mtp4z ]]
@@ -513,6 +578,7 @@ ENTITY1 is an song by SUBJECT on OBJECT .
 SUBJECT->by->song->is
 OBJECT->on->song->is
 song
+
 
 From the SUBJECT album,   OBJECT ,  in stores now on ENTITY1 !..
 "SUBJECT": [[ mewithoutYou | /m/01n6vf0 ]]
@@ -522,6 +588,7 @@ SUBJECT->album->From
 OBJECT->album->From
 album
 
+
 For the analysis, I used the tune   ENTITY1   on the SUBJECT recording   OBJECT   .
 "SUBJECT": [[ Frank Wess | /m/01hn9q ]]
 "ENTITY1": [[ Southern Exposure | /m/0fhgf9g ]]
@@ -529,6 +596,7 @@ For the analysis, I used the tune   ENTITY1   on the SUBJECT recording   OBJECT 
 SUBJECT->recording->OBJECT->on->used
 OBJECT->on->used
 on
+
 
 In 1987, along with ENTITY1 and ENTITY2 , SUBJECT released the decade-in-the-making OBJECT album to critical acclaim 
 "ENTITY1": [[ Emmylou Harris | /m/0x3b7 ]]
@@ -539,6 +607,7 @@ SUBJECT->released
 OBJECT->album->released
 released
 
+
 SUBJECT recorded versions of the first three tracks for his 1969 ENTITY1 solo album OBJECT .
 "OBJECT": [[ SUPER NOVA | /m/04n1f9z ]]
 "ENTITY1": [[ Blue Note | /m/0mcf4 ]]
@@ -547,12 +616,14 @@ SUBJECT->versions
 OBJECT->for->tracks->of->versions
 versions
 
+
 SUBJECT will release   OBJECT ,  their new album on Tizona Records, February 17th.
 "SUBJECT": [[ D. Rider | /m/0dn35w5 ]]
 "OBJECT": [[ Mother Of Curses | /m/0dy1bnv ]]
 SUBJECT->release
 OBJECT->release
 release
+
 
 ENTITY1 was also a featured vocalist on the ENTITY2 nominated SUBJECT album ' OBJECT .'
 "ENTITY1": [[ González | /m/07yn3h ]]
@@ -563,6 +634,7 @@ SUBJECT->album->OBJECT->on->vocalist->was
 OBJECT->on->vocalist->was
 on
 
+
 This year, artistic director Marian Jordan Hamilton presents an adaptation of ENTITY1 and SUBJECT rock opera OBJECT .
 "SUBJECT": [[ Andrew Lloyd-Webber | /m/0f8pz ]]
 "ENTITY1": [[ Tim Rice | /m/0178rl ]]
@@ -571,12 +643,14 @@ SUBJECT->opera->OBJECT->ENTITY1->of->adaptation->presents
 OBJECT->ENTITY1->of->adaptation->presents
 ENTITY1
 
+
 OBJECT makes SUBJECT sound like one of folk music's sensitive, self-pitying, depressed troubadours.
 "OBJECT": [[ Glimmer | /m/01md_ky ]]
 "SUBJECT": [[ Richey | /m/01md_p6 ]]
 SUBJECT->sound->makes
 OBJECT->makes
 makes
+
 
   OBJECT   was SUBJECT 's 4th single release by their 4th multiplatinum album  Very Necessary 
 "OBJECT": [[ None Of Your Business | /m/01k7t93 ]]
@@ -585,6 +659,7 @@ SUBJECT->release->was
 OBJECT->was
 was
 
+
 On Monday, ENTITY1 refused to answer reporters' questions regarding his rumored ownership of the 1991 SUBJECT album OBJECT 
 "SUBJECT": [[ Spin Doctors | /m/017tvq ]]
 "OBJECT": [[ Pocket Full Of Kryptonite | /m/01j3mp9 ]]
@@ -592,6 +667,7 @@ On Monday, ENTITY1 refused to answer reporters' questions regarding his rumored 
 SUBJECT->album->of->ownership->regarding->questions->answer->refused
 OBJECT->album->of->ownership->regarding->questions->answer->refused
 album
+
 
 He also launched SUBJECT , who debuted with OBJECT , and produced ENTITY1 s  ENTITY2 
 "SUBJECT": [[ Tweet | /m/06v_wk ]]
@@ -602,12 +678,14 @@ SUBJECT->launched
 OBJECT->with->debuted->SUBJECT->launched
 launched
 
+
 said: how can all agree that a SUBJECT album OBJECT is good?
 "SUBJECT": [[ YMO | /m/019bmw ]]
 "OBJECT": [[ Solid State Survivor | /m/01l1xb0 ]]
 SUBJECT->album->OBJECT->is->agree->said
 OBJECT->is->agree->said
 is
+
 
 SUBJECT has some diversity on OBJECT .
 "SUBJECT": [[ Grinspoon | /m/02qvmr ]]
@@ -616,6 +694,7 @@ SUBJECT->has
 OBJECT->on->diversity->has
 has
 
+
 And ENTITY1 played SUBJECT 's   OBJECT   to cap the moment.
 "OBJECT": [[ Who Let the Dogs Out | /m/03fzltc ]]
 "SUBJECT": [[ Baha Men | /m/01hzncp ]]
@@ -623,6 +702,7 @@ And ENTITY1 played SUBJECT 's   OBJECT   to cap the moment.
 SUBJECT->OBJECT->played
 OBJECT->played
 played
+
 
 Experience Spring through SUBJECT 's eyes in   ENTITY1  , from the best selling OBJECT series of ENTITY2 's.
 "SUBJECT": [[ Hennie Bekker | /m/01mcy0b ]]
@@ -633,6 +713,7 @@ SUBJECT->eyes->through->Spring
 OBJECT->series->from->Spring
 Spring
 
+
 ENTITY1 has joined SUBJECT on two previous albums, ENTITY2 and OBJECT .
 "ENTITY1": [[ Mos Def | /m/03f4xvm ]]
 "OBJECT": [[ The Tipping Point | /m/01h_m55 ]]
@@ -641,6 +722,7 @@ ENTITY1 has joined SUBJECT on two previous albums, ENTITY2 and OBJECT .
 SUBJECT->joined
 OBJECT->ENTITY2->albums->on->joined
 joined
+
 
 OBJECT was recorded with SUBJECT members ENTITY1 and ENTITY2 
 "ENTITY2": [[ Ralph Molina | /m/0h72tb ]]
@@ -651,6 +733,7 @@ SUBJECT->members->with->recorded
 OBJECT->recorded
 recorded
 
+
 SUBJECT 's first solo album OBJECT was produced by ENTITY1 , and released by ENTITY2 in 1999
 "ENTITY2": [[ GoodNoise | /m/02_0b8 ]]
 "ENTITY1": [[ Frank Black | /m/01vt8h_ ]]
@@ -660,6 +743,7 @@ SUBJECT->OBJECT->produced
 OBJECT->produced
 produced
 
+
 ENTITY1  is SUBJECT fourth classical album since his first released in 1991, The OBJECT 
 "ENTITY1": [[ Ecce Cor Meum | /m/01j7tdx ]]
 "SUBJECT": [[ Paul | /m/03j24kf ]]
@@ -667,6 +751,7 @@ ENTITY1  is SUBJECT fourth classical album since his first released in 1991, The
 SUBJECT->album->is
 OBJECT->released->since->is
 is
+
 
 More recently, a live version appeared on ENTITY1 punk band SUBJECT 's 1997 release OBJECT 
 "SUBJECT": [[ Flogging Molly | /m/02nbry ]]
@@ -676,12 +761,14 @@ SUBJECT->release->OBJECT
 OBJECT
 None
 
+
 For a band that that thrived on focus, OBJECT sees SUBJECT at the proverbial crossroads
 "SUBJECT": [[ Public Enemy | /m/05qbq ]]
 "OBJECT": [[ New Whirl Odor | /m/03fzf5r ]]
 SUBJECT->sees
 OBJECT->sees
 sees
+
 
 OBJECT is an album by SUBJECT , first released in 2000 independently and re-released in 2002 by ENTITY1 .
 "OBJECT": [[ Australia | /m/01l_3l2 ]]
@@ -691,6 +778,7 @@ SUBJECT->by->album->is
 OBJECT->is
 is
 
+
 Under Official -> Albums: SUBJECT 's regular edition album   OBJECT   at 320CBR and ENTITY1 
 "SUBJECT": [[ KAT-TUN | /m/06hknm ]]
 "ENTITY1": [[ FLAC | /m/0kb_c ]]
@@ -698,6 +786,7 @@ Under Official -> Albums: SUBJECT 's regular edition album   OBJECT   at 320CBR 
 SUBJECT->album->Under
 OBJECT->album->Under
 album
+
 
 You few weeks to complete that may be prescribed OBJECT , SUBJECT not think ENTITY1 is for everyone
 "SUBJECT": [[ Peabo Bryson | /m/01mhl8v ]]
@@ -707,6 +796,7 @@ SUBJECT->think
 OBJECT->prescribed->complete->weeks->think
 think
 
+
 SUBJECT will be releasing a 25th anniversary collection, entitled   OBJECT  , TOMORROW via ENTITY1 
 "ENTITY1": [[ Sanctuary | /m/0jp3k ]]
 "OBJECT": [[ RaNtologY | /m/09szqn ]]
@@ -715,12 +805,14 @@ SUBJECT->releasing
 OBJECT->entitled->collection->releasing
 releasing
 
+
 SUBJECT 's new album,   OBJECT  , is set to be released early next year
 "OBJECT": [[ The End Begins | /m/049s0hq ]]
 "SUBJECT": [[ Tantric | /m/07t0n3 ]]
 SUBJECT->album->set
 OBJECT->album->set
 album
+
 
 SUBJECT began   OBJECT ,  an old one.
 "SUBJECT": [[ 10,000 Maniacs | /m/0139nv ]]
@@ -729,12 +821,14 @@ SUBJECT->began
 OBJECT->began
 began
 
+
 When I purchased SUBJECT 's newest record OBJECT , these memories came back in deluge
 "OBJECT": [[ Transistor Radio | /m/01m44xc ]]
 "SUBJECT": [[ M.Ward | /m/01w331c ]]
 SUBJECT->OBJECT->purchased->came
 OBJECT->purchased->came
 purchased
+
 
 Dave, The SUBJECT were a surf guitar group, and the OBJECT is the name of a ENTITY1 surf break
 "OBJECT": [[ Pipeline | /m/01lprtm ]]
@@ -744,6 +838,7 @@ SUBJECT->were
 OBJECT->is->were
 were
 
+
 , SUBJECT ?s atypical jazz-flute album OBJECT , ENTITY1 and the jazz-folk stylings of Robin Dransfield.
 "ENTITY1": [[ Bert Jansch | /m/03d71f ]]
 "SUBJECT": [[ John Martyn | /m/03j35gp ]]
@@ -751,6 +846,7 @@ were
 SUBJECT
 OBJECT->s
 None
+
 
 The latest ENTITY1 and SUBJECT album, OBJECT , has received mixed reviews
 "ENTITY1": [[ Young | /m/0m2l9 ]]
@@ -760,12 +856,14 @@ SUBJECT->album->ENTITY1->received
 OBJECT->album->ENTITY1->received
 album
 
+
 OBJECT  is an album by SUBJECT .
 "SUBJECT": [[ Air | /m/01crj8 ]]
 "OBJECT": [[ Premiers Symptomes | /m/0dp6cb ]]
 SUBJECT->by->album->is
 OBJECT->is
 is
+
 
 SUBJECT 's new single,  Coming Home from Christmas  from his latest album, OBJECT features ENTITY1 of Lo...
 "SUBJECT": [[ Jim Brickman | /m/059h8y ]]
@@ -774,6 +872,7 @@ SUBJECT 's new single,  Coming Home from Christmas  from his latest album, OBJEC
 SUBJECT->single
 OBJECT->features
 None
+
 
 He came out of the store with SUBJECT s OBJECT .
 "OBJECT": [[ Yank Crime | /m/01l80cj ]]

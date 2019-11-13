@@ -6,6 +6,7 @@ SUBJECT->than->role->to->suited->is
 OBJECT->of->role->to->suited->is
 role
 
+
 SUBJECT plays OBJECT , ENTITY1 's lovable, but not quite personable sidekick
 "OBJECT": [[ Garth Algar | /m/04fw3l6 ]]
 "SUBJECT": [[ Dana Carvey | /m/0pz04 ]]
@@ -14,12 +15,14 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 Bye! Then came the Brosnan years and the role of OBJECT was given to SUBJECT 
 "SUBJECT": [[ Samantha Bond | /m/03pknm ]]
 "OBJECT": [[ Moneypenny | /m/01hk60 ]]
 SUBJECT->to->given->came
 OBJECT->of->role->given->came
 given
+
 
 SUBJECT plays OBJECT , a 14- year old ENTITY1 orphan living on the streets of ENTITY2 
 "ENTITY2": [[ Los Angeles | /m/030qb3t ]]
@@ -30,6 +33,7 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 (  ENTITY1 's  SUBJECT is bloody awful as queeny OBJECT ).
 "ENTITY1": [[ The Daily Show | /m/01j7mr ]]
 "OBJECT": [[ Uncle Arthur | /m/04g5rpy ]]
@@ -38,6 +42,7 @@ SUBJECT->is
 OBJECT->as->awful->is
 is
 
+
 Or rather the voice of the adult OBJECT from the original animated ENTITY1 film, SUBJECT 
 "SUBJECT": [[ Matthew Broderick | /m/01vlj1g ]]
 "OBJECT": [[ Simba | /m/03wjyj ]]
@@ -45,6 +50,7 @@ Or rather the voice of the adult OBJECT from the original animated ENTITY1 film,
 SUBJECT->film->from->voice
 OBJECT->of->voice
 voice
+
 
 SUBJECT returns as ENTITY1 agent OBJECT : his previous appearance in the ENTITY2 films was as the villain in 
 "SUBJECT": [[ Joe Don Baker | /m/03tl1k ]]
@@ -55,6 +61,7 @@ SUBJECT->returns->was
 OBJECT->as->returns->was
 returns
 
+
 ENTITY1 has managed to capture though not completely recreate SUBJECT 's voice for OBJECT .
 "ENTITY1": [[ Kurita | /m/0b4mj2 ]]
 "SUBJECT": [[ Yamada | /m/0b4mg_ ]]
@@ -62,6 +69,7 @@ ENTITY1 has managed to capture though not completely recreate SUBJECT 's voice f
 SUBJECT->voice->recreate->managed
 OBJECT->for->voice->recreate->managed
 voice
+
 
 SUBJECT played OBJECT on the long-running sitcom ENTITY1 
 "ENTITY1": [[ Cheers | /m/01s81 ]]
@@ -71,6 +79,7 @@ SUBJECT->played
 OBJECT->played
 played
 
+
 RM: You appeared briefly in the 1998 movie version of ENTITY1 , in which SUBJECT played OBJECT 
 "SUBJECT": [[ Lacey Chabert | /m/02k4b2 ]]
 "ENTITY1": [[ Lost in Space | /m/02p_zh3 ]]
@@ -78,6 +87,7 @@ RM: You appeared briefly in the 1998 movie version of ENTITY1 , in which SUBJECT
 SUBJECT->played->version->in->appeared
 OBJECT->played->version->in->appeared
 played
+
 
 SUBJECT makes a cameo appearance as longtime ENTITY1 buddy, ENTITY2 operative OBJECT 
 "SUBJECT": [[ Joe Don Baker | /m/03tl1k ]]
@@ -88,12 +98,14 @@ SUBJECT->makes
 OBJECT->buddy->as->appearance->makes
 makes
 
+
 SUBJECT always voiced OBJECT , right
 "SUBJECT": [[ Mel Blanc | /m/0c5vh ]]
 "OBJECT": [[ Porky Pig | /m/0dngm ]]
 SUBJECT->voiced
 OBJECT->voiced
 voiced
+
 
 ENTITY1 is hysterical as always and SUBJECT plays a fair OBJECT .
 "SUBJECT": [[ Matthew Brodrick | /m/01vlj1g ]]
@@ -103,6 +115,7 @@ SUBJECT->plays->is
 OBJECT->plays->is
 plays
 
+
 as the personal car of leading lady SUBJECT , who plays ENTITY1 's ally OBJECT
 "ENTITY1": [[ Bond | /m/03_97 ]]
 "OBJECT": [[ Camille | /m/043pxc_ ]]
@@ -110,6 +123,7 @@ as the personal car of leading lady SUBJECT , who plays ENTITY1 's ally OBJECT
 SUBJECT->of->car->as
 OBJECT->ally->plays->SUBJECT->of->car->as
 of
+
 
 OBJECT got the pass for ENTITY1 , and her aunt gave OBJECT her pass to see SUBJECT 
 "ENTITY1": [[ Chad | /m/01p1b ]]
@@ -119,6 +133,7 @@ SUBJECT->see->gave->got
 OBJECT->gave->got
 gave
 
+
 SUBJECT plays OBJECT , who has inherited the new mantle of tough-as-nails ENTITY1 .
 "ENTITY1": [[ Bond Girls | /m/01r29n ]]
 "OBJECT": [[ Camille | /m/043pxc_ ]]
@@ -126,6 +141,7 @@ SUBJECT plays OBJECT , who has inherited the new mantle of tough-as-nails ENTITY
 SUBJECT->plays->OBJECT
 OBJECT
 None
+
 
 accent, SUBJECT 's OBJECT may remind viewers of a more assertive ENTITY1 from ENTITY2 
 "ENTITY1": [[ Jessie | /m/0dr9dc ]]
@@ -136,6 +152,7 @@ SUBJECT->OBJECT->remind
 OBJECT->remind
 remind
 
+
 SUBJECT plays OBJECT , a youthful, intellectual playwright seeking to get his play staged and directed by himself.
 "SUBJECT": [[ John Cusack | /m/01gkmx ]]
 "OBJECT": [[ David Shayne | /m/0gyl37_ ]]
@@ -143,12 +160,14 @@ SUBJECT->plays->OBJECT
 OBJECT
 None
 
+
 SUBJECT plays OBJECT , the nervous accountant
 "SUBJECT": [[ Mathew Broderick | /m/01vlj1g ]]
 "OBJECT": [[ Leo Bloom | /m/02x01nt ]]
 SUBJECT->plays->OBJECT
 OBJECT
 None
+
 
 SUBJECT plays the title role in ENTITY1 ?s feature film comedy ? OBJECT ?  with ENTITY2 .
 "OBJECT": [[ Corky Romano | /m/0h5h6k5 ]]
@@ -159,6 +178,7 @@ SUBJECT->plays
 OBJECT
 None
 
+
 SUBJECT , who played OBJECT in the film, was on ENTITY1 and Kelly yesterday
 "ENTITY1": [[ Regis | /m/03f1r6t ]]
 "OBJECT": [[ Prince Edward | /m/02nwdm3 ]]
@@ -167,12 +187,14 @@ SUBJECT->was
 OBJECT->played->SUBJECT->was
 was
 
+
 - SUBJECT is the new OBJECT
 "OBJECT": [[ Jason Voorhees | /m/01wmhq ]]
 "SUBJECT": [[ Derek Mears | /m/05h41sp ]]
 SUBJECT->is
 OBJECT->is
 is
+
 
 Synopsis: SUBJECT plays OBJECT , an ENTITY1 sycophant who thinks enthusiastic use of..
 "SUBJECT": [[ Josh Hartnett | /m/01kgv4 ]]
@@ -182,6 +204,7 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 SUBJECT  plays OBJECT , the laconic and protective eldest of the first set of brothers
 "OBJECT": [[ Son Hayes | /m/0h1tdwl ]]
 "SUBJECT": [[ Michael Shannon | /m/0cjsxp ]]
@@ -189,12 +212,14 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 is to say - absolutely none... spend our first eight minutes with spazztastic OBJECT played by SUBJECT .
 "OBJECT": [[ Nomi Malone | /m/098klm0 ]]
 "SUBJECT": [[ Elizabeth Berkely | /m/01j6fq ]]
 SUBJECT->by->played->OBJECT->with->spend->is
 OBJECT->with->spend->is
 with
+
 
 SUBJECT plays OBJECT , a ENTITY1 -like columnist who is also a widower with three adorable daughters.
 "OBJECT": [[ Dan Burns | /m/04g5rq4 ]]
@@ -204,12 +229,14 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 For the 1950 release of , SUBJECT stars as OBJECT 
 "OBJECT": [[ Audrey Davis | /m/0cglykd ]]
 "SUBJECT": [[ Hayden Panettiere | /m/02jyhv ]]
 SUBJECT->stars
 OBJECT->as->stars
 stars
+
 
 ENTITY1 replaced SUBJECT , which SUBJECT Originally Played OBJECT in the last Four Friday the 13th Series
 "SUBJECT": [[ Hodder | /m/033xr_ ]]
@@ -220,6 +247,7 @@ SUBJECT->SUBJECT->replaced
 OBJECT->SUBJECT->SUBJECT->replaced
 SUBJECT
 
+
 (also called  Pants Parties  after a quote from SUBJECT 's character OBJECT in the film ENTITY1 )
 "ENTITY1": [[ The Legend of Ron Burgundy | /m/034qzw ]]
 "SUBJECT": [[ Steve Carell | /m/04t2l2 ]]
@@ -227,6 +255,7 @@ SUBJECT
 SUBJECT->OBJECT->from->quote->after->called
 OBJECT->from->quote->after->called
 from
+
 
 ? SUBJECT ?s character, OBJECT , is half ENTITY1 and half ENTITY2 .
 "ENTITY1": [[ Ukrainian | /m/07t21 ]]
@@ -237,6 +266,7 @@ SUBJECT
 OBJECT->character->is
 None
 
+
 SUBJECT became known to millions of television viewers as OBJECT in the hit ENTITY1 series ENTITY2 
 "ENTITY2": [[ Cheers | /m/01s81 ]]
 "ENTITY1": [[ NBC | /m/05gnf ]]
@@ -246,6 +276,7 @@ SUBJECT->known
 OBJECT->as->millions->to->known
 known
 
+
 SUBJECT plays the OBJECT as a watchdog but rather, as ENTITY1 grows more renascent, increase it.
 "OBJECT": [[ Miriam | /m/0bqx7bm ]]
 "SUBJECT": [[ Binoche | /m/0fbx6 ]]
@@ -253,6 +284,7 @@ SUBJECT plays the OBJECT as a watchdog but rather, as ENTITY1 grows more renasce
 SUBJECT->plays
 OBJECT->plays
 plays
+
 
 ENTITY1 was a popular radio show and moved easily onto camera with SUBJECT replacing ENTITY2 as OBJECT 
 "ENTITY1": [[ Gunsmoke | /m/017j6t ]]
@@ -263,6 +295,7 @@ SUBJECT->replacing->ENTITY2->with->moved->was
 OBJECT->as->moved->was
 moved
 
+
 Mr. Lawson's looks and acting choices both reminded me of SUBJECT playing OBJECT in   ENTITY1 . 
 "OBJECT": [[ Uncle Ernie | /m/0n3hvsn ]]
 "ENTITY1": [[ Tommy | /m/01kn0l7 ]]
@@ -271,6 +304,7 @@ SUBJECT->OBJECT->of->reminded
 OBJECT->of->reminded
 of
 
+
 The unsung comic hero of ENTITY1 is SUBJECT who plays OBJECT , the weatherman with an IQ of 40
 "OBJECT": [[ Brick | /m/02nwrvg ]]
 "SUBJECT": [[ Steve Carell | /m/04t2l2 ]]
@@ -278,6 +312,7 @@ The unsung comic hero of ENTITY1 is SUBJECT who plays OBJECT , the weatherman wi
 SUBJECT->is
 OBJECT->plays->SUBJECT->is
 is
+
 
 OBJECT and ENTITY1 and ENTITY2 creator SUBJECT was in buying recording software when the receptionist started talking to him
 "ENTITY1": [[ Butthead | /m/025t53n ]]
@@ -288,12 +323,14 @@ SUBJECT->ENTITY1->OBJECT->was
 OBJECT->was
 was
 
+
 (and SUBJECT , the voice of OBJECT , to play OBJECT )
 "OBJECT": [[ Elmer Fudd | /m/0mz80 ]]
 "SUBJECT": [[ Arthur Q. Bryan | /m/01hkg9 ]]
 SUBJECT->(
 OBJECT->play->SUBJECT->(
 (
+
 
 Also in 2006, SUBJECT played   OBJECT   in ENTITY1 's acclaimed thriller ENTITY2 .
 "SUBJECT": [[ Kurylenko | /m/0266c36 ]]
@@ -304,6 +341,7 @@ SUBJECT->played
 OBJECT->played
 played
 
+
 SUBJECT won a ENTITY1 for the play and reprised the role of OBJECT in   ENTITY2  .
 "SUBJECT": [[ Matthew Broderick | /m/01vlj1g ]]
 "ENTITY2": [[ Biloxi Blues | /m/05pdfp6 ]]
@@ -312,6 +350,7 @@ SUBJECT won a ENTITY1 for the play and reprised the role of OBJECT in   ENTITY2 
 SUBJECT->won
 OBJECT->of->role->reprised->won
 won
+
 
 SUBJECT plays OBJECT , journeying to ENTITY1 with his wife ENTITY2  to claim his deceased father's body.
 "OBJECT": [[ Christoffer | /m/0h39rcb ]]
@@ -322,6 +361,7 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 SUBJECT  plays impetuous OBJECT , a young girl who heads into ENTITY1
 "SUBJECT": [[ Elizabeth Berkley | /m/01j6fq ]]
 "OBJECT": [[ Nomi Malone | /m/098klm0 ]]
@@ -330,12 +370,14 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
  In no way is OBJECT a martial-arts character,  SUBJECT said.
 "OBJECT": [[ Jason | /m/01wmhq ]]
 "SUBJECT": [[ Mears | /m/05h41sp ]]
 SUBJECT->said
 OBJECT->is->said
 said
+
 
 SUBJECT portrays the character of OBJECT in ENTITY1 .
 "OBJECT": [[ Camille | /m/043pxc_ ]]
@@ -344,6 +386,7 @@ SUBJECT portrays the character of OBJECT in ENTITY1 .
 SUBJECT->portrays
 OBJECT->of->character->portrays
 portrays
+
 
 First of all, SUBJECT played OBJECT , ENTITY1 ? niece in ENTITY2 and 5
 "SUBJECT": [[ Harris | /m/02gylv ]]
@@ -354,12 +397,14 @@ SUBJECT->played
 OBJECT->played
 played
 
+
 OBJECT played by SUBJECT is a restless man bored with his marriage
 "SUBJECT": [[ Keith Carradine | /m/03lmzl ]]
 "OBJECT": [[ John Lacklan | /m/0ngq3cq ]]
 SUBJECT->by->played->OBJECT->is
 OBJECT->is
 is
+
 
 SUBJECT portrayed young OBJECT in the original ENTITY1 (1980)
 "OBJECT": [[ Jason | /m/01wmhq ]]
@@ -369,12 +414,14 @@ SUBJECT->portrayed
 OBJECT->portrayed
 portrayed
 
+
 October 03, 2003 :: The New Actors & Actresses: The voice of OBJECT will be SUBJECT
 "SUBJECT": [[ Han Keiko | /m/03bdbl ]]
 "OBJECT": [[ Luna | /m/01h2s2 ]]
 SUBJECT->be
 OBJECT->of->voice->be
 be
+
 
 SUBJECT is the voice of OBJECT in ENTITY1 and I just love OBJECT - he's so funny and cute!
 "OBJECT": [[ Hammy | /m/02vkm9d ]]
@@ -384,6 +431,7 @@ SUBJECT->is
 OBJECT->love
 None
 
+
 And yeah, SUBJECT wasn?t the best OBJECT , even though I do love SUBJECT .
 "SUBJECT": [[ Tom Hanks | /m/0bxtg ]]
 "SUBJECT": [[ Tom | /m/0bxtg ]]
@@ -391,6 +439,7 @@ And yeah, SUBJECT wasn?t the best OBJECT , even though I do love SUBJECT .
 SUBJECT->love->yeah
 OBJECT->yeah
 yeah
+
 
 SUBJECT stars as OBJECT , a happy-go-lucky, decent sort of chap, engaged to ENTITY1 .
 "SUBJECT": [[ Jason Lee | /m/034np8 ]]
@@ -400,6 +449,7 @@ SUBJECT->stars->engaged
 OBJECT->as->stars->engaged
 stars
 
+
 ENTITY1 as OBJECT is a considerable improvement over SUBJECT , the original Pea Eye
 "ENTITY1": [[ Sam Shepard | /m/016yzz ]]
 "SUBJECT": [[ Tim Scott | /m/0bq9y5p ]]
@@ -408,6 +458,7 @@ SUBJECT->over->improvement->is
 OBJECT->is
 is
 
+
 SUBJECT ponders OBJECT 's role in the family:   OBJECT is the rebel
 "SUBJECT": [[ Chabert | /m/02k4b2 ]]
 "OBJECT": [[ Penny | /m/0gm0ftq ]]
@@ -415,12 +466,14 @@ SUBJECT->ponders->is
 OBJECT->role->is
 is
 
+
 Then there is another aspiring doctor, OBJECT played by SUBJECT 
 "SUBJECT": [[ Robert Mitchum | /m/0m0hw ]]
 "OBJECT": [[ Lucas Marsh | /m/0h2hdc9 ]]
 SUBJECT->by->played->OBJECT->doctor->is
 OBJECT->doctor->is
 doctor
+
 
 SUBJECT carried ENTITY1 , and OBJECT will carry ENTITY2 
 "OBJECT": [[ Jacob | /m/0c1sgkp ]]
@@ -431,6 +484,7 @@ SUBJECT
 OBJECT->carry->carried->SUBJECT
 None
 
+
 SUBJECT plays OBJECT , the defecting ENTITY1 agent
 "SUBJECT": [[ Lotte Lenya | /m/01vcfq ]]
 "OBJECT": [[ Rosa Klebb | /m/05p43l ]]
@@ -438,6 +492,7 @@ SUBJECT plays OBJECT , the defecting ENTITY1 agent
 SUBJECT->plays
 OBJECT->plays
 plays
+
 
 SUBJECT portrays the fictional   OBJECT  , a ENTITY1 survivor. .
 "OBJECT": [[ Max Feldman | /m/0h332zg ]]
@@ -447,12 +502,14 @@ SUBJECT->portrays
 OBJECT->portrays
 portrays
 
+
 SUBJECT is hilarious as OBJECT 
 "OBJECT": [[ Prince Edward | /m/02nwdm3 ]]
 "SUBJECT": [[ James Marsden | /m/042ly5 ]]
 SUBJECT->is
 OBJECT->as->hilarious->is
 is
+
 
 Playing  two roles , SUBJECT is wonderful as OBJECT and in his shy, virgin-like disguise as  Dr
 "SUBJECT": [[ Rock Hudson | /m/015dcj ]]
@@ -461,12 +518,14 @@ SUBJECT->is
 OBJECT->as->wonderful->is
 is
 
+
 ( SUBJECT , who looks an awful lot like OBJECT ).
 "OBJECT": [[ Narang | /m/0h5v87t ]]
 "SUBJECT": [[ Kamal Kapoor | /m/0gc0x6x ]]
 SUBJECT
 OBJECT->like->lot->looks->SUBJECT
 None
+
 
 Voices are by SUBJECT , except OBJECT was voiced by ENTITY1 .
 "OBJECT": [[ Elmer | /m/0mz80 ]]
@@ -476,6 +535,7 @@ SUBJECT->by->are->voiced
 OBJECT->except->are->voiced
 are
 
+
 Although OBJECT is SUBJECT
 "SUBJECT": [[ Sedaris | /m/024rx_ ]]
 "OBJECT": [[ Jerri Blank | /m/02_xmr8 ]]
@@ -483,12 +543,14 @@ SUBJECT->is
 OBJECT->is
 is
 
+
 SUBJECT plays OBJECT and I thought she looked over tanned.
 "OBJECT": [[ Camille | /m/043pxc_ ]]
 "SUBJECT": [[ Olga Kurylenko | /m/0266c36 ]]
 SUBJECT->plays
 OBJECT->plays
 plays
+
 
 As a matter of fact, ENTITY1 recommended SUBJECT for the role of OBJECT 
 "OBJECT": [[ Matt Dillon | /m/06mb_y ]]
@@ -498,6 +560,7 @@ SUBJECT->recommended
 OBJECT->of->role->for->recommended
 recommended
 
+
 Bye! Then came the ENTITY1 years and the role of OBJECT was given to SUBJECT 
 "SUBJECT": [[ Samantha Bond | /m/03pknm ]]
 "OBJECT": [[ Moneypenny | /m/01hk60 ]]
@@ -506,12 +569,14 @@ SUBJECT->to->given->came
 OBJECT->of->role->given->came
 given
 
+
 SUBJECT is also amusing as OBJECT , the retarded sports reporter on the news show.
 "SUBJECT": [[ Steve Carell | /m/04t2l2 ]]
 "OBJECT": [[ Brick Tamland | /m/02nwrvg ]]
 SUBJECT->is
 OBJECT->as->amusing->is
 is
+
 
 SUBJECT plays OBJECT , journeying to...
 "OBJECT": [[ Christoffer | /m/0h39rcb ]]
@@ -520,12 +585,14 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 SUBJECT plays OBJECT , a widowed parenting advice columnist with three daughters.
 "OBJECT": [[ Dan Burns | /m/04g5rq4 ]]
 "SUBJECT": [[ Steve Carell | /m/04t2l2 ]]
 SUBJECT->plays->OBJECT
 OBJECT
 None
+
 
 I also loved SUBJECT as ENTITY1 yuppie OBJECT 
 "OBJECT": [[ Frank Slaughtery | /m/0gkknfn ]]
@@ -535,6 +602,7 @@ SUBJECT->loved
 OBJECT->as->loved
 loved
 
+
 Unfortunately, SUBJECT plays OBJECT .
 "OBJECT": [[ Tom | /m/0gyd18c ]]
 "SUBJECT": [[ Josh Hartnett | /m/01kgv4 ]]
@@ -542,12 +610,14 @@ SUBJECT->plays
 OBJECT->plays
 plays
 
+
 SUBJECT plays OBJECT , the leader of Team Daedalus, now a retired engineer
 "SUBJECT": [[ Eastwood | /m/0bwh6 ]]
 "OBJECT": [[ Frank Corvin | /m/0btn070 ]]
 SUBJECT->plays->OBJECT
 OBJECT
 None
+
 
 ENTITY1 is strong as the new   ENTITY2  , but SUBJECT seems too cutesy and lacks substance as OBJECT .
 "ENTITY2": [[ M | /m/01lxy7 ]]
@@ -558,6 +628,7 @@ SUBJECT->seems->is
 OBJECT->as->lacks->seems->is
 seems
 
+
 ENTITY1 played ENTITY2 during SUBJECT 's time as OBJECT and is of my generation, BUT...
 "ENTITY2": [[ Miss Moneypenny | /m/01hk60 ]]
 "OBJECT": [[ Agent 007 | /m/0clpml ]]
@@ -567,12 +638,14 @@ SUBJECT->time->during->played
 OBJECT->as->time->during->played
 time
 
+
 ( OBJECT will still be played by SUBJECT ).
 "SUBJECT": [[ Tom Hanks | /m/0bxtg ]]
 "OBJECT": [[ Robert Langdon | /m/02ghwh ]]
 SUBJECT->by->played
 OBJECT->played
 played
+
 
 SUBJECT is perfect as OBJECT , an aspiring director
 "SUBJECT": [[ Matthew Broderick | /m/01vlj1g ]]
@@ -581,6 +654,7 @@ SUBJECT->is
 OBJECT->as->perfect->is
 is
 
+
 Nothing against ENTITY1 , but I believe SUBJECT was the ultimate OBJECT .
 "OBJECT": [[ Jason | /m/01wmhq ]]
 "SUBJECT": [[ Kane Hodder | /m/033xr_ ]]
@@ -588,6 +662,7 @@ Nothing against ENTITY1 , but I believe SUBJECT was the ultimate OBJECT .
 SUBJECT->was->believe->Nothing
 OBJECT->was->believe->Nothing
 was
+
 
 OBJECT and ENTITY1 and ENTITY2 creator SUBJECT was in buying recording software when the receptionist started talking to him.
 "ENTITY1": [[ Butthead | /m/025t53n ]]
@@ -598,6 +673,7 @@ SUBJECT->ENTITY1->OBJECT->was
 OBJECT->was
 was
 
+
 SUBJECT returns as OBJECT in the film that also lifted from the works of ENTITY1 novel is.
 "SUBJECT": [[ Tom Hanks | /m/0bxtg ]]
 "OBJECT": [[ Robert Langdon | /m/02ghwh ]]
@@ -605,6 +681,7 @@ SUBJECT returns as OBJECT in the film that also lifted from the works of ENTITY1
 SUBJECT->returns->is
 OBJECT->as->returns->is
 returns
+
 
 SUBJECT also garnered an ENTITY1 nomination for his role as football star OBJECT in the original   ENTITY2 . 
 "ENTITY2": [[ Brian's Song | /m/07kd1n5 ]]
@@ -615,6 +692,7 @@ SUBJECT->garnered
 OBJECT->as->role->for->nomination->garnered
 garnered
 
+
 SUBJECT plays OBJECT , the new ENTITY1
 "OBJECT": [[ Camille | /m/043pxc_ ]]
 "SUBJECT": [[ Olga Kurylenko | /m/0266c36 ]]
@@ -623,12 +701,14 @@ SUBJECT->plays->OBJECT
 OBJECT
 None
 
+
 OBJECT is played by SUBJECT in .
 "OBJECT": [[ Camille Montes | /m/043pxc_ ]]
 "SUBJECT": [[ Olga Kurylenko | /m/0266c36 ]]
 SUBJECT->by->played
 OBJECT->played
 played
+
 
 ENTITY1 is hysterical as always and SUBJECT plays a fair OBJECT 
 "SUBJECT": [[ Matthew Brodrick | /m/01vlj1g ]]
@@ -638,6 +718,7 @@ SUBJECT->plays->is
 OBJECT->plays->is
 plays
 
+
 And back when she first got the renewed OBJECT role, SUBJECT would have made an interesting ENTITY1 
 "ENTITY1": [[ Westbrook | /m/0gxtqg ]]
 "SUBJECT": [[ Samantha Bond | /m/03pknm ]]
@@ -646,6 +727,7 @@ SUBJECT->made
 OBJECT->role->got->made
 made
 
+
 SUBJECT channeled ENTITY1 as OBJECT in the movie and it was a standout performance
 "SUBJECT": [[ Carell | /m/04t2l2 ]]
 "ENTITY1": [[ Paul Lynde | /m/0fpx9 ]]
@@ -653,6 +735,7 @@ SUBJECT channeled ENTITY1 as OBJECT in the movie and it was a standout performan
 SUBJECT->channeled
 OBJECT->as->channeled
 channeled
+
 
 ENTITY1 actor SUBJECT , better known as OBJECT from the popular ENTITY2 movies, apparently has tax problems in ENTITY3 
 "ENTITY1": [[ Australian | /m/0chghy ]]
@@ -664,6 +747,7 @@ SUBJECT->has
 OBJECT->as->known->SUBJECT->has
 has
 
+
 SUBJECT is the aptly-named actress who takes over the role of ENTITY1 's able assistant OBJECT 
 "ENTITY1": [[ M | /m/01lxy7 ]]
 "SUBJECT": [[ SAMANTHA BOND | /m/03pknm ]]
@@ -671,6 +755,7 @@ SUBJECT is the aptly-named actress who takes over the role of ENTITY1 's able as
 SUBJECT->is
 OBJECT->of->role->takes->actress->is
 is
+
 
 OBJECT played by SUBJECT appears in ENTITY1 and ENTITY2 
 "SUBJECT": [[ Robbie Coltrane | /m/06ltr ]]
@@ -681,12 +766,14 @@ SUBJECT->by->played->OBJECT->appears
 OBJECT->appears
 appears
 
+
 SUBJECT plays OBJECT , a newspaper columnist who writes about fami...
 "OBJECT": [[ Dan Burns | /m/04g5rq4 ]]
 "SUBJECT": [[ Carell | /m/04t2l2 ]]
 SUBJECT->plays->OBJECT
 OBJECT
 None
+
 
 The upcoming re-imagining of OBJECT stars SUBJECT 
 "OBJECT": [[ Jason Voorhees | /m/01wmhq ]]
@@ -695,12 +782,14 @@ SUBJECT->of->imagining
 OBJECT->stars->SUBJECT->of->imagining
 of
 
+
 On the other hand, the beautiful SUBJECT plays a stunning OBJECT who is tough-as-nails
 "SUBJECT": [[ Kurylenko | /m/0266c36 ]]
 "OBJECT": [[ Camille | /m/043pxc_ ]]
 SUBJECT->plays
 OBJECT->plays
 plays
+
 
   SUBJECT returns as OBJECT in this second sequel to the hit 1986 fish-out-of-water comedy.
 "SUBJECT": [[ Paul Hogan | /m/033b_b ]]
@@ -709,12 +798,14 @@ SUBJECT->returns
 OBJECT->as->returns
 returns
 
+
 In case you havent met her, this is SUBJECT , who plays OBJECT in the movie.
 "OBJECT": [[ Camille | /m/043pxc_ ]]
 "SUBJECT": [[ Olga Kurylenko | /m/0266c36 ]]
 SUBJECT->is
 OBJECT->plays->SUBJECT->is
 is
+
 
 SUBJECT stars as OBJECT .
 "OBJECT": [[ Jason Voorhees | /m/01wmhq ]]
@@ -723,12 +814,14 @@ SUBJECT->stars
 OBJECT->as->stars
 stars
 
+
 6) Veteran voice actor SUBJECT was the voice of OBJECT .
 "OBJECT": [[ Barney Rubble | /m/05695w ]]
 "SUBJECT": [[ Mel Blanc | /m/0c5vh ]]
 SUBJECT->was
 OBJECT->of->voice->was
 was
+
 
 film stars SUBJECT as idealistic ENTITY1 leader OBJECT
 "ENTITY1": [[ IRA | /m/03t3s ]]
@@ -738,6 +831,7 @@ SUBJECT->stars
 OBJECT->as->stars
 stars
 
+
 Meanwhile, ENTITY1 has a scoop that states SUBJECT will play The OBJECT .
 "ENTITY1": [[ Film School Rejects | /m/0n4bqcz ]]
 "OBJECT": [[ Blob | /m/027ykr ]]
@@ -746,12 +840,14 @@ SUBJECT->states->scoop->has
 OBJECT->play->has
 has
 
+
 (as SUBJECT dressed as OBJECT ).
 "SUBJECT": [[ Amy | /m/024rx_ ]]
 "OBJECT": [[ Jerri | /m/02_xmr8 ]]
 SUBJECT->as
 OBJECT->as->dressed->SUBJECT->as
 as
+
 
 (  ENTITY1 ,    ENTITY2  ). ( SUBJECT gives OBJECT the uneducated accent of  Absolutely Fabulous's  Bubble)
 "ENTITY1": [[ Notting Hill | /m/01cz7r ]]
@@ -762,6 +858,7 @@ SUBJECT->gives
 OBJECT->gives
 gives
 
+
 OBJECT played by SUBJECT is the first and main ENTITY1 in ENTITY2 
 "ENTITY2": [[ For Your Eyes Only | /m/0g5pv3 ]]
 "OBJECT": [[ Melina Havelock | /m/0bbd7c ]]
@@ -771,6 +868,7 @@ SUBJECT->by->played->OBJECT->is
 OBJECT->is
 is
 
+
 spazztastic OBJECT played by SUBJECT .. STILLS: More Lost Odyssey video game stills for the ENTITY1 ..
 "OBJECT": [[ Nomi Malone | /m/098klm0 ]]
 "SUBJECT": [[ Elizabeth Berkely | /m/01j6fq ]]
@@ -779,6 +877,7 @@ SUBJECT->by->played->OBJECT
 OBJECT
 None
 
+
 In the movie the ENTITY1 is driven by OBJECT , the beautiful but feisty leading lady, played by SUBJECT 
 "SUBJECT": [[ Olga Kurylenko | /m/0266c36 ]]
 "OBJECT": [[ Camille | /m/043pxc_ ]]
@@ -786,4 +885,5 @@ In the movie the ENTITY1 is driven by OBJECT , the beautiful but feisty leading 
 SUBJECT->by->played->OBJECT->by->driven
 OBJECT->by->driven
 by
+
 
