@@ -1,33 +1,34 @@
 import glob
 import json
 import os
-import re
 import sys
-from random import sample
-
+import re
+import os
 import spacy
+import random
 from spacy import *
+from random import sample
 
 nlp = spacy.load("en_core_web_sm")
 
-
-# store information about sampled sentences in a relation
+#A class to store all the information for each sentence
 class SentenceInformation:
-    """docstring for SentenceInformation"""
+
 
     def __init__(self, modified_sentence, mappings, subject_path, object_path, LCA):
-        self.modified_sentence = modified_sentence    # modified sentence after preprocessing
-        self.mappings = mappings    # mapping of replaced entity_tags and placeholders
-        self.subject_path = subject_path    # subject entity of the sentence
-        self.object_path = object_path      # object entity of the sentence
-        self.LCA = LCA              # Least common ancestor of the subject and object
+        self.modified_sentence = modified_sentence
+        self.mappings = mappings
+        self.subject_path = subject_path
+        self.object_path = object_path
+        self.LCA = LCA
 
 
-# find paths of subject and object in a sentence parsing tree
 def find_paths(sentence):
+    
 
-    sentence = nlp(sentence)
+    sentence = nlp(sentence) #Builds the dependency tree. 
 
+    #Take the subject token into variable "a" and the object token into variable "b"
     for x in sentence:
 
         if (x.text == "SUBJECT"):
@@ -40,25 +41,28 @@ def find_paths(sentence):
 
     subject_path = []
 
+    #subject path starts with "SUBJECt"
     subject_path.append("SUBJECT")
 
     object_path = []
 
+    #object path starts with "OBJECT"
     object_path.append("OBJECT")
 
+    #Traverse the tokens of a sentence to find the "SUBJECT" token
     while i < len(sentence):
 
-        if (sentence[i] == a):
+        if (sentence[i] == a): #If we find the subject token
 
-            a_head = sentence[i].head
+            a_head = sentence[i].head #Go to it's head. That will be the next token in the path
 
-            if (a == a_head):
+            if (a == a_head): #If head is equal to the token itself, that means the token is the root.
 
-                break
+                break #So we stop here
 
             else:
 
-                subject_path.append(a_head.text)
+                subject_path.append(a_head.text) #otherwise add the token to subject path
 
             a = a_head
 
@@ -69,19 +73,21 @@ def find_paths(sentence):
             i += 1
 
     i = 0
+
+    #Traverse the tokens of a sentence to find the "OBJECT" token
     while i < len(sentence):
 
-        if (sentence[i] == b):
+        if (sentence[i] == b): #if we find the object token
 
-            b_head = sentence[i].head
+            b_head = sentence[i].head #go to its head. That will be the next token in the path 
 
-            if (b == b_head):
+            if (b == b_head): #if the head is equal to the token itself, that means token is the root
 
-                break
+                break #so we stop here
 
             else:
 
-                object_path.append(b_head.text)
+                object_path.append(b_head.text) #otherwise add the token to object path
 
             b = b_head
 
@@ -94,14 +100,16 @@ def find_paths(sentence):
     return subject_path, object_path
 
 
+
+
 def find_LCA(subject_path, object_path):
     LCA = None
 
-    for x in range(1, len(subject_path)):
+    for x in range(1, len(subject_path)): #we start from the 2nd element of the path. Because 1st element is "SUBJECT"
 
-        for y in range(1, len(object_path)):
+        for y in range(1, len(object_path)): #similarly for object, we start from the 2nd element of the path
 
-            if (subject_path[x] == object_path[y]):
+            if (subject_path[x] == object_path[y]): #the first match is the LCA
                 LCA = subject_path[x]
                 return LCA
 
@@ -110,14 +118,11 @@ def find_LCA(subject_path, object_path):
 
 # get file name excluding extension
 def get_file_name_excluding_extension(file_path):
-    # for windows machine only, replace '\' with '/' in file path
+    # for windows machine
     file_path = file_path.replace("\\", '/')
 
-    # if file path doesn't contain '/' then get the file name after splitting using '.'
     if file_path.find('/') == -1:
         filename_without_ext = file_path.rsplit('.', 1)[0]
-
-    # if file path contains '/' then split the file name using '/' first and then using '.'
     else:
         filename = file_path.rsplit('/', 1)[1]
         filename_without_ext = filename.rsplit('.', 1)[0]
@@ -125,18 +130,16 @@ def get_file_name_excluding_extension(file_path):
     return filename_without_ext
 
 
-# replace entity_tags with placeholders
+# replace '[[ Natural Gas | /m/05k4k ]]' with 'Natural Gas' and get all the mappings
 def pre_process(sentence, subject_tag, object_tag):
+   
 
     mappings = []
 
-    # pattern to find entity 'Natural Gas' from '[[ Natural Gas | /m/05k4k ]]'
-    entity_pattern = "\[\[\s*(.+?)\s+\|.+?\]\]"
+    entity_pattern = "\[\[\s*(.+?)\s+\|.+?\]\]" #pattern to find all the entities
     entities = re.findall(entity_pattern, sentence)
 
-    # pattern to find tag '/m/05k4k' from '[[ Natural Gas | /m/05k4k ]]'
-    tag_pattern = "\[\[\s*.+?\s+\|\s+(.+?)\s+\]\]"
-
+    tag_pattern = "\[\[\s*.+?\s+\|\s+(.+?)\s+\]\]" #patter to find all the tags
     tags = re.findall(tag_pattern, sentence)
 
     modified_sentence = sentence
@@ -145,11 +148,13 @@ def pre_process(sentence, subject_tag, object_tag):
 
     entity_count = 0
 
+    #iterate over all the tags
     for x in range(0, len(tags)):
 
-        entity = entities[x]
+        entity = entities[x] #get the corresponding entity of the tag
 
         tag = tags[x]
+        
 
         # escape special characters in entity string
         escaped_entity = re.escape(entity)
@@ -160,21 +165,23 @@ def pre_process(sentence, subject_tag, object_tag):
         # pattern to find '[[ Natural Gas | /m/05k4k ]]' for entity 'Natural Gas' and tag '/m/05k4k'
         pattern = "\[\[\s*" + escaped_entity + "\s+\|\s+" + escaped_tag + "\s+\]\]"
 
-        find = re.findall(pattern, sentence)
+        find = re.findall(pattern, sentence) #actually we will get only 1 match, as we are checking entity,tag pairs
 
-        if (tag == subject_tag):
+        if (tag == subject_tag): #if the tag matches the subject tag. then we replace the pattern match with "SUBJECT"
 
             modified_sentence = re.sub(pattern, "SUBJECT", modified_sentence)
 
             mappings.append(tuple((find[0], "SUBJECT")))
 
-        elif (tag == object_tag):
+        elif (tag == object_tag): #if the tag matches the object tag. then we replace the pattern match with "OBJECT"
 
             modified_sentence = re.sub(pattern, "OBJECT", modified_sentence)
 
             mappings.append(tuple((find[0], "OBJECT")))
 
-        else:
+
+        
+        else: #otherwise we replace the pattern match with ENTITY1, ENTITY2, ENTITY3 etc
             modified_sentence = re.sub(pattern, "ENTITY" + str(count), modified_sentence)
 
             mappings.append(tuple((find[0], "ENTITY" + str(count))))
@@ -188,17 +195,23 @@ def pre_process(sentence, subject_tag, object_tag):
     return modified_sentence, mappings
 
 
-# write information regarding each sentence to output file
 def write_output(output_file, data):
+
     f = open(output_file, "w")
 
+    #data is a list of objects. We iterate over the objects
     for each in data:
 
-        f.write(each.modified_sentence + "\n")
+        
 
+        f.write(each.modified_sentence + "\n") #First we write the modified sentence
+
+        #Then writes the mappings between actual entities and their surrogates
         for mapping in each.mappings:
             f.write("\"" + mapping[1] + "\": " + mapping[0] + "\n")
 
+
+        #Then we write the path from subject to root
         for x in range(0, len(each.subject_path)):
 
             if (x != len(each.subject_path) - 1):
@@ -212,6 +225,7 @@ def write_output(output_file, data):
 
         f.write("\n")
 
+        #Then we write the path from object to root
         for y in range(0, len(each.object_path)):
 
             if (y != len(each.object_path) - 1):
@@ -224,77 +238,81 @@ def write_output(output_file, data):
 
         f.write("\n")
 
+        #If the LCA is None (when subject/object is the root), then we write None
         if (each.LCA == None):
 
             f.write("None")
 
+        #Otherwise we write the LCA
         else:
 
             f.write(each.LCA)
 
-        f.write("\n\n")
+        f.write("\n\n\n") #One new line and two blank lines
 
+        
 
 def main():
-
-    # get data folder path from sys arg or user
     if len(sys.argv) == 1:
         data_folder_path = input("Enter Folder Path of data files: ")
 
     else:
         data_folder_path = sys.argv[1]
 
-    # create 'runs' folder if not exists for output
-    if not os.path.exists("runs"):
-        os.mkdir("runs")
+    if not os.path.exists("runs"): #if a folder called runs does not exist
+        os.mkdir("runs") #make a folder called runs
 
-    # process each relation one by one
-    for filename in glob.glob(os.path.join(data_folder_path, "*.json")):
+    for filename in glob.glob(os.path.join(data_folder_path, "*.json")): #iterate over files in the data folder
 
-        # get output file path
-        output_file_path = "runs/" + get_file_name_excluding_extension(filename) + ".txt"
+        output_file_path = "runs/" + get_file_name_excluding_extension(filename) + ".txt" #output file name
 
         sentence_info_list = []
 
         with open(filename) as f:
 
-            # load json data from file
-            json_data = json.load(f)
+            json_data = json.load(f) #reads all the json data in a file
 
-            # take random sample of 100 sentences
-            json_data = sample(json_data, 100)
+            json_data = sample (json_data, 100) #Takes 100 random samples from the json data
 
-            # process each sentence in the sample
             for each_data in json_data:
+
                 sentence = each_data['sentence']
                 pair = each_data['pair']
 
                 subject = pair['subject']
 
+                subject_name = subject['name']
+
                 subject_tag = subject['mid']
 
                 object = pair['object']
 
+                object_name = object['name']
+
                 object_tag = object['mid']
 
-                # replace entity tags in the sentence
+                relation = each_data['relation']
+                
+
+                # remove entity tags from each sentence
                 modified_sentence, mappings = pre_process(sentence, subject_tag, object_tag)
 
-                # find path for subject and object in the tree
+
+                #Finds the paths from subject to root, and object to root
                 subject_path, object_path = find_paths(modified_sentence)
 
-                # find least common ancestor for the subject and object
+                #Finds the LCA of subject and object
                 LCA = find_LCA(subject_path, object_path)
 
-                # store information about preprocessed sentence, entity mappings, subject and object path, and lca
+                #Forms a class object with all the gathered information
                 sentence_info = SentenceInformation(modified_sentence, mappings, subject_path, object_path, LCA)
 
+                #The class object is appended to a list of objects
                 sentence_info_list.append(sentence_info)
 
-            f.close()
+            f.close() #Close the file after 1 file is done
 
-            # write information about the sampled sentences in a relation in the output file
-            write_output(output_file_path, sentence_info_list)
+            write_output(output_file_path, sentence_info_list) #writes output for 1 file
 
 
 if __name__ == "__main__":
